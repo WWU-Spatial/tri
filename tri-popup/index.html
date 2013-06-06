@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- All SS will get compiled into one file at production time -->
+		<link rel="stylesheet" href="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/css/jquery-ui-1.10.3.core.css" />
+		<link rel="stylesheet" href="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/css/jquery-ui-1.10.3.widgets.css" />
+		<link rel="stylesheet" href="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/css/jquery-ui-1.10.3.tabs.css" />
+		<!-- <link rel="stylesheet" href="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/css/info_widget.css" /> -->
+
+		<!-- All JS will get compiled into one file at production time -->
+		<script type="text/javascript" src="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/js/jquery-1.10.0.js"></script>
+		<script type="text/javascript" src="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/js/jquery-ui-1.10.3.core.js"></script>
+		<script type="text/javascript" src="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/js/jquery-ui-1.10.3.widget.js"></script>
+		<script type="text/javascript" src="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/js/jquery-ui-1.10.3.tabs.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		
+		<style>
+			#facility_tabs{
+			width: 325px;
+			height:400px;
+			border: 1px solid red;
+			font-size: 0.8em;
+			}
+				
+			#chemicalYearToggle {
+				height: 20px;
+				text-align: center;
+				padding: 5px;
+				font-size: 1.3em;
+			}
+			
+			.graph {
+				width: 300px;
+				height: 150px;
+				border: 1px dashed blue;
+				margin-left: auto;
+				margin-right: auto;
+				clear: both;
+				margin-top: 7px;
+				margin-bottom: 7px;
+			}
+			
+			.list {
+				height: 324px;
+				overflow-y: auto;
+			}
+			
+			.chemical_row{
+				line-height: 1.4em;
+				margin: 0.5em 0.2em;
+				padding: 0.3em;
+				border: 1px solid #eee;
+			}
+			
+			.chemical_row:hover {
+				background-color: #F8F8F8;
+				cursor: pointer;
+			}
+			
+			.noChart{
+				width: 100%;
+				text-align: center;
+				height: 100%;
+				line-height: 140px;
+				font-size: 20px;
+				margin: 0 auto;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="facility_tabs">
+			<ul>
+				<li>
+					<a href="#general_tab">General</a>
+				</li>
+				<li>
+					<a href="#chemical_tab">Chemical</a>
+				</li>
+				<li>
+					<a href="#industry_tab">Industry</a>
+				</li>
+			</ul>
+			<div id="general_tab" class="tab">
+				<div id="info_title">
+					<strong></strong>
+				</div>
+				<div class='graph'></div>
+				<div id='info_industry'></div>
+				<div id='info_address'></div>
+				<div id='info_contact'></div>
+				<div class="zoom_to">
+					Zoom to Facility
+				</div>
+			</div>
+			<div id="chemical_tab" >
+				<div id="chemicalYearToggle" >
+					<- 2010 ->
+				</div>
+				<div id="chemicalList" class="list"></div>
+			</div>
+			<div id="industry_tab" class="tab"></div>
+		</div>
+
+		<script>
+			(function() {
+				app = {};
+				app.currentYear = 2010;
+				app.chartData = {};
+
+				// load google api
+				google.load("visualization", "1", {
+					packages : ["corechart"]
+				});
+				google.setOnLoadCallback(getData);
+
+				// Activate tabs on popup
+				$("#facility_tabs").tabs();
+
+				//Download sample data
+				var url = 'http://140.160.114.197/api/v3/facility/134330.json'; //Max Data
+				// var url = 'http://140.160.114.197/api/v3/facility/149233.json'; //Min Data
+				// var url = 'http://140.160.114.197/api/v3/facility/110280.json'; //No Data
+				function getData(){
+					
+					$.ajax({
+						dataType : "json",
+						url : url,
+						success : parseFacility
+					});
+	
+					function parseFacility(data) {
+						var chemList = document.getElementById('chemicalList');
+						app.de = data.Emissions;
+						///// create chart data
+						if(!data.Emissions){
+							// no years of data so set the chart area to say no chart
+							$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
+						}else{	
+							l = 0
+							$.each(data.Emissions, function(k,v){
+								l+=1
+							});
+							if(l==1){
+								// only one year so set the chart area to say no chart
+								$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
+							}else{
+								$('.graph').html('');
+								var da = [['Year', 'Total Pounds Released', 'Risk']];
+								$.each(data.Emissions, function(k,v){
+									var f = this;
+									da.push([k, v.TotalPounds, v.TotalScore]);
+								});
+								drawChart(da);
+							}
+						}
+						/////
+						try {
+							var emissions = data['Emissions'][app.currentYear]['Submissions']
+						} catch(err) {
+							console.log(err);
+							var emissions = 'NoData';
+						}
+						document.getElementById('info_title').innerHTML = '<STRONG>' + data['Name'] + '</STRONG>';
+						document.getElementById('info_industry').innerHTML = 'Industry: ' + data['NAICS1']['name'];
+						document.getElementById('info_address').innerHTML = '<p>' + data['Street'] + '<br />' + data['City'] + ' ' + data['State'] + ', ' + data['ZIPCode'] + '<br />' + data['Latitude'] + ' ' + data['Longitude'] + '</p>';
+						document.getElementById('info_contact').innerHTML = '<p>' + data['PublicContactName'] + '<br />' + data['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+						if (emissions != 'NoData') {
+							emissions.sort(function(a, b) {
+								//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
+								//Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
+								if (a['Score'] < b['Score'])
+									return 1;
+								if (a['Score'] > b['Score'])
+									return -1;
+								return 0;
+							});
+	
+							for (emission in emissions) {
+								var div = document.createElement('div');
+								div.setAttribute('class', 'chemical_row');
+								div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2);
+								chemList.appendChild(div);
+							}
+						} else {
+							chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
+						}
+					}
+				}
+
+				function drawChart(d) {
+					// console.log(d);
+					var data = google.visualization.arrayToDataTable(d)
+					options = {
+						title : 'Facility Performance',
+						// chartArea: {right:0, width: '100%'},
+						hAxis:{
+							gridlines: {
+								color: '#333', 
+								count: 10
+							}
+						},
+						series: {
+					            0: {
+					                targetAxisIndex: 0
+					            },
+					            1: {
+					                targetAxisIndex: 1
+					            }
+				        },
+				        vAxes: {
+					            0: {
+					                // minValue: 0,
+					                // maxValue: 10,
+					                textStyle:{color: 'blue'},
+					                label: 'Total Pounds Released'
+					            },
+					            1: {
+					                // minValue: 0,
+					                // maxValue: 60000,
+					                 textStyle:{color: 'red'},
+					                label: 'Risk'
+					            }
+				        },
+				        // vAxis: {textPosition: 'in'}
+				        // ,
+				        // axisTitlesPosition: 'in',   
+							// },
+						// theme: 'maximized'
+					};
+					var chart = new google.visualization.LineChart($('.graph')[0]);
+					chart.draw(data, options);
+					app.chart = chart;
+				}
+
+				////end app function
+			})();
+
+		</script>
+	</body>
+</html>
