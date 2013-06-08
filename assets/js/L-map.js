@@ -256,6 +256,7 @@ $(document).ready(function() {
 				$.ajax({
 					url : 'http://140.160.114.197/search/tri/facilities/?q=' + $this.val(),
 					success : function(r) {
+						console.log($("#searchresults").children().length);
 						$("#searchresults").empty();
 						if (r.hits.hits[0]) {
 							$("#searchresultsbox").height('60%');
@@ -323,27 +324,26 @@ $(document).ready(function() {
 			//		console.log(err);
 		}
 	
-		var graph = '<div class="graph"></div>'
-		var info = "<div id='info'><p>"+ parsed.Street + "<br/>" + parsed.City + ", " + parsed.State + " " + parsed.ZIP9 + "<br/><br/>Facility ID: " + parsed.FacilityID + "<br/>Facility Number: " + parsed.FacilityNumber + "<br/>NAICS3: " + parsed.NAICSCode3Digit + "<br/>NAICS4: " + parsed.NAICSCode4Digit + "<br/>Parent Company: " + parsed.ParentName + "<br/></p></div>";
+		var graph = '<p class="graph"></p>'
+		var info = "<div id='info'><div>"+ graph + "<br/>" + parsed.Street + "<br/>" + parsed.City + ", " + parsed.State + " " + parsed.ZIP9 + "<br/><br/>Facility ID: " + parsed.FacilityID + "<br/>Facility Number: " + parsed.FacilityNumber + "<br/>NAICS3: " + parsed.NAICSCode3Digit + "<br/>NAICS4: " + parsed.NAICSCode4Digit + "<br/>Parent Company: " + parsed.ParentName + "<br/></div></div>";
 		text += info;
 		list += "<li><a href='#info'>info</a></li></ul>";
 	
 		var name = "<h4 class='infoTitle'>" + parsed.Name + "</h4>";
 	
-		$('#tabs').html(name + app.closer + list + text + graph + zoomTo);
+		$('#tabs').html(name + app.closer + list + text + zoomTo);
 		$("#tabs").tabs("refresh");
 	
 		//activate info tab by default
 		$("#tabs").tabs({
 			active : -1
 		});
-	
+		
 		createChart(l, parsed);
 		$(".facilityInfo").fadeIn(500);
 	}
 	
 	function createChart(l, data) {
-		console.log(l);
 		if (l === 1 || l === 0) {
 			// none or only one year so set the chart area to say no chart
 			$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
@@ -364,29 +364,21 @@ $(document).ready(function() {
 					}
 				},
 				series : {
-					0 : {
-						targetAxisIndex : 0
-					},
-					1 : {
-						targetAxisIndex : 1
-					}
+					0 : {targetAxisIndex : 0},
+					1 : {targetAxisIndex : 1}
 				},
 				vAxes : {
 					0 : {
-						textStyle : {
-							color : 'blue'
-						},
+						textStyle : {color : 'blue'},
 						label : 'Total Pounds Released'
-					},
-					1 : {
-						textStyle : {
-							color : 'red'
 						},
+					1 : {
+						textStyle : {color : 'red'},
 						label : 'Risk'
-					}
+						}
 				},
-				chartArea: {height: '80%', width: '80%'},
-				hAxis: {textPosition: 'in'},
+				chartArea: {/*left: 0, 	height: '80%', */width: '80%'},
+				// hAxis: {/*textPosition: 'in'*/slantedText: true},
 				vAxis: {textPosition: 'in'}
 			};
 			chart.draw(cd,options);

@@ -345,7 +345,8 @@ div.leaflet-bottom.leaflet-right{
 	padding: 5px !important;
 	border-radius: 5px;
 	background: rgba(162, 189, 189, .9);
-	max-width: 375px!important;
+	/*max-width: 375px!important;*/
+	width: 390px;
 	display: none;
 	max-height:400px!important;
 }
@@ -394,6 +395,7 @@ div.leaflet-bottom.leaflet-right{
 /* tabs mods */
 #tabs > div {
 	height:200px;
+	width: 333px!important;
 	overflow: auto;
 	font-size: 14px;
 }
@@ -403,10 +405,15 @@ div.leaflet-bottom.leaflet-right{
 	font-family:'AlternateGothicLTNo3Regular',Arial, sans-serif;
 }
 
+/*.ui-tabs-panel{
+	width:380px!important;
+}*/
+
 .graph{
 	/*width: 300px;*/
-	height: 280px!important;
+	/*height: 280px!important;*/
 	/*border: 1px dashed blue;*/
+	overflow:hidden!important;
 	margin-left: auto;
 	margin-right: auto;
 	clear: both;
