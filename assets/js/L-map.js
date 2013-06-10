@@ -46,9 +46,7 @@ $(document).ready(function() {
 		app.toner = new L.StamenTileLayer("toner-lite", {
 			attribution : app.stamenAttribution
 		});
-		app.terrain = new L.StamenTileLayer("terrain", {
-			attribution : app.stamenAttribution
-		});
+		app.satellite = new L.TileLayer("//otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png", {});
 		app.streets = new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			attribution : '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		});
@@ -145,7 +143,7 @@ $(document).ready(function() {
 		app.baseMaps = {
 			"Toner" : app.toner,
 			"Streets" : app.streets,
-			"Terrain" : app.terrain
+			"Satellite" : app.satellite
 		};
 
 		app.overlayMaps = {
@@ -196,8 +194,8 @@ $(document).ready(function() {
 		$('#streetsThumb').bind('click', function() {
 			changeBasemap('Streets')
 		});
-		$('#terrainThumb').bind('click', function() {
-			changeBasemap('Terrain')
+		$('#satelliteThumb').bind('click', function() {
+			changeBasemap('Satellite')
 		});
 
 		function changeBasemap(lyr) {
