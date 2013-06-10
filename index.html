@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  	<!--prevent browser caching-->
+  	<meta http-equiv="cache-control" content="max-age=0" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="expires" content="-1">
+	
+    <!--The viewport meta tag is used to improve the presentation and behavior on iOS devices-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7, IE=9" />
+	
+    <title>Toxic Release Inventory Performance Explorer</title>
+	
+	<!-- styles -->	
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/L-style.css" />
+	<link href='//fonts.googleapis.com/css?family=Alegreya:900|Arimo:400,700' rel='stylesheet' type='text/css'/>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" /><![endif]-->
+
+	<!-- jQuery -->
+  	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  	<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+	
+	<!-- google charting -->
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+	<!-- mapping -->	
+	<!-- leaflet -->
+	<!-- <script src="assets/js/leaflet.js"></script> -->
+	<script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+
+	<!-- <script src="../src/leaflet.utfgrid.js"></script> -->
+	<script src="http://140.160.114.190/src/leaflet.utfgrid.js"></script>
+	<script src="http://maps.stamen.com/js/tile.stamen.js?v1.2.1"></script>
+	
+	<!--[if IE]>
+		<style>
+			#loadingText{color:#000};
+			#app-controls{text-align: center;}			
+		</style>
+	<![endif]-->
+	
+	<!--[if lt IE 8]> 
+		<link rel="stylesheet" type="text/css" href="assets/css/ie7.css" /> 
+	<![endif]-->
+	
+	<!--[if IE 8]> 
+		<link rel="stylesheet" type="text/css" href="assets/css/ie8.css" />
+	<![endif]-->
+	
+	<!--fancybox lightbox plugin-->
+	<link rel="stylesheet" href="assets/fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+	<link rel="stylesheet" href="assets/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="assets/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
+	<script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+	<script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+	
+</head>
+
+<body>
+	
+	<!-- loading -->
+	<div id="loading">
+		<div>	
+			<div id="loadingText">loading...</div>
+			<div id="blockG_1" class="loading"></div>
+			<div id="blockG_2" class="loading"></div>
+			<div id="blockG_3" class="loading"></div>
+			<div id="blockG_4" class="loading"></div>
+		</div>	
+	</div>
+	<!-- end loading -->
+	
+	<!-- facility info -->
+	<div id="hover" class="dropshadow trans"></div>
+	<div id="tabs" class="facilityInfo dropshadow trans"></div>
+	
+	<div id="mapStuff">	
+		<div id="bordercontainer">
+		     <div id="map"></div>
+			 <div id="basemapselect" class="ontop"></div>
+			 <div id="topbar" class="ontop trans">
+			 	<span id="title" class="ontop trans"><p><span class="midRed">TRI Performance Explorer</span>
+				<br><span class="smallTitle lightRed">In partnership with the Huxley Spatial Institute</span></p>
+				</span>
+				<div id="app-controls">				
+					<span id="yearchanger" class="trans">					
+						<span id="downyear" class="yearbutton dropshadow trans"></span>
+						<span id="currentyear" class="trans">2010</span>
+						<span id="upyear" class="yearbutton dropshadow trans"></span>
+					</span>
+					<span id="searchStuff" class="ontop trans">
+						<input type="text" id="search" value="Search for a facility">
+					</span>
+				</div>
+			 </div>
+			 <div id="ecosLogoDiv" class="trans">
+			 	<img id="ecosLogo" alt="Ecos logo" src="assets/images/ECOS-logo.gif">
+			 </div>	
+		<a class="fancybox ontop trans" href="#lightbox">ABOUT</a>
+	</div>
+
+	<!-- START MENU BOXES -->	
+	<!-- START BASEMAP MENU -->
+	<div id="basemap_container" class="menu_container ontop">	
+		<div id="basemap_menu" class="menu ontop">
+			<div id="tonerThumb" class="base_thumb dropshadow colorshift trans">toner</div>
+			<div id="streetsThumb" class="base_thumb dropshadow colorshift trans">streets</div>
+			<div id="terrainThumb" class="base_thumb dropshadow colorshift trans">terrain</div>
+		</div>	
+	</div>		
+	<!-- END BASEMAP MENU -->
+	
+		
+	<!-- SEARCH RESULTS -->
+	<div id="searchresultsbox" class="dropshadow ontop">
+		<div class="menu_close" onclick="closeSearch()">close</div>
+		<div id="searchresults"></div>
+	</div>
+	
+	<!-- START SOCIAL MENU -->
+	<div class="socialmedia">
+		<div>
+			<div><a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="none">Tweet</a></div>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			<div><g:plusone size="tall" annotation="none"></g:plusone></div>
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>	
+			<div><a class='facebook' href='http://facebook.com/sharer.php?t=US%20Census%20Map&amp;u=http%3A%2F%2F140.160.114.190%2FECOS-TRI%2FL-map.html'>Share</a></div>
+		</div>
+	</div>
+	<!-- END SOCIAL MENU -->
+	
+	<!--   END MENU BOXES -->
+	
+	<div id="legendRisk" class="legendRisk ontop"></div>
+	<div id="legendPounds" class="legendPounds ontop"></div>
+	<!--
+	
+	<div id="isis_logo" class="ontop"></div>
+	-->
+	
+	
+	<!-- lightbox page-->
+	<div id="lightbox" style="display:none;">
+		<div id="lightboxtext">
+			<h1 class="lightboxtitle">about the application</h1>		 
+		    <p>This web map was designed at the <a href="http://www.wwu.edu/huxley/spatial/" target="_blank">
+		    	Huxley Spatial Institute</a> at <a href="http://www.wwu.edu/" target="_blank">
+		    	Western Washington University</a> (WWU) in Belligham, Washington and funded through a grant from the <a href="http://www.ecos.org/" target="_blank">
+		    	Environmental Council of States</a> (ECOS). The concept for this web map application was introduced in 2011 in the book, <a href="http://mitpress.mit.edu/books/coming-clean/" target="_blank">
+		    	Coming Clean</a>, by Michael E. Kraft, Mark Stefan, and Troy D. Abel. That book puts forth the idea that information disclosure can be a policy strategy for environmental protection, and this web map is designed to use visual representation of environmental information to provide access to a larger audience of citizens so that they may be able to influence the environmental policy directly affecting  their health and the health of their communities.</p>
+			<div class="lighboxInsets">
+		      <h3>More Things to Think and Know </h3>
+		      <div class="wrap">
+	          	<div class="bucket">
+	            	<div class="figureLabel">Figure 1</div>
+					<img id="figure1" src="assets/images/imagery.jpg" alt="something" />
+			    </div>						
+			  </div>
+		      <div class="wrap internallink">
+		      	<div class="wrapcontent">
+		     		<div class="figureLabel">Figure 2</div>
+		            <img id="figure2" src="assets/images/light_gray_canvas_with_labels__ne_usa.png" class="img90" title="somethins" alt="somethins" />           
+					<!--
+					<div>
+		            	<a href="#">Link somewhere</a>
+						<br />
+		            	<a href="#">Link to something</a>
+	        		</div>
+					-->
+			    </div>	         
+			  </div>
+			</div>
+			<p>This web map visually represents industrial air pollution information to citizens across the United States by mapping the relative risk from air pollution that industrial facilities pose to the human health of their communities and how those risks might change over time. Facility pollution information comes from the <a href="http://www.epa.gov/tri/triprogram/whatis.htm" target="_blank">				
+				Toxic Release Inventory</a> (TRI) , an inventory by the United States Environmental Protection Agency (EPA) and the States to collect data annually on releases and transfers of certain toxic chemicals from industrial facilities. TRI facilities are depicted as circles with colors that correlate to a risk screening value that is based on modeled output data from the EPA's <a href="http://www.epa.gov/oppt/rsei/pubs/basic_information.html" target="_blank">
+				Risk Screening Environmental Indicators</a> (RSEI) model for assessing TRI data.</p>
+			<p>Circles representing TRI facilities have been classified into 7 sizes and 7 colors, to reflect changes in pollution performance and amount so the map user will be able to see if a certain facility has been getting better or worse over time, or, if their neighboring industrial plants are getting safer and cleaner. Smaller circles indicate fewer pounds released; larger circles indicate more pounds released (Figure 1). Lighter circles represent polluters who are posing less risk to human health based on the RSEI model risk screening value; darker circles represent polluters who are posing more risk (Figure 2). Users are also able to access an attribute table containing the facility name, parent company, location, identification number, pounds of toxics produced, and finally their RSEI relative risk score.  The user can individually search addresses, and display the toxic release inventory of a given facility for a given year. There  are currently 17,000 facilities reporting to TRI and viewable in the web map for the years 1997 to 2010.</p>		
+		    
+		    <p class="attribution">Read more about <a href="http://www.epa.gov/opptintr/rsei/" target="_blank">RSEI</a>.
+				<br/>By <a href="http://www.ecos.org/">ECOS</a> and Western Washington University <a href="http://www.wwu.edu/huxley/spatial/">Huxley Spatial Institute</a></p>
+		</div>
+	</div>
+
+	<!-- google analytics-->
+	<script>
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-28476932-1']);
+	  _gaq.push(['_setDomainName', 'wwu.edu']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	
+	
+	<script src="assets/js/L-map.js"></script>
+  </body>
+  
+</html>
