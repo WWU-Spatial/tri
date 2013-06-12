@@ -1,0 +1,41 @@
+#facility_tabs{
+	width: 325px;
+	height:400px;
+	border: 1px solid red;
+	font-size: 0.8em;
+}
+
+#chemicalYearToggle {
+	height: 20px;
+	text-align: center;
+	padding: 5px;
+	font-size: 1.3em;
+}
+
+.graph {
+	width: 300px;
+	height: 150px;
+	border: 1px dashed blue;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+.list {
+	height: 324px;
+	overflow-y: auto;
+}
+
+.chemical_row{
+	line-height: 1.4em;
+	margin: 0.5em 0.2em;
+	padding: 0.3em;
+	border: 1px solid #eee;
+}
+
+.chemical_row:hover {
+	background-color: #F8F8F8;
+	cursor: pointer;
+}
