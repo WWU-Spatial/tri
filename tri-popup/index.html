@@ -134,20 +134,11 @@
 	
 					function parseFacility(data) {
 						var chemList = document.getElementById('chemicalList');
-						app.de = data.Emissions;
-						///// create chart data
-						if(!data.Emissions){
+						// create chart data
+						if(!data.Emissions || Object.keys(data.Emissions).length === 1){
 							// no years of data so set the chart area to say no chart
 							$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
-						}else{	
-							l = 0
-							$.each(data.Emissions, function(k,v){
-								l+=1
-							});
-							if(l==1){
-								// only one year so set the chart area to say no chart
-								$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
-							}else{
+						}else{
 								$('.graph').html('');
 								var da = [['Year', 'Total Pounds Released', 'Risk']];
 								$.each(data.Emissions, function(k,v){
