@@ -134,8 +134,9 @@
 							parseFacility(data);
 						}
 					});
-					
-					function loadChart(data){		
+				}	
+				
+				function loadChart(data){		
 					// create chart data
 					if (!data.Emissions || Object.keys(data.Emissions).length === 1){
 						// no years of data so set the chart area to say no chart
@@ -183,80 +184,78 @@
 					}
 				}
 	
-					function parseFacility(data) {
-						var chemList = document.getElementById('chemicalList');
-						
-						
-						try {
-							var emissions = data['Emissions'][app.currentYear]['Submissions']
-						} catch(err) {
-							var emissions = 'NoData';
-						}
-						document.getElementById('info_title').innerHTML = '<STRONG>' + data['Name'] + '</STRONG>';
-						document.getElementById('info_industry').innerHTML = 'Industry: ' + data['NAICS1']['name'];
-						document.getElementById('info_address').innerHTML = '<p>' + data['Street'] + '<br />' + data['City'] + ' ' + data['State'] + ', ' + data['ZIPCode'] + '<br />' + data['Latitude'] + ' ' + data['Longitude'] + '</p>';
-						document.getElementById('info_contact').innerHTML = '<p>' + data['PublicContactName'] + '<br />' + data['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
-						if (emissions != 'NoData') {
-							emissions.sort(function(a, b) {
-								//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
-								//Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
-								if (a['Score'] < b['Score'])
-									return 1;
-								if (a['Score'] > b['Score'])
-									return -1;
-								return 0;
-							});
-	
-							for (emission in emissions) {
-								var div = document.createElement('div');
-								div.setAttribute('class', 'chemical_row');
-								div.setAttribute('id', 'cas' + emissions[emission]['CASNumber'])
-								div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2) + '<div id="inf' + emissions[emission]['CASNumber'] + '" class="chemical_details"></div>';
-								chemList.appendChild(div);
-							}
-						} else {
-							chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
-						}
+				function parseFacility(data) {
+					var chemList = document.getElementById('chemicalList');
+					
+					
+					try {
+						var emissions = data['Emissions'][app.currentYear]['Submissions']
+					} catch(err) {
+						var emissions = 'NoData';
 					}
-				}
-				
-				//Event Listener for chemical list click
-				$("#chemicalList").click(function(e) {
-					var target = $(e.target);
+					document.getElementById('info_title').innerHTML = '<STRONG>' + data['Name'] + '</STRONG>';
+					document.getElementById('info_industry').innerHTML = 'Industry: ' + data['NAICS1']['name'];
+					document.getElementById('info_address').innerHTML = '<p>' + data['Street'] + '<br />' + data['City'] + ' ' + data['State'] + ', ' + data['ZIPCode'] + '<br />' + data['Latitude'] + ' ' + data['Longitude'] + '</p>';
+					document.getElementById('info_contact').innerHTML = '<p>' + data['PublicContactName'] + '<br />' + data['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+					if (emissions != 'NoData') {
+						emissions.sort(function(a, b) {
+							//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
+							//Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
+							if (a['Score'] < b['Score'])
+								return 1;
+							if (a['Score'] > b['Score'])
+								return -1;
+							return 0;
+						});
 
-					// Check that they clicked on a chemical row and not the container
-					if (target.hasClass("chemical_row")) {
-						var casNum = (e.target.id).substring(3, e.target.id.length);
-						var chem_details = target.children('.chemical_details');
-						
-						//Check to see if data was downloaded during a previous click
-						//If not, download data
-				  		if (!target.hasClass("data_loaded")){
-				  			//Position from top of chemical list to scroll list to
-				  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
-				  			
-				  			//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
-				  			getChem(casNum);
-				  			target.addClass("data_loaded");
-				  			chem_details.show();
+						for (emission in emissions) {
+							var div = document.createElement('div');
+							div.setAttribute('class', 'chemical_row');
+							div.setAttribute('id', 'cas' + emissions[emission]['CASNumber'])
+							div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2) + '<div id="inf' + emissions[emission]['CASNumber'] + '" class="chemical_details"></div>';
+							chemList.appendChild(div);
+						}
+					} else {
+						chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
+					}
+				
+					//Event Listener for chemical list click
+					$("#chemicalList").click(function(e) {
+						var target = $(e.target);
+	
+						// Check that they clicked on a chemical row and not the container
+						if (target.hasClass("chemical_row")) {
+							var casNum = (e.target.id).substring(3, e.target.id.length);
+							var chem_details = target.children('.chemical_details');
 							
-							//Scroll chemical list window so chemical of interest is at top
-				  			$("#chemicalList").animate({
-							    scrollTop: (scrollto +'px')},'slow');
-				  			
-				  		} else {
-				  			//If data already loaded, hide or show the chemical details depending on the current view state
-				  			
-				  			if (chem_details.is(":visible")){
-				  				chem_details.hide();
-				  			} else {
-				  				chem_details.show();
-				  			}
-				  		}
-				  		
-				  }
-				  
-				})
+							//Check to see if data was downloaded during a previous click
+							//If not, download data
+					  		if (!target.hasClass("data_loaded")){
+					  			//Position from top of chemical list to scroll list to
+					  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
+					  			
+					  			//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
+					  			getChem(casNum);
+					  			target.addClass("data_loaded");
+					  			chem_details.show();
+								
+								//Scroll chemical list window so chemical of interest is at top
+					  			$("#chemicalList").animate({
+								    scrollTop: (scrollto +'px')},'slow');
+					  			
+					  		} else {
+					  			//If data already loaded, hide or show the chemical details depending on the current view state
+					  			
+					  			if (chem_details.is(":visible")){
+					  				chem_details.hide();
+					  			} else {
+					  				chem_details.show();
+					  			}
+					  		}
+					  		
+						}
+					})
+				}
 				
 				function getChem(casNum){
 					var url = 'http://140.160.114.197/api/v3/chemical/' + casNum + '.json';
@@ -265,14 +264,13 @@
 						url : url,
 						success : function(data){
 							parseChem(casNum, data)
-							}
+						}
 					});
 				}
 				
 				function parseChem(casNum, data){
 					var html = '';
 
-					
 					// Metal
 					html += "<br /><strong>Metalic: </strong>";
 					if (data.Metal == "TRUE") {
@@ -337,15 +335,9 @@
 					}
 					
 					//Add html to chemical div
-					document.getElementById('inf' + casNum).innerHTML = html;
-
-
-								
+					document.getElementById('inf' + casNum).innerHTML = html;			
 				}
 
-				
-
-				////end app function
 			})();
 
 		</script>
