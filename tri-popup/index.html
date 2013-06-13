@@ -179,13 +179,109 @@
 							for (emission in emissions) {
 								var div = document.createElement('div');
 								div.setAttribute('class', 'chemical_row');
-								div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2);
+								div.setAttribute('id', 'cas' + emissions[emission]['CASNumber'])
+								div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2) + '<div id="inf' + emissions[emission]['CASNumber'] + '" class="chemical_details"></div>';
 								chemList.appendChild(div);
 							}
 						} else {
 							chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
 						}
 					}
+				}
+				
+				//Event Listener for chemical list click
+				$("#chemicalList").click(function(e) {
+
+					if ($(e.target).hasClass("chemical_row")) {
+				  		var casNum = (e.target.id).substring(3, e.target.id.length);
+				  		getChem(casNum)
+				  }
+				  
+				})
+				
+				function getChem(casNum){
+					var url = 'http://140.160.114.197/api/v3/chemical/' + casNum + '.json';
+					$.ajax({
+						dataType : "json",
+						url : url,
+						success : function(data){
+							parseChem(casNum, data)
+							}
+					});
+				}
+				
+				function parseChem(casNum, data){
+					console.log(data);
+					var html = '';
+
+					
+					// Metal
+					html += "<br /><strong>Metalic: </strong>";
+					if (data.Metal == "TRUE") {
+						html += 'This chemical is a metal';
+					} else {
+						html += 'This chemical is not a metal';
+					}
+					
+					// Carcinogen
+					html += "<br /><br /><strong>Cancer: </strong>";
+					if (data.ToxicityClassInhale == "cancer"  && data.ToxicityClass == "cancer") {
+						html += "This chemical is carcinogenic through both the oral and inhalation pathways";
+					} else if (data.ToxicityClassInhale == "non-cancer"  && data.ToxicityClass == "non-cancer") {
+						html += "This chemical is not known to be carcinogenic";
+					} else if (data.ToxicityClassInhale == "cancer"  && data.ToxicityClass == "non-cancer") {
+						html += "This chemical is carcinogenic through the inhalation pathway but not the oral pathway";
+					} else if (data.ToxicityClassInhale == "non-cancer"  && data.ToxicityClass == "cancer") {
+						html += "This chemical is carcinogenic through the oral pathway but not the inhalation pathway";
+					} else {
+						html += "Information on cancer causing effects are not available for this chemical";
+					}
+					
+					
+					// Health Effects
+					html += "<br /><br /><strong>Other Health Effects: </strong>";
+					if (data['Health Effects'] == undefined || data['Health Effects'] == null || data['Health Effects'].length == 0){
+						html += "Human health effects have not been identfied for this chemical";
+					} else {
+						html += 'Identified human health effects include: ';
+						if (data['Health Effects'].length == 1){
+							html += data['Health Effects'][0];
+						} else if (data['Health Effects'].length == 2){
+							html += data['Health Effects'][0] + ' and ' +  data['Health Effects'][1];
+						} else if (data['Health Effects'].length > 2){
+							var text = data['Health Effects'][data['Health Effects'].length-1];
+							data['Health Effects'][data['Health Effects'].length-1] = 'and ' + text;
+							html += data['Health Effects'].join(', ')
+						}
+					}
+					
+					//Federal Register
+					html += "<br /><br /><strong>Federal Register: </strong>";
+					if (data['Federal Register'] == ""){
+						html += "There is no official definition of this chemical in the federal register";
+					} else {
+						html += data['Federal Register'];
+					}
+					
+					// Aditional Information
+					html += "<br /><br /><strong>Additional information: </strong>";
+					
+					if (data["IRIS"] !== ""){
+						console.log(data["IRIS"] !== "");
+						html += '<br /><a href="' + data["IRIS"] + '" target="_blank">Integrated Risk Information System (IRIS)</a>';
+					}
+					if (data["ATSDR"] !== ""){
+						html += '<br /><a href="' + data["ATSDR"] + '" target="_blank">Agency for Toxic Substances and Disease Registry (ATSDR)</a>';
+					}
+					if (data["OPP"] !== ""){
+						html += '<br /><a href="' + data["OPP"] + '" target="_blank">Office of Pesticide Programs (OPP)</a>';
+					}
+					
+					
+					document.getElementById('inf' + casNum).innerHTML = html;
+
+
+								
 				}
 
 				function drawChart(d) {
