@@ -144,6 +144,7 @@
 					} else {	
 						var data;
 						var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
+						var chart = new google.visualization.LineChart($('.graph')[0]);
 						$.each(data.Emissions, function(k,v){
 							chart_data.push([k, v.TotalPounds, v.TotalScore]);
 						});
@@ -178,7 +179,6 @@
 					        },
 
 						};
-						var chart = new google.visualization.LineChart($('.graph')[0]);
 						chart.draw(data, options);
 						app.chart = chart;
 					}
