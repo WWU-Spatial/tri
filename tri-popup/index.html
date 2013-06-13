@@ -129,26 +129,64 @@
 					$.ajax({
 						dataType : "json",
 						url : url,
-						success : parseFacility
+						success : function(data) {
+							loadChart(data);
+							parseFacility(data);
+						}
 					});
+					
+					function loadChart(data){		
+					// create chart data
+					if (!data.Emissions || Object.keys(data.Emissions).length === 1){
+						// no years of data so set the chart area to say no chart
+						$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
+					} else {	
+						var data;
+						var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
+						$.each(data.Emissions, function(k,v){
+							chart_data.push([k, v.TotalPounds, v.TotalScore]);
+						});
+						
+						data = google.visualization.arrayToDataTable(chart_data)
+						//set the chart properties
+						options = {
+							title : 'Facility Performance',
+							hAxis:{
+								gridlines: {
+									color: '#333', 
+									count: 10
+								}
+							},
+							series: {
+					            0: {
+					                targetAxisIndex: 0
+					            },
+					            1: {
+					                targetAxisIndex: 1
+					            }
+					        },
+					        vAxes: {
+					            0: {
+					                textStyle:{color: 'blue'},
+					                label: 'Total Pounds Released'
+					            },
+					            1: {
+					            	textStyle:{color: 'red'},
+					                label: 'Risk'
+					            }
+					        },
+
+						};
+						var chart = new google.visualization.LineChart($('.graph')[0]);
+						chart.draw(data, options);
+						app.chart = chart;
+					}
+				}
 	
 					function parseFacility(data) {
 						var chemList = document.getElementById('chemicalList');
-						// create chart data
-						if(!data.Emissions || Object.keys(data.Emissions).length === 1){
-							// no years of data so set the chart area to say no chart
-							$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
-						}else{
-								$('.graph').html('');
-								var da = [['Year', 'Total Pounds Released', 'Risk']];
-								$.each(data.Emissions, function(k,v){
-									var f = this;
-									da.push([k, v.TotalPounds, v.TotalScore]);
-								});
-								drawChart(da);
-							}
-						}
-						/////
+						
+						
 						try {
 							var emissions = data['Emissions'][app.currentYear]['Submissions']
 						} catch(err) {
@@ -305,50 +343,7 @@
 								
 				}
 
-				function drawChart(d) {
-					var data = google.visualization.arrayToDataTable(d)
-					//set the chart properties
-					options = {
-						title : 'Facility Performance',
-						// chartArea: {right:0, width: '100%'},
-						hAxis:{
-							gridlines: {
-								color: '#333', 
-								count: 10
-							}
-						},
-						series: {
-					            0: {
-					                targetAxisIndex: 0
-					            },
-					            1: {
-					                targetAxisIndex: 1
-					            }
-				        },
-				        vAxes: {
-					            0: {
-					                // minValue: 0,
-					                // maxValue: 10,
-					                textStyle:{color: 'blue'},
-					                label: 'Total Pounds Released'
-					            },
-					            1: {
-					                // minValue: 0,
-					                // maxValue: 60000,
-					                 textStyle:{color: 'red'},
-					                label: 'Risk'
-					            }
-				        },
-				        // vAxis: {textPosition: 'in'}
-				        // ,
-				        // axisTitlesPosition: 'in',   
-							// },
-						// theme: 'maximized'
-					};
-					var chart = new google.visualization.LineChart($('.graph')[0]);
-					chart.draw(data, options);
-					app.chart = chart;
-				}
+				
 
 				////end app function
 			})();
