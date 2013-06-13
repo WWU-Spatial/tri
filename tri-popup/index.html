@@ -195,14 +195,24 @@
 					// Check that they clicked on a chemical row and not the container
 					if (target.hasClass("chemical_row")) {
 						var casNum = (e.target.id).substring(3, e.target.id.length);
+						var chem_details = target.children('.chemical_details');
 						//Check to see if data was downloaded during a previous click
 						//If not, download data
 				  		if (!target.hasClass("data_loaded")){
+				  			//Position from top of chemical list to scroll list to
+				  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
+				  			
+				  			//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
 				  			getChem(casNum);
-				  			target.addClass("data_loaded")
+				  			target.addClass("data_loaded");
+							
+							//Scroll chemical list window so chemical of interest is at top
+				  			$("#chemicalList").animate({
+							    scrollTop: (scrollto +'px')},'slow');
+				  			
 				  		} else {
 				  			//If data already loaded, hide or show the chemical details depending on the current view state
-				  			var chem_details = target.children('.chemical_details');
+				  			
 				  			if (chem_details.is(":visible")){
 				  				chem_details.hide();
 				  			} else {
