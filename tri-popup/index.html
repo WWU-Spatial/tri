@@ -196,6 +196,7 @@
 					if (target.hasClass("chemical_row")) {
 						var casNum = (e.target.id).substring(3, e.target.id.length);
 						var chem_details = target.children('.chemical_details');
+						
 						//Check to see if data was downloaded during a previous click
 						//If not, download data
 				  		if (!target.hasClass("data_loaded")){
@@ -205,6 +206,7 @@
 				  			//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
 				  			getChem(casNum);
 				  			target.addClass("data_loaded");
+				  			chem_details.show();
 							
 							//Scroll chemical list window so chemical of interest is at top
 				  			$("#chemicalList").animate({
@@ -261,7 +263,6 @@
 						html += "Information on cancer causing effects are not available for this chemical";
 					}
 					
-					
 					// Health Effects
 					html += "<br /><br /><strong>Other Health Effects: </strong>";
 					if (data['Health Effects'] == undefined || data['Health Effects'] == null || data['Health Effects'].length == 0){
@@ -299,8 +300,11 @@
 					if (data["OPP"] !== ""){
 						html += '<br /><a href="' + data["OPP"] + '" target="_blank">Office of Pesticide Programs (OPP)</a>';
 					}
+					if (data["OPP"] === "" && data["IRIS"] === "" && data["ATSDR"] === ""){
+						html += "<br />None available"
+					}
 					
-					
+					//Add html to chemical div
 					document.getElementById('inf' + casNum).innerHTML = html;
 
 
