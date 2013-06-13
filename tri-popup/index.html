@@ -158,7 +158,6 @@
 						try {
 							var emissions = data['Emissions'][app.currentYear]['Submissions']
 						} catch(err) {
-							console.log(err);
 							var emissions = 'NoData';
 						}
 						document.getElementById('info_title').innerHTML = '<STRONG>' + data['Name'] + '</STRONG>';
@@ -191,10 +190,26 @@
 				
 				//Event Listener for chemical list click
 				$("#chemicalList").click(function(e) {
+					var target = $(e.target);
 
-					if ($(e.target).hasClass("chemical_row")) {
-				  		var casNum = (e.target.id).substring(3, e.target.id.length);
-				  		getChem(casNum)
+					// Check that they clicked on a chemical row and not the container
+					if (target.hasClass("chemical_row")) {
+						var casNum = (e.target.id).substring(3, e.target.id.length);
+						//Check to see if data was downloaded during a previous click
+						//If not, download data
+				  		if (!target.hasClass("data_loaded")){
+				  			getChem(casNum);
+				  			target.addClass("data_loaded")
+				  		} else {
+				  			//If data already loaded, hide or show the chemical details depending on the current view state
+				  			var chem_details = target.children('.chemical_details');
+				  			if (chem_details.is(":visible")){
+				  				chem_details.hide();
+				  			} else {
+				  				chem_details.show();
+				  			}
+				  		}
+				  		
 				  }
 				  
 				})
@@ -211,7 +226,6 @@
 				}
 				
 				function parseChem(casNum, data){
-					console.log(data);
 					var html = '';
 
 					
@@ -267,7 +281,6 @@
 					html += "<br /><br /><strong>Additional information: </strong>";
 					
 					if (data["IRIS"] !== ""){
-						console.log(data["IRIS"] !== "");
 						html += '<br /><a href="' + data["IRIS"] + '" target="_blank">Integrated Risk Information System (IRIS)</a>';
 					}
 					if (data["ATSDR"] !== ""){
@@ -285,7 +298,6 @@
 				}
 
 				function drawChart(d) {
-					// console.log(d);
 					var data = google.visualization.arrayToDataTable(d)
 					//set the chart properties
 					options = {
