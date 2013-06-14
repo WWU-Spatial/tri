@@ -322,7 +322,6 @@ $(document).ready(function() {
 	
 	
 	function cleanPopup(){
-		console.log('cleaning');
 		$('.graph').html = "";
 		document.getElementById('info_title').innerHTML = '';
 		document.getElementById('info_industry').innerHTML = '';
@@ -439,7 +438,9 @@ $(document).ready(function() {
 				var html = ""
 				div.setAttribute('class', 'chemical_row');
 				html += '<strong>' + facility_record['NAICS' + i]['name'] + '</strong><br />';
-				if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] === 1){
+				if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][app.currentYear]){
+					html += 'This facility did not report any air releases during this year, so comparisons are unavailable.'
+				} else if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] === 1){
 					html += 'There is only 1 facility of this type in the country.'
 				} else if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] > 1){
 					html += 'There is only 1 facility of this type in the State. There are ' + facility_record['NAICS' + i][app.currentYear]['us_count'] + ' in the country. It emits more pounds of chemicals than ' 
