@@ -81,18 +81,22 @@ $(document).ready(function() {
 
 		app.utfClick = function(e) {
 			if (e.data) {
-				var dataURL = 'http://140.160.114.197/api/v2/facility/' + e.data.facilitynu + '.json';
+				var url = 'http://140.160.114.197/api/v3/facility/' + e.data.facilitynu + '.json';
+					
+				//Set info window year to current year
+				document.getElementById('window_year').innerHTML = app.currentYear;
+				document.getElementById('ind_year').innerHTML = app.currentYear;
+				
 				$.ajax({
-					url : dataURL,
-					contentType : 'application/json',
 					dataType : "json",
-					type : 'GET',
-					crossDomain : true,
-					success : function(response) {
-						handleFacility(response);
-					},
-					error : function(err) {
-						console.log(err);
+					url : url,
+					success : function(facility_record) {
+						loadChart(facility_record);
+						parseFacility(facility_record);
+						parseChemicals(facility_record);
+						parseIndustry(facility_record);
+						initChemListListener();
+						initYearChangers(facility_record);
 					}
 				});
 			}
@@ -311,104 +315,380 @@ $(document).ready(function() {
 		});
 	}
 	
-	function createTabs(parsed) {
-		var zoomTo = "<h5 class='zoomTo trans' onclick='zoomToFacility(" + parsed.Latitude + "," + parsed.Longitude + ")'>Zoom to Facility</h5>";
-		var list = "<ul>";
-		var text = "";
-		try {
-			l = 0;
-			$.each(parsed.Emissions, function(item) {
-				l += 1;
-				list += "<li><a href='#" + item + "'>" + item + "</a></li>";
-				text += "<div id='" + item + "'><p>";
-				$.each(this, function(k, v) {
-					if ( typeof v === 'object') {
-						// the search results need this to handle if there is more than one pollutant in a year (click/query doesn't need this...)
-						if (this[0]) {
-							app.thisthing = this;
-							$.each(this, function() {
-								text += "<br/>";
-								$.each(this, function(k1, v1) {
-									v1 !== null && v1 !== "" ? text += k1 + ": " + v1 + "<br/>" : null;
-								});
-							});
-						} else {
-							$.each(this, function(k2, v2) {
-								v2 !== null && v2 !== "" ? text += k2 + ": " + v2 + "<br/>" : null;
-							});
-						}
-					} else {
-						text += k + ": " + v + "<br/>";
-					}
-					text += "<br/>";
-				});
-				text += "</p></div>";
-			});
-			//		var $data=this;
-		} catch(err) {
-			//		console.log(err);
-		}
 	
-		var graph = '<p class="graph"></p>'
-		var info = "<div id='info'><div>"+ graph + "<br/>" + parsed.Street + "<br/>" + parsed.City + ", " + parsed.State + " " + parsed.ZIP9 + "<br/><br/>Facility ID: " + parsed.FacilityID + "<br/>Facility Number: " + parsed.FacilityNumber + "<br/>NAICS3: " + parsed.NAICSCode3Digit + "<br/>NAICS4: " + parsed.NAICSCode4Digit + "<br/>Parent Company: " + parsed.ParentName + "<br/></div></div>";
-		text += info;
-		list += "<li><a href='#info'>info</a></li></ul>";
 	
-		var name = "<h4 class='infoTitle'>" + parsed.Name + "</h4>";
 	
-		$('#tabs').html(name + app.closer + list + text + zoomTo);
-		$("#tabs").tabs("refresh");
 	
-		//activate info tab by default
-		$("#tabs").tabs({
-			active : -1
-		});
-		$(".facilityInfo").fadeIn(500);
+	
+	
+	
+	
+	
+	
+	
+	
+	//Popup Functionality
+	
+	
+	
+	
+	function getData(facility_number){
+		var url = 'http://140.160.114.197/api/v3/facility/' + facility_number + '.json';
+					
+		//Set info window year to current year
+		document.getElementById('window_year').innerHTML = app.currentYear;
+		document.getElementById('ind_year').innerHTML = app.currentYear;
 		
-		createChart(l, parsed);
-	}
+		$.ajax({
+			dataType : "json",
+			url : url,
+			success : function(facility_record) {
+				loadChart(facility_record);
+				parseFacility(facility_record);
+				parseChemicals(facility_record);
+				parseIndustry(facility_record);
+				initChemListListener();
+				initYearChangers(facility_record);
+			}
+		});
+	}	
 	
-	function createChart(l, data) {
-		if (l === 1 || l === 0) {
-			// none or only one year so set the chart area to say no chart
+	function loadChart(facility_record){		
+		// create chart data
+		if (!facility_record.Emissions || Object.keys(facility_record.Emissions).length === 1){
+			// no years of data so set the chart area to say no chart
 			$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
-		} else {
-			$('.graph').html('');
-			var da = [['Year', 'Total Pounds Released', 'Risk']];
-			$.each(data.Emissions, function(k, v) {
-				da.push([k, v.TotalPounds, v.TotalScore]);
-			});
-			var cd = google.visualization.arrayToDataTable(da);
+		} else {	
+			var data;
+			var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
 			var chart = new google.visualization.LineChart($('.graph')[0]);
 			var options = {
 				title : 'Facility Performance',
-				hAxis : {
-					gridlines : {
-						color : '#333',
-						count : 10
+				hAxis:{
+					gridlines: {
+						color: '#333', 
+						count: 10
 					}
 				},
-				series : {
-					0 : {targetAxisIndex : 0},
-					1 : {targetAxisIndex : 1}
-				},
-				vAxes : {
-					0 : {
-						textStyle : {color : 'blue'},
-						label : 'Total Pounds Released'
-						},
-					1 : {
-						textStyle : {color : 'red'},
-						label : 'Risk'
-						}
-				},
-				chartArea: {/*left: 0, 	height: '80%', */width: '80%'},
-				// hAxis: {/*textPosition: 'in'*/slantedText: true},
-				vAxis: {textPosition: 'in'}
+				series: {
+		            0: {
+		                targetAxisIndex: 0
+		            },
+		            1: {
+		                targetAxisIndex: 1
+		            }
+		        },
+		        vAxes: {
+		            0: {
+		                textStyle:{color: 'blue'},
+		                label: 'Total Pounds Released'
+		            },
+		            1: {
+		            	textStyle:{color: 'red'},
+		                label: 'Risk'
+		            }
+		        },
+		        chartArea: {width: '92%'},
+		        vAxis: {textPosition: 'in'}
+
 			};
-			chart.draw(cd,options);
+			$.each(facility_record.Emissions, function(k,v){
+				chart_data.push([k, v.TotalPounds, v.TotalScore]);
+			});
+			//set the chart properties
+			data = google.visualization.arrayToDataTable(chart_data)
+			chart.draw(data, options);
 		}
 	}
+
+	function parseFacility(facility_record) {
+		$("#facility_tabs").show();
+		document.getElementById('info_title').innerHTML = '<STRONG>' + facility_record['Name'] + '</STRONG>';
+		document.getElementById('info_industry').innerHTML = 'Industry: ' + facility_record['NAICS1']['name'];
+		document.getElementById('info_address').innerHTML = '<p>' + facility_record['Street'] + '<br />' + facility_record['City'] + ' ' + facility_record['State'] + ', ' + facility_record['ZIPCode'] + '<br />' + facility_record['Latitude'] + ' ' + facility_record['Longitude'] + '</p>';
+		document.getElementById('info_contact').innerHTML = '<p>' + facility_record['PublicContactName'] + '<br />' + facility_record['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+	}
+	
+	function parseChemicals(facility_record){
+		var chemList = document.getElementById('chemicalList');
+		try {
+			var emissions = facility_record['Emissions'][app.currentYear]['Submissions'];
+		} catch(err) {
+			var emissions = 'NoData';
+		}
+		
+		if (emissions != 'NoData') {
+			emissions.sort(function(a, b) {
+				//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
+				//Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
+				if (a['Score'] < b['Score'])
+					return 1;
+				if (a['Score'] > b['Score'])
+					return -1;
+				return 0;
+			});
+
+			for (emission in emissions) {
+				var div = document.createElement('div');
+				div.setAttribute('class', 'chemical_row');
+				div.setAttribute('id', 'cas' + emissions[emission]['CASNumber'])
+				div.innerHTML = emissions[emission]['Chemical'] + '<br />' + 'Pounds: ' + emissions[emission]['Pounds'].toFixed(2) + ' Risk: ' + emissions[emission]['Score'].toFixed(2) + '<div id="inf' + emissions[emission]['CASNumber'] + '" class="chemical_details"></div>';
+				chemList.appendChild(div);
+			}
+		} else {
+			chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
+		}
+	}
+	
+	function parseIndustry(facility_record){
+		var industryList = document.getElementById('industryList');
+		
+		for (var i=1; i < 10; i++){
+			if (facility_record['NAICS' + i]){
+				var div = document.createElement('div');
+				var html = ""
+				div.setAttribute('class', 'chemical_row');
+				html += '<strong>' + facility_record['NAICS' + i]['name'] + '</strong><br />';
+				if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] === 1){
+					html += 'There is only 1 facility of this type in the country.'
+				} else if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] > 1){
+					html += 'There is only 1 facility of this type in the State. There are ' + facility_record['NAICS' + i][app.currentYear]['us_count'] + ' in the country. It emits more pounds of chemicals than ' 
+							+ facility_record['NAICS' + i][app.currentYear]['us_count'] + ' percent of facilities of this type in the country.  It is riskier than ' 
+							+ facility_record['NAICS' + i][app.currentYear]['us_score_pct'] + ' percent of facilities of this type in the country.';
+				} else {
+					html += 'There are ' + facility_record['NAICS' + i][app.currentYear]['state_count'] 
+							+ ' facilities of this type in this state and ' + facility_record['NAICS' + i][app.currentYear]['us_count'] + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS'
+							 + i][app.currentYear]['state_pounds_pct'] + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.currentYear]['us_pounds_pct'] + ' percent in the country. The facility is riskier than '
+							 + facility_record['NAICS' + i][app.currentYear]['state_score_pct'] + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.currentYear]['us_score_pct'] + ' percent in the country.'
+				}
+				div.innerHTML = html;
+				industryList.appendChild(div);
+			}
+		}
+	}
+	
+	function initChemListListener(){
+		//Event Listener for chemical list click
+		$("#chemicalList").click(function(e) {
+			var target = $(e.target);
+
+			// Check that they clicked on a chemical row and not the container
+			if (target.hasClass("chemical_row")) {
+				var casNum = (e.target.id).substring(3, e.target.id.length);
+				var chem_details = target.children('.chemical_details');
+				
+				//Check to see if data was downloaded during a previous click
+				//If not, download data
+		  		if (!target.hasClass("data_loaded")){
+		  			//Position from top of chemical list to scroll list to
+		  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
+		  			
+		  			//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
+		  			getChem(casNum);
+		  			target.addClass("data_loaded");
+		  			chem_details.show();
+					
+					//Scroll chemical list window so chemical of interest is at top
+		  			$("#chemicalList").animate({
+					    scrollTop: (scrollto +'px')},'slow');
+		  			
+		  		} else {
+		  			//If data already loaded, hide or show the chemical details depending on the current view state
+		  			
+		  			if (chem_details.is(":visible")){
+		  				chem_details.hide();
+		  			} else {
+		  				chem_details.show();
+		  			}
+		  		}
+			}
+		})
+	}
+	
+	function getChem(casNum){
+		var url = 'http://140.160.114.197/api/v3/chemical/' + casNum + '.json';
+		$.ajax({
+			dataType : "json",
+			url : url,
+			success : function(data){
+				parseChem(casNum, data)
+			}
+		});
+	}
+	
+	function parseChem(casNum, data){
+		var html = '';
+
+		// Metal
+		html += "<br /><strong>Metalic: </strong>";
+		if (data.Metal == "TRUE") {
+			html += 'This chemical is a metal';
+		} else {
+			html += 'This chemical is not a metal';
+		}
+		
+		// Carcinogen
+		html += "<br /><br /><strong>Cancer: </strong>";
+		if (data.ToxicityClassInhale == "cancer"  && data.ToxicityClass == "cancer") {
+			html += "This chemical is carcinogenic through both the oral and inhalation pathways";
+		} else if (data.ToxicityClassInhale == "non-cancer"  && data.ToxicityClass == "non-cancer") {
+			html += "This chemical is not known to be carcinogenic";
+		} else if (data.ToxicityClassInhale == "cancer"  && data.ToxicityClass == "non-cancer") {
+			html += "This chemical is carcinogenic through the inhalation pathway but not the oral pathway";
+		} else if (data.ToxicityClassInhale == "non-cancer"  && data.ToxicityClass == "cancer") {
+			html += "This chemical is carcinogenic through the oral pathway but not the inhalation pathway";
+		} else {
+			html += "Information on cancer causing effects are not available for this chemical";
+		}
+		
+		// Health Effects
+		html += "<br /><br /><strong>Other Health Effects: </strong>";
+		if (data['Health Effects'] == undefined || data['Health Effects'] == null || data['Health Effects'].length == 0){
+			html += "Human health effects have not been identfied for this chemical";
+		} else {
+			html += 'Identified human health effects include: ';
+			if (data['Health Effects'].length == 1){
+				html += data['Health Effects'][0];
+			} else if (data['Health Effects'].length == 2){
+				html += data['Health Effects'][0] + ' and ' +  data['Health Effects'][1];
+			} else if (data['Health Effects'].length > 2){
+				var text = data['Health Effects'][data['Health Effects'].length-1];
+				data['Health Effects'][data['Health Effects'].length-1] = 'and ' + text;
+				html += data['Health Effects'].join(', ')
+			}
+		}
+		
+		//Federal Register
+		html += "<br /><br /><strong>Federal Register: </strong>";
+		if (data['Federal Register'] == ""){
+			html += "There is no official definition of this chemical in the federal register";
+		} else {
+			html += data['Federal Register'];
+		}
+		
+		// Aditional Information
+		html += "<br /><br /><strong>Additional information: </strong>";
+		
+		if (data["IRIS"] !== ""){
+			html += '<br /><a href="' + data["IRIS"] + '" target="_blank">Integrated Risk Information System (IRIS)</a>';
+		}
+		if (data["ATSDR"] !== ""){
+			html += '<br /><a href="' + data["ATSDR"] + '" target="_blank">Agency for Toxic Substances and Disease Registry (ATSDR)</a>';
+		}
+		if (data["OPP"] !== ""){
+			html += '<br /><a href="' + data["OPP"] + '" target="_blank">Office of Pesticide Programs (OPP)</a>';
+		}
+		if (data["OPP"] === "" && data["IRIS"] === "" && data["ATSDR"] === ""){
+			html += "<br />None available"
+		}
+		
+		//Add html to chemical div
+		document.getElementById('inf' + casNum).innerHTML = html;			
+	}
+	
+	//This is put together really inefficiently and should be refactored to eliminate redundancy
+	function initYearChangers(facility_record){
+		$("#window_left").click(function(){
+			if (app.currentYear > app.minYear){
+				app.currentYear -= 1;
+				document.getElementById('window_year').innerHTML = app.currentYear;
+				document.getElementById('ind_year').innerHTML = app.currentYear;
+				document.getElementById('chemicalList').innerHTML = "";
+				document.getElementById('industryList').innerHTML = "";
+				parseChemicals(facility_record);
+				parseIndustry(facility_record);
+				$("#chemicalList").animate({
+					scrollTop: ('0px')},'fast');
+			    $("#IndustryList").animate({
+			    	scrollTop: ('0px')},'fast');
+			}
+		})
+		
+		$("#ind_left").click(function(){
+			if (app.currentYear > app.minYear){
+				app.currentYear -= 1;
+				document.getElementById('window_year').innerHTML = app.currentYear;
+				document.getElementById('ind_year').innerHTML = app.currentYear;
+				document.getElementById('chemicalList').innerHTML = "";
+				document.getElementById('industryList').innerHTML = "";
+				parseChemicals(facility_record);
+				parseIndustry(facility_record);
+				$("#chemicalList").animate({
+					scrollTop: ('0px')},'fast');
+			    $("#IndustryList").animate({
+			    	scrollTop: ('0px')},'fast');
+			}
+		})
+		
+		$("#window_right").click(function(){
+			if (app.currentYear < app.maxYear){
+				app.currentYear += 1;
+				document.getElementById('window_year').innerHTML = app.currentYear;
+				document.getElementById('ind_year').innerHTML = app.currentYear;
+				document.getElementById('chemicalList').innerHTML = "";
+				document.getElementById('industryList').innerHTML = "";
+				parseChemicals(facility_record);
+				parseIndustry(facility_record);
+				$("#chemicalList").animate({
+					scrollTop: ('0px')},'fast');
+			    $("#IndustryList").animate({
+			    	scrollTop: ('0px')},'fast');
+			}
+		})
+		
+		$("#ind_right").click(function(){
+			if (app.currentYear < app.maxYear){
+				app.currentYear += 1;
+				document.getElementById('window_year').innerHTML = app.currentYear;
+				document.getElementById('ind_year').innerHTML = app.currentYear;
+				document.getElementById('chemicalList').innerHTML = "";
+				document.getElementById('industryList').innerHTML = "";
+				parseChemicals(facility_record);
+				parseIndustry(facility_record);
+				$("#chemicalList").animate({
+					scrollTop: ('0px')},'fast');
+			    $("#IndustryList").animate({
+			    	scrollTop: ('0px')},'fast');
+			}
+			
+		})
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	// END Popup Functionality
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	setTimeout(function(){google.load('visualization', '1', {'callback':'var nothing', 'packages':['corechart']})}, 1000);
 	// end document.ready function
 });
@@ -429,125 +709,3 @@ function showFacility(lat, lng) {
 function zoomToFacility(lat, lng) {
 	app.map.setView([lat, lng], 14);
 }
-
-// function createTabs(parsed) {
-	// //	console.log(parsed);
-	// var zoomTo = "<h5 class='zoomTo trans' onclick='zoomToFacility(" + parsed.Latitude + "," + parsed.Longitude + ")'>Zoom to Facility</h5>";
-	// var list = "<ul>";
-	// var text = "";
-	// try {
-		// l = 0;
-		// $.each(parsed.Emissions, function(item) {
-			// l += 1;
-			// list += "<li><a href='#" + item + "'>" + item + "</a></li>";
-			// text += "<div id='" + item + "'><p>";
-			// $.each(this, function(k, v) {
-				// if ( typeof v === 'object') {
-					// // the search results need this to handle if there is more than one pollutant in a year (click/query doesn't need this...)
-					// if (this[0]) {
-						// app.thisthing = this;
-						// $.each(this, function() {
-							// text += "<br/>";
-							// $.each(this, function(k1, v1) {
-								// v1 !== null && v1 !== "" ? text += k1 + ": " + v1 + "<br/>" : null;
-							// });
-						// });
-					// } else {
-						// $.each(this, function(k2, v2) {
-							// v2 !== null && v2 !== "" ? text += k2 + ": " + v2 + "<br/>" : null;
-						// });
-					// }
-				// } else {
-					// text += k + ": " + v + "<br/>";
-				// }
-				// text += "<br/>";
-			// });
-			// text += "</p></div>";
-		// });
-		// //		var $data=this;
-		// createChart(l, parsed);
-	// } catch(err) {
-		// //		console.log(err);
-	// }
-// 
-	// var info = "<div id='info'><p>" + parsed.Street + "<br/>" + parsed.City + ", " + parsed.State + " " + parsed.ZIP9 + "<br/><br/>Facility ID: " + parsed.FacilityID + "<br/>Facility Number: " + parsed.FacilityNumber + "<br/>NAICS3: " + parsed.NAICSCode3Digit + "<br/>NAICS4: " + parsed.NAICSCode4Digit + "<br/>Parent Company: " + parsed.ParentName + "<br/></p><div class='graph'></div></div>";
-	// text += info;
-	// list += "<li><a href='#info'>info</a></li></ul>";
-// 
-	// var name = "<h4 class='infoTitle'>" + parsed.Name + "</h4>";
-// 
-	// $('#tabs').html(name + app.closer + list + text + zoomTo);
-	// $("#tabs").tabs("refresh");
-// 
-	// //activate tab for currentyear on map
-	// //doesn't work because tabs all get default tabindex of -1 for some reason
-	// //			var index = $('#tabs ul').index($('#'+JSON.stringify(app.currentYear)));
-	// //			$('#tabs').tabs({active: index});
-// 
-	// //activate info tab by default
-	// $("#tabs").tabs({
-		// active : -1
-	// });
-// 
-	// $(".facilityInfo").fadeIn(500);
-// }
-// 
-// function createChart(l, data) {
-	// console.log(l, data);
-	// if (l === 1 || l === 0) {
-		// // none or only one year so set the chart area to say no chart
-		// $('.graph').html('<p class="noChart">Not enough data for a chart</p>');
-	// } else {
-		// $('.graph').html('');
-		// var da = [['Year', 'Total Pounds Released', 'Risk']];
-		// $.each(data.Emissions, function(k, v) {
-			// // console.log(k,v);
-			// da.push([k, v.TotalPounds, v.TotalScore]);
-		// });
-		// drawChart(da);
-	// }
-// }
-
-// function drawChart(d) {
-	// var cd = google.visualization.arrayToDataTable(d);
-	// // console.log(d,data);
-	// // app.d = d;
-	// // app.chartdata = data;
-	// //set the chart properties
-	// // var options = {
-		// // title : 'Facility Performance',
-		// // hAxis : {
-			// // gridlines : {
-				// // color : '#333',
-				// // count : 10
-			// // }
-		// // },
-		// // series : {
-			// // 0 : {
-				// // targetAxisIndex : 0
-			// // },
-			// // 1 : {
-				// // targetAxisIndex : 1
-			// // }
-		// // },
-		// // vAxes : {
-			// // 0 : {
-				// // textStyle : {
-					// // color : 'blue'
-				// // },
-				// // label : 'Total Pounds Released'
-			// // },
-			// // 1 : {
-				// // textStyle : {
-					// // color : 'red'
-				// // },
-				// // label : 'Risk'
-			// // }
-		// // }
-	// // };
-	// console.log(here);
-	// var chart = new google.visualization.LineChart($('.graph')[0]);
-	// // chart.draw(data, options);
-	// chart.draw(cd);
-	// app.chart = chart;
-// }

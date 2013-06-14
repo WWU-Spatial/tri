@@ -18,11 +18,20 @@
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
 	<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" /><![endif]-->
 
-	<!-- jQuery -->
-  	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  	<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
-	
-	<!-- google charting -->
+	<!-- All SS will get compiled into one file at production time -->
+	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.core.css" />
+	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.widgets.css" />
+	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.tabs.css" />
+	<!-- <link rel="stylesheet" href="http://myweb.wwu.edu/lesserj/tri/leaflet/assets/css/info_widget.css" /> -->
+
+	<!-- All JS will get compiled into one file at production time -->
+	<script type="text/javascript" src="assets/js/jquery-1.10.0.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-ui-1.10.3.core.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-ui-1.10.3.widget.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-ui-1.10.3.tabs.js"></script>
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="../assets/js/es5-shim.min.js"></script>
+	<![endif]-->
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
 	<!-- mapping -->	
@@ -74,7 +83,46 @@
 	
 	<!-- facility info -->
 	<div id="hover" class="dropshadow trans"></div>
-	<div id="tabs" class="facilityInfo dropshadow trans"></div>
+	<div id="facility_tabs" class="noselect dropshadow" style="display: none;">
+		<ul class="yesselect">
+			<li>
+				<a href="#general_tab">General</a>
+			</li>
+			<li>
+				<a href="#chemical_tab">Chemical</a>
+			</li>
+			<li>
+				<a href="#industry_tab">Industry</a>
+			</li>
+		</ul>
+		<div id="general_tab" class="tab yesselect">
+			<div id="info_title"></div>
+			<div class='graph'></div>
+			<div id='info_industry'></div>
+			<div id='info_address'></div>
+			<div id='info_contact'></div>
+			<div class="zoom_to transition">
+				Zoom to Facility
+			</div>
+		</div>
+		<div id="chemical_tab" class="tab yesselect">
+			<div id="chemicalYearToggle" class="noselect">
+				<div id="window_left" class="arrow-left"></div>
+				<div id="window_year" class="year-label"></div>
+				<div id="window_right" class="arrow-right"></div>
+			</div>
+			<div id="chemicalList" class="list"></div>
+		</div>
+		<div id="industry_tab" class="tab yesselect">
+			<div id="industryYearToggle" class="noselect">
+				<div id="ind_left" class="arrow-left"></div>
+				<div id="ind_year" class="year-label"></div>
+				<div id="ind_right" class="arrow-right"></div>
+			</div>
+			<div id="industryList" class="list"></div>
+		</div>
+	</div>
+
 	
 	<div id="mapStuff">	
 		<div id="bordercontainer">
