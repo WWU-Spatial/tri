@@ -61,6 +61,11 @@ $(document).ready(function() {
 		app.y2003 = L.tileLayer('http://140.160.114.197/tiles/2003/{z}/{x}/{y}.png');
 		app.y2002 = L.tileLayer('http://140.160.114.197/tiles/2002/{z}/{x}/{y}.png');
 		app.y2001 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+		app.y2000 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+		app.y1999 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+		app.y1998 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+		app.y1997 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+		app.y1996 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
 		app.utfGrid = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
 
 		app.map = L.map('map', {
@@ -156,7 +161,12 @@ $(document).ready(function() {
 			"L2004" : app.y2004,
 			"L2003" : app.y2003,
 			"L2002" : app.y2002,
-			"L2001" : app.y2001
+			"L2001" : app.y2001,
+			"L2000" : app.y2000,
+			"L1999" : app.y1999,
+			"L1998" : app.y1998,
+			"L1997" : app.y1997,
+			"L1996" : app.y1996
 		};
 
 		// change year
