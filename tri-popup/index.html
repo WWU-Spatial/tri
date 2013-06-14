@@ -161,6 +161,8 @@
 				app = {};
 				app.currentYear = 2010;
 				app.chartData = {};
+				app.maxYear = 2010;
+				app.minYear = 2001;
 
 				// load google api
 				google.load("visualization", "1", {
@@ -177,26 +179,32 @@
 				// var url = 'http://140.160.114.197/api/v3/facility/110280.json'; //No Data
 				function getData(){
 					
+					//Set info window year to current year
+					document.getElementById('window_year').innerHTML = app.currentYear;
+					
 					$.ajax({
 						dataType : "json",
 						url : url,
-						success : function(data) {
-							loadChart(data);
-							parseFacility(data);
+						success : function(facility_record) {
+							loadChart(facility_record);
+							parseFacility(facility_record);
+							parseChemicals(facility_record)
+							initChemListListener();
+							initYearChangers(facility_record);
 						}
 					});
 				}	
 				
-				function loadChart(data){		
+				function loadChart(facility_record){		
 					// create chart data
-					if (!data.Emissions || Object.keys(data.Emissions).length === 1){
+					if (!facility_record.Emissions || Object.keys(facility_record.Emissions).length === 1){
 						// no years of data so set the chart area to say no chart
 						$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
 					} else {	
 						var data;
 						var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
 						var chart = new google.visualization.LineChart($('.graph')[0]);
-						$.each(data.Emissions, function(k,v){
+						$.each(facility_record.Emissions, function(k,v){
 							chart_data.push([k, v.TotalPounds, v.TotalScore]);
 						});
 						
@@ -235,19 +243,23 @@
 					}
 				}
 	
-				function parseFacility(data) {
+				function parseFacility(facility_record) {
+
+					document.getElementById('info_title').innerHTML = '<STRONG>' + facility_record['Name'] + '</STRONG>';
+					document.getElementById('info_industry').innerHTML = 'Industry: ' + facility_record['NAICS1']['name'];
+					document.getElementById('info_address').innerHTML = '<p>' + facility_record['Street'] + '<br />' + facility_record['City'] + ' ' + facility_record['State'] + ', ' + facility_record['ZIPCode'] + '<br />' + facility_record['Latitude'] + ' ' + facility_record['Longitude'] + '</p>';
+					document.getElementById('info_contact').innerHTML = '<p>' + facility_record['PublicContactName'] + '<br />' + facility_record['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+					
+				}
+				
+				function parseChemicals(facility_record){
 					var chemList = document.getElementById('chemicalList');
-					
-					
 					try {
-						var emissions = data['Emissions'][app.currentYear]['Submissions']
+						var emissions = facility_record['Emissions'][app.currentYear]['Submissions'];
 					} catch(err) {
 						var emissions = 'NoData';
 					}
-					document.getElementById('info_title').innerHTML = '<STRONG>' + data['Name'] + '</STRONG>';
-					document.getElementById('info_industry').innerHTML = 'Industry: ' + data['NAICS1']['name'];
-					document.getElementById('info_address').innerHTML = '<p>' + data['Street'] + '<br />' + data['City'] + ' ' + data['State'] + ', ' + data['ZIPCode'] + '<br />' + data['Latitude'] + ' ' + data['Longitude'] + '</p>';
-					document.getElementById('info_contact').innerHTML = '<p>' + data['PublicContactName'] + '<br />' + data['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+					
 					if (emissions != 'NoData') {
 						emissions.sort(function(a, b) {
 							//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
@@ -269,7 +281,9 @@
 					} else {
 						chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
 					}
+				}
 				
+				function initChemListListener(){
 					//Event Listener for chemical list click
 					$("#chemicalList").click(function(e) {
 						var target = $(e.target);
@@ -303,7 +317,6 @@
 					  				chem_details.show();
 					  			}
 					  		}
-					  		
 						}
 					})
 				}
@@ -387,6 +400,27 @@
 					
 					//Add html to chemical div
 					document.getElementById('inf' + casNum).innerHTML = html;			
+				}
+				
+				function initYearChangers(facility_record){
+					$("#window_left").click(function(){
+						if (app.currentYear > app.minYear){
+							app.currentYear -= 1;
+							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('chemicalList').innerHTML = "";
+							parseChemicals(facility_record);
+						}
+					})
+					
+					$("#window_right").click(function(){
+						if (app.currentYear < app.maxYear){
+							app.currentYear += 1;
+							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('chemicalList').innerHTML = "";
+							parseChemicals(facility_record);
+						}
+						
+					})
 				}
 
 			})();
