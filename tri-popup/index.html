@@ -116,11 +116,52 @@
 				margin: 0 auto;
 			}
 			
+			.noselect{
+				-webkit-user-select: none;  
+				-moz-user-select: none;    
+				-ms-user-select: none;      
+				user-select: none;
+			}
+			
+			.yesselect {
+				-webkit-user-select: auto;  
+				-moz-user-select: auto;    
+				-ms-user-select: auto;      
+				user-select: auto;
+			}
+			
+			.zoom_to {
+				position: relative;
+				bottom: 0px;
+				width: 100%;
+				text-align: center;
+				font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+				margin: 0 auto;
+				padding: 5px 0;
+				cursor: pointer;
+				font-weight: bold;
+			}
+			
+			.zoom_to:hover {
+				background-color: rgb(210, 210, 210);
+				color: #000;
+			}
+			
+			.transition{
+				-o-transition: .7s;
+				-ms-transition: .7s;
+				-moz-transition: .7s;
+				-webkit-transition: .7s;
+				transition: .7s;
+			}
+			
+			
+			
 		</style>
 	</head>
 	<body>
-		<div id="facility_tabs">
-			<ul>
+		<div id="facility_tabs" class="noselect">
+			<ul class="yesselect">
 				<li>
 					<a href="#general_tab">General</a>
 				</li>
@@ -131,7 +172,7 @@
 					<a href="#industry_tab">Industry</a>
 				</li>
 			</ul>
-			<div id="general_tab" class="tab">
+			<div id="general_tab" class="tab yesselect">
 				<div id="info_title">
 					<strong></strong>
 				</div>
@@ -139,20 +180,20 @@
 				<div id='info_industry'></div>
 				<div id='info_address'></div>
 				<div id='info_contact'></div>
-				<div class="zoom_to">
+				<div class="zoom_to transition">
 					Zoom to Facility
 				</div>
 			</div>
-			<div id="chemical_tab" >
-				<div id="chemicalYearToggle" >
+			<div id="chemical_tab" class="tab yesselect">
+				<div id="chemicalYearToggle" class="noselect">
 					<div id="window_left" class="arrow-left"></div>
 					<div id="window_year" class="year-label"></div>
 					<div id="window_right" class="arrow-right"></div>
 				</div>
 				<div id="chemicalList" class="list"></div>
 			</div>
-			<div id="industry_tab" class="tab">
-				<div id="industryYearToggle" >
+			<div id="industry_tab" class="tab yesselect">
+				<div id="industryYearToggle" class="noselect">
 					<div id="ind_left" class="arrow-left"></div>
 					<div id="ind_year" class="year-label"></div>
 					<div id="ind_right" class="arrow-right"></div>
