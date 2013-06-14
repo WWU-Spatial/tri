@@ -336,9 +336,9 @@ $(document).ready(function() {
 		$("#tabs").tabs({
 			active : -1
 		});
+		$(".facilityInfo").fadeIn(500);
 		
 		createChart(l, parsed);
-		$(".facilityInfo").fadeIn(500);
 	}
 	
 	function createChart(l, data) {
