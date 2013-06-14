@@ -1,7 +1,7 @@
 var app = {};
 app.currentYear = 2010;
 app.maxYear = 2010;
-app.minYear = 2001;
+app.minYear = 1996;
 app.clickedFacilityIcon = L.divIcon({
 	className : 'clickedFacility'
 });
