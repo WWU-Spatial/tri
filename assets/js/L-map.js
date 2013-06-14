@@ -28,7 +28,7 @@ $(document).ready(function() {
 			autoSize : false
 		});
 
-		$("#tabs").tabs();
+		$("#facility_tabs").tabs();
 
 		//make facilityInfo div draggable
 		//buggy when scrollbar is present
@@ -329,29 +329,6 @@ $(document).ready(function() {
 	
 	//Popup Functionality
 	
-	
-	
-	
-	function getData(facility_number){
-		var url = 'http://140.160.114.197/api/v3/facility/' + facility_number + '.json';
-					
-		//Set info window year to current year
-		document.getElementById('window_year').innerHTML = app.currentYear;
-		document.getElementById('ind_year').innerHTML = app.currentYear;
-		
-		$.ajax({
-			dataType : "json",
-			url : url,
-			success : function(facility_record) {
-				loadChart(facility_record);
-				parseFacility(facility_record);
-				parseChemicals(facility_record);
-				parseIndustry(facility_record);
-				initChemListListener();
-				initYearChangers(facility_record);
-			}
-		});
-	}	
 	
 	function loadChart(facility_record){		
 		// create chart data
