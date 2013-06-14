@@ -26,11 +26,11 @@
 				font-size: 0.8em;
 			}
 			
-			#chemical_tab{
+			#chemical_tab, #industry_tab{
 				padding: 0;
 			}
 			
-			#chemicalYearToggle {
+			#chemicalYearToggle, #industryYearToggle {
 				position: relative;
 				height: 30px;
 				text-align: center;
@@ -79,8 +79,6 @@
 				
 			}
 				
-			
-			
 			.graph {
 				width: 300px;
 				height: 150px;
@@ -153,7 +151,14 @@
 				</div>
 				<div id="chemicalList" class="list"></div>
 			</div>
-			<div id="industry_tab" class="tab"></div>
+			<div id="industry_tab" class="tab">
+				<div id="industryYearToggle" >
+					<div id="ind_left" class="arrow-left"></div>
+					<div id="ind_year" class="year-label"></div>
+					<div id="ind_right" class="arrow-right"></div>
+				</div>
+				<div id="industryList" class="list"></div>
+			</div>
 		</div>
 
 		<script>
@@ -181,6 +186,7 @@
 					
 					//Set info window year to current year
 					document.getElementById('window_year').innerHTML = app.currentYear;
+					document.getElementById('ind_year').innerHTML = app.currentYear;
 					
 					$.ajax({
 						dataType : "json",
@@ -188,7 +194,8 @@
 						success : function(facility_record) {
 							loadChart(facility_record);
 							parseFacility(facility_record);
-							parseChemicals(facility_record)
+							parseChemicals(facility_record);
+							parseIndustry(facility_record);
 							initChemListListener();
 							initYearChangers(facility_record);
 						}
@@ -278,6 +285,33 @@
 						}
 					} else {
 						chemList.innerHTML = 'No Chemical Air Releases in ' + app.currentYear;
+					}
+				}
+				
+				function parseIndustry(facility_record){
+					var industryList = document.getElementById('industryList');
+					
+					for (var i=1; i < 10; i++){
+						if (facility_record['NAICS' + i]){
+							var div = document.createElement('div');
+							var html = ""
+							div.setAttribute('class', 'chemical_row');
+							html += '<strong>' + facility_record['NAICS' + i]['name'] + '</strong><br />';
+							if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] === 1){
+								html += 'There is only 1 facility of this type in the country.'
+							} else if (facility_record['NAICS' + i][app.currentYear]['state_count'] === 1 && facility_record['NAICS' + i][app.currentYear]['us_count'] > 1){
+								html += 'There is only 1 facility of this type in the State. There are ' + facility_record['NAICS' + i][app.currentYear]['us_count'] + ' in the country. It emits more pounds of chemicals than ' 
+										+ facility_record['NAICS' + i][app.currentYear]['us_count'] + ' percent of facilities of this type in the country.  It is riskier than ' 
+										+ facility_record['NAICS' + i][app.currentYear]['us_score_pct'] + ' percent of facilities of this type in the country.';
+							} else {
+								html += 'There are ' + facility_record['NAICS' + i][app.currentYear]['state_count'] 
+										+ ' facilities of this type in this state and ' + facility_record['NAICS' + i][app.currentYear]['us_count'] + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS'
+										 + i][app.currentYear]['state_pounds_pct'] + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.currentYear]['us_pounds_pct'] + ' percent in the country. The facility is riskier than '
+										 + facility_record['NAICS' + i][app.currentYear]['state_score_pct'] + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.currentYear]['us_score_pct'] + ' percent in the country.'
+							}
+							div.innerHTML = html;
+							industryList.appendChild(div);
+						}
 					}
 				}
 				
@@ -400,15 +434,37 @@
 					document.getElementById('inf' + casNum).innerHTML = html;			
 				}
 				
+				//This is put together really inefficiently and should be refactored to eliminate redundancy
 				function initYearChangers(facility_record){
 					$("#window_left").click(function(){
 						if (app.currentYear > app.minYear){
 							app.currentYear -= 1;
 							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('ind_year').innerHTML = app.currentYear;
 							document.getElementById('chemicalList').innerHTML = "";
+							document.getElementById('industryList').innerHTML = "";
 							parseChemicals(facility_record);
+							parseIndustry(facility_record);
 							$("#chemicalList").animate({
-								    scrollTop: ('0px')},'fast');
+								scrollTop: ('0px')},'fast');
+						    $("#IndustryList").animate({
+						    	scrollTop: ('0px')},'fast');
+						}
+					})
+					
+					$("#ind_left").click(function(){
+						if (app.currentYear > app.minYear){
+							app.currentYear -= 1;
+							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('ind_year').innerHTML = app.currentYear;
+							document.getElementById('chemicalList').innerHTML = "";
+							document.getElementById('industryList').innerHTML = "";
+							parseChemicals(facility_record);
+							parseIndustry(facility_record);
+							$("#chemicalList").animate({
+								scrollTop: ('0px')},'fast');
+						    $("#IndustryList").animate({
+						    	scrollTop: ('0px')},'fast');
 						}
 					})
 					
@@ -416,10 +472,31 @@
 						if (app.currentYear < app.maxYear){
 							app.currentYear += 1;
 							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('ind_year').innerHTML = app.currentYear;
 							document.getElementById('chemicalList').innerHTML = "";
+							document.getElementById('industryList').innerHTML = "";
 							parseChemicals(facility_record);
+							parseIndustry(facility_record);
 							$("#chemicalList").animate({
-								    scrollTop: ('0px')},'fast');
+								scrollTop: ('0px')},'fast');
+						    $("#IndustryList").animate({
+						    	scrollTop: ('0px')},'fast');
+						}
+					})
+					
+					$("#ind_right").click(function(){
+						if (app.currentYear < app.maxYear){
+							app.currentYear += 1;
+							document.getElementById('window_year').innerHTML = app.currentYear;
+							document.getElementById('ind_year').innerHTML = app.currentYear;
+							document.getElementById('chemicalList').innerHTML = "";
+							document.getElementById('industryList').innerHTML = "";
+							parseChemicals(facility_record);
+							parseIndustry(facility_record);
+							$("#chemicalList").animate({
+								scrollTop: ('0px')},'fast');
+						    $("#IndustryList").animate({
+						    	scrollTop: ('0px')},'fast');
 						}
 						
 					})
