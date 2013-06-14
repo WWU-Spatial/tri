@@ -252,13 +252,7 @@
 						var data;
 						var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
 						var chart = new google.visualization.LineChart($('.graph')[0]);
-						$.each(facility_record.Emissions, function(k,v){
-							chart_data.push([k, v.TotalPounds, v.TotalScore]);
-						});
-						
-						data = google.visualization.arrayToDataTable(chart_data)
-						//set the chart properties
-						options = {
+						var options = {
 							title : 'Facility Performance',
 							hAxis:{
 								gridlines: {
@@ -284,10 +278,16 @@
 					                label: 'Risk'
 					            }
 					        },
+					        chartArea: {width: '92%'},
+					        vAxis: {textPosition: 'in'}
 
 						};
+						$.each(facility_record.Emissions, function(k,v){
+							chart_data.push([k, v.TotalPounds, v.TotalScore]);
+						});
+						//set the chart properties
+						data = google.visualization.arrayToDataTable(chart_data)
 						chart.draw(data, options);
-						app.chart = chart;
 					}
 				}
 	
