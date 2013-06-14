@@ -91,6 +91,7 @@ $(document).ready(function() {
 					dataType : "json",
 					url : url,
 					success : function(facility_record) {
+						cleanPopup();
 						loadChart(facility_record);
 						parseFacility(facility_record);
 						parseChemicals(facility_record);
@@ -320,7 +321,17 @@ $(document).ready(function() {
 	
 	
 	
-	
+	function cleanPopup(){
+		console.log('cleaning');
+		$('.graph').html = "";
+		document.getElementById('info_title').innerHTML = '';
+		document.getElementById('info_industry').innerHTML = '';
+		document.getElementById('info_address').innerHTML = '';
+		document.getElementById('info_contact').innerHTML = '';
+		document.getElementById('chemicalList').innerHTML = '';
+		document.getElementById('industryList').innerHTML = '';
+		
+	}
 	
 	
 	
@@ -330,7 +341,8 @@ $(document).ready(function() {
 	//Popup Functionality
 	
 	
-	function loadChart(facility_record){		
+	function loadChart(facility_record){
+		
 		// create chart data
 		if (!facility_record.Emissions || Object.keys(facility_record.Emissions).length === 1){
 			// no years of data so set the chart area to say no chart
@@ -372,6 +384,7 @@ $(document).ready(function() {
 			$.each(facility_record.Emissions, function(k,v){
 				chart_data.push([k, v.TotalPounds, v.TotalScore]);
 			});
+			
 			//set the chart properties
 			data = google.visualization.arrayToDataTable(chart_data)
 			chart.draw(data, options);
