@@ -505,7 +505,6 @@ div.leaflet-bottom.leaflet-right{
 			.graph {
 				width: 300px;
 				height: 150px;
-				border: 1px dashed blue;
 				margin-left: auto;
 				margin-right: auto;
 				clear: both;
@@ -555,7 +554,8 @@ div.leaflet-bottom.leaflet-right{
 			}
 			
 			.zoom_to {
-				position: relative;
+				position: absolute;
+				left: 0px;
 				bottom: 0px;
 				width: 100%;
 				text-align: center;

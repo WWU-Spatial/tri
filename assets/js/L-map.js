@@ -94,10 +94,10 @@ $(document).ready(function() {
 					success : function(facility_record) {
 						app.windowYear = app.mapYear;
 						cleanPopup();
-						loadChart(facility_record);
 						parseFacility(facility_record);
 						parseChemicals(facility_record);
 						parseIndustry(facility_record);
+						loadChart(facility_record);
 						initChemListListener();
 						initYearChangers(facility_record);
 					}
@@ -378,7 +378,7 @@ $(document).ready(function() {
 		                label: 'Risk'
 		            }
 		        },
-		        chartArea: {width: '92%'},
+		        chartArea: {width: '97%'},
 		        vAxis: {textPosition: 'in'}
 
 			};
