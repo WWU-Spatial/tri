@@ -203,23 +203,6 @@ $(document).ready(function() {
 				$('#currentyear').html(app.mapYear);
 			}
 		}
-		
-		var playForward, playBackward;
-		var Forward  = function(){
-			stop();
-			playForward = setInterval(toggleUp, 3000);
-		}
-		var Backward = function(){
-			stop();
-			playBackward = setInterval(toggleDown, 3000);
-		}
-		$(".playForward").click(Forward);
-		$(".playBackward").click(Backward);
-		$(".stop").click(stop);
-		function stop(){
-			clearInterval(playForward);
-			clearInterval(playBackward);
-		}
 
 		//change basemap
 		$('#tonerThumb').bind('click', function() {
