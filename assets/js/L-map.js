@@ -314,6 +314,7 @@ $(document).ready(function() {
 		document.getElementById('info_contact').innerHTML = '';
 		document.getElementById('chemicalList').innerHTML = '';
 		document.getElementById('industryList').innerHTML = '';
+		//Put remove listeners in here
 		
 	}
 	
@@ -381,6 +382,15 @@ $(document).ready(function() {
 		document.getElementById('info_industry').innerHTML = 'Industry: ' + facility_record['NAICS1']['name'];
 		document.getElementById('info_address').innerHTML = '<p>' + facility_record['Street'] + '<br />' + facility_record['City'] + ' ' + facility_record['State'] + ', ' + facility_record['ZIPCode'] + '<br />' + facility_record['Latitude'] + ' ' + facility_record['Longitude'] + '</p>';
 		document.getElementById('info_contact').innerHTML = '<p>' + facility_record['PublicContactName'] + '<br />' + facility_record['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+		
+		//remove previous zoomto listner
+		$(".zoom_to").off('click.zoom');
+		
+		//Add zoom to listner
+		$(".zoom_to").on('click.zoom', function(){
+			zoomToFacility(facility_record['Latitude'], facility_record['Longitude']);
+		});
+		
 	}
 	
 	function parseChemicals(facility_record){
@@ -630,5 +640,5 @@ function showFacility(lat, lng) {
 }
 
 function zoomToFacility(lat, lng) {
-	app.map.setView([lat, lng], 14);
+	app.map.setView([lat, lng], 11);
 }
