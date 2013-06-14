@@ -244,12 +244,10 @@
 				}
 	
 				function parseFacility(facility_record) {
-
 					document.getElementById('info_title').innerHTML = '<STRONG>' + facility_record['Name'] + '</STRONG>';
 					document.getElementById('info_industry').innerHTML = 'Industry: ' + facility_record['NAICS1']['name'];
 					document.getElementById('info_address').innerHTML = '<p>' + facility_record['Street'] + '<br />' + facility_record['City'] + ' ' + facility_record['State'] + ', ' + facility_record['ZIPCode'] + '<br />' + facility_record['Latitude'] + ' ' + facility_record['Longitude'] + '</p>';
 					document.getElementById('info_contact').innerHTML = '<p>' + facility_record['PublicContactName'] + '<br />' + facility_record['PublicContactPhone'].replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
-					
 				}
 				
 				function parseChemicals(facility_record){
@@ -409,6 +407,8 @@
 							document.getElementById('window_year').innerHTML = app.currentYear;
 							document.getElementById('chemicalList').innerHTML = "";
 							parseChemicals(facility_record);
+							$("#chemicalList").animate({
+								    scrollTop: ('0px')},'fast');
 						}
 					})
 					
@@ -418,6 +418,8 @@
 							document.getElementById('window_year').innerHTML = app.currentYear;
 							document.getElementById('chemicalList').innerHTML = "";
 							parseChemicals(facility_record);
+							$("#chemicalList").animate({
+								    scrollTop: ('0px')},'fast');
 						}
 						
 					})
