@@ -167,7 +167,7 @@ $(document).ready(function() {
 			toggleDown()
 		});
 
-		function toggleUp() {
+		var toggleUp = function() {
 			if (app.currentYear < app.maxYear) {
 				app.map.removeLayer(app.overlayMaps['L' + app.currentYear]);
 				app.currentYear += 1;
@@ -177,7 +177,7 @@ $(document).ready(function() {
 			}
 		}
 
-		function toggleDown() {
+		var toggleDown = function() {
 			if (app.currentYear > app.minYear) {
 				app.map.removeLayer(app.overlayMaps['L' + app.currentYear]);
 				app.currentYear -= 1;
@@ -185,6 +185,23 @@ $(document).ready(function() {
 				app.map.addLayer(app.overlayMaps[New]);
 				$('#currentyear').html(app.currentYear);
 			}
+		}
+		
+		var playForward, playBackward;
+		var Forward  = function(){
+			stop();
+			playForward = setInterval(toggleUp, 3000);
+		}
+		var Backward = function(){
+			stop();
+			playBackward = setInterval(toggleDown, 3000);
+		}
+		$(".playForward").click(Forward);
+		$(".playBackward").click(Backward);
+		$(".stop").click(stop);
+		function stop(){
+			clearInterval(playForward);
+			clearInterval(playBackward);
 		}
 
 		//change basemap
