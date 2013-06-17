@@ -19,7 +19,6 @@ $(document).ready(function() {
 	google.setOnLoadCallback(init);
 
 	function init() {
-		// console.log('here');
 		// initiate plugins
 
 		$(".fancybox").fancybox({
@@ -97,7 +96,15 @@ $(document).ready(function() {
 						parseFacility(facility_record);
 						parseChemicals(facility_record);
 						parseIndustry(facility_record);
-						loadChart(facility_record);
+						if($("#general_tab").attr('aria-expanded') === 'true'){
+							loadChart(facility_record);
+						} else {
+							$("#general_tab_btn").on('click.draw_chart', function(){
+								loadChart(facility_record);
+								$("#general_tab_btn").off('click.draw_chart');
+							})
+						}
+						
 						initChemListListener();
 						initYearChangers(facility_record);
 					}
@@ -271,7 +278,6 @@ $(document).ready(function() {
 				$.ajax({
 					url : 'http://140.160.114.197/search/tri/facilities/?q=' + $this.val(),
 					success : function(r) {
-						console.log($("#searchresults").children().length);
 						$("#searchresults").empty();
 						if (r.hits.hits[0]) {
 							$("#searchresultsbox").height('60%');
@@ -293,7 +299,6 @@ $(document).ready(function() {
 						$('#loading').fadeOut(500);
 					},
 					error : function(e) {
-						console.log(e);
 						$('#loading').fadeOut(500);
 					}
 				});
@@ -318,8 +323,7 @@ $(document).ready(function() {
 		document.getElementById('info_contact').innerHTML = '';
 		document.getElementById('chemicalList').innerHTML = '';
 		document.getElementById('industryList').innerHTML = '';
-		console.log(document.getElementById("facility_tabs").innerHTML);
-		
+
 	}
 	
 
@@ -476,7 +480,6 @@ $(document).ready(function() {
 				//Check to see if data was downloaded during a previous click
 				//If not, download data
 		  		if (!target.hasClass("data_loaded")){
-		  			console.log('here');
 		  			//Position from top of chemical list to scroll list to
 		  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
 		  			
@@ -491,7 +494,6 @@ $(document).ready(function() {
 		  			
 		  		} else {
 		  			//If data already loaded, hide or show the chemical details depending on the current view state
-		  			console.log('there');
 		  			if (chem_details.is(":visible")){
 		  				chem_details.hide();
 		  			} else {
