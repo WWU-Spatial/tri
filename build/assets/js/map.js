@@ -12170,16 +12170,19 @@ if (typeof L === "object") {
 
 })(typeof exports === "undefined" ? this : exports);
 (function(){
-
-	var app = {};
-	app.windowYear = 2010;
-	app.mapYear = 2010;
-	app.maxYear = 2010;
-	app.minYear = 1996;
-	app.clickedFacilityIcon = L.divIcon({
+	console.log('running');
+	var windowYear = 2010;
+	var mapYear = 2010;
+	var maxYear = 2010;
+	var minYear = 1996;
+	var marker;
+	var clickedFacilityIcon = L.divIcon({
 		className : 'clickedFacility'
 	});
-	app.stamenAttribution = '<p>Map tiles by <a href="http://stamen.com">Stamen Design</a>,<br/>under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.<br/>Data by <a href="http://openstreetmap.org">OpenStreetMap</a>,<br/>under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.</p>';
+	var mouseX, mouseY;
+	var map;
+	var layers = {};
+	var stamenAttribution = '<p>Map tiles by <a href="http://stamen.com">Stamen Design</a>,<br/>under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.<br/>Data by <a href="http://openstreetmap.org">OpenStreetMap</a>,<br/>under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.</p>';
 	
 	$(document).ready(function() {
 		// load google api
@@ -12189,7 +12192,7 @@ if (typeof L === "object") {
 		google.setOnLoadCallback(init);
 	
 		function init() {
-			// initiate plugins
+			var utfClick;
 	
 			$(".fancybox").fancybox({
 				fitToView : false,
@@ -12200,57 +12203,51 @@ if (typeof L === "object") {
 	
 			$("#facility_tabs").tabs();
 	
-			//make facilityInfo div draggable
-			//buggy when scrollbar is present
-			//		$( ".facilityInfo" ).draggable();
-	
 			// get mouse position for tooltip
 			$(document).mousemove(function(e) {
-				app.mouseX = e.pageX;
-				app.mouseY = e.pageY;
+				mouseX = e.pageX;
+				mouseY = e.pageY;
 			});
-	
-			app.tooltipWidth = $("hover").css("max-width");
-	
-			// replace "toner" here with "terrain" or "watercolor"
-			app.toner = new L.StamenTileLayer("toner-lite", {
-				attribution : app.stamenAttribution
+			
+			layers.toner = new L.StamenTileLayer("toner-lite", {
+				attribution : stamenAttribution
 			});
-			app.satellite = new L.TileLayer("//otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png", {});
-			app.streets = new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			layers.satellite = new L.TileLayer("//otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png", {});
+			layers.streets = new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 				attribution : '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 			});
 	
-			app.y2010 = L.tileLayer('http://140.160.114.197/tiles/2010/{z}/{x}/{y}.png');
-			app.y2009 = L.tileLayer('http://140.160.114.197/tiles/2009/{z}/{x}/{y}.png');
-			app.y2008 = L.tileLayer('http://140.160.114.197/tiles/2008/{z}/{x}/{y}.png');
-			app.y2007 = L.tileLayer('http://140.160.114.197/tiles/2007/{z}/{x}/{y}.png');
-			app.y2006 = L.tileLayer('http://140.160.114.197/tiles/2006/{z}/{x}/{y}.png');
-			app.y2005 = L.tileLayer('http://140.160.114.197/tiles/2005/{z}/{x}/{y}.png');
-			app.y2004 = L.tileLayer('http://140.160.114.197/tiles/2004/{z}/{x}/{y}.png');
-			app.y2003 = L.tileLayer('http://140.160.114.197/tiles/2003/{z}/{x}/{y}.png');
-			app.y2002 = L.tileLayer('http://140.160.114.197/tiles/2002/{z}/{x}/{y}.png');
-			app.y2001 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
-			app.y2000 = L.tileLayer('http://140.160.114.197/tiles/2000/{z}/{x}/{y}.png');
-			app.y1999 = L.tileLayer('http://140.160.114.197/tiles/1999/{z}/{x}/{y}.png');
-			app.y1998 = L.tileLayer('http://140.160.114.197/tiles/1998/{z}/{x}/{y}.png');
-			app.y1997 = L.tileLayer('http://140.160.114.197/tiles/1997/{z}/{x}/{y}.png');
-			app.y1996 = L.tileLayer('http://140.160.114.197/tiles/1996/{z}/{x}/{y}.png');
-			app.utfGrid = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.y2010 = L.tileLayer('http://140.160.114.197/tiles/2010/{z}/{x}/{y}.png');
+			layers.y2009 = L.tileLayer('http://140.160.114.197/tiles/2009/{z}/{x}/{y}.png');
+			layers.y2008 = L.tileLayer('http://140.160.114.197/tiles/2008/{z}/{x}/{y}.png');
+			layers.y2007 = L.tileLayer('http://140.160.114.197/tiles/2007/{z}/{x}/{y}.png');
+			layers.y2006 = L.tileLayer('http://140.160.114.197/tiles/2006/{z}/{x}/{y}.png');
+			layers.y2005 = L.tileLayer('http://140.160.114.197/tiles/2005/{z}/{x}/{y}.png');
+			layers.y2004 = L.tileLayer('http://140.160.114.197/tiles/2004/{z}/{x}/{y}.png');
+			layers.y2003 = L.tileLayer('http://140.160.114.197/tiles/2003/{z}/{x}/{y}.png');
+			layers.y2002 = L.tileLayer('http://140.160.114.197/tiles/2002/{z}/{x}/{y}.png');
+			layers.y2001 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
+			layers.y2000 = L.tileLayer('http://140.160.114.197/tiles/2000/{z}/{x}/{y}.png');
+			layers.y1999 = L.tileLayer('http://140.160.114.197/tiles/1999/{z}/{x}/{y}.png');
+			layers.y1998 = L.tileLayer('http://140.160.114.197/tiles/1998/{z}/{x}/{y}.png');
+			layers.y1997 = L.tileLayer('http://140.160.114.197/tiles/1997/{z}/{x}/{y}.png');
+			layers.y1996 = L.tileLayer('http://140.160.114.197/tiles/1996/{z}/{x}/{y}.png');
+			layers.utfGrid = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
 	
-			app.map = L.map('map', {
+			map = L.map('map', {
 				center : new L.LatLng(39, -98),
 				zoom : 5,
-				layers : [app.toner, app.y2010, app.utfGrid],
+				layers : [layers.toner, layers.y2010, layers.utfGrid],
 				maxZoom : 16,
 				fadeAnimation : false
-			})
+			});
+			
 			// hide loading message on map load
-			.whenReady(function() {
+			map.whenReady(function() {
 				$('#loading').fadeOut(500);
 			});
 	
-			app.utfClick = function(e) {
+			utfClick = function(e) {
 				if (e.data) {
 					loadPopup(e.data.facilitynu);
 				}
@@ -12260,14 +12257,14 @@ if (typeof L === "object") {
 				var url = 'http://140.160.114.197/api/v3/facility/' + facility_number + '.json';
 	
 				//Set info window year to current year
-				document.getElementById('window_year').innerHTML = app.windowYear;
-				document.getElementById('ind_year').innerHTML = app.windowYear;
+				document.getElementById('window_year').innerHTML = windowYear;
+				document.getElementById('ind_year').innerHTML = windowYear;
 	
 					$.ajax({
 						dataType : "json",
 						url : url,
 						success : function(facility_record) {
-							app.windowYear = app.mapYear;
+							windowYear = mapYear;
 							cleanPopup();
 							parseFacility(facility_record);
 							parseChemicals(facility_record);
@@ -12289,13 +12286,13 @@ if (typeof L === "object") {
 				
 			}
 	
-			app.utfGrid.on('click', app.utfClick);
+			layers.utfGrid.on('click', utfClick);
 	
-			app.hover_timer = false;
-			app.utfMouseover = function(e) {
+			var hover_timer = false;
+			var utfMouseover = function(e) {
 				if (e.data) {
 					$('#hover').html(e.data.name);
-					clearTimeout(app.hover_timer);
+					clearTimeout(hover_timer);
 				}
 	
 				$('#hover').css({
@@ -12303,48 +12300,48 @@ if (typeof L === "object") {
 				});
 			};
 	
-			app.utfGrid.on('mouseover', app.utfMouseover);
+			layers.utfGrid.on('mouseover', utfMouseover);
 	
-			app.utfGrid.on('mouseout', function() {
-				app.hover_timer = setTimeout(function() {
+			layers.utfGrid.on('mouseout', function() {
+				hover_timer = setTimeout(function() {
 					$('#hover').hide();
 				}, 200);
 			});
 	
-			app.map.on('mousemove', function() {
+			map.on('mousemove', function() {
 				$('#hover').css({
-					'top' : app.mouseY + 5,
-					'left' : app.mouseX + 10
+					'top' : mouseY + 5,
+					'left' : mouseX + 10
 				});
 			});
 	
 			// hide facility tooltip on mouseout from map
-			app.map.on('mouseout', function() {
+			map.on('mouseout', function() {
 				$('#hover').hide();
 			});
 	
-			app.baseMaps = {
-				"Toner" : app.toner,
-				"Streets" : app.streets,
-				"Satellite" : app.satellite
+			var baseMaps = {
+				"Toner" : layers.toner,
+				"Streets" : layers.streets,
+				"Satellite" : layers.satellite
 			};
 	
-			app.overlayMaps = {
-				"L2010" : app.y2010,
-				"L2009" : app.y2009,
-				"L2008" : app.y2008,
-				"L2007" : app.y2007,
-				"L2006" : app.y2006,
-				"L2005" : app.y2005,
-				"L2004" : app.y2004,
-				"L2003" : app.y2003,
-				"L2002" : app.y2002,
-				"L2001" : app.y2001,
-				"L2000" : app.y2000,
-				"L1999" : app.y1999,
-				"L1998" : app.y1998,
-				"L1997" : app.y1997,
-				"L1996" : app.y1996
+			var overlayMaps = {
+				"L2010" : layers.y2010,
+				"L2009" : layers.y2009,
+				"L2008" : layers.y2008,
+				"L2007" : layers.y2007,
+				"L2006" : layers.y2006,
+				"L2005" : layers.y2005,
+				"L2004" : layers.y2004,
+				"L2003" : layers.y2003,
+				"L2002" : layers.y2002,
+				"L2001" : layers.y2001,
+				"L2000" : layers.y2000,
+				"L1999" : layers.y1999,
+				"L1998" : layers.y1998,
+				"L1997" : layers.y1997,
+				"L1996" : layers.y1996
 			};
 	
 			// change year
@@ -12356,20 +12353,20 @@ if (typeof L === "object") {
 			});
 	
 			var toggleUp = function() {
-				if (app.mapYear < app.maxYear) {
-					app.map.addLayer(app.overlayMaps['L' + (app.mapYear + 1)]);
-					app.map.removeLayer(app.overlayMaps['L' + app.mapYear]);
-					app.mapYear += 1;
-					$('#currentyear').html(app.mapYear);
+				if (mapYear < maxYear) {
+					map.addLayer(overlayMaps['L' + (mapYear + 1)]);
+					map.removeLayer(overlayMaps['L' + mapYear]);
+					mapYear += 1;
+					$('#currentyear').html(mapYear);
 				}
 			};
 	
 			var toggleDown = function() {
-				if (app.mapYear > app.minYear) {
-					app.map.addLayer(app.overlayMaps['L' + (app.mapYear - 1)]);
-					app.map.removeLayer(app.overlayMaps['L' + app.mapYear]);
-					app.mapYear -= 1;
-					$('#currentyear').html(app.mapYear);
+				if (mapYear > minYear) {
+					map.addLayer(overlayMaps['L' + (mapYear - 1)]);
+					map.removeLayer(overlayMaps['L' + mapYear]);
+					mapYear -= 1;
+					$('#currentyear').html(mapYear);
 				}
 			};
 	
@@ -12385,13 +12382,13 @@ if (typeof L === "object") {
 			});
 	
 			function changeBasemap(lyr) {
-				for (var item in app.baseMaps) {
-					var obj = app.baseMaps[item];
-					if (app.map.hasLayer(obj)) {
-						app.map.removeLayer(obj);
+				for (var item in baseMaps) {
+					var obj = baseMaps[item];
+					if (map.hasLayer(obj)) {
+						map.removeLayer(obj);
 					}
-					app.map.addLayer(app.baseMaps[lyr]);
-					app.baseMaps[lyr].bringToBack();
+					map.addLayer(baseMaps[lyr]);
+					baseMaps[lyr].bringToBack();
 				}
 			}
 	
@@ -12409,12 +12406,12 @@ if (typeof L === "object") {
 			// stop mouseover info for facilities when under attribution
 			$('div.leaflet-bottom.leaflet-right').mouseenter(function(e) {
 				e.stopPropagation();
-				app.utfGrid.off('mouseover');
-				app.utfGrid.off('click');
+				utfGrid.off('mouseover');
+				utfGrid.off('click');
 			});
 			$('div.leaflet-bottom.leaflet-right').mouseleave(function() {
-				app.utfGrid.on('mouseover', app.utfMouseover);
-				app.utfGrid.on('click', app.utfClick);
+				utfGrid.on('mouseover', utfMouseover);
+				utfGrid.on('click', utfClick);
 			});
 	
 			/// search
@@ -12579,8 +12576,8 @@ if (typeof L === "object") {
 			//Remove stale content
 			chemList.innerHTML = '';
 			//Parse record
-			if (facility_record.Emissions !== undefined && facility_record.Emissions[app.windowYear] !== undefined && facility_record.Emissions[app.windowYear].Submissions !== undefined) {
-				emissions = facility_record.Emissions[app.windowYear].Submissions;
+			if (facility_record.Emissions !== undefined && facility_record.Emissions[windowYear] !== undefined && facility_record.Emissions[windowYear].Submissions !== undefined) {
+				emissions = facility_record.Emissions[windowYear].Submissions;
 			} else {
 				emissions = 'NoData';
 			}
@@ -12606,7 +12603,7 @@ if (typeof L === "object") {
 					chemList.appendChild(div);
 				}
 			} else {
-				chemList.innerHTML = 'No Chemical Air Releases in ' + app.windowYear;
+				chemList.innerHTML = 'No Chemical Air Releases in ' + windowYear;
 			}
 		}
 	
@@ -12623,14 +12620,14 @@ if (typeof L === "object") {
 					var html = "";
 					div.setAttribute('class', 'chemical_row');
 					html += '<strong>' + facility_record['NAICS' + i].name + '</strong><br />';
-					if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][app.windowYear]) {
+					if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][windowYear]) {
 						html += 'This facility did not report any air releases during this year, so comparisons are unavailable.';
-					} else if (facility_record['NAICS' + i][app.windowYear].state_count === 1 && facility_record['NAICS' + i][app.windowYear].us_count === 1) {
+					} else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count === 1) {
 						html += 'There is only 1 facility of this type in the country.';
-					} else if (facility_record['NAICS' + i][app.windowYear].state_count === 1 && facility_record['NAICS' + i][app.windowYear].us_count > 1) {
-						html += 'There is only 1 facility of this type in the State. There are ' + facility_record['NAICS' + i][app.windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][app.windowYear].us_count + ' percent of facilities of this type in the country.  It is riskier than ' + facility_record['NAICS' + i][app.windowYear].us_score_pct + ' percent of facilities of this type in the country.';
+					} else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count > 1) {
+						html += 'There is only 1 facility of this type in the State. There are ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].us_count + ' percent of facilities of this type in the country.  It is riskier than ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent of facilities of this type in the country.';
 					} else {
-						html += 'There are ' + facility_record['NAICS' + i][app.windowYear].state_count + ' facilities of this type in this state and ' + facility_record['NAICS' + i][app.windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][app.windowYear].state_pounds_pct + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.windowYear].us_pounds_pct + ' percent in the country. The facility is riskier than ' + facility_record['NAICS' + i][app.windowYear].state_score_pct + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][app.windowYear].us_score_pct + ' percent in the country.';
+						html += 'There are ' + facility_record['NAICS' + i][windowYear].state_count + ' facilities of this type in this state and ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].state_pounds_pct + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent in the country. The facility is riskier than ' + facility_record['NAICS' + i][windowYear].state_score_pct + ' percent of facilities of this type in the state and ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent in the country.';
 					}
 	
 					div.innerHTML = html;
@@ -12762,26 +12759,26 @@ if (typeof L === "object") {
 			//remove previous listner
 			$("#facility_tabs").off('click.yearchanger');
 			//Set the windowYear to the mapYear on first load
-			$("div.year-label").html(app.mapYear);
+			$("div.year-label").html(mapYear);
 			//app.windowYear = app.mapYear;
 	
 			//Add click listner with yearchanger namespace for later reference
 			$("#facility_tabs").on('click.yearchanger', function(e) {
-				var oldyear = app.windowYear;
+				var oldyear = windowYear;
 				if ($(e.target).hasClass("arrow-left")) {
-					if (app.windowYear > app.minYear) {
-						app.windowYear -= 1;
+					if (windowYear > minYear) {
+						windowYear -= 1;
 					}
 				} else if ($(e.target).hasClass("arrow-right")) {
-					if (app.windowYear < app.maxYear) {
-						app.windowYear += 1;
+					if (windowYear < maxYear) {
+						windowYear += 1;
 					}
 				} else {
 					return;
 				}
 	
-				if (oldyear !== app.windowYear) {
-					$("div.year-label").html(app.windowYear);
+				if (oldyear !== windowYear) {
+					$("div.year-label").html(windowYear);
 					parseChemicals(facility_record);
 					parseIndustry(facility_record);
 					$("#chemicalList").animate({
@@ -12811,14 +12808,14 @@ if (typeof L === "object") {
 	}
 	
 	function showFacility(lat, lng) {
-		!app.marker ? null : app.map.removeLayer(app.marker);
-		app.marker = L.marker([lat, lng], {
-			icon : app.clickedFacilityIcon
+		!marker ? null : map.removeLayer(marker);
+		marker = L.marker([lat, lng], {
+			icon : clickedFacilityIcon
 		});
-		app.marker.addTo(app.map);
+		marker.addTo(map);
 	}
 	
 	function zoomToFacility(lat, lng) {
-		app.map.setView([lat, lng], 14);
+		map.setView([lat, lng], 14);
 	}
-})()
+})();
