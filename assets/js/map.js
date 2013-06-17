@@ -299,6 +299,11 @@ $(document).ready(function() {
 				});
 			}
 		});
+		
+		//Facility Popup close window
+		$('#fp_close').on('click.fp_close', function(){
+			$('#facility_tabs').hide();
+		})
 	}
 	
 	
