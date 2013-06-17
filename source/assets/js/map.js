@@ -526,13 +526,15 @@
 	
 			// Carcinogen
 			html += "<br /><br /><strong>Cancer: </strong>";
-			if (data.ToxicityClassInhale === "cancer" && data.ToxicityClass === "cancer") {
+			console.log(data.ToxicityClassInhale);
+			console.log(data.ToxicityClassInhale === "cancer");
+			if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "cancer") {
 				html += "This chemical is carcinogenic through both the oral and inhalation pathways";
-			} else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClass === "non-cancer") {
+			} else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "non-cancer") {
 				html += "This chemical is not known to be carcinogenic";
-			} else if (data.ToxicityClassInhale === "cancer" && data.ToxicityClass === "non-cancer") {
+			} else if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "non-cancer") {
 				html += "This chemical is carcinogenic through the inhalation pathway but not the oral pathway";
-			} else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClass === "cancer") {
+			} else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "cancer") {
 				html += "This chemical is carcinogenic through the oral pathway but not the inhalation pathway";
 			} else {
 				html += "Information on cancer causing effects are not available for this chemical";
