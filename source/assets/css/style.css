@@ -310,7 +310,6 @@ div.leaflet-bottom.leaflet-right{
 	height: 20px;
 	width: 20px;
 	-moz-transition: color 0.3s linear;
-	height: color 0.3s linear;
 	-webkit-transition: color background-color 0.3s linear;
 	transition: color 0.3s linear;
 	background-color: rgb(109, 109, 109);
@@ -347,7 +346,7 @@ div.leaflet-bottom.leaflet-right{
 }
 
 #chemical_tab, #industry_tab{
-	padding: 0;``
+	padding: 0;
 }
 
 #chemicalYearToggle, #industryYearToggle {
@@ -651,7 +650,7 @@ input[type="text"]{
 
 /* b+w effects here */
 .colorshift {
-    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
     -webkit-filter: grayscale(1);
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
@@ -910,7 +909,6 @@ input[type="text"]{
 }
 
 #loadingText{
-	clear:all;
 	text-align:center;
 	color: #fff;
 	font-weight: bold;
