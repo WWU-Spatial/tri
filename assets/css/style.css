@@ -1515,9 +1515,10 @@ max-width 480 for iPhone but this is too narrow for android..
 		margin: 2px;
 		padding: 0;
 	}
-}
-
-/* reposition facility info just below title on very small screens*/
-@media only screen and (max-width: 500px){
-	.facilityInfo{ top: 40px;}
+	
+	#facility_tabs{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+	}
 }
