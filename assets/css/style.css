@@ -679,41 +679,33 @@ input[type="text"]{
 
 #yearchanger {
 	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
-	height: 50px;
 	color: #fff;
 	font-size: 1em;
 	font-weight: bold;
 	z-index: 210;
 	margin: -40px 0 0 200px;
 	text-align: center;
-	width: 160px;
+	width: 110px;
 	position: relative;
 	top: 25px;
 	height: 30px;
-	padding-left: 20px;
 	display: inline-block!important;
-/*
-	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
-	height: 50px;
-	color: #fff;
-	font-size: 1em;
-	font-weight: bold;
-	z-index: 210;
-	margin: 0 auto;
-	text-align: left;
-	position: relative;
-	padding-left: 20px;
-	display: inline!important;
-*/
 }
 
-#yearchanger > span {
-	padding: 4px 10px 4px 14px;
+#downyear {
+	left: 0;
+}
+
+#upyear {
+	right: 0;
 }
 
 #currentyear {
-	width: 80px;
+	top: 5px;
+	left: 0;
+	margin: -4px auto 0 auto;
 	font-size: 1.8em;
+	text-align: center;
 }
 
 .yearbutton{
