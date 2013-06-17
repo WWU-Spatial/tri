@@ -260,11 +260,10 @@
 	
 	
 			$('#search').keydown(function(e) {
-				$this = $(this);
 				if (e.keyCode === 13) {
 					$('#loading').fadeIn(500);
 					$.ajax({
-						url : 'http://140.160.114.197/search/tri/facilities/?q=' + $this.val(),
+						url : 'http://140.160.114.197/search/tri/facilities/?q=' + $('#search').val(),
 						success : function(r) {
 							$("#searchresults").empty();
 							if (r.hits.hits[0]) {
