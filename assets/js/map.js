@@ -72,7 +72,8 @@ $(document).ready(function() {
 			center : new L.LatLng(39, -98),
 			zoom : 5,
 			layers : [app.toner, app.y2010, app.utfGrid],
-			maxZoom : 16
+			maxZoom : 16,
+			fadeAnimation: false
 		})
 		// hide loading message on map load
 		.whenReady(function() {
@@ -193,20 +194,18 @@ $(document).ready(function() {
 
 		var toggleUp = function() {
 			if (app.mapYear < app.maxYear) {
+				app.map.addLayer(app.overlayMaps['L' + (app.mapYear + 1)]);
 				app.map.removeLayer(app.overlayMaps['L' + app.mapYear]);
 				app.mapYear += 1;
-				var New = 'L' + app.mapYear;
-				app.map.addLayer(app.overlayMaps[New]);
 				$('#currentyear').html(app.mapYear);
 			}
 		}
 
 		var toggleDown = function() {
 			if (app.mapYear > app.minYear) {
+				app.map.addLayer(app.overlayMaps['L' + (app.mapYear - 1)]);
 				app.map.removeLayer(app.overlayMaps['L' + app.mapYear]);
 				app.mapYear -= 1;
-				var New = 'L' + app.mapYear;
-				app.map.addLayer(app.overlayMaps[New]);
 				$('#currentyear').html(app.mapYear);
 			}
 		}
