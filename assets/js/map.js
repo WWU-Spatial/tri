@@ -295,6 +295,12 @@ $(document).ready(function() {
 		$('#fp_close').on('click.fp_close', function() {
 			$('#facility_tabs').hide();
 		});
+		
+		//Search popup close window
+		$('#search_close').on('click.fp_close', function() {
+			closeSearch();
+		});
+		
 	}
 
 	function cleanPopup() {
