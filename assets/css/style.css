@@ -78,6 +78,9 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
 }
 
+#topbar > span {
+		display: inline-block;
+	}
 #ecosLogoDiv {
 	z-index: 1000;
 	padding: 1px 3px 0px 1px;
@@ -96,50 +99,19 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 }
 
 #title{
-	position: absolute;
 	left: 55px;
 	font-size: 2.1em;
 	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
 	font-variant: small-caps;
 	letter-spacing: -.5px;
-	/*color: #fff;*/
 	font-weight:700;
-	/* webkit */
-/* commented out because of problems with android default browser not creating background gradient but not clipping to text
-	background: -webkit-gradient(linear, left top, right top, 
-        from(rgb(139,0,0)), 
-        color-stop(50%, rgb(245, 140, 91)),
-        to(rgb(251, 186, 131)));
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;	
-*/
+	/****/
+	height: 40px;
+	position: relative;
+	width: 45%;
+	padding-right: 30px;
 }
 
-
-
-.doesntWork{	
-	/**
-	 * doesn't work because can't to background clip outside of webkit
-	 *  background gradient cross browser
-	 */
-	/* IE10 Consumer Preview */ 
-	background: -ms-linear-gradient(top left, #8B0000 0%, #F58C5B 50%, #FBBA83 100%);
-	
-	/* Mozilla Firefox */ 
-	background: -moz-linear-gradient(top left, #8B0000 0%, #F58C5B 50%, #FBBA83 100%);
-	d
-	/* Opera */ 
-	background: -o-linear-gradient(top left, #8B0000 0%, #F58C5B 50%, #FBBA83 100%);
-	
-	/* Webkit (Safari/Chrome 10) */ 
-	background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #8B0000), color-stop(0.5, #F58C5B), color-stop(1, #FBBA83));
-	
-	/* Webkit (Chrome 11+) */ 
-	background: -webkit-linear-gradient(top left, #8B0000 0%, #F58C5B 50%, #FBBA83 100%);
-	
-	/* W3C Markup, IE10 Release Preview */ 
-	background: linear-gradient(to bottom right, #8B0000 0%, #F58C5B 50%, #FBBA83 100%);
-}
 
 #title > p {
 	white-space:nowrap;
@@ -153,13 +125,6 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
     font-size: .45em;
 	color: #f58c5b;
 }
-/*
-#title > p > span{
-    text-transform: uppercase;
-    font-variant: normal;
-    font-size: .45em;
-}
-*/
 
 .darkRed {
 	color: #d73227;
@@ -171,7 +136,6 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	color: #FBBA83;
 }
 
-
 #lightboxtext{
 	margin:0 auto;
 	width:90%;
@@ -180,6 +144,11 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 #lightboxtext > p{
 	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
 	line-height: 1.4em;
+}
+
+#lightboxtext > p > a, .attribution > a{
+	text-decoration: none;
+	font-weight: bold;
 }
 
 .lightboxtitle {
@@ -214,9 +183,43 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	font-size: 1em;
 }
 
-.attribution > a{
-	text-decoration:none;
-	font-weight:bold;
+.figureLabel{
+	font-weight: bold;
+}
+
+.leaflet-control-attribution{
+	display:none;
+	max-width: 800px;
+	max-height: 200px;
+	padding: 5px;
+}
+
+div.leaflet-bottom.leaflet-right{
+	z-index: 1000;
+}
+
+.autoattribution{
+	float: right;
+	z-index: 210;
+	pointer-events: auto!important;
+	padding: 0 9px;
+	box-shadow: 0 0 5px #bbb;
+	background-color:rgba(255,255,255,0.7);
+	color:rgb(0,0,0);
+	cursor: pointer;
+}
+
+.autoattribution > p{
+	margin: 5px;
+}
+
+.hidetoggle{
+	background-color:rgba(55,55,55,0.7)!important;
+	color:rgb(255,255,255)!important;
+}
+
+.nopointerevents{
+	pointer-events: none!important;
 }
 
 .socialmedia {
@@ -233,7 +236,6 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	margin: 0 auto!important;
 	padding: 0!important;
 	display: inline;
-	
 }
 
 .socialmedia iframe{
@@ -272,39 +274,6 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	-webkit-transition: color 0.3s linear;
 	transition: color 0.3s linear;
 }	
-	
-/*
-#about {
-	color: #4292CD;
-	position: absolute;
-	right: 120px;
-	top: 60px;
-	font-size: .8em;
-	font-family: "Arimo", sans-serif;
-}
-
-#help {
-	color: #4292CD;
-	position: absolute;
-	right: 10px;
-	top: 60px;
-	font-size: .8em;
-	font-family: "Arimo", sans-serif;
-}
-#feedback {
-	color: #4292CD;
-	position: absolute;
-	right: 50px;
-	top: 60px;
-	font-size: .8em;
-	font-family: "Arimo", sans-serif;
-}
-
-#feedback a, #feedback a:visited{
-	color: #4292CD;
-	text-decoration: none;
-}
-*/
 
 #hover{
 	z-index: 200;
@@ -313,24 +282,315 @@ html, body {height: 100%; width: 100%; margin: 0; padding: 0; overflow:hidden;}
 	border: solid #000 1px;
 	padding: 5px;
 	background-color: rgba(255,255,255,0.9);
+	width: 150px;
+	max-height: 400px;
+/*
 	max-width: 160px;
-	box-shadow: 2px 2px 2px;
-	-webkit-box-shadow: 2px 2px 2px;
-	-moz-box-shadow: 2px 2px 2px;
+	max-height:0px;
+
+*/	
+}
+
+.clickedFacility{
+	width: 20px!important;
+	height: 20px!important;
+	border: rgb(0, 224, 255) solid 3px;
+	margin-left: -12px !important;
+	margin-top: -12px !important;
+	cursor: auto;
+	-webkit-animation: pulsate 1s ease-out;
+	-webkit-animation-iteration-count:infinite;
+	-moz-animation: pulsate 1s ease-out;
+	-moz-animation-iteration-count:infinite;
+	-o-animation: pulsate 1s ease-out;
+	-o-animation-iteration-count:infinite;
+	-ms-animation: pulsate 1s ease-out;
+	-ms-animation-iteration-count:infinite;
+	animation: pulsate 1s ease-out;
+	animation-iteration-count:infinite;
+}
+@-webkit-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+@-moz-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+@-o-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+@-ms-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+@keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+.facilityInfo{
+	z-index: 10000;
+	position:absolute!important;
+	left:0;
+	top:50px;
+	margin: 10px;
+	overflow : auto;
+	padding: 5px !important;
+	border-radius: 5px;
+	background: rgba(162, 189, 189, .9);
+	/*max-width: 375px!important;*/
+	width: 390px;
+	display: none;
+	max-height:400px!important;
+}
+
+.infoCloser{
+	border-radius: 10px;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 5px;
+	padding: 0;
+	cursor: pointer;
+	height: 20px;
+	width: 20px;
+	-moz-transition: color 0.3s linear;
+	height: color 0.3s linear;
+	-webkit-transition: color background-color 0.3s linear;
+	transition: color 0.3s linear;
+	background-color: rgb(109, 109, 109);
+	color: #fff;
+	font-size: 14px;
+}
+
+.infoTitle{
+	padding: 0 20px;
+	margin: 0 9px 10px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.infoCloser:hover, .infoCloser:active, .zoomTo:hover, .zoomTo:active{
+	background-color: rgb(210, 210, 210);
+	color: #000;
+}
+
+.zoomTo{
+	width: 100%;
+	text-align: center;
+	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+	margin: 0 auto;
+	padding: 5px 0;
+	cursor: pointer;
+}
+
+/* tabs mods */
+#tabs > div {
+	height:200px;
+	width: 333px!important;
+	overflow: auto;
+	font-size: 14px;
+}
+#tabs > ul > li > a {
+	font-size: 12px;
+	line-height: 10px;
+	font-family:'AlternateGothicLTNo3Regular',Arial, sans-serif;
 }
 
 
+
+
+
+
+
+
+
+/* POPUP STYLES */
+
+#facility_tabs{
+				position: absolute;
+				background-color: #fff;
+				top: 62px;
+				left: 50px;
+				z-index: 100;
+				z-index: 100;
+				width: 325px;
+				height:400px;
+				font-size: 0.8em;
+			}
+			
+			#chemical_tab, #industry_tab{
+				padding: 0;
+			}
+			
+			#chemicalYearToggle, #industryYearToggle {
+				position: relative;
+				height: 30px;
+				text-align: center;
+				padding: 0;
+				color: #fff;
+				text-align: center;
+				background-color: rgba(2, 2, 2, 0.9);
+			}
+			
+		
+			
+			.arrow-right {
+				width: 0; 
+				height: 0; 
+				border-top: 13px solid transparent;
+				border-bottom: 13px solid transparent;
+				border-left: 13px solid #fff;
+				position: absolute;
+				right: 114px;
+				top:0px;
+				cursor: pointer;
+
+
+			}
+			
+			.arrow-left {
+				width: 0; 
+				height: 0; 
+				border-top: 13px solid transparent;
+				border-bottom: 13px solid transparent; 
+				border-right:13px solid #fff; 
+				position: absolute;
+				left: 114px;
+				top:0px;
+				cursor: pointer;
+
+
+			}
+			
+			.year-label{
+				width: 50%;
+				margin: 0 auto;
+				font-size: 1.8em;
+				font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+				font-weight: bold;
+				
+			}
+				
+			.graph {
+				width: 300px;
+				height: 150px;
+				margin-left: auto;
+				margin-right: auto;
+				clear: both;
+				margin-top: 7px;
+				margin-bottom: 7px;
+			}
+			
+			
+			.list {
+				height: 324px;
+				overflow-y: auto;
+			}
+			
+			.chemical_row{
+				line-height: 1.4em;
+				margin: 0.5em 0.2em;
+				padding: 0.3em;
+				border: 1px solid #eee;
+			}
+			
+			.chemical_row:hover {
+				background-color: #F8F8F8;
+				cursor: pointer;
+			}
+			
+			.noChart{
+				width: 100%;
+				text-align: center;
+				height: 100%;
+				line-height: 140px;
+				font-size: 20px;
+				margin: 0 auto;
+			}
+			
+			.noselect{
+				-webkit-user-select: none;  
+				-moz-user-select: none;    
+				-ms-user-select: none;      
+				user-select: none;
+			}
+			
+			.yesselect {
+				-webkit-user-select: auto;  
+				-moz-user-select: auto;    
+				-ms-user-select: auto;      
+				user-select: auto;
+			}
+			
+			.zoom_to {
+				position: absolute;
+				left: 0px;
+				bottom: 0px;
+				width: 100%;
+				text-align: center;
+				font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+				margin: 0 auto;
+				padding: 5px 0;
+				cursor: pointer;
+				font-weight: bold;
+			}
+			
+			.zoom_to:hover {
+				background-color: rgb(210, 210, 210);
+				color: #000;
+			}
+			
+			.transition{
+				-o-transition: .7s;
+				-ms-transition: .7s;
+				-moz-transition: .7s;
+				-webkit-transition: .7s;
+				transition: .7s;
+			}
+			
+/*END POPUP STYLES*/
+
+
+
+
+
+
+
+
+
+
+
+/*.ui-tabs-panel{
+	width:380px!important;
+}*/
+
+
+
 #searchStuff{
+	top: 0;
+	margin: 15px 5px;
+	width: 100%;
+	right: 0;
+	height: 30px;
+	text-align: right;
+	padding-left: 0px;
+/*
+	top: 0;
 	margin: 15px 5px;
 	width:	100%;
 	right: 0;
 	height: 30px;
 	text-align: right;
 	padding-left: 0px;
-/*
-	padding-left: 550px;
-	left: 10%;
-	text-align: right;
 */
 }
 
@@ -361,18 +621,6 @@ input[type="text"]{
 #menulist ul{
 	display:none;
 }
-
-/*
-#menulist ul li {
-	color: white;
-	text-shadow: 2px 2px 4px black;
-	font-weight: bold;
-	list-style-type: none;
-	display: inline;
-	padding-right: 10px;
-	cursor: pointer;
-}
-*/
 
 .ontop > ul > li {
 	display:none;
@@ -407,14 +655,12 @@ input[type="text"]{
 	-webkit-transition: color 0.3s linear;
 	transition: color 0.3s linear;
 	background-color: rgba(255,255,255,.6);
-	top: 72px;
+	top: 74px;
+	left: 50px;
 /*
-	margin: 10px;
-	left: 40px;
-	vertical-align:middle;
-*/
 	right:auto;
 	margin: 10px 0 10px 50px;
+*/
 	width: 80px;
 	text-align:center;
 	line-height:35px;
@@ -427,152 +673,76 @@ input[type="text"]{
 	background-color: rgba(0,0,0,.6);
 }
 
-#sliderStuff > #sliderlbl{
-	-moz-transition: color 0.3s linear;
-	-o-transition: color 0.3s linear;
-	-webkit-transition: color 0.3s linear;
-	transition: color 0.3s linear;
-}
-
-#sliderStuff.active > #sliderlbl, #sliderStuff:hover > #sliderlbl{
-	color: #fff;
-    border-color: #fff;
-}
-
-/* to change date slider handle
-.dijitSliderImageHandleH {
-border: 0;
-width: 20px!important;
-height: 16px;
-background-image: url(form/images/sliderThumbs.png);
-background-repeat: no-repeat;
-background-position: 0 0;
-}
-#sliderStuff{
+#app-controls{
 	text-align: center;
-	left: 12%;
-	padding-left: 300px;
-}
-
-#currentyear {
-	left: 105px;
-	text-align: center;
-	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
-	text-transform: uppercase;
-	color: white;
-	position: relative;
-	font-size: 1.2em;
-}
-
-#slider{
-	width: 210px!important;
-	position: relative!important;
-	left: 50%!important;
-}
-
-#sliderlbl{
-	color: #B3B3B3;
-	position: relative;
-	left: 50%;
-	width: 210px;
-	text-align: center;
-	font-size: .8em;
-	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
-	text-transform: uppercase;
-}
-
-#sliderlbl:hover{
-	color: #fff;	
-	-moz-transition: color 0.3s linear;
-	-o-transition: color 0.3s linear;
-	-webkit-transition: color 0.3s linear;
-	transition: color 0.3s linear;
-}
-*/
-	/* SLIDER STUFF */	
-#sliderStuff{
-	text-align: center;
+	position: fixed;
 	margin: 0 auto;
+	width: 100%;
+	top: 0;
+}
+
+#yearchanger {
+	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+	height: 50px;
+	color: #fff;
+	font-size: 1em;
+	font-weight: bold;
+	z-index: 210;
+	margin: -40px 0 0 200px;
+	text-align: center;
+	width: 160px;
+	position: relative;
 	top: 25px;
-	width: 200px;
-	left: 500px;
-	right: 450px;
+	height: 30px;
+	padding-left: 20px;
+	display: inline-block!important;
+/*
+	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
+	height: 50px;
+	color: #fff;
+	font-size: 1em;
+	font-weight: bold;
+	z-index: 210;
+	margin: 0 auto;
+	text-align: left;
+	position: relative;
+	padding-left: 20px;
+	display: inline!important;
+*/
+}
+
+#yearchanger > span {
+	padding: 4px 10px 4px 14px;
 }
 
 #currentyear {
-	font-family: 'AlternateGothicLTNo3Regular',Arial, sans-serif;
-	text-align:center;
-	line-height:15px;
-	color:#fff;
-	margin: 0 auto -25px auto;
-	left:0;
-	position: relative;
-	font-size: 1.4em;
-	font-weight: bold;
-	z-index:210;
-	width: 50px;
+	width: 80px;
+	font-size: 1.8em;
 }
 
-#slider{
-	width: 130px!important;
-	left: 0!important;
-	margin: 0 auto!important;
-	z-index:220;
-}
-
-#sliderlbl{
-	display:none;
-}
-
-/* DOJO SLIDER MODS */
-.dijitSliderIncrementIconH:hover, .dijitSliderDecrementIconH:hover{
-	cursor: hand;
-}
-
-.dijitSliderIncrementIconH{
+.yearbutton{
 	background-image: url(images/arrows.png)!important;
-	background-position: 3px 50%!important;
-	height: 30px!important;
-	width: 30px!important;
-	border-radius: 20px!important;
+	background:	#fff;
+	height: 30px;
+	width: 30px;
+	cursor:pointer;
+	padding: 10px 14px 0px!important;
 }
-.dijitSliderDecrementIconH{
-	background-image: url(images/arrows.png)!important;
-	background-position: -35px 50%!important;
-	height: 30px!important;
-	width: 30px!important;
-	border-radius: 20px!important;
+#upyear{
+	background-position: -1px 50%!important;
+
+}
+#downyear{
+	background-position: -36px 50%!important;	
 }	
 
-.dijitSliderBarContainerH, .dijitSliderBar, .dijitSliderBumper, .dijitSliderBumperH, .dijitSliderRightBumper,
-.dijitSliderBarH, .dijitSliderProgressBar, .dijitSliderProgressBarH{
-	display:none!important;
-}
-
-#widget_sliderValue{
-	position: absolute;
-	top:20px;
-	left: 50%;
-	width: 50px;
-	margin-left: -25px;
-	z-index: 200;
-}
-
-#timeSliderDiv {
-	display: none;
-	visibility: hidden;
-}
-
-.esriSimpleSlider {
-	top: 81px!important;
-}
-
-.esriTimeSlider {
-	position: absolute;
-	width: 500px;
-	bottom:25px;
-	left: 150px;
-	z-index: 99;
+.leaflet-control-zoom{
+	top: 61px!important;
+	-o-transition:.7s;
+    -ms-transition:.7s;
+    -moz-transition:.7s;
+    -webkit-transition:.7s;
+    transition:.7s;
 }
 
 .ontop {
@@ -602,11 +772,6 @@ background-position: 0 0;
 	-o-transition: color 0.3s linear;
 	-webkit-transition: color 0.3s linear;
 	transition: color 0.3s linear;
-	/*
-width: 155px; 
-	border: 1px	solid #888;
-	background: #fff;
-*/
 }
 
 /* b+w effects here */
@@ -643,7 +808,7 @@ width: 155px;
 	font-size: 1.2em;
 }
 
-#imageryThumb.colorshift:hover{
+#satelliteThumb.colorshift:hover{
 	color: #fff;
 }
 
@@ -708,9 +873,9 @@ width: 155px;
 }
 
 .dropshadow{
-	-moz-box-shadow: 5px 5px 2px #888;
-	-webkit-box-shadow: 5px 5px 2px #888;
-	box-shadow: 5px 5px 2px #888;
+	-moz-box-shadow: 3px 3px 5px #000;
+	-webkit-box-shadow: 3px 5px 5px #000;
+	box-shadow: 3px 5px 5px #000;
 }
 
 #demographics_menu{
@@ -728,13 +893,6 @@ width: 155px;
 	display: block;
 	text-align: center;
 }
-
-/* fb like button fixes */
-/*
-.pls{
-	display:none!important;
-}
-*/
 
 #health_menu {
 	display: none;
@@ -761,29 +919,22 @@ width: 155px;
 	margin-top:10px;
 	display: block;
 	cursor: pointer;
+/*
 	-webkit-box-shadow: .3em .3em .4em #000;
 	-moz-box-shadow: .3em .3em .4em #000;
 	box-shadow: .3em .3em .4em #000;
+*/
 	line-height: 50px;
 	width: 85px;
 }
 
-/*
-.base_thumb > img {
-	-webkit-box-shadow: .3em .3em .4em #000;
-	-moz-box-shadow: .3em .3em .4em #000;
-	box-shadow: .3em .3em .4em #000;
-	height: 50px;
-}
-*/
-
-#grayThumb{
+#tonerThumb{
 	background:url(light_gray_canvas_with_labels__ne_usa.png) 0 0 no-repeat;
 }
 #streetsThumb{
 	background:url(streets.jpg) 0 0 no-repeat;
 }
-#imageryThumb{
+#satelliteThumb{
 	background:url(imagery.jpg) 0 0 no-repeat;
 }	
 
@@ -838,21 +989,6 @@ width: 155px;
 
 esriPopupWrapper {z-index: 250;}
 
-.comingsoon {
-	height:100%;
-	width: 100%;
-	position: absolute;
-	z-index: 250;
-	background-color: #fff;
-	opacity: .95;
-	text-align:center;
-}
-
-.comingsoon_Text{
-	display: block;
-	position: relative;
-	top: 50%;
-}
 /* FACILITY POPUPS */
 
 .facility_popup {
@@ -871,13 +1007,6 @@ esriPopupWrapper {z-index: 250;}
 	width:50%;
 	float:left;
 	text-align:center;}
-.pounds {
-	
-}
-
-.risk {
-
-}
 
 .address {
 	margin-top: 15px;
@@ -905,6 +1034,7 @@ esriPopupWrapper {z-index: 250;}
 
 /* SEARCH RESULTS */
 #searchresultsbox {
+	display:none;
 	border: 1px solid #888;
 	position: absolute;
 	top: 60px;
@@ -920,7 +1050,7 @@ esriPopupWrapper {z-index: 250;}
 	top: 25px;
 	bottom: 0;
 	overflow: auto;
-
+	width: inherit;
 }
 
 .searchresult{
@@ -960,120 +1090,120 @@ esriPopupWrapper {z-index: 250;}
 }
 
 .loading{
-background-color:#F27D24;
-border:3px solid #000000;
-float:left;
-height:92px;
-margin-left:7px;
-width:25px;
-opacity:0.1;
--moz-animation-name:bounceG;
--moz-animation-duration:1.5s;
--moz-animation-iteration-count:infinite;
--moz-animation-direction:linear;
--moz-transform:scale(0.7);
--webkit-animation-name:bounceG;
--webkit-animation-duration:1.5s;
--webkit-animation-iteration-count:infinite;
--webkit-animation-direction:linear;
--webkit-transform:scale(0.7);
--ms-animation-name:bounceG;
--ms-animation-duration:1.5s;
--ms-animation-iteration-count:infinite;
--ms-animation-direction:linear;
--ms-transform:scale(0.7);
--o-animation-name:bounceG;
--o-animation-duration:1.5s;
--o-animation-iteration-count:infinite;
--o-animation-direction:linear;
--o-transform:scale(0.7);
-animation-name:bounceG;
-animation-duration:1.5s;
-animation-iteration-count:infinite;
-animation-direction:linear;
-transform:scale(0.7);
+	background-color:#F27D24;
+	border:3px solid #000000;
+	float:left;
+	height:92px;
+	margin-left:7px;
+	width:25px;
+	opacity:0.1;
+	-moz-animation-name:bounceG;
+	-moz-animation-duration:1.5s;
+	-moz-animation-iteration-count:infinite;
+	-moz-animation-direction:linear;
+	-moz-transform:scale(0.7);
+	-webkit-animation-name:bounceG;
+	-webkit-animation-duration:1.5s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-direction:linear;
+	-webkit-transform:scale(0.7);
+	-ms-animation-name:bounceG;
+	-ms-animation-duration:1.5s;
+	-ms-animation-iteration-count:infinite;
+	-ms-animation-direction:linear;
+	-ms-transform:scale(0.7);
+	-o-animation-name:bounceG;
+	-o-animation-duration:1.5s;
+	-o-animation-iteration-count:infinite;
+	-o-animation-direction:linear;
+	-o-transform:scale(0.7);
+	animation-name:bounceG;
+	animation-duration:1.5s;
+	animation-iteration-count:infinite;
+	animation-direction:linear;
+	transform:scale(0.7);
 }
 
 #blockG_1{
--moz-animation-delay:0.45s;
--webkit-animation-delay:0.45s;
--ms-animation-delay:0.45s;
--o-animation-delay:0.45s;
-animation-delay:0.45s;
+	-moz-animation-delay:0.45s;
+	-webkit-animation-delay:0.45s;
+	-ms-animation-delay:0.45s;
+	-o-animation-delay:0.45s;
+	animation-delay:0.45s;
 }
 
 #blockG_2{
--moz-animation-delay:0.6s;
--webkit-animation-delay:0.6s;
--ms-animation-delay:0.6s;
--o-animation-delay:0.6s;
-animation-delay:0.6s;
+	-moz-animation-delay:0.6s;
+	-webkit-animation-delay:0.6s;
+	-ms-animation-delay:0.6s;
+	-o-animation-delay:0.6s;
+	animation-delay:0.6s;
 }
 
 #blockG_3{
--moz-animation-delay:0.75s;
--webkit-animation-delay:0.75s;
--ms-animation-delay:0.75s;
--o-animation-delay:0.75s;
-animation-delay:0.75s;
+	-moz-animation-delay:0.75s;
+	-webkit-animation-delay:0.75s;
+	-ms-animation-delay:0.75s;
+	-o-animation-delay:0.75s;
+	animation-delay:0.75s;
 }
 
 #blockG_4{
--moz-animation-delay:0.9s;
--webkit-animation-delay:0.9s;
--ms-animation-delay:0.9s;
--o-animation-delay:0.9s;
-animation-delay:0.9s;
+	-moz-animation-delay:0.9s;
+	-webkit-animation-delay:0.9s;
+	-ms-animation-delay:0.9s;
+	-o-animation-delay:0.9s;
+	animation-delay:0.9s;
 }
 
 @-moz-keyframes bounceG{
-0%{
--moz-transform:scale(1.2);
-opacity:1}
-
-100%{
--moz-transform:scale(0.7);
-opacity:0.1}
-
+	0%{
+		-moz-transform:scale(1.2);
+		opacity:1;
+	}	
+	100%{
+		-moz-transform:scale(0.7);
+		opacity:0.1;
+	}
 }
 
 @-webkit-keyframes bounceG{
-0%{
--webkit-transform:scale(1.2);
-opacity:1}
-
-100%{
--webkit-transform:scale(0.7);
-opacity:0.1}
-
+	0%{
+		-webkit-transform:scale(1.2);
+		opacity:1;
+		}
+	100%{
+		-webkit-transform:scale(0.7);
+		opacity:0.1;
+		}
 }
 
 @-ms-keyframes bounceG{
 0%{
 -ms-transform:scale(1.2);
-opacity:1}
+opacity:1;}
 
 100%{
 -ms-transform:scale(0.7);
-opacity:0.1}
+opacity:0.1;}
 
 }
 
 @-o-keyframes bounceG{
 0%{
 -o-transform:scale(1.2);
-opacity:1}
+opacity:1;}
 
 100%{
 -o-transform:scale(0.7);
-opacity:0.1}
+opacity:0.1;}
 
 }
 
 @keyframes bounceG{
 0%{
 transform:scale(1.2);
-opacity:1}
+opacity:1;}
 
 100%{
 transform:scale(0.7);
@@ -1113,15 +1243,27 @@ max-width 480 for iPhone but this is too narrow for android..
 @media only screen and (max-width: 925px){	
 	/* HEADER */
 	#topbar {
+		/*
 		height: 110px;
+		*/
+		height: 90px;
+	}
+	#topbar > span {
+		display: block;
 	}
 	
+/*
 	#ecosLogoDiv {
 		z-index: 150;
-		top: 50px;
+		top: 80px;
 	}
+*/
 	
 	#title {
+		/*
+		height: 64px;
+		*/
+		height: 44px;
 		width: 100%;
 		left: 0;
 		text-align:center;
@@ -1137,11 +1279,6 @@ max-width 480 for iPhone but this is too narrow for android..
 	.smallTitle{
 		 font-size: .45em;
 	}
-	/*
-#title > p > span{
-	    font-size: .45em;
-	}
-*/
 	
 	.base_thumb {
 		font-size: 16px;
@@ -1152,33 +1289,41 @@ max-width 480 for iPhone but this is too narrow for android..
 	}
 	
 	.fancybox {
-		top: 60px;
 		margin: 10px 15px 10px 0;
-		right: 0;
-/*
-		left: auto;
-*/
 		font-size: 14px;
 		line-height: 30px;
 		width: 66px;
+		top: 92px;
+/*
+		margin: 10px 15px 10px 0;
+		right: 0;
+		font-size: 14px;
+		line-height: 30px;
+		width: 66px;
+*/
 	}
+	
+	.facilityInfo{ top: 100px;}
+	
 		/* search */
 	#searchStuff{
+		left: 0;
+		padding: 0;
+		padding-left: 0px;
+		text-align: left;
+		position: relative;
 		margin: 0 auto;
-		z-index:200;
-		height: 30px;
+		right: auto;
+/*
+		margin: 0 auto 0 -10px;
 		top: 50px;
 		padding-left: 0px;
 		text-align: center;
-	/*
-		width: 100%;
-		right: 0;
-		left: 0;
-		margin: 2px auto;
 */
 	}
 
 	#search{
+		margin-left: -10px;
 		vertical-align: top;
 		font-size: .8em;
 		padding-right: 5px;
@@ -1216,27 +1361,38 @@ max-width 480 for iPhone but this is too narrow for android..
 		right: 0;
 	}
 	
+	#app-controls{
+		top: 52px;
+		margin: 0 -10px;
+	}
+	
+	#yearchanger{
+		top: 0;
+		padding: 0;
+		position: relative;
+		margin: 0 auto;
+/*
+		padding-top: 6px;
+		padding-left: 4px;
+		width: 100%;
+		text-align: center;
+		display: inline-block!important;
+		padding-left: 0px;
+		margin-left: -4px;
+*/
+	}
+	.yearbutton{
+		padding: 6px 13px 1px!important;
+	}
+	
 	#currentyear {
-		line-height: 26px;
+		width: 50px;
 		font-size: 1.4em;
 	}
-
-	/*DOJO SLIDER MODS*/
-	.dijitSliderIncrementIconH{
-		height: 20px!important;
-		width: 25px!important;
-		background-position: -57px 50%!important;
-	}
-	.dijitSliderDecrementIconH{
-		height: 20px!important;	
-		width: 25px!important;
-		background-position: -82px 50%!important;
-	}	
-
 	
 	/* MAP STUFF */
-	.esriSimpleSlider {
-	top: 110px!important;
+	.leaflet-control-zoom{
+		top: 88px!important;
 	}
 	
 	/* all the way to the bottom on mobile devices*/
@@ -1255,17 +1411,6 @@ max-width 480 for iPhone but this is too narrow for android..
 	
 	#hideAbout {
 		bottom: 40%;
-	}
-	
-	
-	.mobileFooter{
-		display:none;
-		height:40%!important;
-		z-index: 300;
-	}
-	
-	.mobileMapWithFooter{
-		height:60%!important;
 	}
 	
 		/* INFO WINDOW */
@@ -1303,7 +1448,7 @@ max-width 480 for iPhone but this is too narrow for android..
 	/* MENUS */
 
 	.menu_container {
-		top: 110px;
+		top: 88px;
 		margin: 0;
 		z-index: 999;
 	}
@@ -1341,32 +1486,7 @@ max-width 480 for iPhone but this is too narrow for android..
 	.legendPounds{
 	display: none!important;
 	}
-	
-	/* lower legend on mobile */
-/*
-	.legendRisk{
-		bottom:2px;
-	}
-*/
-	
-	/* FOOTER */
-	/*
-#footer{
-		display:none;
-	}
-*/
-	
-	#leftDiv{
-	    padding-left: 0px;
-	    width:100%;
-	    left:0;
-	}
-	
-	#rightDiv{    
-	    margin: 0 auto;
-	    left:0;
-	    width:100%;       
-	}
+
 
 }
 
@@ -1379,14 +1499,37 @@ max-width 480 for iPhone but this is too narrow for android..
 	#search{
 		width:124px;
 	}
-	
-	.mobileFooter{
-		display:none;
-		height:84%!important;
-		z-index: 300;
+}
+/* smaller */
+@media only screen and (max-width: 410px){
+	#ecosLogoDiv {
+		z-index: 150;
+		top: 92px;
+		padding-left: 8px;
 	}
 	
-	#hideAbout {
-		bottom: 84%;
+	.leaflet-control-zoom{
+		top: 170px!important;
 	}
+	
+	.fancybox{
+		top: 140px;	
+		left: 0px;
+		font-size: 12px;
+	}
+	
+	.autoattribution {
+		width: 50px;
+		text-align: center;
+		padding: 0 3px 0 0;
+	}
+	.autoattribution > p{
+		margin: 2px;
+		padding: 0;
+	}
+}
+
+/* reposition facility info just below title on very small screens*/
+@media only screen and (max-width: 500px){
+	.facilityInfo{ top: 40px;}
 }
