@@ -789,15 +789,29 @@ input[type="text"]{
 	width: 85px;
 }
 
-#tonerThumb{
-	background:url(light_gray_canvas_with_labels__ne_usa.png) 0 0 no-repeat;
+/*Basemap Thumbs*/
+
+.aerial, .osm, .toner{
+	background: url("../images/basemap_thumbs/base_sprite.jpg") no-repeat;
 }
-#streetsThumb{
-	background:url(streets.jpg) 0 0 no-repeat;
+
+.aerial{
+	background-position: 0 -100px ;
+	width: 85px;
+	height: 50px;
 }
-#satelliteThumb{
-	background:url(imagery.jpg) 0 0 no-repeat;
-}	
+
+.osm{
+	background-position: 0 0;
+	width: 85px;
+	height: 50px;
+}
+
+.toner{
+	background-position: 0 -50px ;
+	width: 85px;
+	height: 50px;
+}
 
 
 #perf_legend{
