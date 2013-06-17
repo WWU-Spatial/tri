@@ -307,6 +307,8 @@ $(document).ready(function() {
 	
 	
 	function cleanPopup(){
+		$("#chemicalList").off('click.chemdetails');
+		
 		$('.graph').html = "";
 		document.getElementById('info_title').innerHTML = '';
 		document.getElementById('info_industry').innerHTML = '';
@@ -465,7 +467,7 @@ $(document).ready(function() {
 	
 	function initChemListListener(){
 		//Event Listener for chemical list click
-		$("#chemicalList").click(function(e) {
+		$("#chemicalList").on('click.chemdetails', function(e) {
 			var target = $(e.target);
 
 			// Check that they clicked on a chemical row and not the container
@@ -476,6 +478,7 @@ $(document).ready(function() {
 				//Check to see if data was downloaded during a previous click
 				//If not, download data
 		  		if (!target.hasClass("data_loaded")){
+		  			console.log('here');
 		  			//Position from top of chemical list to scroll list to
 		  			var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
 		  			
@@ -490,7 +493,7 @@ $(document).ready(function() {
 		  			
 		  		} else {
 		  			//If data already loaded, hide or show the chemical details depending on the current view state
-		  			
+		  			console.log('there');
 		  			if (chem_details.is(":visible")){
 		  				chem_details.hide();
 		  			} else {
