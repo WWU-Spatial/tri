@@ -370,7 +370,7 @@ $(document).ready(function() {
 
 			};
 			$.each(facility_record.Emissions, function(k,v){
-				chart_data.push([k, v.TotalPounds, v.TotalScore]);
+				chart_data.push([k, Math.ceil(v.TotalPounds), Math.ceil(v.TotalScore)]);
 			});
 			
 			//set the chart properties
