@@ -306,31 +306,23 @@ $(document).ready(function() {
 		})
 	}
 	
-	
-	
-	
-	
-	
+
 	function cleanPopup(){
 		//Remove event listeners to prevent multiple copies
 		$("#chemicalList").off('click.chemdetails');
 		
-		$('.graph').html = "";
+		document.getElementById('graph').innerHTML = '';
 		document.getElementById('info_title').innerHTML = '';
 		document.getElementById('info_industry').innerHTML = '';
 		document.getElementById('info_address').innerHTML = '';
 		document.getElementById('info_contact').innerHTML = '';
 		document.getElementById('chemicalList').innerHTML = '';
 		document.getElementById('industryList').innerHTML = '';
-		//Put remove listeners in here
+		console.log(document.getElementById("facility_tabs").innerHTML);
 		
 	}
 	
-	
-	
-	
-	
-	
+
 	//Popup Functionality
 	
 	
@@ -339,11 +331,11 @@ $(document).ready(function() {
 		// create chart data
 		if (!facility_record.Emissions || Object.keys(facility_record.Emissions).length === 1){
 			// no years of data so set the chart area to say no chart
-			$('.graph').html('<p class="noChart">Not enough data for a chart</p>');
+			$('#graph').html('<p class="noChart">Not enough data for a chart</p>');
 		} else {	
 			var data;
 			var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
-			var chart = new google.visualization.LineChart($('.graph')[0]);
+			var chart = new google.visualization.LineChart($('#graph')[0]);
 			var options = {
 				title : 'Facility Performance',
 				hAxis:{
