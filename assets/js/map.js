@@ -307,6 +307,7 @@ $(document).ready(function() {
 	
 	
 	function cleanPopup(){
+		//Remove event listeners to prevent multiple copies
 		$("#chemicalList").off('click.chemdetails');
 		
 		$('.graph').html = "";
