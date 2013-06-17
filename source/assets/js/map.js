@@ -526,8 +526,6 @@
 	
 			// Carcinogen
 			html += "<br /><br /><strong>Cancer: </strong>";
-			console.log(data.ToxicityClassInhale);
-			console.log(data.ToxicityClassInhale === "cancer");
 			if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "cancer") {
 				html += "This chemical is carcinogenic through both the oral and inhalation pathways";
 			} else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "non-cancer") {
