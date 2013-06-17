@@ -68,7 +68,8 @@
 				zoom : 5,
 				layers : [layers.toner, layers.y2010, layers.utfGrid],
 				maxZoom : 16,
-				fadeAnimation : false
+				fadeAnimation : false,
+				scrollWheelZoom: true
 			});
 			
 			// hide loading message on map load
