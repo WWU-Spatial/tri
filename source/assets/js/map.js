@@ -1,4 +1,5 @@
 (function(){
+	"use strict";
 	var windowYear = 2010;
 	var mapYear = 2010;
 	var maxYear = 2010;
