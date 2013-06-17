@@ -651,6 +651,6 @@
 	}
 	
 	function zoomToFacility(lat, lng) {
-		app.map.setView([lat, lng], 11);
+		app.map.setView([lat, lng], 14);
 	}
 })()
