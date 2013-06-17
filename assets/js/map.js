@@ -82,11 +82,16 @@ $(document).ready(function() {
 
 		app.utfClick = function(e) {
 			if (e.data) {
-				var url = 'http://140.160.114.197/api/v3/facility/' + e.data.facilitynu + '.json';
+				loadPopup(e.data.facilitynu);
+			}
+		};
+		
+		function loadPopup(facility_number){
+			var url = 'http://140.160.114.197/api/v3/facility/' + facility_number + '.json';
 
-				//Set info window year to current year
-				document.getElementById('window_year').innerHTML = app.windowYear;
-				document.getElementById('ind_year').innerHTML = app.windowYear;
+			//Set info window year to current year
+			document.getElementById('window_year').innerHTML = app.windowYear;
+			document.getElementById('ind_year').innerHTML = app.windowYear;
 
 				$.ajax({
 					dataType : "json",
@@ -105,13 +110,14 @@ $(document).ready(function() {
 								$("#general_tab_btn").off('click.draw_chart');
 							});
 						}
-
+			
 						initChemListListener();
 						initYearChangers(facility_record);
 					}
 				});
-			}
-		};
+				
+			
+		}
 
 		app.utfGrid.on('click', app.utfClick);
 
@@ -274,6 +280,7 @@ $(document).ready(function() {
 									showFacility(f.Latitude, f.Longitude);
 								}).on('click', function() {
 									zoomToFacility(f.Latitude, f.Longitude);
+									loadPopup(f.FacilityNumber);
 								});
 								$("#searchresults").append($(item)[0]);
 							});
