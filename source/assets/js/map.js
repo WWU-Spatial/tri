@@ -1,5 +1,4 @@
 (function(){
-
 	var windowYear = 2010;
 	var mapYear = 2010;
 	var maxYear = 2010;
@@ -69,9 +68,10 @@
 				layers : [layers.toner, layers.y2010, layers.utfGrid],
 				maxZoom : 16,
 				fadeAnimation : false
-			})
+			});
+			
 			// hide loading message on map load
-			.whenReady(function() {
+			map.whenReady(function() {
 				$('#loading').fadeOut(500);
 			});
 	
