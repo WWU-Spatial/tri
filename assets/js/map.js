@@ -8,9 +8,6 @@
 	app.clickedFacilityIcon = L.divIcon({
 		className : 'clickedFacility'
 	});
-	app.chart = {};
-	app.cd = {};
-	app.closer = "<h4 class='infoCloser trans' onclick='$(\".facilityInfo\").fadeOut(500); !app.marker?null:app.map.removeLayer(app.marker);'>X</h4>";
 	app.stamenAttribution = '<p>Map tiles by <a href="http://stamen.com">Stamen Design</a>,<br/>under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.<br/>Data by <a href="http://openstreetmap.org">OpenStreetMap</a>,<br/>under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.</p>';
 	
 	$(document).ready(function() {
