@@ -271,6 +271,17 @@ div.leaflet-bottom.leaflet-right{
 	cursor: pointer;
 }
 
+/* Logos */
+
+#wwu_logo{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background: url('../images/westernlogobluexsm.png');
+	width: 72px;
+	height: 36px;
+}
+
 /* POPUP STYLES */
 
 #facility_tabs{
@@ -898,17 +909,7 @@ max-width 480 for iPhone but this is too narrow for android..
 		display: block;
 	}
 	
-/*
-	#ecosLogoDiv {
-		z-index: 150;
-		top: 80px;
-	}
-*/
-	
 	#title {
-		/*
-		height: 64px;
-		*/
 		height: 44px;
 		width: 100%;
 		left: 0;
@@ -960,9 +961,8 @@ max-width 480 for iPhone but this is too narrow for android..
 		vertical-align: top;
 		font-size: .8em;
 		padding-right: 5px;
-		height: 20px!important;
+		height: 20px;
 		width: 124px;	
-		height: 40px;
 		background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 1px;
 	}		
 
