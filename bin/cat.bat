@@ -3,7 +3,7 @@ set STARTDIR=%CD%
 
 cd %STARTDIR%\source\assets\css
 
-type style.css leaflet-0.5.1.css jquery-ui-1.10.3.core.css jquery-ui-1.10.3.widgets.css jquery-ui-1.10.3.tabs.css jquery.fancybox.css jquery.fancybox-buttons.css > %STARTDIR%/build/assets/css/map.css
+type style.css leaflet-0.5.1.css jquery-ui-1.10.3.core.css jquery-ui-1.10.3.widgets.css jquery-ui-1.10.3.tabs.css jquery.fancybox.css > %STARTDIR%/build/assets/css/map.css
 
 cd %STARTDIR%/bin
 
