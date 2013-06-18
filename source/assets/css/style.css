@@ -184,30 +184,7 @@ div.leaflet-bottom.leaflet-right{
 	pointer-events: none!important;
 }
 
-.socialmedia {
-	text-align: center;
-	bottom: 0px;
-	width: 100%;
-	position: absolute;
-	overflow: hidden;
-	height: 20px;
-	z-index:200;
-}
 
-.socialmedia > div > div {
-	margin: 0 auto!important;
-	padding: 0!important;
-	display: inline;
-}
-
-.socialmedia iframe{
-	margin: -10px 5px!important;
-}
-
-.facebook {
-	margin-left: 15px!important;
-	display:inline!important;
-}
 
 #hideAbout {
 	display: none;
@@ -1040,27 +1017,31 @@ opacity:0.1}
 }
 /* End Loading display */
 
-/* Facebook stuff */
-.facebook{
+/* Social Media */
+
+.socialmedia {
 	display: block;
-	padding: 3px 10px 3px 20px;
-	background: #ECEEF5 url(http://static.ak.fbcdn.net/rsrc.php/v1/y7/r/ql9vukDCc4R.png) no-repeat 2px -46px;
-	border: #CAD4E7 1px solid;
-	border-radius: 3px;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	font-size: 11px;
-	color: #3B5998;
-	text-decoration: none;
-	line-height: 11px;
-	height: 12px;
-	height: 12px;
-	width: 28px;
-	font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
-	font-weight: normal;
-	margin-left: 32px;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	z-index:200;
+	height: 32px;
+	width: 32px;
 }
-/* End Facebook stuff */
+
+.facebook{
+	margin-left: 36px;
+}
+
+.twitter{
+	margin-left: -36px;
+}
+
+.googleplus {
+	margin-left: 0px;
+}
+
+/* End Social Media */
 
 
 /**
