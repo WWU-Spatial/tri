@@ -413,7 +413,7 @@ div.leaflet-bottom.leaflet-right{
 /*END POPUP STYLES*/
 
 
-#searchStuff{
+#searchcontainer{
 	top: 0;
 	margin: 15px 5px;
 	width: 100%;
@@ -946,13 +946,13 @@ max-width 480 for iPhone but this is too narrow for android..
 	
 		/* search */
 	#searchcontainer{
-		left: 0;
-		padding: 0;
-		padding-left: 0px;
-		text-align: left;
-		position: relative;
-		margin: 0 auto;
-		right: auto;
+		top: 0;
+		margin: 15px 5px;
+		width: 100%;
+		right: 0;
+		height: 30px;
+		text-align: right;
+		padding-left: 0;
 	}
 
 	#search{
