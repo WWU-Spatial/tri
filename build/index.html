@@ -5,9 +5,11 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7, IE=edge" />
+	<link rel="canonical" href="http://www.wwu.edu/huxley/spatial/maps/tri" />
 	
     <title>Toxic Air Release Explorer</title>
-	<link href='//fonts.googleapis.com/css?family=Alegreya:900|Arimo:400,700' rel='stylesheet' type='text/css'/>
+    
+    <link href='//fonts.googleapis.com/css?family=Alegreya:900|Arimo:400,700' rel='stylesheet' type='text/css'/>
 	
 	<!-- All CSS will get compiled into one file at production time -->
 	<link rel="stylesheet" type="text/css" href="assets/css/map.min.css" />
@@ -32,10 +34,11 @@
 		<script type="text/javascript" src="assets/js/es5-shim.min.js"></script>
 	<![endif]-->
 	
-	<!-- All JS will get compiled into one file at production time -->
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-	
+	<!-- All JS will get compiled into one file at production time -->
 	<script src="assets/js/map.js"></script>
+	
+	
 	
 </head>
 
@@ -54,7 +57,7 @@
 	<!-- end loading -->
 	
 	<!-- facility info -->
-	<div id="hover" class="dropshadow trans"></div>
+	<div id="hover" class="dropshadow transition"></div>
 	<div id="facility_tabs" class="noselect dropshadow" style="display: none;">
 		<div id="fp_close" class="infoCloser transition">X</div>
 		<ul class="yesselect">
@@ -97,39 +100,36 @@
 	</div>
 
 	
-	<div id="mapStuff">	
-		<div id="bordercontainer">
-		     <div id="map"></div>
-			 <div id="basemapselect" class="ontop"></div>
-			 
-			 <div id="topbar" class="ontop trans noselect">
-			 	<span id="title" class="ontop trans"><p><span class="midRed yesselect">Toxic Air Release Explorer</span>
-				<br><span class="smallTitle lightRed yesselect">In partnership with the Huxley Spatial Institute</span></p>
-				</span>
-				<div id="app-controls">				
-					<div id="yearchanger" class="noselect">
-						<div id="downyear" class="arrow-left"></div>
-						<div id="currentyear" class="master-year-label">2010</div>
-						<div id="upyear" class="arrow-right"></div>
-					</div>
-					<span id="searchStuff" class="ontop trans">	
-						<input type="text" id="search" value="Search for a facility" class="yesselect">
-					</span>
-				</div>
-			 </div>
-			 <div id="ecosLogoDiv" class="trans">
-			 	<img id="ecosLogo" alt="Ecos logo" src="assets/images/ECOS-logo.gif">
-			 </div>	
-		<a class="fancybox ontop trans" href="#lightbox">ABOUT</a>
-	</div>
+	<div id="mapcontainer">	
+	     <div id="map"></div>
+		 
+		 <div id="topbar" class="ontop transition noselect">
+		 	<img id="ecosLogo" alt="Environmental Council of the States (ECOS)" src="assets/images/ECOS-logo.png" class="transition">
+		 	<div id="title" class="ontop transition">
+		 		<p><span class="yesselect">Toxic Air Release Explorer</span>
+				<br><span class="smallTitle yesselect">In partnership with the Huxley Spatial Institute</span></p>
+			</div>
+			
+			<div id="yearchanger" class="noselect transition">
+				<div id="downyear" class="arrow-left"></div>
+				<div id="currentyear" class="master-year-label">2010</div>
+				<div id="upyear" class="arrow-right"></div>
+			</div>		
+				
+			<input type="text" id="search" value="Search for a facility" class="ontop yesselect transition">
+
+		 </div>
+		 
+		<a class="fancybox ontop transition" href="#lightbox">ABOUT</a>
+		<div id="wwu_logo"></div>
 
 	<!-- START MENU BOXES -->	
 	<!-- START BASEMAP MENU -->
 	<div id="basemap_container" class="menu_container ontop">	
 		<div id="basemap_menu" class="menu ontop">
-			<div id="tonerThumb" class="toner base_thumb dropshadow colorshift trans">toner</div>
-			<div id="streetsThumb" class="osm base_thumb dropshadow colorshift trans">streets</div>
-			<div id="satelliteThumb" class="aerial base_thumb dropshadow colorshift trans">satellite</div>
+			<div id="tonerThumb" class="toner base_thumb dropshadow colorshift transition">toner</div>
+			<div id="streetsThumb" class="osm base_thumb dropshadow colorshift transition">streets</div>
+			<div id="satelliteThumb" class="aerial base_thumb dropshadow colorshift transition">satellite</div>
 		</div>	
 	</div>		
 	<!-- END BASEMAP MENU -->
@@ -142,19 +142,24 @@
 	</div>
 	
 	<!-- START SOCIAL MENU -->
-	<div class="socialmedia">
-		<div>
-			<div><a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="none">Tweet</a></div>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-			<div><g:plusone size="tall" annotation="none"></g:plusone></div>
-			<script type="text/javascript">
-			  (function() {
-			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-			    po.src = 'https://apis.google.com/js/plusone.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			  })();
-			</script>	
-			<div><a class='facebook' href='http://facebook.com/sharer.php?t=US%20Census%20Map&amp;u=http%3A%2F%2F140.160.114.190%2FECOS-TRI%2FL-map.html'>Share</a></div>
+	<div>
+		<!-- Twitter -->
+		<div class="socialmedia twitter colorshift transition">
+			<a href="https://twitter.com/share?url=http://www.wwu.edu/huxley/spatial/maps/tri/&text=Check%20out%20the%20Toxic%20Air%20Release%20Explorer%20where%20you%20can%20view%20the%20emissions%20of%20facilities%20in%20your%20neighborhood" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+				<img src="assets/images/media/twitter.png" alt="Share on Twitter"/>
+			</a>
+		</div>
+		<!-- Google+ -->
+		<div class="socialmedia googleplus colorshift transition">
+			<a href="https://plus.google.com/share?url=http://www.wwu.edu/huxley/spatial/maps/tri/" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+				<img src="assets/images/media/gplus.png" alt="Share on Google+"/>
+			</a>
+		</div>
+		<!-- Facebook -->
+		<div class="socialmedia facebook colorshift transition">
+			<a href='http://facebook.com/sharer.php?t=Toxic%20Air%20Release%20Explorer&amp;u=http%3A%2F%2Fwww.wwu.edu%2Fhuxley%2Fspatial%2Fmaps%2Ftri%2Findex.html' onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+				<img src="assets/images/media/fb.png" alt="Share on Facebook"/>
+			</a>
 		</div>
 	</div>
 	<!-- END SOCIAL MENU -->
@@ -213,6 +218,7 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
+	
   </body>
   
 </html>
