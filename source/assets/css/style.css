@@ -530,36 +530,24 @@ div.leaflet-bottom.leaflet-right {
 
 /* b+w effects here */
 .colorshift {
-	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0.9999 0.9999 0.9999 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-	-webkit-filter: grayscale(1);
-	-webkit-filter: grayscale(100%);
-	-moz-filter: grayscale(100%);
-	-ms-filter: grayscale(100%);
-	-o-filter: grayscale(100%);
-	filter: gray;
-	-webkit-backface-visibility: hidden; /* needed so the webkit won't flicker on the transition */
-	opacity: .7; /* other browsers  and IE9+ */
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+    -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+	filter: gray; /* IE6-9 */
+	
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE8 */
 	filter: alpha(opacity=70); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
-	font-size: 1.4em;
-	font-weight: bold;
-	color: #000;
+	opacity: .7;
+	
 }
 
 .colorshift:hover {
-	-webkit-filter: grayscale(0);
-	-webkit-filter: grayscale(0);
-	-moz-filter: grayscale(0);
-	-ms-filter: grayscale(0);
-	-o-filter: grayscale(0);
-	filter: none;
+    -webkit-filter: grayscale(0);
+    filter: none;
 	-webkit-backface-visibility: hidden; /* needed so the webkit won't flicker on the transition */
-	opacity: 1; /* other browsers  and IE9+ */
+	
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /* IE8 */
 	filter: alpha(opacity=100); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /* this works in IE8 only */
-	font-size: 1.2em;
+	opacity: 1; /* other browsers  and IE9+ */
 }
 
 #satelliteThumb.colorshift:hover {
@@ -609,6 +597,13 @@ div.leaflet-bottom.leaflet-right {
 	cursor: pointer;
 	line-height: 50px;
 	width: 85px;
+	font-size: 1.4em;
+	font-weight: bold;
+	color: #000;
+}
+
+.base_thumb:hover {
+	font-size: 1.2em;
 }
 
 /*Basemap Thumbs*/
