@@ -35,44 +35,36 @@ html, body {
 	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
 }
 
-#topbar > span {
-	display: inline-block;
-}
-#ecosLogoDiv {
-	z-index: 1000;
-	padding: 1px 3px 0px 1px;
-	background-color: white;
+#ecosLogo {
 	position: absolute;
+	padding-top: 2px;
+	z-index: 1000;
 	left: 5px;
 	top: 1px;
 }
-#ecosLogoDiv:hover {
+
+#ecosLogo:hover {
 	cursor: pointer;
 }
 
-#ecosLogo {
-	height: 50px;
-	padding-top: 2px;
-}
-
 #title {
+	position: absolute;
+	height: 60px;
+	width: 420px;
 	left: 55px;
 	font-size: 2.1em;
 	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
 	font-variant: small-caps;
 	letter-spacing: -.5px;
 	font-weight: 700;
-	/****/
-	height: 40px;
-	position: relative;
-	width: 45%;
-	padding-right: 30px;
+	color: #F58C5B;
+	line-height: 20px;
 }
 
 #title > p {
 	white-space: nowrap;
 	margin-top: 10px;
-	line-height: 20px;
+	
 }
 
 .smallTitle {
@@ -82,9 +74,59 @@ html, body {
 	color: #f58c5b;
 }
 
-.midRed {
-	color: #F58C5B;
+#yearchanger {
+	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
+	color: #fff;
+	font-size: 1em;
+	font-weight: bold;
+	z-index: 210;
+	text-align: center;
+	width: 110px;
+	position: relative;
+	top: 17px;
+	height: 30px;
+	display: inline-block !important;
+	left: 53%;
+	margin: 0 auto;
 }
+
+#currentyear {
+	top: 5px;
+	left: 0;
+	margin: -4px auto 0 auto;
+	font-size: 1.8em;
+	text-align: center;
+}
+
+#upyear {
+	background-position: -1px 50%;
+	right: 0;
+}
+#downyear {
+	background-position: -36px 50%;
+	left: 0;
+}
+
+#search {
+	color: rgba(0, 0, 0, 0.5);
+	text-align: left;
+	font-weight: bold;
+	font-size: 1.2em;
+	height: 30px;
+	position: absolute;
+	top: 13px;
+	right: 5px;
+	width: 220px;
+	padding-left: 30px;
+	border: 1px solid #888;
+	background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
+}
+
+input[type="text"] {
+	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
+}
+
+
 
 #lightboxtext {
 	margin: 0 auto;
@@ -399,32 +441,7 @@ div.leaflet-bottom.leaflet-right {
 
 /*END POPUP STYLES*/
 
-#searchcontainer {
-	top: 0;
-	margin: 15px 5px;
-	width: 100%;
-	right: 0;
-	height: 30px;
-	text-align: right;
-	padding-left: 0px;
-}
 
-#search {
-	color: rgba(0, 0, 0, 0.5);
-	font-weight: bold;
-	font-size: 1.2em;
-	height: 30px;
-	position: relative;
-	top: 0px;
-	width: 220px;
-	padding-left: 30px;
-	border: 1px solid #888;
-	background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
-}
-
-input[type="text"] {
-	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
-}
 
 .ontop > ul > li {
 	display: none;
@@ -470,52 +487,6 @@ input[type="text"] {
 	border-color: #fff;
 	cursor: pointer;
 	background-color: rgba(0,0,0,.6);
-}
-
-#app-controls {
-	text-align: center;
-	position: fixed;
-	margin: 0 auto;
-	width: 100%;
-	top: 0;
-}
-
-#yearchanger {
-	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
-	color: #fff;
-	font-size: 1em;
-	font-weight: bold;
-	z-index: 210;
-	margin: -40px 0 0 200px;
-	text-align: center;
-	width: 110px;
-	position: relative;
-	top: 25px;
-	height: 30px;
-	display: inline-block !important;
-}
-
-#downyear {
-	left: 0;
-}
-
-#upyear {
-	right: 0;
-}
-
-#currentyear {
-	top: 5px;
-	left: 0;
-	margin: -4px auto 0 auto;
-	font-size: 1.8em;
-	text-align: center;
-}
-
-#upyear {
-	background-position: -1px 50% !important;
-}
-#downyear {
-	background-position: -36px 50% !important;
 }
 
 .leaflet-control-zoom {
@@ -872,33 +843,57 @@ opacity:0.1}
 @media only screen and (max-width: 925px) {
 	/* HEADER */
 	#topbar {
-		/*
-		 height: 110px;
-		 */
 		height: 90px;
-	}
-	#topbar > span {
-		display: block;
 	}
 
 	#title {
-		height: 44px;
+		left:0;
 		width: 100%;
-		left: 0;
-		text-align: center;
+		text-align:center;
 		font-size: 1.6em;
-	}
-
-	#title > p {
-		white-space: nowrap;
-		margin-top: 10px;
 		line-height: 16px;
 	}
 
-	.smallTitle {
-		font-size: .45em;
+	#search {
+		top: 57px;
+		right: 50%;
+		margin-right: -155px;
+		font-size: .8em;
+		padding-right: 5px;
+		height: 20px;
+		width: 160px;
+		background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 1px;
+	}
+	
+	
+	#yearchanger {
+		width: 105px;
+		top: 59px;
+		padding: 0;
+		position: relative;
+		margin: 0 auto;
+		margin-left: -170px;
+		left: 50%;
 	}
 
+	#currentyear {
+		width: 50px;
+		font-size: 1.4em;
+	}
+	
+	#downyear{
+		border-top: 10px solid transparent;
+		border-left: 10px solid transparent;
+		border-bottom: 10px solid transparent;
+	}
+	
+	#upyear{
+		border-top: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-bottom: 10px solid transparent;
+	}
+	
+	
 	.base_thumb {
 		font-size: 16px;
 		line-height: 40px;
@@ -919,45 +914,7 @@ opacity:0.1}
 		top: 100px;
 	}
 
-	/* search */
-	#searchcontainer {
-		top: 0;
-		margin: 15px 5px;
-		width: 100%;
-		right: 0;
-		height: 30px;
-		text-align: right;
-		padding-left: 0;
-	}
-
-	#search {
-		margin-left: -10px;
-		vertical-align: top;
-		font-size: .8em;
-		padding-right: 5px;
-		height: 20px;
-		width: 124px;
-		background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 1px;
-	}
-
-	/*Year Changer Controls*/
-
-	#app-controls {
-		top: 52px;
-		margin: 0 -10px;
-	}
-
-	#yearchanger {
-		top: 0;
-		padding: 0;
-		position: relative;
-		margin: 0 auto;
-	}
-
-	#currentyear {
-		width: 50px;
-		font-size: 1.4em;
-	}
+	
 
 	/* MAP Controls */
 	.leaflet-control-zoom {
@@ -1020,9 +977,8 @@ opacity:0.1}
 	}
 }
 /* smaller */
-@media only screen and (max-width: 410px) {
-	#ecosLogoDiv {
-		z-index: 150;
+@media only screen and (max-width: 425px) {
+	#ecosLogo {
 		top: 92px;
 		padding-left: 8px;
 	}
@@ -1052,4 +1008,40 @@ opacity:0.1}
 		top: 0px;
 		left: 0px;
 	}
+}
+
+@media only screen and (max-width: 430px) {
+	#title {
+		font-size: 1.2em;
+		line-height: 12px;
+	}
+	
+	#search {
+		top: 50px;
+		margin-right: -97px;
+	}
+	
+	
+	#yearchanger {
+		width: 100px;
+		top: 95px;
+		padding: 0;
+		position: relative;
+		margin: 0 auto;
+		margin-left: -52px;
+		left: 50%;
+		background: rgba(0,0,0,0.6);
+		vertical-align: middle;
+		line-height: 30px;
+		border-radius: 5px;
+	}
+	
+	#currentyear {
+		margin: 0 auto;
+	}
+	
+	#upyear, #downyear{
+		top: 5px;
+	}
+
 }
