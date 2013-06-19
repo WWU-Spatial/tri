@@ -82,29 +82,34 @@ html, body {
 	z-index: 210;
 	text-align: center;
 	width: 110px;
-	position: relative;
+	position: absolute;
 	top: 17px;
 	height: 30px;
+	vertical-align: middle;
+	line-height: 30px;
 	display: inline-block !important;
 	left: 53%;
 	margin: 0 auto;
+	padding: 0;
 }
 
 #currentyear {
-	top: 5px;
+	top: 5;
 	left: 0;
-	margin: -4px auto 0 auto;
+	margin: 0 auto;
 	font-size: 1.8em;
 	text-align: center;
 }
 
 #upyear {
-	background-position: -1px 50%;
 	right: 0;
+	top: 50%;
+	margin-top:-15px;
 }
 #downyear {
-	background-position: -36px 50%;
 	left: 0;
+	top: 50%;
+	margin-top:-15px;
 }
 
 #search {
@@ -868,10 +873,8 @@ opacity:0.1}
 	
 	#yearchanger {
 		width: 105px;
-		top: 59px;
+		top: 55px;
 		padding: 0;
-		position: relative;
-		margin: 0 auto;
 		margin-left: -170px;
 		left: 50%;
 	}
@@ -882,12 +885,14 @@ opacity:0.1}
 	}
 	
 	#downyear{
+		margin-top:-10px;
 		border-top: 10px solid transparent;
 		border-left: 10px solid transparent;
 		border-bottom: 10px solid transparent;
 	}
 	
 	#upyear{
+		margin-top:-10px;
 		border-top: 10px solid transparent;
 		border-right: 10px solid transparent;
 		border-bottom: 10px solid transparent;
@@ -966,16 +971,6 @@ opacity:0.1}
 
 }
 
-/* Landscape styles */
-@media only screen and (max-width: 801px) and (orientation: landscape) {
-	#ecosLogoDiv {
-		top: 1px;
-	}
-
-	#search {
-		width: 124px;
-	}
-}
 /* smaller */
 @media only screen and (max-width: 425px) {
 	#ecosLogo {
@@ -1025,9 +1020,6 @@ opacity:0.1}
 	#yearchanger {
 		width: 100px;
 		top: 95px;
-		padding: 0;
-		position: relative;
-		margin: 0 auto;
 		margin-left: -52px;
 		left: 50%;
 		background: rgba(0,0,0,0.6);
@@ -1036,12 +1028,6 @@ opacity:0.1}
 		border-radius: 5px;
 	}
 	
-	#currentyear {
-		margin: 0 auto;
-	}
 	
-	#upyear, #downyear{
-		top: 5px;
-	}
 
 }
