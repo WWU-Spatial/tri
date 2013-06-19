@@ -1,4 +1,4 @@
-/*!
+/*
  * Media helper for fancyBox
  * version: 1.0.5 (Tue, 23 Oct 2012)
  * @requires fancyBox v2.0 or later

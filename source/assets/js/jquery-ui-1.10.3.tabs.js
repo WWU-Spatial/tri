@@ -1,4 +1,4 @@
-/*! jQuery UI - v1.10.3 - 2013-05-29
+/* jQuery UI - v1.10.3 - 2013-05-29
 * http://jqueryui.com
 * Includes: jquery.ui.core.js, jquery.ui.widget.js, jquery.ui.tabs.js
 * Copyright 2013 jQuery Foundation and other contributors Licensed MIT */
