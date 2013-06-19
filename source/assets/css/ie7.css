@@ -1,0 +1,52 @@
+#topbar{
+	background-color: rgb(2,2,2)!important;
+	filter: alpha(opacity=65)!important;
+/* -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; */
+}	
+
+#title > p{
+	line-height: 25px!important;
+}
+
+.smallTitle{
+	font-size: 0.47em!important;
+	margin: 5px!important;
+}
+
+#footer{
+	width:100%;
+}
+
+#sliderStuff{
+	top:20px;
+}
+
+#currentyear{
+	line-height: 20px;
+}
+
+#menulist{
+	white-space: nowrap!important;
+	overflow: hidden!important;
+}
+
+.fancybox{
+	background-color: rgb(255,255,255)!important;
+	filter: alpha(opacity=60)!important;
+}
+
+.fancybox:active, .fancybox:hover {
+    color: #fff;
+    border-color: #fff;
+	cursor:pointer;
+	background-color: rgb(0,0,0)!important;
+	filter: alpha(opacity=60)!important;
+}
+
+#hover{
+	background-color: #fff;
+}
+/**
+*MOBILE STYLE doesn't work in lt IE 7
+max-width 480 for iPhone but this is too narrow for android..
+**/

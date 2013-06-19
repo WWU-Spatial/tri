@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset='utf-8'> 
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7, IE=edge" />
+	
+    <title>Toxic Air Release Explorer</title>
+	<link href='//fonts.googleapis.com/css?family=Alegreya:900|Arimo:400,700' rel='stylesheet' type='text/css'/>
+	
+	<!-- All CSS will get compiled into one file at production time -->
+	<link rel="stylesheet" type="text/css" href="assets/css/map.min.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/leaflet-ie-0.5.1.css" /><![endif]-->
+	
+	<!--[if IE]>
+		<style>
+			#loadingText{color:#000};
+			#app-controls{text-align: center;}			
+		</style>
+	<![endif]-->
+	
+	<!--[if lt IE 8]> 
+		<link rel="stylesheet" type="text/css" href="assets/css/ie7.css" /> 
+	<![endif]-->
+	
+	<!--[if IE 8]> 
+		<link rel="stylesheet" type="text/css" href="assets/css/ie8.css" />
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="assets/js/es5-shim.min.js"></script>
+	<![endif]-->
+	
+	<!-- All JS will get compiled into one file at production time -->
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script src="assets/js/map.js"></script>
+	
+</head>
+
+<body>
+	
+	<!-- loading -->
+	<div id="loading">
+		<div>	
+			<div id="loadingText">loading...</div>
+			<div id="blockG_1" class="loading"></div>
+			<div id="blockG_2" class="loading"></div>
+			<div id="blockG_3" class="loading"></div>
+			<div id="blockG_4" class="loading"></div>
+		</div>	
+	</div>
+	<!-- end loading -->
+	
+	<!-- facility info -->
+	<div id="hover" class="dropshadow trans"></div>
+	<div id="facility_tabs" class="noselect dropshadow" style="display: none;">
+		<div id="fp_close" class="infoCloser transition">X</div>
+		<ul class="yesselect">
+			<li id="general_tab_btn">
+				<a href="#general_tab">General</a>
+			</li>
+			<li>
+				<a href="#chemical_tab">Chemical</a>
+			</li>
+			<li>
+				<a href="#industry_tab">Industry</a>
+			</li>
+		</ul>
+		<div id="general_tab" class="tab yesselect">
+			<div id="info_title"></div>
+			<div id='graph'></div>
+			<div id='info_industry'></div>
+			<div id='info_address'></div>
+			<div id='info_contact'></div>
+			<div class="zoom_to transition">
+				Zoom to Facility
+			</div>
+		</div>
+		<div id="chemical_tab" class="tab yesselect">
+			<div id="chemicalYearToggle" class="noselect">
+				<div id="window_left" class="arrow-left"></div>
+				<div id="window_year" class="year-label"></div>
+				<div id="window_right" class="arrow-right"></div>
+			</div>
+			<div id="chemicalList" class="list"></div>
+		</div>
+		<div id="industry_tab" class="tab yesselect">
+			<div id="industryYearToggle" class="noselect">
+				<div id="ind_left" class="arrow-left"></div>
+				<div id="ind_year" class="year-label"></div>
+				<div id="ind_right" class="arrow-right"></div>
+			</div>
+			<div id="industryList" class="list"></div>
+		</div>
+	</div>
+
+	
+	<div id="mapStuff">	
+		<div id="bordercontainer">
+		     <div id="map"></div>
+			 <div id="basemapselect" class="ontop"></div>
+			 
+			 <div id="topbar" class="ontop trans noselect">
+			 	<span id="title" class="ontop trans"><p><span class="midRed yesselect">Toxic Air Release Explorer</span>
+				<br><span class="smallTitle lightRed yesselect">In partnership with the Huxley Spatial Institute</span></p>
+				</span>
+				<div id="app-controls">				
+					<div id="yearchanger" class="noselect">
+						<div id="downyear" class="arrow-left"></div>
+						<div id="currentyear" class="master-year-label">2010</div>
+						<div id="upyear" class="arrow-right"></div>
+					</div>
+					<span id="searchStuff" class="ontop trans">	
+						<input type="text" id="search" value="Search for a facility" class="yesselect">
+					</span>
+				</div>
+			 </div>
+			 <div id="ecosLogoDiv" class="trans">
+			 	<img id="ecosLogo" alt="Ecos logo" src="assets/images/ECOS-logo.gif">
+			 </div>	
+		<a class="fancybox ontop trans" href="#lightbox">ABOUT</a>
+	</div>
+
+	<!-- START MENU BOXES -->	
+	<!-- START BASEMAP MENU -->
+	<div id="basemap_container" class="menu_container ontop">	
+		<div id="basemap_menu" class="menu ontop">
+			<div id="tonerThumb" class="toner base_thumb dropshadow colorshift trans">toner</div>
+			<div id="streetsThumb" class="osm base_thumb dropshadow colorshift trans">streets</div>
+			<div id="satelliteThumb" class="aerial base_thumb dropshadow colorshift trans">satellite</div>
+		</div>	
+	</div>		
+	<!-- END BASEMAP MENU -->
+	
+		
+	<!-- SEARCH RESULTS -->
+	<div id="searchresultsbox" class="dropshadow ontop">
+		<div id="search_close" class="menu_close">close</div>
+		<div id="searchresults"></div>
+	</div>
+	
+	<!-- START SOCIAL MENU -->
+	<div class="socialmedia">
+		<div>
+			<div><a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="none">Tweet</a></div>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			<div><g:plusone size="tall" annotation="none"></g:plusone></div>
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>	
+			<div><a class='facebook' href='http://facebook.com/sharer.php?t=US%20Census%20Map&amp;u=http%3A%2F%2F140.160.114.190%2FECOS-TRI%2FL-map.html'>Share</a></div>
+		</div>
+	</div>
+	<!-- END SOCIAL MENU -->
+	
+	<!--   END MENU BOXES -->
+
+	<!--
+	
+	<div id="isis_logo" class="ontop"></div>
+	-->
+	
+	
+	<!-- lightbox page-->
+	<div id="lightbox" style="display:none;">
+		<div id="lightboxtext">
+			<h1 class="lightboxtitle">about the application</h1>		 
+		    <p>This web map was designed at the <a href="http://www.wwu.edu/huxley/spatial/" target="_blank">
+		    	Huxley Spatial Institute</a> at <a href="http://www.wwu.edu/" target="_blank">
+		    	Western Washington University</a> (WWU) in Belligham, Washington and funded through a grant from the <a href="http://www.ecos.org/" target="_blank">
+		    	Environmental Council of States</a> (ECOS). The concept for this web map application was introduced in 2011 in the book, <a href="http://mitpress.mit.edu/books/coming-clean/" target="_blank">
+		    	Coming Clean</a>, by Michael E. Kraft, Mark Stefan, and Troy D. Abel. That book puts forth the idea that information disclosure can be a policy strategy for environmental protection, and this web map is designed to use visual representation of environmental information to provide access to a larger audience of citizens so that they may be able to influence the environmental policy directly affecting  their health and the health of their communities.</p>
+			<div class="lighboxInsets">
+		      <div class="wrap">
+	          	<div class="bucket">
+	            	<div class="figureLabel">Figure 1</div>
+					<img id="figure1" src="assets/images/figure1.jpg" alt="Figure 1 shows circles of different sizes.  Each circle represents a facility.  The size of the circle represents the total pounds of emissions for that facility during the current map year.  Each increase in size represents an order of magnitude increase in total pounds" />
+			    </div>						
+			  </div>
+		      <div class="wrap internallink">
+		      	<div class="wrapcontent">
+		     		<div class="figureLabel">Figure 2</div>
+		            <img id="figure2" src="assets/images/figure2.jpg" class="img90" alt="Figure 2 shows circles of different colors.  Each circle represents a facility.  The color of the circle represents the total risk from emissions for that facility during the current map year.  The darker the color, the greater the risk.  Each increase in hue represents an order of magnitude increase in risk" />           
+
+			    </div>	         
+			  </div>
+			</div>
+			<p>This web map visually represents industrial air pollution information to citizens across the United States by mapping the relative risk from air pollution that industrial facilities pose to the human health of their communities and how those risks might change over time. Facility pollution information comes from the <a href="http://www.epa.gov/tri/triprogram/whatis.htm" target="_blank">				
+				Toxic Release Inventory</a> (TRI) , an inventory by the United States Environmental Protection Agency (EPA) and the States to collect data annually on releases and transfers of certain toxic chemicals from industrial facilities. TRI facilities are depicted as circles with colors that correlate to a risk screening value that is based on modeled output data from the EPA's <a href="http://www.epa.gov/oppt/rsei/pubs/basic_information.html" target="_blank">
+				Risk Screening Environmental Indicators</a> (RSEI) model for assessing TRI data.</p>
+			<p>Circles representing TRI facilities have been classified into 7 sizes and 7 colors, to reflect changes in pollution performance and amount so the map user will be able to see if a certain facility has been getting better or worse over time, or, if their neighboring industrial plants are getting safer and cleaner. Smaller circles indicate fewer pounds released; larger circles indicate more pounds released. Each increase in size represents an order of magnitude increase of pounds of pollutants released (Figure 1). Lighter circles represent polluters who are posing less risk to human health based on the RSEI model risk screening value; darker circles represent polluters who are posing more risk.  Each shift in color represents an order of magnitude change in risk (Figure 2). Gray circles represent facilities that did not report any air releases for that map year. Users are also able to click facilities to get information about the facility, including emission trends over time, specific chemicals released and related health information, as well as comparisons of the facility to other similar facilities in its state and in the United States. There  are currently 17,000 facilities reporting to TRI and viewable in the web map for the years 1996 to 2010.</p>		
+		    
+		    <p class="attribution">Read more about <a href="http://www.epa.gov/opptintr/rsei/" target="_blank">RSEI</a>.
+		</div>
+	</div>
+
+	<!-- google analytics-->
+	<script>
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-28476932-1']);
+	  _gaq.push(['_setDomainName', 'wwu.edu']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+  </body>
+  
+</html>
