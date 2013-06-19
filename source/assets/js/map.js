@@ -80,6 +80,7 @@
 			utfClick = function(e) {
 				if (e.data) {
 					loadPopup(e.data.facilitynu);
+					_gaq.push(['_trackEvent', 'Map', 'Click Facility', e.data.name]);
 				}
 			};
 			
@@ -110,6 +111,9 @@
 				
 							initChemListListener();
 							initYearChangers(facility_record);
+						},
+						error : function(request){
+							_gaq.push(['_trackEvent', 'Error', 'Get Facility', "URL: " + url + "Response: " + request.responseText]);
 						}
 					});
 					
@@ -188,6 +192,7 @@
 					map.removeLayer(overlayMaps['L' + mapYear]);
 					mapYear += 1;
 					$('#currentyear').html(mapYear);
+					_gaq.push(['_trackEvent', 'Map Year', 'Increase', mapYear]);
 				}
 			};
 	
@@ -197,6 +202,7 @@
 					map.removeLayer(overlayMaps['L' + mapYear]);
 					mapYear -= 1;
 					$('#currentyear').html(mapYear);
+					_gaq.push(['_trackEvent', 'Map Year', 'Decrease', mapYear]);
 				}
 			};
 	
@@ -220,6 +226,7 @@
 					map.addLayer(baseMaps[lyr]);
 					baseMaps[lyr].bringToBack();
 				}
+				_gaq.push(['_trackEvent', 'Basemaps', 'Change', lyr]);
 			}
 	
 			// add handlers for  attribution
@@ -263,9 +270,11 @@
 	
 			$('#search').keydown(function(e) {
 				if (e.keyCode === 13) {
+					var url = 'http://140.160.114.197/search/tri/facilities/?q=' + $('#search').val();
+					_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
 					$('#loading').fadeIn(500);
 					$.ajax({
-						url : 'http://140.160.114.197/search/tri/facilities/?q=' + $('#search').val(),
+						url : url,
 						success : function(r) {
 							$("#searchresults").empty();
 							if (r.hits.hits[0]) {
@@ -277,6 +286,7 @@
 									}).on('click', function() {
 										zoomToFacility(f.Latitude, f.Longitude);
 										loadPopup(f.FacilityNumber);
+										_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
 									});
 									$("#searchresults").append($(item)[0]);
 								});
@@ -287,8 +297,9 @@
 							$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
 							$('#loading').fadeOut(500);
 						},
-						error : function() {
+						error : function(request) {
 							$('#loading').fadeOut(500);
+							_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
 						}
 					});
 				}
@@ -510,6 +521,10 @@
 				url : url,
 				success : function(data) {
 					parseChem(casNum, data);
+					_gaq.push(['_trackEvent', 'Chemical Tab', 'Get Chemical', data.ChemName]);
+				},
+				error: function(request){
+					_gaq.push(['_trackEvent', 'Error', 'Get Chemical', "URL: " + url + "Response: " + request.responseText]);
 				}
 			});
 		}
