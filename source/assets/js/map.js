@@ -72,6 +72,8 @@
 				scrollWheelZoom: true
 			});
 			
+			map.attributionControl.setPrefix('');
+			
 			// hide loading message on map load
 			map.whenReady(function() {
 				$('#loading').fadeOut(500);
@@ -230,8 +232,11 @@
 			}
 	
 			// add handlers for  attribution
+			
 			$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans'><p>basemap info</p><p style='display:none'>hide</p></div>");
-	
+			$('.leaflet-control-attribution').hide(); //For some reason shows up by default in ie8.  Temporary fix
+			
+			
 			// toggle attribution info
 			$('.autoattribution').click(function(e) {
 				e.stopPropagation();
