@@ -426,7 +426,6 @@
 			} else {
 				emissions = 'NoData';
 			}
-	
 			if (emissions !== 'NoData') {
 				emissions.sort(function(a, b) {
 					//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
@@ -439,13 +438,14 @@
 					}
 					return 0;
 				});
-	
-				for (var i; i<emissions.length; i++) {
-					var div = document.createElement('div');
-					div.setAttribute('class', 'chemical_row');
-					div.setAttribute('id', 'cas' + emissions[i].CASNumber);
-					div.innerHTML = emissions[i].Chemical + '<br />' + 'Pounds: ' + emissions[i].Pounds.toFixed(2) + ' Risk: ' + emissions[i].Score.toFixed(2) + '<div id="inf' + emissions[i].CASNumber + '" class="chemical_details"></div>';
-					chemList.appendChild(div);
+				for (var emission in emissions) {
+					if(emissions.hasOwnProperty(emission)){
+						var div = document.createElement('div');
+						div.className = 'chemical_row';
+						div.id = 'cas' + emissions[emission].CASNumber;
+						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + emissions[emission].Pounds.toFixed(2) + ' Risk: ' + emissions[emission].Score.toFixed(2) + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+						chemList.appendChild(div);
+					}
 				}
 			} else {
 				chemList.innerHTML = 'No Chemical Air Releases in ' + windowYear;
@@ -525,10 +525,12 @@
 				dataType : "json",
 				url : url,
 				success : function(data) {
+					
 					parseChem(casNum, data);
 					_gaq.push(['_trackEvent', 'Chemical Tab', 'Get Chemical', data.ChemName]);
 				},
 				error: function(request){
+					
 					_gaq.push(['_trackEvent', 'Error', 'Get Chemical', "URL: " + url + "Response: " + request.responseText]);
 				}
 			});
