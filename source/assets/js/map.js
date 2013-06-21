@@ -243,12 +243,12 @@
 			// stop mouseover info for facilities when under attribution
 			$('div.leaflet-bottom.leaflet-right').mouseenter(function(e) {
 				e.stopPropagation();
-				utfGrid.off('mouseover');
-				utfGrid.off('click');
+				layers.utfGrid.off('mouseover');
+				layers.utfGrid.off('click');
 			});
 			$('div.leaflet-bottom.leaflet-right').mouseleave(function() {
-				utfGrid.on('mouseover', utfMouseover);
-				utfGrid.on('click', utfClick);
+				layers.utfGrid.on('mouseover', utfMouseover);
+				layers.utfGrid.on('click', utfClick);
 			});
 	
 			/// search
