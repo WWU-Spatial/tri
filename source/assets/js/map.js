@@ -435,11 +435,11 @@
 					return 0;
 				});
 	
-				for (var emission in emissions) {
+				for (var i; i<emissions.length; i++) {
 					var div = document.createElement('div');
 					div.setAttribute('class', 'chemical_row');
-					div.setAttribute('id', 'cas' + emissions[emission].CASNumber);
-					div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + emissions[emission].Pounds.toFixed(2) + ' Risk: ' + emissions[emission].Score.toFixed(2) + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+					div.setAttribute('id', 'cas' + emissions[i].CASNumber);
+					div.innerHTML = emissions[i].Chemical + '<br />' + 'Pounds: ' + emissions[i].Pounds.toFixed(2) + ' Risk: ' + emissions[i].Score.toFixed(2) + '<div id="inf' + emissions[i].CASNumber + '" class="chemical_details"></div>';
 					chemList.appendChild(div);
 				}
 			} else {
