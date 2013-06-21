@@ -639,6 +639,7 @@
 	
 		setTimeout(function() {
 			google.load('visualization', '1', {
+				'callback' : 'var nothing',
 				'packages' : ['corechart']
 			});
 		}, 1000);
