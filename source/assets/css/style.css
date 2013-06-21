@@ -31,7 +31,9 @@ a img {
 	left: 0;
 	top: 0;
 	height: 60px;
-	background-color: rgba(2, 2, 2, 0.9);
+	background-color: rgb(2, 2, 2);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
 	opacity: 0.90;
 	width: 100%;
 	-moz-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
@@ -117,6 +119,7 @@ a img {
 }
 
 #search {
+	color: rgb(0, 0, 0); /* Fallback for unsupported browsers*/
 	color: rgba(0, 0, 0, 0.5);
 	text-align: left;
 	font-weight: bold;
@@ -200,6 +203,7 @@ div.leaflet-bottom.leaflet-right {
 	pointer-events: auto !important;
 	padding: 0 9px;
 	box-shadow: 0 0 5px #bbb;
+	background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
 	background-color: rgba(255,255,255,0.7);
 	color: rgb(0,0,0);
 	cursor: pointer;
@@ -210,6 +214,7 @@ div.leaflet-bottom.leaflet-right {
 }
 
 .hidetoggle {
+	background-color: rgb(55,55,55); /* Fallback for unsupported browsers*/
 	background-color: rgba(55,55,55,0.7) !important;
 	color: rgb(255,255,255) !important;
 }
@@ -224,6 +229,7 @@ div.leaflet-bottom.leaflet-right {
 	position: absolute;
 	border: solid #000 1px;
 	padding: 5px;
+	background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
 	background-color: rgba(255,255,255,0.9);
 	width: 150px;
 	max-height: 400px;
@@ -341,7 +347,7 @@ div.leaflet-bottom.leaflet-right {
 	padding: 0;
 	color: #fff;
 	text-align: center;
-	background-color: rgba(2, 2, 2, 0.9);
+	background-color: rgb(26, 26, 26);
 }
 
 .arrow-right {
@@ -483,9 +489,12 @@ div.leaflet-bottom.leaflet-right {
 	-o-transition: color 0.3s linear;
 	-webkit-transition: color 0.3s linear;
 	transition: color 0.3s linear;
-	background-color: rgba(255,255,255,.6);
+	background:transparent;
+	zoom:1;
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696);
+	background-color: rgba(150,150,150,.8);
 	top: 74px;
-	left: 50px;
+	left: 51px;
 	width: 80px;
 	text-align: center;
 	line-height: 35px;
@@ -495,7 +504,8 @@ div.leaflet-bottom.leaflet-right {
 	color: #fff;
 	border-color: #fff;
 	cursor: pointer;
-	background-color: rgba(0,0,0,.6);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
+	background-color: rgba(0,0,0,.8);
 }
 
 .leaflet-control-zoom {
@@ -1021,6 +1031,7 @@ opacity:0.1}
 		top: 95px;
 		margin-left: -52px;
 		left: 50%;
+		background: rgb(0,0,0); /* Fallback for unsupported browsers */
 		background: rgba(0,0,0,0.6);
 		vertical-align: middle;
 		line-height: 30px;
