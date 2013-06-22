@@ -12243,6 +12243,8 @@ if (typeof L === "object") {
 				scrollWheelZoom: true
 			});
 			
+			map.attributionControl.setPrefix('');
+			
 			// hide loading message on map load
 			map.whenReady(function() {
 				$('#loading').fadeOut(500);
@@ -12401,8 +12403,11 @@ if (typeof L === "object") {
 			}
 	
 			// add handlers for  attribution
+			
 			$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans'><p>basemap info</p><p style='display:none'>hide</p></div>");
-	
+			$('.leaflet-control-attribution').hide(); //For some reason shows up by default in ie8.  Temporary fix
+			
+			
 			// toggle attribution info
 			$('.autoattribution').click(function(e) {
 				e.stopPropagation();
@@ -12414,12 +12419,12 @@ if (typeof L === "object") {
 			// stop mouseover info for facilities when under attribution
 			$('div.leaflet-bottom.leaflet-right').mouseenter(function(e) {
 				e.stopPropagation();
-				utfGrid.off('mouseover');
-				utfGrid.off('click');
+				layers.utfGrid.off('mouseover');
+				layers.utfGrid.off('click');
 			});
 			$('div.leaflet-bottom.leaflet-right').mouseleave(function() {
-				utfGrid.on('mouseover', utfMouseover);
-				utfGrid.on('click', utfClick);
+				layers.utfGrid.on('mouseover', utfMouseover);
+				layers.utfGrid.on('click', utfClick);
 			});
 	
 			/// search
@@ -12592,7 +12597,6 @@ if (typeof L === "object") {
 			} else {
 				emissions = 'NoData';
 			}
-	
 			if (emissions !== 'NoData') {
 				emissions.sort(function(a, b) {
 					//http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
@@ -12605,13 +12609,14 @@ if (typeof L === "object") {
 					}
 					return 0;
 				});
-	
 				for (var emission in emissions) {
-					var div = document.createElement('div');
-					div.setAttribute('class', 'chemical_row');
-					div.setAttribute('id', 'cas' + emissions[emission].CASNumber);
-					div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + emissions[emission].Pounds.toFixed(2) + ' Risk: ' + emissions[emission].Score.toFixed(2) + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
-					chemList.appendChild(div);
+					if(emissions.hasOwnProperty(emission)){
+						var div = document.createElement('div');
+						div.className = 'chemical_row';
+						div.id = 'cas' + emissions[emission].CASNumber;
+						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + emissions[emission].Pounds.toFixed(2) + ' Risk: ' + emissions[emission].Score.toFixed(2) + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+						chemList.appendChild(div);
+					}
 				}
 			} else {
 				chemList.innerHTML = 'No Chemical Air Releases in ' + windowYear;
@@ -12691,10 +12696,12 @@ if (typeof L === "object") {
 				dataType : "json",
 				url : url,
 				success : function(data) {
+					
 					parseChem(casNum, data);
 					_gaq.push(['_trackEvent', 'Chemical Tab', 'Get Chemical', data.ChemName]);
 				},
 				error: function(request){
+					
 					_gaq.push(['_trackEvent', 'Error', 'Get Chemical', "URL: " + url + "Response: " + request.responseText]);
 				}
 			});
