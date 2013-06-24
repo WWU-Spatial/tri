@@ -1,6 +1,6 @@
 (function(exports) {
 
-/*
+/*!
  * tile.stamen.js v1.2.1
  */
 
