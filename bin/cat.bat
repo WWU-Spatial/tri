@@ -12,9 +12,7 @@ cd %STARTDIR%/bin
 
 cd %STARTDIR%\source\assets\js
 
-type jquery-1.10.0.js jquery-ui-1.10.3.core.js jquery-ui-1.10.3.widget.js jquery-ui-1.10.3.tabs.js jquery.fancybox.pack.js jquery.fancybox-buttons.js jquery.fancybox-media.js leaflet-0.5.1.js leaflet.utfgrid.js tile.stamen.v1.2.1.js map.js > %STARTDIR%/build/assets/js/map.js
-
-"C:\Program Files (x86)\Java\jre7\bin\java" -jar %STARTDIR%/bin/yuicompressor-2.4.7.jar %STARTDIR%/build/assets/js/map.js -o %STARTDIR%/build/assets/js/map.min.js
+"C:\Program Files (x86)\Java\jre7\bin\java" -jar %STARTDIR%/bin/compiler.jar --js=jquery-1.10.1.min.js --js=jquery-ui-1.10.3.core.js --js=jquery-ui-1.10.3.widget.js --js=jquery-ui-1.10.3.tabs.js --js=jquery.fancybox.pack.js --js=jquery.fancybox-buttons.js --js=jquery.fancybox-media.js --js=leaflet-0.5.1.js --js=leaflet.utfgrid.js --js=tile.stamen.v1.2.1.js --js=map.js --js_output_file=%STARTDIR%\build\assets\js\map.min.js
 
 cd %STARTDIR%
 
