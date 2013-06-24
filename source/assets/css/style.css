@@ -186,6 +186,26 @@ input[type="text"] {
 	font-weight: bold;
 }
 
+#logos_attrb{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#logos_attrb a {
+	text-decoration: none;
+}
+
+#abt_ecos_logo{
+	margin-right: 10%;
+}
+
+#abt_wwu_logo{
+	margin-right: 10%;
+}
+
+
+
 .leaflet-control-attribution {
 	display: none;
 	max-width: 800px;
