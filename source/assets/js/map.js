@@ -63,12 +63,28 @@
 			layers.y1998 = L.tileLayer('http://140.160.114.197/tiles/1998/{z}/{x}/{y}.png');
 			layers.y1997 = L.tileLayer('http://140.160.114.197/tiles/1997/{z}/{x}/{y}.png');
 			layers.y1996 = L.tileLayer('http://140.160.114.197/tiles/1996/{z}/{x}/{y}.png');
-			layers.utfGrid = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2010 = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2009 = new L.UtfGrid('http://140.160.114.197/utfgrid/2009/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2008 = new L.UtfGrid('http://140.160.114.197/utfgrid/2008/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2007 = new L.UtfGrid('http://140.160.114.197/utfgrid/2007/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2006 = new L.UtfGrid('http://140.160.114.197/utfgrid/2006/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2005 = new L.UtfGrid('http://140.160.114.197/utfgrid/2005/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2004 = new L.UtfGrid('http://140.160.114.197/utfgrid/2004/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2003 = new L.UtfGrid('http://140.160.114.197/utfgrid/2003/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2002 = new L.UtfGrid('http://140.160.114.197/utfgrid/2002/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2001 = new L.UtfGrid('http://140.160.114.197/utfgrid/2001/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U2000 = new L.UtfGrid('http://140.160.114.197/utfgrid/2000/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U1999 = new L.UtfGrid('http://140.160.114.197/utfgrid/1999/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U1998 = new L.UtfGrid('http://140.160.114.197/utfgrid/1998/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U1997 = new L.UtfGrid('http://140.160.114.197/utfgrid/1997/{z}/{x}/{y}.grid.json?callback={cb}');
+			layers.U1996 = new L.UtfGrid('http://140.160.114.197/utfgrid/1996/{z}/{x}/{y}.grid.json?callback={cb}');
+			
+			
 	
 			map = L.map('map', {
 				center : new L.LatLng(39, -98),
 				zoom : 5,
-				layers : [layers.toner, layers.y2010, layers.utfGrid],
+				layers : [layers.toner, layers.y2010, layers.U2010],
 				maxZoom : 16,
 				fadeAnimation : false,
 				scrollWheelZoom: true
@@ -124,7 +140,7 @@
 				
 			}
 	
-			layers.utfGrid.on('click', utfClick);
+			
 	
 			var hover_timer = false;
 			var utfMouseover = function(e) {
@@ -137,14 +153,6 @@
 					'display' : 'block'
 				});
 			};
-	
-			layers.utfGrid.on('mouseover', utfMouseover);
-	
-			layers.utfGrid.on('mouseout', function() {
-				hover_timer = setTimeout(function() {
-					$('#hover').hide();
-				}, 200);
-			});
 	
 			map.on('mousemove', function() {
 				$('#hover').css({
@@ -181,6 +189,24 @@
 				"L1997" : layers.y1997,
 				"L1996" : layers.y1996
 			};
+			
+			var overlayGrids = {
+				"U2010" : layers.U2010,
+				"U2009" : layers.U2009,
+				"U2008" : layers.U2008,
+				"U2007" : layers.U2007,
+				"U2006" : layers.U2006,
+				"U2005" : layers.U2005,
+				"U2004" : layers.U2004,
+				"U2003" : layers.U2003,
+				"U2002" : layers.U2002,
+				"U2001" : layers.U2001,
+				"U2000" : layers.U2000,
+				"U1999" : layers.U1999,
+				"U1998" : layers.U1998,
+				"U1997" : layers.U1997,
+				"U1996" : layers.U1996
+			};
 	
 			// change year
 			$('#upyear').bind('click', function() {
@@ -194,6 +220,8 @@
 				if (mapYear < maxYear) {
 					map.addLayer(overlayMaps['L' + (mapYear + 1)]);
 					map.removeLayer(overlayMaps['L' + mapYear]);
+					map.addLayer(overlayGrids['U' + (mapYear + 1)]);
+					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear += 1;
 					$('#currentyear').html(mapYear);
 					_gaq.push(['_trackEvent', 'Map Year', 'Increase', mapYear]);
@@ -204,6 +232,8 @@
 				if (mapYear > minYear) {
 					map.addLayer(overlayMaps['L' + (mapYear - 1)]);
 					map.removeLayer(overlayMaps['L' + mapYear]);
+					map.addLayer(overlayGrids['U' + (mapYear - 1)]);
+					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear -= 1;
 					$('#currentyear').html(mapYear);
 					_gaq.push(['_trackEvent', 'Map Year', 'Decrease', mapYear]);
@@ -247,21 +277,38 @@
 				$('.autoattribution > p').toggle();
 			});
 	
-			// stop mouseover info for facilities when under attribution
-			$('div.leaflet-bottom.leaflet-right').mouseenter(function(e) {
-				e.stopPropagation();
-				layers.utfGrid.off('mouseover');
-				layers.utfGrid.off('click');
-			});
-			$('div.leaflet-bottom.leaflet-right').mouseleave(function() {
-				layers.utfGrid.on('mouseover', utfMouseover);
-				layers.utfGrid.on('click', utfClick);
-			});
+			
 	
 			/// search
 			$('#search').on('focus', clearDefaultSearchText);
 			$('#search').on('blur', replaceDefaultSearchText);
-	
+			
+			for (var year in overlayGrids){
+				if (overlayGrids.hasOwnProperty(year)) {
+					console.log(layers[year]);
+					layers[year].on('click', utfClick);
+					layers[year].on('mouseover', utfMouseover);
+			
+					layers[year].on('mouseout', function() {
+						hover_timer = setTimeout(function() {
+							$('#hover').hide();
+						}, 200);
+					});
+					
+					// stop mouseover info for facilities when under attribution
+					$('div.leaflet-bottom.leaflet-right').mouseenter(function(e) {
+						e.stopPropagation();
+						layers[year].off('mouseover');
+						layers[year].off('click');
+					});
+				
+					$('div.leaflet-bottom.leaflet-right').mouseleave(function() {
+						layers[year].on('mouseover', utfMouseover);
+						layers[year].on('click', utfClick);
+					});
+				}
+			}
+			
 			function clearDefaultSearchText() {
 				if (this.value === "Search for a facility") {
 					this.value = "";
