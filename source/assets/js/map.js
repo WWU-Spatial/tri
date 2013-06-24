@@ -284,7 +284,6 @@
 			
 			for (var year in overlayGrids){
 				if (overlayGrids.hasOwnProperty(year)) {
-					console.log(layers[year]);
 					layers[year].on('click', utfClick);
 					layers[year].on('mouseover', utfMouseover);
 			
