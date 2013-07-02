@@ -47,38 +47,19 @@
 				attribution : '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 			});
 	
-			layers.y2010 = L.tileLayer('http://140.160.114.197/tiles/2010/{z}/{x}/{y}.png');
-			layers.y2009 = L.tileLayer('http://140.160.114.197/tiles/2009/{z}/{x}/{y}.png');
-			layers.y2008 = L.tileLayer('http://140.160.114.197/tiles/2008/{z}/{x}/{y}.png');
-			layers.y2007 = L.tileLayer('http://140.160.114.197/tiles/2007/{z}/{x}/{y}.png');
-			layers.y2006 = L.tileLayer('http://140.160.114.197/tiles/2006/{z}/{x}/{y}.png');
-			layers.y2005 = L.tileLayer('http://140.160.114.197/tiles/2005/{z}/{x}/{y}.png');
-			layers.y2004 = L.tileLayer('http://140.160.114.197/tiles/2004/{z}/{x}/{y}.png');
-			layers.y2003 = L.tileLayer('http://140.160.114.197/tiles/2003/{z}/{x}/{y}.png');
-			layers.y2002 = L.tileLayer('http://140.160.114.197/tiles/2002/{z}/{x}/{y}.png');
-			layers.y2001 = L.tileLayer('http://140.160.114.197/tiles/2001/{z}/{x}/{y}.png');
-			layers.y2000 = L.tileLayer('http://140.160.114.197/tiles/2000/{z}/{x}/{y}.png');
-			layers.y1999 = L.tileLayer('http://140.160.114.197/tiles/1999/{z}/{x}/{y}.png');
-			layers.y1998 = L.tileLayer('http://140.160.114.197/tiles/1998/{z}/{x}/{y}.png');
-			layers.y1997 = L.tileLayer('http://140.160.114.197/tiles/1997/{z}/{x}/{y}.png');
-			layers.y1996 = L.tileLayer('http://140.160.114.197/tiles/1996/{z}/{x}/{y}.png');
-			layers.U2010 = new L.UtfGrid('http://140.160.114.197/utfgrid/2010/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2009 = new L.UtfGrid('http://140.160.114.197/utfgrid/2009/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2008 = new L.UtfGrid('http://140.160.114.197/utfgrid/2008/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2007 = new L.UtfGrid('http://140.160.114.197/utfgrid/2007/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2006 = new L.UtfGrid('http://140.160.114.197/utfgrid/2006/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2005 = new L.UtfGrid('http://140.160.114.197/utfgrid/2005/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2004 = new L.UtfGrid('http://140.160.114.197/utfgrid/2004/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2003 = new L.UtfGrid('http://140.160.114.197/utfgrid/2003/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2002 = new L.UtfGrid('http://140.160.114.197/utfgrid/2002/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2001 = new L.UtfGrid('http://140.160.114.197/utfgrid/2001/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U2000 = new L.UtfGrid('http://140.160.114.197/utfgrid/2000/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U1999 = new L.UtfGrid('http://140.160.114.197/utfgrid/1999/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U1998 = new L.UtfGrid('http://140.160.114.197/utfgrid/1998/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U1997 = new L.UtfGrid('http://140.160.114.197/utfgrid/1997/{z}/{x}/{y}.grid.json?callback={cb}');
-			layers.U1996 = new L.UtfGrid('http://140.160.114.197/utfgrid/1996/{z}/{x}/{y}.grid.json?callback={cb}');
 			
-			
+			//Add TRI facility tile layers
+			for (var layerDate = maxYear; layerDate >= minYear; layerDate -= 1){
+				//Add tiles for all years between minDate and maxDate
+				layers['y' + layerDate] = L.tileLayer('http://tile{s}.toxictrends.org/tiles/' + layerDate + '/{z}/{x}/{y}.png', {
+					subdomains: '1234'
+				});
+				
+				//Add utftiles for all years between minDate and maxDate
+				layers['U' + layerDate] = new L.UtfGrid('http://tile{s}.toxictrends.org/utfgrid/' + layerDate + '/{z}/{x}/{y}.grid.json?callback={cb}', {
+					subdomains: '1234'
+				});
+			}
 	
 			map = L.map('map', {
 				center : new L.LatLng(39, -98),
