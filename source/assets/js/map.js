@@ -85,7 +85,7 @@
 			};
 			
 			function loadPopup(facility_number){
-				var url = 'http://140.160.114.197/api/v3/facility/' + facility_number + '.json';
+				var url = '//toxictrends.org/api/v3/facility/' + facility_number + '.json';
 	
 				//Set info window year to current year
 				document.getElementById('window_year').innerHTML = windowYear;
@@ -303,7 +303,7 @@
 	
 			$('#search').keydown(function(e) {
 				if (e.keyCode === 13) {
-					var url = 'http://140.160.114.197/search/tri/facilities/?q=' + $('#search').val();
+					var url = '//toxictrends.org/search/tri/facilities/?q=' + $('#search').val();
 					_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
 					$('#loading').fadeIn(500);
 					$.ajax({
@@ -548,7 +548,7 @@
 		}
 	
 		function getChem(casNum) {
-			var url = 'http://140.160.114.197/api/v3/chemical/' + casNum + '.json';
+			var url = '//toxictrends.org/api/v3/chemical/' + casNum + '.json';
 			$.ajax({
 				dataType : "json",
 				url : url,
