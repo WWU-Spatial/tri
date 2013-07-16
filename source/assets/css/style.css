@@ -202,10 +202,6 @@ input[type="text"] {
 	line-height: 60px;
 }
 
-
-
-
-
 .leaflet-control-attribution {
 	display: none;
 	max-width: 800px;
@@ -423,6 +419,11 @@ div.leaflet-bottom.leaflet-right {
 .chemical_row:hover {
 	background-color: #F8F8F8;
 	cursor: pointer;
+}
+
+.chemical_details:hover {
+	background-color: #F8F8F8;
+	cursor: auto;
 }
 
 .noChart {
