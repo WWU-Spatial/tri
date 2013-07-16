@@ -66,6 +66,7 @@
 				zoom : 5,
 				layers : [layers.toner, layers.y2010, layers.U2010],
 				maxZoom : 16,
+				minZoom: 4,
 				fadeAnimation : false,
 				scrollWheelZoom: true
 			});
