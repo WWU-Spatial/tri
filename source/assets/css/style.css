@@ -190,19 +190,19 @@ input[type="text"] {
 	width: 100%;
 	display: block;
 	text-align: center;
+	
 }
 
 #logos_attrb a {
 	text-decoration: none;
 }
 
-#abt_ecos_logo{
+#abt_ecos_logo, #abt_wwu_logo, #abt_hux_logo{
 	margin-right: 10%;
+	line-height: 60px;
 }
 
-#abt_wwu_logo{
-	margin-right: 10%;
-}
+
 
 
 
