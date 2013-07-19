@@ -12,6 +12,29 @@
 	var map;
 	var layers = {};
 	
+	//Modify number prototype with format function to add commas and truncate long decimals
+	Number.prototype.format = function() {
+		try {
+			var number = this;
+			var numArray = number.toString().split('.');
+			// If no decimal place, return no decimal
+			if (numArray.length === 1) {
+				return number.toFixed(0).replace(/(\d)(?=(\d{3})+$)/g, "$1,");
+			} else {
+				// If one decimal place, return one decimal
+				if (numArray[1].length === 1) {
+					return number.toFixed(1).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+				} else {
+					//If two or more decimals, return two decimal
+					return number.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+				}
+			}
+		} catch (e) {
+			return this;
+		}
+	}; 
+
+	
 	$(document).ready(function() {
 		// load google api
 		// google.load("visualization", "1", {
@@ -472,7 +495,7 @@
 						var div = document.createElement('div');
 						div.className = 'chemical_row';
 						div.id = 'cas' + emissions[emission].CASNumber;
-						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + emissions[emission].Pounds.toFixed(2) + ' Risk: ' + emissions[emission].Score.toFixed(2) + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + (emissions[emission].Pounds).format() + ' Risk: ' + (emissions[emission].Score).format() + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
 						chemList.appendChild(div);
 					}
 				}
