@@ -497,12 +497,18 @@
 					}
 	
 				};
+				var formatter = new google.visualization.NumberFormat({
+					fractionDigits: '0'
+				});
+				
 				$.each(facility_record.Emissions, function(k, v) {
-					chart_data.push([k, Math.ceil(v.TotalPounds), Math.ceil(v.TotalScore)]);
+					chart_data.push([k, v.TotalPounds, v.TotalScore]);
 				});
 	
 				//set the chart properties
 				data = google.visualization.arrayToDataTable(chart_data);
+				formatter.format(data, 2); // Apply formatter to risk
+				formatter.format(data, 1); // Apply formatter to pounds
 				chart.draw(data, options);
 			}
 		}
