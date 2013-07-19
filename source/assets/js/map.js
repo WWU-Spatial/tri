@@ -574,7 +574,7 @@
 				if (facility_record['NAICS' + i]) {
 					var div = document.createElement('div');
 					var html = "";
-					div.setAttribute('class', 'chemical_row');
+					div.setAttribute('class', 'industry_row');
 					html += '<strong>' + facility_record['NAICS' + i].name + '</strong><br />';
 					if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][windowYear]) {
 						html += 'This facility did not report any air releases during this year, so comparisons are unavailable.';
