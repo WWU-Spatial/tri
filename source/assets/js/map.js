@@ -11,6 +11,7 @@
 	var mouseX, mouseY;
 	var map;
 	var layers = {};
+	var lastSearch = '';
 	
 	var stateLookup = {
 		"AK":"Alaska",
@@ -386,38 +387,43 @@
 	
 			$('#search').keydown(function(e) {
 				if (e.keyCode === 13) {
-					var url = '//toxictrends.org/search/tri/facilities/?q=' + $('#search').val();
-					_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
-					$('#loading').fadeIn(500);
-					$.ajax({
-						url : url,
-						success : function(r) {
-							$("#searchresults").empty();
-							if (r.hits.hits[0]) {
-								$("#searchresultsbox").height('60%');
-								$.each(r.hits.hits, function() {
-									var f = this._source;
-									var item = $('<p class="searchresult">' + f.Name + " - " + f.City + ", " + f.State + '</p>').on('mouseover', function() {
-										showFacility(f.Latitude, f.Longitude);
-									}).on('click', function() {
-										zoomToFacility(f.Latitude, f.Longitude);
-										loadPopup(f.FacilityNumber);
-										_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
+					if ($('#search').val() === lastSearch) {
+						//Don't perform the search again, just reopen the search box if the same results are used.
+						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+					} else {
+						var url = '//toxictrends.org/search/tri/facilities/?q=' + $('#search').val();
+						_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
+						$('#loading').fadeIn(500);
+						$.ajax({
+							url : url,
+							success : function(r) {
+								$("#searchresults").empty();
+								if (r.hits.hits[0]) {
+									$("#searchresultsbox").height('60%');
+									$.each(r.hits.hits, function() {
+										var f = this._source;
+										var item = $('<p class="searchresult">' + f.Name + " - " + f.City + ", " + f.State + '</p>').on('mouseover', function() {
+											showFacility(f.Latitude, f.Longitude);
+										}).on('click', function() {
+											zoomToFacility(f.Latitude, f.Longitude);
+											loadPopup(f.FacilityNumber);
+											_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
+										});
+										$("#searchresults").append($(item)[0]);
 									});
-									$("#searchresults").append($(item)[0]);
-								});
-							} else {
-								$("#searchresultsbox").height(100);
-								$("#searchresults").html("<p>No results for this search.</br>Please try something else.</p>");
+								} else {
+									$("#searchresultsbox").height(100);
+									$("#searchresults").html("<p>No results for this search.</br>Please try something else.</p>");
+								}
+								$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+								$('#loading').fadeOut(500);
+							},
+							error : function(request) {
+								$('#loading').fadeOut(500);
+								_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
 							}
-							$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
-							$('#loading').fadeOut(500);
-						},
-						error : function(request) {
-							$('#loading').fadeOut(500);
-							_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
-						}
-					});
+						});
+					};
 				}
 			});
 	
