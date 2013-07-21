@@ -391,41 +391,70 @@
 						//Don't perform the search again, just reopen the search box if the same results are used.
 						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
 					} else {
-						var url = '//toxictrends.org/search/tri/facilities/?q=' + $('#search').val();
+						lastSearch = $('#search').val();
+						//Remove old results
+						$("#searchresults").empty();
+						doSearch($('#search').val(), 0);
+						
 						_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
 						$('#loading').fadeIn(500);
-						$.ajax({
-							url : url,
-							success : function(r) {
-								$("#searchresults").empty();
-								if (r.hits.hits[0]) {
-									$("#searchresultsbox").height('60%');
-									$.each(r.hits.hits, function() {
-										var f = this._source;
-										var item = $('<p class="searchresult">' + f.Name + " - " + f.City + ", " + f.State + '</p>').on('mouseover', function() {
-											showFacility(f.Latitude, f.Longitude);
-										}).on('click', function() {
-											zoomToFacility(f.Latitude, f.Longitude);
-											loadPopup(f.FacilityNumber);
-											_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
-										});
-										$("#searchresults").append($(item)[0]);
-									});
-								} else {
-									$("#searchresultsbox").height(100);
-									$("#searchresults").html("<p>No results for this search.</br>Please try something else.</p>");
-								}
-								$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
-								$('#loading').fadeOut(500);
-							},
-							error : function(request) {
-								$('#loading').fadeOut(500);
-								_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
-							}
-						});
+						
 					};
 				}
 			});
+			
+			function doSearch(term, start) {
+				var url = '//toxictrends.org/search/tri/facilities/?q=' + term + '&from=' + start;
+				$.ajax({
+					url : url,
+					success : function(r) {
+						
+						if (r.hits.hits[0]) {
+							$("#searchresultsbox").height('60%');
+							$.each(r.hits.hits, function(index, result) {
+								processSearchResult(result);
+							});
+							
+							//If more hits than returned, add button to get more
+							if ((r.hits.total - 10 - start) > 0) {
+								console.log('more results');
+								start += 10;
+								var item = $('<p id="moreresults" class="searchresult">Show More Results</p>').on('click', function() {
+									this.remove()
+									doSearch(term, start);
+								});
+								$("#searchresults").append($(item)[0]);		
+							}
+						} else {
+							$("#searchresultsbox").height(100);
+							$("#searchresults").html("<p>No results for this search.</br>Please try something else.</p>");
+						}
+						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+						$('#loading').fadeOut(500);
+						
+					},
+					error : function(request) {
+						$('#loading').fadeOut(500);
+						_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
+					}
+				});
+			}
+			
+			function processSearchResult(result) {
+				var f = result._source;
+				var item = $('<p class="searchresult">' + f.Name + " - " + f.City + ", " + f.State + '</p>').on('mouseover', function() {
+					showFacility(f.Latitude, f.Longitude);
+				}).on('mouseout', function(){
+					map.removeLayer(marker);
+				})
+				.on('click', function() {
+					zoomToFacility(f.Latitude, f.Longitude);
+					loadPopup(f.FacilityNumber);
+					//Log search selection
+					_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
+				});
+				$("#searchresults").append($(item)[0]);
+			}
 	
 			//Facility Popup close window
 			$('#fp_close').on('click.fp_close', function() {
@@ -778,7 +807,6 @@
 	
 	function closeSearch() {
 		$("#searchresultsbox").hide();
-		$("#searchresults").empty();
 	}
 	
 	function showFacility(lat, lng) {
