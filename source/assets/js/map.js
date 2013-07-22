@@ -447,6 +447,7 @@
 					map.removeLayer(marker);
 				})
 				.on('click', function() {
+					closeSearch();
 					zoomToFacility(f.Latitude, f.Longitude);
 					loadPopup(f.FacilityNumber);
 					//Log search selection
