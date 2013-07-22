@@ -396,6 +396,8 @@
 				if ($('#search').val() === lastSearch) {
 						//Don't perform the search again, just reopen the search box if the same results are used.
 						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+				} else if ($('#search').val() === ''){
+					return;
 				} else {
 					lastSearch = $('#search').val();
 					//Remove old results
