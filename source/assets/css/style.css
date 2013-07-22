@@ -118,6 +118,13 @@ a img {
 	margin-top:-15px;
 }
 
+#searchboxcontainer {
+	position: absolute;
+	top: 13px;
+	right: 5px;
+	width: 251px;
+}
+
 #search {
 	color: rgb(0, 0, 0); /* Fallback for unsupported browsers*/
 	color: rgba(0, 0, 0, 0.5);
@@ -126,17 +133,50 @@ a img {
 	font-size: 1.2em;
 	height: 30px;
 	position: absolute;
-	top: 13px;
-	right: 5px;
-	width: 220px;
+	top: 0;
+	left: 0;
+	width: 190px;
 	padding-left: 30px;
 	border: 1px solid #888;
+	border-right: 1px solid #fff;
 	background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
 }
 
 input[type="text"] {
 	font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
 }
+
+.searchbutton {
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		height: 34px;
+		line-height: 34px;
+		width: 30px;
+		margin: 0;
+		font-family: 'AlternateGothicLTNo3Regular', Arial, sans-serif;
+		font-size: 22px;
+		font-weight: bold;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		color: #F58C5B;
+		border: solid 1px #888;
+		border-right: 0px;
+		background: #ccc;
+		background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#aaa));
+		background: -moz-linear-gradient(top, #ccc, #aaa);
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;
+	}
+
+	.searchbutton:hover {
+		text-decoration: none;
+		background: #A8A8A8 ;
+		background: -webkit-gradient(linear, left top, left bottom, from(#A8A8A8), to(#909090));
+		background: -moz-linear-gradient(top, #A8A8A8, #909090 );
+	}
 
 
 
@@ -895,17 +935,28 @@ opacity:0.1}
 		font-size: 1.6em;
 		line-height: 16px;
 	}
-
-	#search {
+	
+	#searchboxcontainer {
+		position: absolute;
 		top: 57px;
 		right: 50%;
-		margin-right: -155px;
+		width: 207px;
+		margin-right: -160px;
+	}
+
+	#search {
 		font-size: .8em;
 		padding-right: 5px;
 		height: 20px;
-		width: 160px;
+		width: 147px;
 		background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 1px;
 	}
+	
+	.searchbutton {
+		height: 24px;
+		width: 24px;
+		line-height: 24px;
+	}	
 	
 	
 	#yearchanger {
@@ -1053,11 +1104,10 @@ opacity:0.1}
 		line-height: 12px;
 	}
 	
-	#search {
+	#searchboxcontainer {
 		top: 50px;
-		margin-right: -97px;
+		margin-right: -100px;
 	}
-	
 	
 	#yearchanger {
 		width: 100px;
@@ -1070,7 +1120,4 @@ opacity:0.1}
 		line-height: 30px;
 		border-radius: 5px;
 	}
-	
-	
-
 }

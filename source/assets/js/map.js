@@ -346,6 +346,7 @@
 			/// search
 			$('#search').on('focus', clearDefaultSearchText);
 			$('#search').on('blur', replaceDefaultSearchText);
+			$('#searchbtn').on('click', prepSearch);
 			
 			for (var year in overlayGrids){
 				if (overlayGrids.hasOwnProperty(year)) {
@@ -387,21 +388,25 @@
 	
 			$('#search').keydown(function(e) {
 				if (e.keyCode === 13) {
-					if ($('#search').val() === lastSearch) {
-						//Don't perform the search again, just reopen the search box if the same results are used.
-						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
-					} else {
-						lastSearch = $('#search').val();
-						//Remove old results
-						$("#searchresults").empty();
-						doSearch($('#search').val(), 0);
-						
-						_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
-						$('#loading').fadeIn(500);
-						
-					};
+					prepSearch();
 				}
 			});
+			
+			function prepSearch(){
+				if ($('#search').val() === lastSearch) {
+						//Don't perform the search again, just reopen the search box if the same results are used.
+						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+				} else {
+					lastSearch = $('#search').val();
+					//Remove old results
+					$("#searchresults").empty();
+					doSearch($('#search').val(), 0);
+					
+					_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
+					$('#loading').fadeIn(500);
+					
+				};
+			}
 			
 			function doSearch(term, start) {
 				var url = '//toxictrends.org/search/tri/facilities/?q=' + term + '&from=' + start;
