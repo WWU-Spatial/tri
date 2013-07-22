@@ -417,7 +417,6 @@
 							
 							//If more hits than returned, add button to get more
 							if ((r.hits.total - 10 - start) > 0) {
-								console.log('more results');
 								start += 10;
 								var item = $('<p id="moreresults" class="searchresult">Show More Results</p>').on('click', function() {
 									this.remove()
@@ -426,8 +425,8 @@
 								$("#searchresults").append($(item)[0]);		
 							}
 						} else {
-							$("#searchresultsbox").height(100);
-							$("#searchresults").html("<p>No results for this search.</br>Please try something else.</p>");
+							$("#searchresultsbox").height(140);
+							$("#searchresults").html("<p>No results found for " + term + "</br>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
 						}
 						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
 						$('#loading').fadeOut(500);
