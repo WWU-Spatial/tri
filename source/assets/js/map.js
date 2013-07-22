@@ -426,8 +426,8 @@
 							if ((r.hits.total - 10 - start) > 0) {
 								start += 10;
 								var item = $('<p id="moreresults" class="searchresult">Show More Results</p>').on('click', function() {
-									this.remove()
 									doSearch(term, start);
+									item.remove();
 								});
 								$("#searchresults").append($(item)[0]);		
 							}
