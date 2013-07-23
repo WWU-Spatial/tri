@@ -164,7 +164,7 @@
 			utfClick = function(e) {
 				if (e.data) {
 					loadPopup(e.data.facilitynu);
-					_gaq.push(['_trackEvent', 'Map', 'Click Facility', e.data.name]);
+					ga('send', 'event', 'facility', 'click', e.data.name);
 				}
 			};
 			
@@ -197,7 +197,7 @@
 							initYearChangers(facility_record);
 						},
 						error : function(request){
-							_gaq.push(['_trackEvent', 'Error', 'Get Facility', "URL: " + url + "Response: " + request.responseText]);
+							ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 						}
 					});
 					
@@ -288,7 +288,8 @@
 					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear += 1;
 					$('#currentyear').html(mapYear);
-					_gaq.push(['_trackEvent', 'Map Year', 'Increase', mapYear]);
+					ga('send', 'event', 'Map', 'Year', mapYear);
+					
 				}
 			};
 	
@@ -300,7 +301,7 @@
 					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear -= 1;
 					$('#currentyear').html(mapYear);
-					_gaq.push(['_trackEvent', 'Map Year', 'Decrease', mapYear]);
+					ga('send', 'event', 'Map', 'Year', mapYear);
 				}
 			};
 	
@@ -324,7 +325,7 @@
 					map.addLayer(baseMaps[lyr]);
 					baseMaps[lyr].bringToBack();
 				}
-				_gaq.push(['_trackEvent', 'Basemaps', 'Change', lyr]);
+				ga('send', 'event', 'Basemap', 'Change', lyr);
 			}
 	
 			// add handlers for  attribution
@@ -404,8 +405,9 @@
 					$("#searchresults").empty();
 					doSearch($('#search').val(), 0);
 					
-					_gaq.push(['_trackEvent', 'Search', 'Search', $('#search').val()]);
 					$('#loading').fadeIn(500);
+					ga('send', 'event', 'Search', 'Query', $('#search').val());
+					
 					
 				};
 			}
@@ -441,7 +443,7 @@
 					},
 					error : function(request) {
 						$('#loading').fadeOut(500);
-						_gaq.push(['_trackEvent', 'Error', 'Search', "URL: " + url + "Response: " + request.responseText]);
+						ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 					}
 				});
 			}
@@ -458,7 +460,7 @@
 					zoomToFacility(f.Latitude, f.Longitude);
 					loadPopup(f.FacilityNumber);
 					//Log search selection
-					_gaq.push(['_trackEvent', 'Search', 'Result Selected', f.Name]);
+					ga('send', 'event', 'Search', 'Selected', f.name);
 				});
 				$("#searchresults").append($(item)[0]);
 			}
@@ -686,11 +688,10 @@
 				success : function(data) {
 					
 					parseChem(casNum, data);
-					_gaq.push(['_trackEvent', 'Chemical Tab', 'Get Chemical', data.ChemName]);
+					ga('send', 'event', 'chemical', 'click', data.ChemName);
 				},
 				error: function(request){
-					
-					_gaq.push(['_trackEvent', 'Error', 'Get Chemical', "URL: " + url + "Response: " + request.responseText]);
+					ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 				}
 			});
 		}
