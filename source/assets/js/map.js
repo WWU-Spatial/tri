@@ -413,7 +413,7 @@
 			}
 			
 			function doSearch(term, start) {
-				var url = '//toxictrends.org/search/tri/facilities/?q=' + term + '&from=' + start;
+				var url = '//toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
 				$.ajax({
 					url : url,
 					success : function(r) {
