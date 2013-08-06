@@ -329,21 +329,36 @@
 			}
 	
 			// add handlers for  attribution
-			
-			$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans'><p>basemap info</p><p style='display:none'>hide</p></div>");
-			$('.leaflet-control-attribution').hide(); //For some reason shows up by default in ie8.  Temporary fix
-			
+			// Show attribution be default if screen width larger than 1024
+			console.log($(window).width());
+			if($(window).width() >= 1024) {
+				console.log('large');
+				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans hidetoggle'><p style='display:none'>basemap info</p><p>hide</p></div>");
+				$('.leaflet-control-attribution').show();
+			} else {
+				console.log('small');
+				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans'><p>basemap info</p><p style='display:none'>hide</p></div>");
+				$('.leaflet-control-attribution').hide(); //For some reason shows up by default in ie8.  Temporary fix
+			}
 			
 			// toggle attribution info
 			$('.autoattribution').click(function(e) {
 				e.stopPropagation();
-				$('.leaflet-control-attribution').toggle("slow");
-				$('.autoattribution').toggleClass("hidetoggle");
-				$('.autoattribution > p').toggle();
+				if ($('.autoattribution').hasClass("hidetoggle")) {
+					//If attribution is showing
+					$('.autoattribution').removeClass("hidetoggle");
+					$('.leaflet-control-attribution').hide("slow");
+					$('.autoattribution > p:nth-child(2)').hide();
+					$('.autoattribution > p:nth-child(1)').show();
+				} else {
+					//If attribution is hidden
+					$('.autoattribution').addClass("hidetoggle");
+					$('.leaflet-control-attribution').show("slow");
+					$('.autoattribution > p:nth-child(2)').show();
+					$('.autoattribution > p:nth-child(1)').hide();
+				}
 			});
-	
 			
-	
 			/// search
 			$('#search').on('focus', clearDefaultSearchText);
 			$('#search').on('blur', replaceDefaultSearchText);
