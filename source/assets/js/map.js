@@ -455,7 +455,7 @@
 							}
 						} else {
 							$("#searchresultsbox").height(140);
-							$("#searchresults").html("<p>No results found for " + term + "</br>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
+							$("#searchresults").html("<p>No results found for " + term + "<br/>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
 						}
 						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
 						$('#loading').fadeOut(500);
@@ -844,7 +844,7 @@
 		// Social Share Listeners
 		$(".twitter").on("click", function(){
 			window.open("http://www.twitter.com/share?url=http%3A%2F%2Ftoxictrends.org&amp;text=Check%20out%20the%20Toxic%20Trends%20Mapper%20where%20you%20can%20view%20the%20emissions%20of%20facilities%20in%20your%20neighborhood",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=250,width=585');
-			ga('send', 'social', 'twitter', 'share', 'socialTarget', {'page': '/'});
+			ga('send', 'social', 'twitter', 'share', 'socialTarget', {'page': '/' });
 		})
 		
 		$(".facebook").on("click", function(){
