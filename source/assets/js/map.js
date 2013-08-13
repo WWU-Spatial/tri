@@ -173,7 +173,8 @@
 			
 			function loadPopup(facility_number){
 				var url = '//toxictrends.org/api/v3/facility/' + facility_number + '.json';
-	
+				var startTime = new Date().getTime();
+				
 				//Set info window year to current year
 				document.getElementById('window_year').innerHTML = windowYear;
 				document.getElementById('ind_year').innerHTML = windowYear;
@@ -202,7 +203,10 @@
 						error : function(request){
 							ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 						}
-					});
+					}).done(function(){
+						var totalTime = new Date().getTime()-startTime;
+						ga('send', 'timing', 'api', 'facility', totalTime);
+					});;
 					
 				
 			}
@@ -429,6 +433,7 @@
 			
 			function doSearch(term, start) {
 				var url = '//toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
+				var startTime = new Date().getTime();
 				$.ajax({
 					url : url,
 					success : function(r) {
@@ -460,7 +465,11 @@
 						$('#loading').fadeOut(500);
 						ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 					}
-				});
+				})
+				.done(function(){
+						var totalTime = new Date().getTime()-startTime;
+						ga('send', 'timing', 'search', 'query', totalTime);
+					});
 			}
 			
 			function processSearchResult(result) {
@@ -697,6 +706,7 @@
 	
 		function getChem(casNum) {
 			var url = '//toxictrends.org/api/v3/chemical/' + casNum + '.json';
+			var startTime = new Date().getTime();
 			$.ajax({
 				dataType : "json",
 				url : url,
@@ -708,7 +718,11 @@
 				error: function(request){
 					ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 				}
-			});
+				
+			}).done(function(){
+						var totalTime = new Date().getTime()-startTime;
+						ga('send', 'timing', 'api', 'chemical', totalTime);
+					});
 		}
 	
 		function parseChem(casNum, data) {
