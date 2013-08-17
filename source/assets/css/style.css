@@ -1,483 +1,58 @@
+/*
+ * Orange (text): rgb(245,140,91) | #F58C5B;
+ * Dark Gray (background) rgb(2,2,2) | 
+ * gray (text) #777
+ * gray (border) #888
+ * Gray (text): rgb(68,68,68) | #444444
+ */
+
+/*************************** GENERAL STYLES ***************************/
+
+/* Modify base font-size so ems correspond to pixel size.  i.e. 12px = 1.2em*/
+body {font-size:62.5%} 
+
 html, body {
 	height: 100%;
 	width: 100%;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	font-family: 'Arimo', Arial, sans-serif;
 }
 
 a img {
 	border: 0;
 }
 
-#mapcontainer {
-	width: 100%;
-	height: 100%;
-	position: fixed;
-}
-
-#map {
-	padding: 0;
-	border: 1px solid #000;
-	height: 100% !important;
-	width: 100% !important;
-	position: absolute !important;
-}
-
-/* Header Bar */
-
-#topbar {
-	position: absolute;
-	left: 0;
-	top: 0;
-	height: 60px;
-	background-color: rgb(2, 2, 2);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-	filter: alpha(opacity=90);
-	opacity: 0.90;
-	width: 100%;
-	-moz-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
-	-webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
-	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
-}
-
-#ecosLogo {
-	position: absolute;
-	padding-top: 2px;
-	z-index: 1000;
-	left: 5px;
-	top: 1px;
-}
-
-#ecosLogo:hover {
-	cursor: pointer;
-}
-
-#title {
-	position: absolute;
-	height: 60px;
-	width: 420px;
-	left: 55px;
-	font-size: 2.1em;
-	font-family: 'Arimo', Arial, sans-serif;
+h1 { /*Title*/
+	font-size: 3.4em;
 	font-variant: small-caps;
-	letter-spacing: -.5px;
-	font-weight: 700;
-	color: #F58C5B;
-	line-height: 20px;
-}
-
-#title > p {
 	white-space: nowrap;
-	margin-top: 10px;
-	
+	color: #F58C5B;
 }
 
-.smallTitle {
+h2 { /*Sub-title*/
+	font-size: 1.5em;
 	text-transform: uppercase;
-	font-variant: normal;
-	font-size: .45em;
-	color: #f58c5b;
+	white-space: nowrap;
+	color: #F58C5B;
+	margin-top: 4px;
 }
 
-#yearchanger {
-	font-family: 'Arimo', Arial, sans-serif;
-	color: #fff;
-	font-size: 1em;
+h3 { /*About Header*/
+	color: rgb(68,68,68);
+	font-size: 1.7em;
+	text-transform: uppercase;
 	font-weight: bold;
-	z-index: 210;
-	text-align: center;
-	width: 110px;
-	position: absolute;
-	top: 17px;
-	height: 30px;
-	vertical-align: middle;
-	line-height: 30px;
-	display: inline-block !important;
-	left: 53%;
-	margin: 0 auto;
-	padding: 0;
-}
-
-#currentyear {
-	top: 5;
-	left: 0;
-	margin: 0 auto;
-	font-size: 1.8em;
 	text-align: center;
 }
 
-#upyear {
-	right: 0;
-	top: 50%;
-	margin-top:-15px;
-}
-#downyear {
-	left: 0;
-	top: 50%;
-	margin-top:-15px;
-}
+/*************************** GENERAL CLASSES ***************************/
 
-#searchboxcontainer {
-	position: absolute;
-	top: 13px;
-	right: 5px;
-	width: 251px;
-}
-
-#search {
-	color: #777;
-	text-align: left;
-	font-weight: bold;
-	font-size: 1.2em;
-	height: 30px;
-	line-height: 30px;
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 190px;
-	padding-left: 30px;
-	border: 1px solid #888;
-	border-right: 1px solid #fff;
-	background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
-}
-
-#moreresults {
-	text-align: center;
-	font-weight: bold;
-}
-
-input[type="text"] {
-	font-family: 'Arimo', Arial, sans-serif;
-}
-
-.searchbutton {
-		position: absolute;
-		top: 0px;
-		right: 0px;
-		height: 34px;
-		line-height: 17px;
-		width: 30px;
-		margin: 0;
-		font-family: 'Arimo', Arial, sans-serif;
-		font-size: 22px;
-		font-weight: bold;
-		outline: none;
-		cursor: pointer;
-		text-align: center;
-		text-decoration: none;
-		color: #F58C5B;
-		border: solid 1px #888;
-		border-right: 0px;
-		background: #ccc;
-		background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#aaa));
-		background: -moz-linear-gradient(top, #ccc, #aaa);
-		border-top-right-radius: 5px 5px;
-		border-bottom-right-radius: 5px 5px;
-	}
-
-	.searchbutton:hover {
-		text-decoration: none;
-		background: #A8A8A8 ;
-		background: -webkit-gradient(linear, left top, left bottom, from(#A8A8A8), to(#909090));
-		background: -moz-linear-gradient(top, #A8A8A8, #909090 );
-	}
-
-
-
-#about {
-	margin: 0 auto;
-	width: 90%;
-}
-
-#about > p {
-	font-family: 'Arimo', Arial, sans-serif;
-	line-height: 1.4em;
-}
-
-#about > p > a, .attribution > a {
-	text-decoration: none;
-	font-weight: bold;
-}
-
-.lightboxtitle {
-	margin: 0 auto;
-	text-align: center;
-	font-size: 1.4em;
-	font-family: 'Arimo', Arial, sans-serif;
-	font-variant: small-caps;
-	letter-spacing: -.5px;
-	font-weight: 700;
-}
-
-.lighboxInsets {
-	float: left;
-	clear: left;
-	width: 200px;
-	padding-right: 20px;
-}
-
-.wrapcontent {
-	margin-bottom: 20px;
-}
-
-.wrapcontent a {
-	font-family: 'Arimo', Arial, sans-serif;
-	text-decoration: none;
-	font-size: 1em;
-}
-
-.figureLabel {
-	font-weight: bold;
-}
-
-#logos_attrb{
-	width: 100%;
-	display: block;
-	text-align: center;
-	
-}
-
-#logos_attrb a {
-	text-decoration: none;
-}
-
-#abt_ecos_logo, #abt_wwu_logo, #abt_hux_logo{
-	margin-right: 10%;
-	line-height: 60px;
-}
-
-.leaflet-control-attribution {
-	display: none;
-	max-width: 800px;
-	max-height: 200px;
-	padding: 5px;
-}
-
-div.leaflet-bottom.leaflet-right {
-	z-index: 1000;
-}
-
-.autoattribution {
-	float: right;
-	z-index: 210;
-	pointer-events: auto !important;
-	padding: 0 9px;
-	box-shadow: 0 0 5px #bbb;
-	background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
-	background-color: rgba(255,255,255,0.7);
-	color: rgb(0,0,0);
-	cursor: pointer;
-}
-
-.autoattribution > p {
-	margin: 5px;
-}
-
-.hidetoggle {
-	background-color: rgb(55,55,55); /* Fallback for unsupported browsers*/
-	background-color: rgba(55,55,55,0.7);
-	color: rgb(255,255,255);
-}
-
-.nopointerevents {
-	pointer-events: none !important;
-}
-
-#hover {
-	z-index: 200;
-	display: none;
-	position: absolute;
-	border: solid #000 1px;
-	padding: 5px;
-	background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
-	background-color: rgba(255,255,255,0.9);
-	width: 150px;
-	max-height: 400px;
-}
-
-.clickedFacility {
-	width: 20px !important;
-	height: 20px !important;
-	border: rgb(0, 224, 255) solid 3px;
-	margin-left: -12px !important;
-	margin-top: -12px !important;
-	cursor: auto;
-	-webkit-animation: pulsate 1s ease-out;
-	-webkit-animation-iteration-count: infinite;
-	-moz-animation: pulsate 1s ease-out;
-	-moz-animation-iteration-count: infinite;
-	-o-animation: pulsate 1s ease-out;
-	-o-animation-iteration-count: infinite;
-	-ms-animation: pulsate 1s ease-out;
-	-ms-animation-iteration-count: infinite;
-	animation: pulsate 1s ease-out;
-	animation-iteration-count: infinite;
-}
-@-webkit-keyframes pulsate {
-0% {opacity:0;}
-50% {opacity: 1;}
-100% {opacity:0;}
-}
-@-moz-keyframes pulsate {
-0% {opacity:0;}
-50% {opacity: 1;}
-100% {opacity:0;}
-}
-@-o-keyframes pulsate {
-0% {opacity:0;}
-50% {opacity: 1;}
-100% {opacity:0;}
-}
-@-ms-keyframes pulsate {
-0% {opacity:0;}
-50% {opacity: 1;}
-100% {opacity:0;}
-}
-@keyframes pulsate {
-0% {opacity:0;}
-50% {opacity: 1;}
-100% {opacity:0;}
-}
-
-.infoCloser {
-	border-radius: 10px;
-	text-align: center;
-	position: absolute;
-	top: 4px;
-	right: 4px;
-	margin: 5px;
-	padding: 0;
-	cursor: pointer;
-	height: 20px;
-	width: 20px;
-	-moz-transition: color 0.3s linear;
-	-webkit-transition: color background-color 0.3s linear;
-	transition: color 0.3s linear;
-	background-color: rgb(109, 109, 109);
-	color: #fff;
-	font-size: 14px;
-}
-
-.infoCloser:hover, .infoCloser:active, .zoomTo:hover, .zoomTo:active {
-	background-color: rgb(210, 210, 210);
-	color: #000;
-}
-
-.zoomTo {
-	width: 100%;
-	text-align: center;
-	font-family: 'Arimo', Arial, sans-serif;
-	margin: 0 auto;
-	padding: 5px 0;
-	cursor: pointer;
-}
-
-/* Logos */
-
-#wwu_logo {
-	position: absolute;
-	bottom: 0px;
-	left: 0px;
-	background: url('../images/logos/wwu_sm.png');
-	width: 72px;
-	height: 36px;
-}
-
-/* POPUP STYLES */
-
-#facility_tabs {
-	position: absolute;
-	background-color: #fff;
-	top: 62px;
-	left: 50px;
-	z-index: 300;
-	width: 325px;
-	height: 400px;
-	font-size: 0.8em;
-}
-
-#chemical_tab, #industry_tab {
-	padding: 0;
-}
-
-#chemicalYearToggle, #industryYearToggle {
-	position: relative;
-	height: 30px;
-	text-align: center;
-	padding: 0;
-	color: #fff;
-	text-align: center;
-	background-color: rgb(26, 26, 26);
-}
-
-.arrow-right {
-	width: 0;
-	height: 0;
-	border-top: 13px solid transparent;
-	border-bottom: 13px solid transparent;
-	border-left: 13px solid #fff;
-	position: absolute;
-	right: 114px;
-	top: 0px;
-	cursor: pointer;
-}
-
-.arrow-left {
-	width: 0;
-	height: 0;
-	border-top: 13px solid transparent;
-	border-bottom: 13px solid transparent;
-	border-right: 13px solid #fff;
-	position: absolute;
-	left: 114px;
-	top: 0px;
-	cursor: pointer;
-}
-
-.year-label {
-	width: 50%;
-	margin: 0 auto;
-	font-size: 1.8em;
-	font-family: 'Arimo', Arial, sans-serif;
-	font-weight: bold;
-}
-
-#graph {
-	width: 300px;
-	height: 150px;
-	margin: 7px auto;
-}
-
-.list {
-	height: 324px;
-	overflow-y: auto;
-}
-
-.chemical_row, .industry_row {
-	line-height: 1.4em;
-	margin: 0.5em 0.2em;
-	padding: 0.3em;
-	border: 1px solid #eee;
-}
-
-.chemical_row:hover {
-	background-color: #F8F8F8;
-	cursor: pointer;
-}
-
-.chemical_details:hover {
-	background-color: #F8F8F8;
-	cursor: auto;
-}
-
-.noChart {
-	width: 100%;
-	text-align: center;
-	height: 100%;
-	line-height: 140px;
-	font-size: 20px;
-	margin: 0 auto;
+.dropshadow {
+	-moz-box-shadow: 3px 3px 5px #000;
+	-webkit-box-shadow: 3px 5px 5px #000;
+	box-shadow: 3px 5px 5px #000;
 }
 
 .noselect {
@@ -494,25 +69,7 @@ div.leaflet-bottom.leaflet-right {
 	user-select: auto;
 }
 
-.zoom_to {
-	position: absolute;
-	left: 0px;
-	bottom: 0px;
-	width: 100%;
-	text-align: center;
-	font-family: 'Arimo', Arial, sans-serif;
-	margin: 0 auto;
-	padding: 5px 0;
-	cursor: pointer;
-	font-weight: bold;
-}
-
-.zoom_to:hover {
-	background-color: rgb(210, 210, 210);
-	color: #000;
-}
-
-.transition {
+.transition-slow {
 	-o-transition: .7s;
 	-ms-transition: .7s;
 	-moz-transition: .7s;
@@ -520,48 +77,376 @@ div.leaflet-bottom.leaflet-right {
 	transition: .7s;
 }
 
-/*END POPUP STYLES*/
-
-
-
-.ontop > ul > li {
-	display: none;
-	list-style-type: none;
-	font-family: 'Arimo', Arial, sans-serif;
-	font-weight: 100;
-	text-transform: uppercase;
-	margin: 4px;
-	color: #B3B3B3;
-	height: 20px;
-	-moz-transition: color 0.3s linear;
+.transition-color-fast {
 	-o-transition: color 0.3s linear;
+	-ms-transition: color 0.3s linear;
+	-moz-transition: color 0.3s linear;
 	-webkit-transition: color 0.3s linear;
 	transition: color 0.3s linear;
 }
 
-.ontop > ul > li.active, .ontop > ul > li:hover {
+/* b+w effects */
+.colorshift {
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+    -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+	filter: gray; /* IE6-9 */
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE8 */
+	filter: alpha(opacity=70); /* IE6+ */
+	opacity: .7;
+}
+
+.colorshift:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+	-webkit-backface-visibility: hidden; /* needed so the webkit won't flicker on the transition */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /* IE8 */
+	filter: alpha(opacity=100); /* IE6+ */
+	opacity: 1; /* other browsers  and IE9+ */
+}
+
+/*************************** MAP ELEMENTS ***************************/
+
+#map {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+/*************************** TOP TOOLBAR ***************************/
+
+#topbar {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 60px;
+	width: 100%;
+	background-color: rgb(2, 2, 2);
+	filter: alpha(opacity=90); /* IE 5-8 */
+	opacity: 0.90; 
+	-webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
+}
+
+@media only screen and (max-width: 925px) {
+	#topbar {
+		height: 90px;
+	}
+}
+
+/*************************** HEADER ***************************/
+
+#ecos-logo {
+	position: absolute;
+	left: 5px;
+	top: 2px;
+}
+
+#title {
+	position: absolute;
+	left: 55px;
+	top: 3px;
+	margin:0;
+}
+
+#sub-title {
+	position: absolute;
+	left: 55px;
+	top: 38px;
+	margin:0;
+}
+
+@media only screen and (max-width: 925px) {
+	#title {
+		top: 10px;
+		left: 0;
+		width: 100%;
+		text-align: center;
+		font-size: 2.6em;
+		line-height: 16px;
+	}
+	
+	#sub-title {
+		top: 32px;
+		left: 0px;
+		width: 100%;
+		text-align: center;
+		font-size: 1.2em;
+		line-height: 1.2em;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	#ecos-logo {
+		top: 92px;
+		padding-left: 8px;
+	}
+}
+
+@media only screen and (max-width: 430px) {
+	#title {
+		font-size: 1.6em;
+		line-height: 1.6em
+	}
+	
+	#sub-title {
+		font-size: 0.9em;
+		line-height: 0.9em;
+	}
+}
+
+/*************************** MAP YEAR TOGGLE ***************************/
+
+#map-year-toggle-container {
+	position: absolute;
+	top: 15px;
+	left: 53%;
+	width: 110px;
+	height: 30px;
+	margin: 0 auto;
+	padding: 0;
+	line-height: 30px;
 	color: #fff;
-	border-color: #fff;
+	font-weight: bold;
+}
+
+#map-year {
+	font-size: 2.9em;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#map-year-up, #map-year-down {
+	position: absolute;
+	width: 0;
+	height: 0;
+	top: 50%;
+	margin-top:-13px;
+	cursor: pointer;
+	border-top: 13px solid transparent;
+	border-bottom: 13px solid transparent;
+}
+
+#map-year-up {
+	right: 0;
+	border-left: 13px solid #fff;
+}
+
+#map-year-down {
+	border-right: 13px solid #fff;
+	left: 0;
+}
+
+@media only screen and (max-width: 925px) {
+
+	#map-year-toggle-container {
+		width: 105px;
+		top: 55px;
+		padding: 0;
+		margin-left: -167px;
+		left: 50%;
+	}
+
+	#map-year {
+		font-size: 2.2em;
+	}
+	
+	#map-year-down {
+		margin-top: -9px;
+		border-top: 9px solid transparent;
+		border-left: 9px solid transparent;
+		border-bottom: 9px solid transparent;
+	}
+	
+	#map-year-up {
+		margin-top: -9px;
+		border-top: 9px solid transparent;
+		border-right: 9px solid transparent;
+		border-bottom: 9px solid transparent;
+	}
+	
+}
+
+
+@media only screen and (max-width: 430px) {
+	
+	#map-year-toggle-container {
+		width: 100px;
+		top: 95px;
+		margin-left: -52px;
+		left: 50%;
+		background: rgb(0,0,0); /* Fallback for unsupported browsers */
+		background: rgba(0,0,0,0.6);
+		vertical-align: middle;
+		line-height: 30px;
+		border-radius: 5px;
+	}
+}
+
+/*************************** SEARCH BOX ***************************/
+
+#searchbox-container {
+	position: absolute;
+	top: 13px;
+	right: 5px;
+	width: 251px;
+}
+
+#searchbox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 190px;
+	height: 30px;
+	padding-left: 30px;
+	border: 1px solid #888;
+	border-right: 1px solid #fff;
+	color: #777;
+	text-align: left;
+	font-weight: bold;
+	font-size: 1.9em;
+	line-height: 30px;
+	background: #fff url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
+}
+
+#search-button {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 30px;
+	height: 34px;
+	line-height: 17px;
+	margin: 0;
+	font-size: 2.2em;
+	font-weight: bold;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	color: #F58C5B;
+	border: solid 1px #888;
+	border-right: 0px;
+	background: #ccc;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#aaa));
+	background: -moz-linear-gradient(top, #ccc, #aaa);
+	border-top-right-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+}
+
+#searchbtn:hover {
+	text-decoration: none;
+	background: #A8A8A8 ;
+	background: -webkit-gradient(linear, left top, left bottom, from(#A8A8A8), to(#909090));
+	background: -moz-linear-gradient(top, #A8A8A8, #909090 );
+}
+
+@media only screen and (max-width: 925px) {
+
+	#searchbox-container {
+		position: absolute;
+		top: 57px;
+		right: 50%;
+		width: 207px;
+		margin-right: -157px;
+	}	
+	
+	#searchbox {
+		font-size: 1.3em;
+		padding-right: 5px;
+		height: 20px;
+		line-height: 20px;
+		width: 147px;
+		background-position: 4px 1px;
+	}
+	
+	#search-button  {
+		height: 24px;
+		width: 24px;
+		line-height: 11px;
+	}	
+}
+
+@media only screen and (max-width: 430px) {
+	
+	#searchbox-container {
+		top: 50px;
+		margin-right: -100px;
+	}
+	
+}
+
+/*************************** SEARCH RESULTS ***************************/
+
+#search-results-container {
+	position: absolute;
+	top: 60px;
+	right: 5px;
+	height: 60%;
+	width: 350px;
+	display: none;
+	border: 1px solid #888;
+	background: white;
+}
+
+#search-results {
+	position: absolute;
+	top: 25px;
+	bottom: 0;
+	overflow: auto;
+	width: inherit;
+	font-family: "times new roman";
+}
+
+.searchresult {
+	margin: 5px;
+	border: 1px solid #eee;
+	padding: 5px;
+	cursor: pointer;
+	font-size: 1.6em;
+}
+
+.searchresult:hover {
+	background: #F8F8F8;
+}
+
+#search-close {
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	padding-right: 25px;
+	padding-top: 5px;
+	background: url(../images/closeBtnUp_Small.png) no-repeat top right;
+	text-align: right;
+	font-size: 1.6em;
+	color: #4292CD;
 	cursor: pointer;
 }
 
+#moreresults {
+	text-align: center;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 925px) {
+
+	#search-results-container {
+		top: 90px;
+	}
+
+}
+/*************************** ABOUT LINK ***************************/
+
 .fancybox {
-	text-decoration: none !important;
-	font-family: 'Arimo', Arial, sans-serif;
-	font-weight: 700;
-	text-transform: uppercase;
-	color: #000;
-	-moz-transition: color 0.3s linear;
-	-o-transition: color 0.3s linear;
-	-webkit-transition: color 0.3s linear;
-	transition: color 0.3s linear;
-	background:transparent;
-	zoom:1;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696);
-	background-color: rgba(150,150,150,.8);
+	position: absolute;
 	top: 74px;
 	left: 51px;
 	width: 80px;
+	background:transparent; /*ie fix */
+	filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696)";
+	background-color: rgba(150,150,150,0.8);
+	text-decoration: none;
+	font-weight: 700;
+	color: #000;
+	font-size: 1.6em;
 	text-align: center;
 	line-height: 35px;
 }
@@ -570,12 +455,70 @@ div.leaflet-bottom.leaflet-right {
 	color: #fff;
 	border-color: #fff;
 	cursor: pointer;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
+	filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000)";
 	background-color: rgba(0,0,0,.8);
 }
 
+@media only screen and (max-width: 925px) {
+
+	.fancybox {
+		top: 92px;
+		width: 66px;
+		margin: 10px 15px 10px 0;
+		font-size: 1.4em;
+		line-height: 30px;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+
+	.fancybox {
+		top: 140px;
+		left: 0px;
+		font-size: 1.2em;
+	}
+}
+
+/*************************** ABOUT PAGE ***************************/
+
+#about {
+	margin: 0 auto;
+	width: 90%;
+}
+
+#about > p {
+	line-height: 1.4em;
+	font-size: 1.6em;
+}
+
+#about-figures {
+	float: left;
+	clear: both;
+	margin: 6px;
+	margin-left: 0;
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+#logos_attrb {
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#logos_attrb a {
+	text-decoration: none;
+}
+
+#abt_ecos_logo, #abt_wwu_logo, #abt_hux_logo{
+	margin-right: 10%;
+	line-height: 60px;
+}
+
+/*************************** MAP CONTROLS ***************************/
+
 .leaflet-control-zoom {
-	top: 61px !important;
+	top: 61px;
 	-o-transition: .7s;
 	-ms-transition: .7s;
 	-moz-transition: .7s;
@@ -583,176 +526,386 @@ div.leaflet-bottom.leaflet-right {
 	transition: .7s;
 }
 
-.ontop {
-	z-index: 150;
-	position: fixed;
+@media only screen and (max-width: 925px) {
+
+	/* MAP Controls */
+	.leaflet-control-zoom {
+		top: 88px;
+	}
+	
 }
 
-/* Popup Menus */
+@media only screen and (max-width: 425px) {
 
-.menu_container {
+	.leaflet-control-zoom {
+		top: 170px;
+	}
+	
+}
+
+/*************************** BASEMAP CONTROLS ***************************/
+
+#basemap-menu {
+	position: absolute;
+	display: block;
 	right: 10px;
 	top: 60px;
-	display: block;
 }
 
-.menu {
-	right: 0px;
-	position: absolute;
-	font-family: "Arimo", sans-serif;
-	font-size: .9em;
-	padding: 5px;
-	-moz-transition: color 0.3s linear;
-	-o-transition: color 0.3s linear;
-	-webkit-transition: color 0.3s linear;
-	transition: color 0.3s linear;
-}
-
-/* b+w effects here */
-.colorshift {
-	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
-    -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
-	filter: gray; /* IE6-9 */
-	
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE8 */
-	filter: alpha(opacity=70); /* IE6+ */
-	opacity: .7;
-	
-}
-
-.colorshift:hover {
-    -webkit-filter: grayscale(0);
-    filter: none;
-	-webkit-backface-visibility: hidden; /* needed so the webkit won't flicker on the transition */
-	
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /* IE8 */
-	filter: alpha(opacity=100); /* IE6+ */
-	opacity: 1; /* other browsers  and IE9+ */
-}
-
-#satelliteThumb.colorshift:hover {
-	color: #fff;
-}
-
-.tabs {
-	position: absolute;
-	height: 15px;
-	font-size: .8em;
-	padding-left: 5px;
-	font-family: "Arimo", sans-serif;
-	border: 1px solid #888;
-	border-bottom: none;
-	background: #fff;
-	cursor: pointer;
-}
-
-.menu_close {
-	position: absolute;
-	right: 3px;
-	top: 3px;
-	background: url(../images/closeBtnUp_Small.png) no-repeat top right;
-	text-align: right;
-	padding-right: 25px;
-	padding-top: 5px;
-	color: #4292CD;
-	font-family: "Arimo", sans-serif;
-	cursor: pointer;
-}
-
-/*#search_close {
-	background-color: #CCC;
-	width: 325px;
-	top:0;
-	left:0;
-}*/
-
-.dropshadow {
-	-moz-box-shadow: 3px 3px 5px #000;
-	-webkit-box-shadow: 3px 5px 5px #000;
-	box-shadow: 3px 5px 5px #000;
-}
-
-#basemap_menu {
-	display: block;
-	padding-bottom: 10px;
-}
-
-.base_thumb {
+.base-thumb {
 	text-align: center;
 	margin-top: 10px;
 	display: block;
 	cursor: pointer;
 	line-height: 50px;
 	width: 85px;
-	font-size: 1.4em;
+	font-size: 2em;
 	font-weight: bold;
+	color: #000;
+	background: url("../images/basemap_thumbs/base_sprite.jpg") no-repeat;
+	width: 85px;
+	height: 50px;
+}
+
+.base-thumb:hover {
+	font-size: 1.6em;
+}
+
+#satellite-thumb {
+	background-position: 0 -100px;
+}
+
+#satellite-thumb:hover{
+	color: #fff;	
+}
+
+#streets-thumb {
+	background-position: 0 0;
+}
+
+#toner-thumb {
+	background-position: 0 -50px;
+}
+
+@media only screen and (max-width: 925px) {
+
+	.base-thumb {
+		width: 65px;
+		margin-top: 5px;
+		font-size: 1.6em;
+	}
+	
+	#basemap-menu {
+		top: 88px;
+		margin: 0;
+	}
+
+}
+
+/*************************** BASEMAP ATTRIBUTION ***************************/
+
+.autoattribution {
+	float: right;
+	pointer-events: auto;
+	padding: 0 9px;
+	box-shadow: 0 0 5px #bbb;
+	color: rgb(0,0,0);
+	cursor: pointer;
+	background-color: #fff;
+	background-color: rgba(255,255,255,0.7);
+}
+
+.autoattribution > p {
+	margin: 5px;
+}
+
+.hidetoggle {
+	background-color: rgb(55,55,55); /* Fallback for unsupported browsers*/
+	background-color: rgba(55,55,55,0.7);
+	color: rgb(255,255,255);
+}
+
+@media only screen and (max-width: 425px) {
+
+	.autoattribution {
+		width: 50px;
+		text-align: center;
+		padding: 0 3px 0 0;
+	}
+	.autoattribution > p {
+		margin: 2px;
+		padding: 0;
+	}
+}
+
+/*************************** FACILITY MOUSE OVER ***************************/
+
+#hover {
+	display: none;
+	position: absolute;
+	border: solid #000 1px;
+	padding: 5px;
+	background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
+	background-color: rgba(255,255,255,0.9);
+	width: 150px;
+	max-height: 400px;
+	font-size: 1.5em;
+}
+
+/*************************** HIGHLIGHT FACILITY ***************************/
+
+.clickedFacility {
+	width: 16px !important;
+	height: 16px !important;
+	border: rgb(0, 224, 255) solid 3px;
+	margin-left: -12px !important;
+	margin-top: -12px !important;
+	cursor: auto;
+	-webkit-animation: pulsate 1s ease-out;
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation: pulsate 1s ease-out;
+	-moz-animation-iteration-count: infinite;
+	-o-animation: pulsate 1s ease-out;
+	-o-animation-iteration-count: infinite;
+	-ms-animation: pulsate 1s ease-out;
+	-ms-animation-iteration-count: infinite;
+	animation: pulsate 1s ease-out;
+	animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+@-moz-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+@-o-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+@-ms-keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+@keyframes pulsate {
+	0% {opacity:0;}
+	50% {opacity: 1;}
+	100% {opacity:0;}
+}
+
+/*************************** FACILITY POPUP ***************************/
+
+#popup-close {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	top: 4px;
+	right: 4px;
+	margin: 5px;
+	padding: 0;
+	border-radius: 10px;
+	cursor: pointer;
+	text-align: center;
+	border: 1px rgb(109, 109, 109) solid;
+	background-color: rgb(109, 109, 109);
+	color: #fff;
+	font-size: 14px;
+}
+
+#popup-close:hover, #popup-close:active, .zoom-to:hover, .zoom-to:active {
+	background-color: rgb(210, 210, 210);
 	color: #000;
 }
 
-.base_thumb:hover {
-	font-size: 1.2em;
-}
-
-/*Basemap Thumbs*/
-
-.aerial, .osm, .toner {
-	background: url("../images/basemap_thumbs/base_sprite.jpg") no-repeat;
-}
-
-.aerial {
-	background-position: 0 -100px;
-	width: 85px;
-	height: 50px;
-}
-
-.osm {
-	background-position: 0 0;
-	width: 85px;
-	height: 50px;
-}
-
-.toner {
-	background-position: 0 -50px;
-	width: 85px;
-	height: 50px;
-}
-
-/* Search Results */
-#searchresultsbox {
-	display: none;
-	border: 1px solid #888;
+#facility-tabs {
 	position: absolute;
-	top: 60px;
-	right: 5px;
-	height: 65%;
-	width: 350px;
-	background: white;
-	z-index: 151;
+	background-color: #fff;
+	top: 62px;
+	left: 50px;
+	width: 325px;
+	height: 400px;
+	font-size: 1.3em;
 }
 
-#searchresults {
+.zoom-to {
 	position: absolute;
-	top: 25px;
-	bottom: 0;
-	overflow: auto;
-	width: inherit;
-}
-
-.searchresult {
-	margin: 5px;
-	border: 1px solid #eee;
-	padding: 5px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: 0 auto;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px 0;
 	cursor: pointer;
 }
 
-.searchresult:hover {
-	background: #F8F8F8;
+@media only screen and (max-width: 925px) {
+
+	#facility-tabs {
+		top: 90px;
+	}
+
 }
 
-/* Loading display */
+@media only screen and (max-width: 425px) {
+
+	#facility-tabs {
+		top: 0px;
+		left: 0px;
+	}
+}
+
+/*************************** GENERAL TAB ***************************/
+
+.tabs {
+	position: absolute;
+	height: 15px;
+	font-size: .8em;
+	padding-left: 5px;
+	border: 1px solid #888;
+	border-bottom: none;
+	background: #fff;
+	cursor: pointer;
+}
+
+#info-graph {
+	width: 300px;
+	height: 150px;
+	margin: 7px auto;
+}
+
+.noChart {
+	width: 100%;
+	text-align: center;
+	height: 100%;
+	line-height: 140px;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+/*************************** CHEMICAL & INDUSTRY TAB ***************************/
+
+#chemical-tab, #industry-tab {
+	padding: 0;
+}
+
+.popup-year-toggle {
+	position: relative;
+	height: 30px;
+	width: 327px;
+	padding: 0;
+	text-align: center;
+	color: #fff;
+	background-color: rgb(26, 26, 26);
+}
+
+.popup-year-label {
+	width: 50%;
+	margin: 0 auto;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.popup-year-right {
+	position: absolute;
+	right: 114px;
+	top: 4px;
+	width: 0;
+	height: 0;
+	border-top: 11px solid transparent;
+	border-bottom: 11px solid transparent;
+	border-left: 11px solid #fff;
+	cursor: pointer;
+}
+
+.popup-year-left {
+	position: absolute;
+	left: 114px;
+	top: 4px;
+	width: 0;
+	height: 0;
+	border-top: 11px solid transparent;
+	border-bottom: 11px solid transparent;
+	border-right: 11px solid #fff;
+	cursor: pointer;
+}
+
+.popup-list {
+	height: 324px;
+	overflow-y: auto;
+}
+
+.chemical_row, .industry_row {
+	line-height: 1.4em;
+	margin: 0.5em 0.2em;
+	padding: 0.3em;
+	border: 1px solid #eee;
+}
+
+/*************************** CHEMICAL TAB ***************************/
+
+.chemical_row:hover {
+	background-color: #F8F8F8;
+	cursor: pointer;
+}
+
+.chemical_details:hover {
+	background-color: #F8F8F8;
+	cursor: auto;
+}
+
+/*************************** WWU LOGO ***************************/
+
+#wwu_logo {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background: url('../images/logos/wwu_sm.png');
+	width: 72px;
+	height: 36px;
+}
+
+/*************************** SOCIAL MEDIA ***************************/
+
+.socialmedia {
+	position: absolute;
+	display: block;
+	left: 50%;
+	bottom: 0;
+	height: 32px;
+	width: 32px;
+}
+
+.socialmedia > img {
+	cursor: pointer;
+}
+
+.facebook {
+	margin-left: 36px;
+}
+
+.twitter {
+	margin-left: -36px;
+}
+
+.googleplus {
+	margin-left: 0px;
+}
+
+/*************************** LOADING PAGE ICON ***************************/
+
 #loading {
 	display: block;
-	z-index: 9999;
 	position: absolute;
 	top: 40%;
 	bottom: 40%;
@@ -770,16 +923,15 @@ div.leaflet-bottom.leaflet-right {
 	font-weight: bold;
 	font-size: 1.5em;
 	text-shadow: #000 0.1em 0.1em 0.2em;
-	font-family: 'Arimo', Arial, sans-serif;
 }
 
 .loading {
-	background-color: #F27D24;
-	border: 3px solid #000000;
 	float: left;
 	height: 92px;
-	margin-left: 7px;
 	width: 25px;
+	margin-left: 7px;
+	background-color: #F27D24;
+	border: 3px solid #000000;
 	opacity: 0.1;
 	-moz-animation-name: bounceG;
 	-moz-animation-duration: 1.5s;
@@ -841,294 +993,56 @@ div.leaflet-bottom.leaflet-right {
 }
 
 @-moz-keyframes bounceG{
-0%{
--moz-transform:scale(1.2);
-opacity:1;
-}
-100%{
--moz-transform:scale(0.7);
-opacity:0.1;
-}
+	0% {
+		-moz-transform:scale(1.2);
+		opacity:1;
+	}
+	100% {
+		-moz-transform:scale(0.7);
+		opacity:0.1;
+	}
 }
 
-@-webkit-keyframes bounceG{
-0%{
--webkit-transform:scale(1.2);
-opacity:1;
-}
-100%{
--webkit-transform:scale(0.7);
-opacity:0.1;
-}
+@-webkit-keyframes bounceG {
+	0% {
+		-webkit-transform:scale(1.2);
+		opacity:1;
+	}
+	100% {
+		-webkit-transform:scale(0.7);
+		opacity:0.1;
+	}
 }
 
 @-ms-keyframes bounceG{
-0%{
--ms-transform:scale(1.2);
-opacity:1;}
-
-100%{
--ms-transform:scale(0.7);
-opacity:0.1;}
-
+	0% {
+		-ms-transform:scale(1.2);
+		opacity:1;
+	}
+	100% {
+		-ms-transform:scale(0.7);
+		opacity:0.1;
+	}
 }
 
 @-o-keyframes bounceG{
-0%{
--o-transform:scale(1.2);
-opacity:1;}
-
-100%{
--o-transform:scale(0.7);
-opacity:0.1;}
-
+	0% {
+		-o-transform:scale(1.2);
+		opacity:1;
+	}
+	100% {
+		-o-transform:scale(0.7);
+		opacity:0.1;
+	}
 }
 
 @keyframes bounceG{
-0%{
-transform:scale(1.2);
-opacity:1;}
-
-100%{
-transform:scale(0.7);
-opacity:0.1}
-
-}
-/* End Loading display */
-
-/* Social Media */
-
-.socialmedia {
-	display: block;
-	position: absolute;
-	left: 50%;
-	bottom: 0;
-	z-index: 200;
-	height: 32px;
-	width: 32px;
-	
-}
-
-.socialmedia > img {
-	cursor: pointer;
-}
-
-.facebook {
-	margin-left: 36px;
-}
-
-.twitter {
-	margin-left: -36px;
-}
-
-.googleplus {
-	margin-left: 0px;
-}
-
-/* End Social Media */
-
-/**
- *MOBILE STYLE
- max-width 480 for iPhone but this is too narrow for android..
- **/
-
-@media only screen and (max-width: 925px) {
-	/* HEADER */
-	#topbar {
-		height: 90px;
+	0% {
+		transform:scale(1.2);
+		opacity:1;
 	}
-
-	#title {
-		left:0;
-		width: 100%;
-		text-align:center;
-		font-size: 1.6em;
-		line-height: 16px;
-	}
-	
-	#searchboxcontainer {
-		position: absolute;
-		top: 57px;
-		right: 50%;
-		width: 207px;
-		margin-right: -160px;
-	}
-
-	#search {
-		font-size: .8em;
-		padding-right: 5px;
-		height: 20px;
-		line-height: 20px;
-		width: 147px;
-		background: white url("../images/magnifyingGlass_Small.png") no-repeat 4px 1px;
-	}
-	
-	.searchbutton {
-		height: 24px;
-		width: 24px;
-		line-height: 11px;
-	}	
-	
-	
-	#yearchanger {
-		width: 105px;
-		top: 55px;
-		padding: 0;
-		margin-left: -170px;
-		left: 50%;
-	}
-
-	#currentyear {
-		width: 50px;
-		font-size: 1.4em;
-	}
-	
-	#downyear{
-		margin-top:-10px;
-		border-top: 10px solid transparent;
-		border-left: 10px solid transparent;
-		border-bottom: 10px solid transparent;
-	}
-	
-	#upyear{
-		margin-top:-10px;
-		border-top: 10px solid transparent;
-		border-right: 10px solid transparent;
-		border-bottom: 10px solid transparent;
-	}
-	
-	
-	.base_thumb {
-		font-size: 16px;
-		line-height: 40px;
-		width: 65px;
-		line-height: 35px;
-		margin-top: 5px;
-	}
-
-	.fancybox {
-		margin: 10px 15px 10px 0;
-		font-size: 14px;
-		line-height: 30px;
-		width: 66px;
-		top: 92px;
-	}
-
-	.facilityInfo {
-		top: 100px;
-	}
-
-	
-
-	/* MAP Controls */
-	.leaflet-control-zoom {
-		top: 88px !important;
-	}
-
-	/* all the way to the bottom on mobile devices*/
-	#map {
-		padding: 0;
-		height: 100% !important;
-	}
-
-	/* MENUS */
-
-	.menu_container {
-		top: 88px;
-		margin: 0;
-		z-index: 999;
-	}
-
-	/* SEARCH RESULTS */
-	#searchresultsbox {
-		top: 0 !important;
-		left: 0 !important;
-		height: 100% !important;
-		width: 100% !important;
-		z-index: 9999;
-	}
-
-	#searchresults {
-		position: absolute;
-		top: 25px;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		overflow: auto;
-	}
-
-	.searchresult {
-		margin: 5px;
-		border: 1px solid #eee;
-		padding: 5px;
-		cursor: pointer;
-	}
-
-	.searchresult:hover {
-		background: #F8F8F8;
-	}
-	
-	#facility_tabs {
-		position: absolute;
-		top: 90px;
-	}
-
-}
-
-/* smaller */
-@media only screen and (max-width: 425px) {
-	#ecosLogo {
-		top: 92px;
-		padding-left: 8px;
-	}
-
-	.leaflet-control-zoom {
-		top: 170px !important;
-	}
-
-	.fancybox {
-		top: 140px;
-		left: 0px;
-		font-size: 12px;
-	}
-
-	.autoattribution {
-		width: 50px;
-		text-align: center;
-		padding: 0 3px 0 0;
-	}
-	.autoattribution > p {
-		margin: 2px;
-		padding: 0;
-	}
-
-	#facility_tabs {
-		position: absolute;
-		top: 0px;
-		left: 0px;
-	}
-}
-
-@media only screen and (max-width: 430px) {
-	#title {
-		font-size: 1.2em;
-		line-height: 12px;
-	}
-	
-	#searchboxcontainer {
-		top: 50px;
-		margin-right: -100px;
-	}
-	
-	#yearchanger {
-		width: 100px;
-		top: 95px;
-		margin-left: -52px;
-		left: 50%;
-		background: rgb(0,0,0); /* Fallback for unsupported browsers */
-		background: rgba(0,0,0,0.6);
-		vertical-align: middle;
-		line-height: 30px;
-		border-radius: 5px;
+	100% {
+		transform:scale(0.7);
+		opacity:0.1
 	}
 }

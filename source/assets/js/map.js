@@ -115,7 +115,7 @@
 				autoSize : false
 			});
 	
-			$("#facility_tabs").tabs();
+			$("#facility-tabs").tabs();
 	
 			// get mouse position for tooltip
 			$(document).mousemove(function(e) {
@@ -176,8 +176,8 @@
 				var startTime = new Date().getTime();
 				
 				//Set info window year to current year
-				document.getElementById('window_year').innerHTML = windowYear;
-				document.getElementById('ind_year').innerHTML = windowYear;
+				document.getElementById('chemical-tab-year').innerHTML = windowYear;
+				document.getElementById('industry-tab-year').innerHTML = windowYear;
 	
 					$.ajax({
 						dataType : "json",
@@ -188,12 +188,12 @@
 							parseFacility(facility_record);
 							parseChemicals(facility_record);
 							parseIndustry(facility_record);
-							if ($("#general_tab").attr('aria-expanded') === 'true') {
+							if ($("#general-tab").attr('aria-expanded') === 'true') {
 								loadChart(facility_record);
 							} else {
-								$("#general_tab_btn").on('click.draw_chart', function() {
+								$("#general-tab-btn").on('click.draw_chart', function() {
 									loadChart(facility_record);
-									$("#general_tab_btn").off('click.draw_chart');
+									$("#general-tab-btn").off('click.draw_chart');
 								});
 							}
 				
@@ -280,10 +280,10 @@
 			};
 	
 			// change year
-			$('#upyear').bind('click', function() {
+			$('#map-year-up').bind('click', function() {
 				toggleUp();
 			});
-			$('#downyear').bind('click', function() {
+			$('#map-year-down').bind('click', function() {
 				toggleDown();
 			});
 	
@@ -294,7 +294,7 @@
 					map.addLayer(overlayGrids['U' + (mapYear + 1)]);
 					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear += 1;
-					$('#currentyear').html(mapYear);
+					$('#map-year').html(mapYear);
 					ga('send', 'event', 'Map', 'Year', mapYear);
 					
 				}
@@ -307,19 +307,19 @@
 					map.addLayer(overlayGrids['U' + (mapYear - 1)]);
 					map.removeLayer(overlayGrids['U' + mapYear]);
 					mapYear -= 1;
-					$('#currentyear').html(mapYear);
+					$('#map-year').html(mapYear);
 					ga('send', 'event', 'Map', 'Year', mapYear);
 				}
 			};
 	
 			//change basemap
-			$('#tonerThumb').bind('click', function() {
+			$('#toner-thumb').bind('click', function() {
 				changeBasemap('Toner');
 			});
-			$('#streetsThumb').bind('click', function() {
+			$('#streets-thumb').bind('click', function() {
 				changeBasemap('Streets');
 			});
-			$('#satelliteThumb').bind('click', function() {
+			$('#satellite-thumb').bind('click', function() {
 				changeBasemap('Satellite');
 			});
 	
@@ -364,9 +364,9 @@
 			});
 			
 			/// search
-			$('#search').on('focus', clearDefaultSearchText);
-			$('#search').on('blur', replaceDefaultSearchText);
-			$('#searchbtn').on('click', prepSearch);
+			$('#searchbox').on('focus', clearDefaultSearchText);
+			$('#searchbox').on('blur', replaceDefaultSearchText);
+			$('#search-button').on('click', prepSearch);
 			
 			for (var year in overlayGrids){
 				if (overlayGrids.hasOwnProperty(year)) {
@@ -406,26 +406,26 @@
 			}
 	
 	
-			$('#search').keydown(function(e) {
+			$('#searchbox').keydown(function(e) {
 				if (e.keyCode === 13) {
 					prepSearch();
 				}
 			});
 			
 			function prepSearch(){
-				if ($('#search').val() === lastSearch) {
+				if ($('#searchbox').val() === lastSearch) {
 						//Don't perform the search again, just reopen the search box if the same results are used.
-						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
-				} else if ($('#search').val() === ''){
+						$("#search-results-container").css('display') === 'none' ? $("#search-results-container").toggle() : null;
+				} else if ($('#searchbox').val() === ''){
 					return;
 				} else {
-					lastSearch = $('#search').val();
+					lastSearch = $('#searchbox').val();
 					//Remove old results
-					$("#searchresults").empty();
-					doSearch($('#search').val(), 0);
+					$("#search-results").empty();
+					doSearch($('#searchbox').val(), 0);
 					
 					$('#loading').fadeIn(500);
-					ga('send', 'event', 'Search', 'Query', $('#search').val());
+					ga('send', 'event', 'Search', 'Query', $('#searchbox').val());
 					
 					
 				};
@@ -439,7 +439,7 @@
 					success : function(r) {
 						
 						if (r.hits.hits[0]) {
-							$("#searchresultsbox").height('60%');
+							$("#search-results-container").height('60%');
 							$.each(r.hits.hits, function(index, result) {
 								processSearchResult(result);
 							});
@@ -451,13 +451,13 @@
 									doSearch(term, start);
 									item.remove();
 								});
-								$("#searchresults").append($(item)[0]);		
+								$("#search-results").append($(item)[0]);		
 							}
 						} else {
-							$("#searchresultsbox").height(140);
-							$("#searchresults").html("<p>No results found for " + term + "<br/>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
+							$("#search-results-container").height(140);
+							$("#search-results").html("<p>No results found for " + term + "<br/>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
 						}
-						$("#searchresultsbox").css('display') === 'none' ? $("#searchresultsbox").toggle() : null;
+						$("#search-results-container").css('display') === 'none' ? $("#search-results-container").toggle() : null;
 						$('#loading').fadeOut(500);
 						
 					},
@@ -486,16 +486,16 @@
 					//Log search selection
 					ga('send', 'event', 'Search', 'Selected', f.name);
 				});
-				$("#searchresults").append($(item)[0]);
+				$("#search-results").append($(item)[0]);
 			}
 	
 			//Facility Popup close window
-			$('#fp_close').on('click.fp_close', function() {
-				$('#facility_tabs').hide();
+			$('#popup-close').on('click', function() {
+				$('#facility-tabs').hide();
 			});
 			
 			//Search popup close window
-			$('#search_close').on('click.fp_close', function() {
+			$('#search-close').on('click', function() {
 				closeSearch();
 			});
 			
@@ -503,15 +503,15 @@
 	
 		function cleanPopup() {
 			//Remove event listeners to prevent multiple copies
-			$("#chemicalList").off('click.chemdetails');
+			$("#chemical-list").off('click.chemdetails');
 	
-			document.getElementById('graph').innerHTML = '';
-			document.getElementById('info_title').innerHTML = '';
-			document.getElementById('info_industry').innerHTML = '';
-			document.getElementById('info_address').innerHTML = '';
-			document.getElementById('info_contact').innerHTML = '';
-			document.getElementById('chemicalList').innerHTML = '';
-			document.getElementById('industryList').innerHTML = '';
+			document.getElementById('info-graph').innerHTML = '';
+			document.getElementById('info-title').innerHTML = '';
+			document.getElementById('info-industry').innerHTML = '';
+			document.getElementById('info-address').innerHTML = '';
+			document.getElementById('info-contact').innerHTML = '';
+			document.getElementById('chemical-list').innerHTML = '';
+			document.getElementById('industry-list').innerHTML = '';
 	
 		}
 	
@@ -522,11 +522,11 @@
 			// create chart data
 			if (!facility_record.Emissions || Object.keys(facility_record.Emissions).length === 1) {
 				// no years of data so set the chart area to say no chart
-				$('#graph').html('<p class="noChart">Not enough data for a chart</p>');
+				$('#info-graph').html('<p class="noChart">Not enough data for a chart</p>');
 			} else {
 				var data;
 				var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
-				var chart = new google.visualization.LineChart($('#graph')[0]);
+				var chart = new google.visualization.LineChart($('#info-graph')[0]);
 				var options = {
 					title : 'Facility Performance',
 					hAxis : {
@@ -582,26 +582,26 @@
 		}
 	
 		function parseFacility(facility_record) {
-			$("#facility_tabs").show();
-			document.getElementById('info_title').innerHTML = '<STRONG>' + facility_record.Name + '</STRONG>';
+			$("#facility-tabs").show();
+			document.getElementById('info-title').innerHTML = '<STRONG>' + facility_record.Name + '</STRONG>';
 			if(facility_record.NAICS1 !== undefined && facility_record.NAICS1.name !== undefined){
-				document.getElementById('info_industry').innerHTML = 'Industry: ' + facility_record.NAICS1.name;
+				document.getElementById('info-industry').innerHTML = 'Industry: ' + facility_record.NAICS1.name;
 			}
-			document.getElementById('info_address').innerHTML = '<p>' + facility_record.Street + '<br />' + facility_record.City + ' ' + facility_record.State + ', ' + facility_record.ZIPCode + '<br />' + facility_record.Latitude + ' ' + facility_record.Longitude + '</p>';
-			document.getElementById('info_contact').innerHTML = '<p>' + facility_record.PublicContactName + '<br />' + facility_record.PublicContactPhone.replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+			document.getElementById('info-address').innerHTML = '<p>' + facility_record.Street + '<br />' + facility_record.City + ' ' + facility_record.State + ', ' + facility_record.ZIPCode + '<br />' + facility_record.Latitude + ' ' + facility_record.Longitude + '</p>';
+			document.getElementById('info-contact').innerHTML = '<p>' + facility_record.PublicContactName + '<br />' + facility_record.PublicContactPhone.replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
 	
 			//remove previous zoomto listner
-			$(".zoom_to").off('click.zoom');
+			$(".zoom-to").off('click.zoom');
 	
 			//Add zoom to listner
-			$(".zoom_to").on('click.zoom', function() {
+			$(".zoom-to").on('click.zoom', function() {
 				zoomToFacility(facility_record.Latitude, facility_record.Longitude);
 			});
 	
 		}
 	
 		function parseChemicals(facility_record) {
-			var chemList = document.getElementById('chemicalList');
+			var chemList = document.getElementById('chemical-list');
 			var emissions;
 			//Remove stale content
 			chemList.innerHTML = '';
@@ -638,7 +638,7 @@
 		}
 	
 		function parseIndustry(facility_record) {
-			var industryList = document.getElementById('industryList');
+			var industryList = document.getElementById('industry-list');
 	
 			//Remove stale content
 			industryList.innerHTML = '';
@@ -668,7 +668,7 @@
 	
 		function initChemListListener() {
 			//Event Listener for chemical list click
-			$("#chemicalList").on('click.chemdetails', function(e) {
+			$("#chemical-list").on('click.chemdetails', function(e) {
 				var target = $(e.target);
 	
 				// Check that they clicked on a chemical row and not the container
@@ -680,7 +680,7 @@
 					//If not, download data
 					if (!target.hasClass("data_loaded")) {
 						//Position from top of chemical list to scroll list to
-						var scrollto = $("#chemicalList").scrollTop() + chem_details.position().top - 120;
+						var scrollto = $("#chemical-list").scrollTop() + chem_details.position().top - 120;
 	
 						//Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
 						getChem(casNum);
@@ -688,7 +688,7 @@
 						chem_details.show();
 	
 						//Scroll chemical list window so chemical of interest is at top
-						$("#chemicalList").animate({
+						$("#chemical-list").animate({
 							scrollTop : (scrollto + 'px')
 						}, 'slow');
 	
@@ -797,19 +797,19 @@
 	
 		function initYearChangers(facility_record) {
 			//remove previous listner
-			$("#facility_tabs").off('click.yearchanger');
+			$("#facility-tabs").off('click.yearchanger');
 			//Set the windowYear to the mapYear on first load
-			$("div.year-label").html(mapYear);
+			$("div.popup-year-label").html(mapYear);
 			//app.windowYear = app.mapYear;
 	
 			//Add click listner with yearchanger namespace for later reference
-			$("#facility_tabs").on('click.yearchanger', function(e) {
+			$("#facility-tabs").on('click.yearchanger', function(e) {
 				var oldyear = windowYear;
-				if ($(e.target).hasClass("arrow-left")) {
+				if ($(e.target).hasClass("popup-year-left")) {
 					if (windowYear > minYear) {
 						windowYear -= 1;
 					}
-				} else if ($(e.target).hasClass("arrow-right")) {
+				} else if ($(e.target).hasClass("popup-year-right")) {
 					if (windowYear < maxYear) {
 						windowYear += 1;
 					}
@@ -818,13 +818,13 @@
 				}
 	
 				if (oldyear !== windowYear) {
-					$("div.year-label").html(windowYear);
+					$("div.popup-year-label").html(windowYear);
 					parseChemicals(facility_record);
 					parseIndustry(facility_record);
-					$("#chemicalList").animate({
+					$("#chemical-list").animate({
 						scrollTop : ('0px')
 					}, 'fast');
-					$("#IndustryList").animate({
+					$("#industry-list").animate({
 						scrollTop : ('0px')
 					}, 'fast');
 				}
@@ -861,7 +861,7 @@
 	});
 	
 	function closeSearch() {
-		$("#searchresultsbox").hide();
+		$("#search-results-container").hide();
 	}
 	
 	function showFacility(lat, lng) {
