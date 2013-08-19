@@ -497,7 +497,7 @@
 					zoomToFacility(f.Latitude, f.Longitude);
 					loadPopup(f.FacilityNumber);
 					//Log search selection
-					ga('send', 'event', 'Search', 'Selected', f.name);
+					ga('send', 'event', 'Search', 'Selected', f.Name);
 				});
 				$("#search-results").append($(item)[0]);
 			}
