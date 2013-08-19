@@ -407,14 +407,14 @@
 			}
 			
 			function clearDefaultSearchText() {
-				if ($('#searchbox').value === "Search for a facility") {
-					$('#searchbox').value = "";
+				if ($('#searchbox').val() === "Search for a facility") {
+					$('#searchbox').val("");
 				}
 			}
 	
 			function replaceDefaultSearchText() {
-				if ($('#searchbox').value === "") {
-					$('#searchbox').value = "Search for a facility";
+				if ($('#searchbox').val() === "") {
+					$('#searchbox').val("Search for a facility");
 				}
 			}
 	
