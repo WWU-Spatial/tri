@@ -70,7 +70,7 @@
 		"WI":"Wisconsin",
 		"WV":"West Virginia",
 		"WY":"Wyoming"
-	}
+	};
 	
 	//Prevents older browsers from breaking if a console.log() function is left in the code.
 	if(!window.console){ window.console = {log: function(){} }; } 
@@ -206,7 +206,7 @@
 					}).done(function(){
 						var totalTime = new Date().getTime()-startTime;
 						ga('send', 'timing', 'api', 'facility', totalTime);
-					});;
+					});
 					
 				
 			}
@@ -317,30 +317,33 @@
 				changeBasemap('Toner');
 				if ($(window).width() <= 430){
 					$("#basemap-menu").hide();
-				};
-				
+				}
 			});
+			
 			$('#streets-thumb').bind('click', function() {
 				changeBasemap('Streets');
 				if ($(window).width() <= 430){
 					$("#basemap-menu").hide();
-				};
+				}
 			});
+			
 			$('#satellite-thumb').bind('click', function() {
 				changeBasemap('Satellite');
 				if ($(window).width() <= 430){
 					$("#basemap-menu").hide();
-				};
+				}
 			});
 	
 			function changeBasemap(lyr) {
 				for (var item in baseMaps) {
-					var obj = baseMaps[item];
-					if (map.hasLayer(obj)) {
-						map.removeLayer(obj);
+					if(baseMaps.hasOwnProperty(item)){
+						var obj = baseMaps[item];
+						if (map.hasLayer(obj)) {
+							map.removeLayer(obj);
+						}
+						map.addLayer(baseMaps[lyr]);
+						baseMaps[lyr].bringToBack();
 					}
-					map.addLayer(baseMaps[lyr]);
-					baseMaps[lyr].bringToBack();
 				}
 				ga('send', 'event', 'Basemap', 'Change', lyr);
 			}
@@ -404,14 +407,14 @@
 			}
 			
 			function clearDefaultSearchText() {
-				if (this.value === "Search for a facility") {
-					this.value = "";
+				if ($('#searchbox').value === "Search for a facility") {
+					$('#searchbox').value = "";
 				}
 			}
 	
 			function replaceDefaultSearchText() {
-				if (this.value === "") {
-					this.value = "Search for a facility";
+				if ($('#searchbox').value === "") {
+					$('#searchbox').value = "Search for a facility";
 				}
 			}
 	
@@ -438,7 +441,7 @@
 					ga('send', 'event', 'Search', 'Query', $('#searchbox').val());
 					
 					
-				};
+				}
 			}
 			
 			function doSearch(term, start) {
@@ -665,9 +668,9 @@
 					} else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count === 1) {
 						html += 'There is only 1 facility of this type in the country.';
 					} else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count > 1) {
-						html += 'There is only 1 facility of this type in ' + stateLookup[facility_record['State']] + '. There are ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].us_count + ' percent of facilities of this type in the country.  The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent of facilities of this type in the country.';
+						html += 'There is only 1 facility of this type in ' + stateLookup[facility_record.State] + '. There are ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].us_count + ' percent of facilities of this type in the country.  The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent of facilities of this type in the country.';
 					} else {
-						html += 'There are ' + facility_record['NAICS' + i][windowYear].state_count + ' facilities of this type in ' + stateLookup[facility_record['State']] + ' and ' +  facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].state_pounds_pct + ' percent of facilities of this type in ' + stateLookup[facility_record['State']] + ' and ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent in the country. The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than  ' + facility_record['NAICS' + i][windowYear].state_score_pct + ' percent of facilities of this type in ' + stateLookup[facility_record['State']] + ' and ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent in the country.';
+						html += 'There are ' + facility_record['NAICS' + i][windowYear].state_count + ' facilities of this type in ' + stateLookup[facility_record.State] + ' and ' +  facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].state_pounds_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent in the country. The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than  ' + facility_record['NAICS' + i][windowYear].state_score_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent in the country.';
 					}
 	
 					div.innerHTML = html;
@@ -855,17 +858,17 @@
 		$(".twitter").on("click", function(){
 			window.open("http://www.twitter.com/share?url=http%3A%2F%2Ftoxictrends.org&amp;text=Check%20out%20the%20Toxic%20Trends%20Mapper%20where%20you%20can%20view%20the%20emissions%20of%20facilities%20in%20your%20neighborhood",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=250,width=585');
 			ga('send', 'social', 'twitter', 'share', 'socialTarget', {'page': '/' });
-		})
+		});
 		
 		$(".facebook").on("click", function(){
 			window.open("http://facebook.com/sharer.php?t=Toxic%20Trends%20Mapper%26amp%3Bu%3Dhttp%3A%2F%2Ftoxictrends.org",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=585');
 			ga('send', 'social', 'facebook', 'share', 'socialTarget', {'page': '/'});
-		})
+		});
 		
 		$(".googleplus").on("click", function(){
 			window.open("https://plus.google.com/share?url=http%3A%2F%2Ftoxictrends.org",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=475,width=420');
 			ga('send', 'social', 'google+', 'share', 'socialTarget', {'page': '/'});
-		})
+		});
 		
 		//Change basemap menu on small screens
 		$(window).resize(function(){
@@ -880,11 +883,11 @@
 					$('.autoattribution > p:nth-child(1)').show();
 				}
 			}*/
-		})
+		});
 		
 		$("#basemap-icon").on("click", function(){
 			$("#basemap-menu").show();
-		})
+		});
 		
 		// end document.ready function
 	});
