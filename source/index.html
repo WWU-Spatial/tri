@@ -35,14 +35,7 @@
 		</style>
 	<![endif]-->
 	
-	<!--[if lt IE 9]>
-		<script type="text/javascript" src="assets/js/es5-shim.min.js"></script>
-		<script type="text/javascript" src="assets/js/respond.min.js"></script>
-	<![endif]-->
-	
-	<!--[if lt IE 10]>
-		<script type="text/javascript" src="assets/js/xdr.js"></script>
-	<![endif]-->
+
 	
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	<!-- All JS will get compiled into one file at production time -->
@@ -57,6 +50,15 @@
 	<script src="assets/js/jquery.fancybox-buttons.js?v=1.0.5"></script>
 	<script src="assets/js/jquery.fancybox-media.js?v=1.0.5"></script>
 	<script src="assets/js/map.js"></script>
+	
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="assets/js/es5-shim.min.js"></script>
+		<script type="text/javascript" src="assets/js/respond.min.js"></script>
+	<![endif]-->
+	
+	<!--[if lt IE 10]>
+		<script type="text/javascript" src="assets/js/xdr.js"></script>
+	<![endif]-->
 	
 </head>
 
@@ -131,9 +133,10 @@
 	</div>
 	
 	<!-- controls -->
-	<a class="fancybox transition-slow" href="#about">ABOUT</a>
+	<a class="fancybox transition-slow" href="#about"><span id="about-label">ABOUT</span><span id="about-question">?</span></a>
 	
 	<!-- Basemap Menu -->
+	<div id="basemap-icon"></div>>
 	<div id="basemap-menu">
 		<div id="toner-thumb" class="base-thumb dropshadow colorshift transition-slow">simple</div>
 		<div id="streets-thumb" class="base-thumb dropshadow colorshift transition-slow">streets</div>

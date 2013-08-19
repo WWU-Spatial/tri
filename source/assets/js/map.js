@@ -315,12 +315,22 @@
 			//change basemap
 			$('#toner-thumb').bind('click', function() {
 				changeBasemap('Toner');
+				if ($(window).width() <= 430){
+					$("#basemap-menu").hide();
+				};
+				
 			});
 			$('#streets-thumb').bind('click', function() {
 				changeBasemap('Streets');
+				if ($(window).width() <= 430){
+					$("#basemap-menu").hide();
+				};
 			});
 			$('#satellite-thumb').bind('click', function() {
 				changeBasemap('Satellite');
+				if ($(window).width() <= 430){
+					$("#basemap-menu").hide();
+				};
 			});
 	
 			function changeBasemap(lyr) {
@@ -338,10 +348,10 @@
 			// add handlers for  attribution
 			// Show attribution be default if screen width larger than 1024
 			if($(window).width() >= 1024) {
-				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans hidetoggle'><p style='display:none'>basemap info</p><p>hide</p></div>");
+				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution transition-slow hidetoggle'><p style='display:none'>Basemap credits</p><p>hide</p></div>");
 				$('.leaflet-control-attribution').show();
 			} else {
-				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution trans'><p>basemap info</p><p style='display:none'>hide</p></div>");
+				$('div.leaflet-bottom.leaflet-right').prepend("<div class='autoattribution transition-slow'><p>Basemap credits</p><p style='display:none'>hide</p></div>");
 				$('.leaflet-control-attribution').hide(); //For some reason shows up by default in ie8.  Temporary fix
 			}
 			
@@ -855,6 +865,25 @@
 		$(".googleplus").on("click", function(){
 			window.open("https://plus.google.com/share?url=http%3A%2F%2Ftoxictrends.org",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=475,width=420');
 			ga('send', 'social', 'google+', 'share', 'socialTarget', {'page': '/'});
+		})
+		
+		//Change basemap menu on small screens
+		$(window).resize(function(){
+			document.getElementById("basemap-menu").removeAttribute("style");
+			/*if (window.innerWidth <= 1024) {
+				//Not quite ready to implement this.  Will hide credits if screen resized.
+				if ($('.autoattribution').hasClass("hidetoggle")) {
+					//If attribution is showing
+					$('.autoattribution').removeClass("hidetoggle");
+					$('.leaflet-control-attribution').hide("slow");
+					$('.autoattribution > p:nth-child(2)').hide();
+					$('.autoattribution > p:nth-child(1)').show();
+				}
+			}*/
+		})
+		
+		$("#basemap-icon").on("click", function(){
+			$("#basemap-menu").show();
 		})
 		
 		// end document.ready function

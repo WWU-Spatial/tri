@@ -50,9 +50,12 @@ h3 { /*About Header*/
 /*************************** GENERAL CLASSES ***************************/
 
 .dropshadow {
+	
 	-moz-box-shadow: 3px 3px 5px #000;
 	-webkit-box-shadow: 3px 5px 5px #000;
 	box-shadow: 3px 5px 5px #000;
+	behavior: url("assets/ie/PIE.htc");
+	
 }
 
 .noselect {
@@ -89,9 +92,7 @@ h3 { /*About Header*/
 .colorshift {
 	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
-	filter: gray; /* IE6-9 */
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE8 */
-	filter: alpha(opacity=70); /* IE6+ */
+	filter: gray alpha(opacity=70); /* IE6-9 */
 	opacity: .7;
 }
 
@@ -99,8 +100,6 @@ h3 { /*About Header*/
     -webkit-filter: grayscale(0);
     filter: none;
 	-webkit-backface-visibility: hidden; /* needed so the webkit won't flicker on the transition */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /* IE8 */
-	filter: alpha(opacity=100); /* IE6+ */
 	opacity: 1; /* other browsers  and IE9+ */
 }
 
@@ -110,6 +109,7 @@ h3 { /*About Header*/
 	position: absolute;
 	height: 100%;
 	width: 100%;
+	z-index: 0;
 }
 
 /*************************** TOP TOOLBAR ***************************/
@@ -125,6 +125,7 @@ h3 { /*About Header*/
 	opacity: 0.90; 
 	-webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
 	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
+	behavior: url("assets/ie/PIE.htc");
 }
 
 @media only screen and (max-width: 925px) {
@@ -175,14 +176,12 @@ h3 { /*About Header*/
 	}
 }
 
-@media only screen and (max-width: 425px) {
-	#ecos-logo {
-		top: 92px;
-		padding-left: 8px;
-	}
-}
 
 @media only screen and (max-width: 430px) {
+	#ecos-logo {
+		display: none;
+	}
+	
 	#title {
 		font-size: 1.6em;
 		line-height: 1.6em
@@ -440,9 +439,9 @@ h3 { /*About Header*/
 	top: 74px;
 	left: 51px;
 	width: 80px;
-	background:transparent; /*ie fix */
-	filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696)";
+	background-color: rgb(150,150,150) transparent;
 	background-color: rgba(150,150,150,0.8);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696);
 	text-decoration: none;
 	font-weight: 700;
 	color: #000;
@@ -451,18 +450,22 @@ h3 { /*About Header*/
 	line-height: 35px;
 }
 
+.fancybox #about-question {
+		display: none;
+	}
+
 .fancybox:active, .fancybox:hover {
 	color: #fff;
 	border-color: #fff;
 	cursor: pointer;
-	filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000)";
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
 	background-color: rgba(0,0,0,.8);
 }
 
 @media only screen and (max-width: 925px) {
 
 	.fancybox {
-		top: 92px;
+		top: 95px;
 		width: 66px;
 		margin: 10px 15px 10px 0;
 		font-size: 1.4em;
@@ -470,12 +473,23 @@ h3 { /*About Header*/
 	}
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
 
 	.fancybox {
-		top: 140px;
-		left: 0px;
-		font-size: 1.2em;
+		left: 32px;
+		height: 30px;
+		width: 30px;
+		margin: 0;
+		border-radius: 15px;
+		behavior: url("assets/ie/PIE.htc");
+	}
+	
+	.fancybox #about-label {
+		display: none;
+	}
+	
+	.fancybox #about-question {
+		display: inline;
 	}
 }
 
@@ -535,15 +549,21 @@ h3 { /*About Header*/
 	
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
 
 	.leaflet-control-zoom {
-		top: 170px;
+		top: 85px;
+		left: 2px;
+		margin: 0 !important;
 	}
 	
 }
 
 /*************************** BASEMAP CONTROLS ***************************/
+
+#basemap-icon {
+	display: none;
+}
 
 #basemap-menu {
 	position: absolute;
@@ -602,6 +622,39 @@ h3 { /*About Header*/
 
 }
 
+@media only screen and (max-width: 430px) {
+
+	#basemap-icon {
+		position: absolute;
+		display: block;
+		right: 10px;
+		top: 95px;
+		width: 40px;
+		height: 26px;
+		background-image: url("../images/basemap-icon.png");
+		cursor: pointer;
+	}
+
+	#basemap-menu {
+		display: none;
+		right: 0px;
+		top: 0px;
+		width: 100%;
+		height: 100%;
+		background-color: #fff;
+	}
+	
+	.base-thumb {
+		
+		margin: 20px auto;
+		line-height: 50px;
+		width: 85px;
+		font-size: 2em;
+	}
+
+	
+}
+
 /*************************** BASEMAP ATTRIBUTION ***************************/
 
 .autoattribution {
@@ -625,7 +678,8 @@ h3 { /*About Header*/
 	color: rgb(255,255,255);
 }
 
-@media only screen and (max-width: 425px) {
+/*
+@media only screen and (max-width: 430px) {
 
 	.autoattribution {
 		width: 50px;
@@ -636,7 +690,7 @@ h3 { /*About Header*/
 		margin: 2px;
 		padding: 0;
 	}
-}
+}*/
 
 /*************************** FACILITY MOUSE OVER ***************************/
 
@@ -720,6 +774,7 @@ h3 { /*About Header*/
 	background-color: rgb(109, 109, 109);
 	color: #fff;
 	font-size: 14px;
+	behavior: url("assets/ie/PIE.htc");
 }
 
 #popup-close:hover, #popup-close:active, .zoom-to:hover, .zoom-to:active {
@@ -757,7 +812,7 @@ h3 { /*About Header*/
 
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
 
 	#facility-tabs {
 		top: 0px;
@@ -873,6 +928,13 @@ h3 { /*About Header*/
 	background: url('../images/logos/wwu_sm.png');
 	width: 72px;
 	height: 36px;
+}
+
+@media only screen and (max-width: 430px) {
+
+	#wwu_logo {
+		display: none;
+	}
 }
 
 /*************************** SOCIAL MEDIA ***************************/
