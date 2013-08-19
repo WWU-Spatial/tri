@@ -90,7 +90,7 @@ h3 { /*About Header*/
 
 /* b+w effects */
 .colorshift {
-	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+	filter: url("data:image/svg+xml;utf8,<svg%20xmlns=\'http://www.w3.org/2000/svg\'><filter%20id=\'grayscale\'><feColorMatrix%20type=\'matrix\'%20values=\'0.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200%200%200%201%200\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
 	filter: gray alpha(opacity=70); /* IE6-9 */
 	opacity: .7;
