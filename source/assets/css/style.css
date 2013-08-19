@@ -377,7 +377,7 @@ h3 { /*About Header*/
 	border-bottom-right-radius: 5px 5px;
 }
 
-#searchbtn:hover {
+#searchbutton:hover {
 	text-decoration: none;
 	background: #A8A8A8;
 	background: -webkit-gradient(linear, left top, left bottom, from(#A8A8A8), to(#909090));
@@ -439,6 +439,7 @@ h3 { /*About Header*/
 	overflow: auto;
 	width: inherit;
 	font-family: "times new roman";
+	font-size: 1.6em;
 }
 
 .searchresult {
@@ -446,7 +447,6 @@ h3 { /*About Header*/
 	border: 1px solid #eee;
 	padding: 5px;
 	cursor: pointer;
-	font-size: 1.6em;
 }
 
 .searchresult:hover {
