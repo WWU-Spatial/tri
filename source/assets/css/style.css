@@ -1,10 +1,56 @@
-/*
- * Orange (text): rgb(245,140,91) | #F58C5B;
- * Dark Gray (background) rgb(2,2,2) | 
- * gray (text) #777
- * gray (border) #888
- * Gray (text): rgb(68,68,68) | #444444
+/*************************** COLORS *************************** 
+ * rgb(68,68,68)
+ * rgb(0,0,0)
+ * rgb(150,150,150) 
+ * rgb(55,55,55)
+ * rgb(255,255,255)
+ * rgb(109, 109, 109)
+ * rgb(0, 224, 255)
+ * rgb(210, 210, 210)
+ * rgb(26, 26, 26)
+ * #F58C5B
+ * #000
+ * #fff
+ * #777
+ * #888
+ * #ccc
+ * #aaa
+ * #A8A8A8
+ * #909090
+ * #eee
+ * #F8F8F8
+ * #4292CD
+ * #969696
+ * #bbb
+ * #F27D24
  */
+
+/*************************** TABLE OF CONTENTS ***************************
+ * GENERAL STYLES
+ * GENERAL CLASSES
+ * MAP ELEMENTS
+ * TOP TOOLBAR
+ * HEADER
+ * MAP YEAR TOGGLE
+ * SEARCH BOX
+ * SEARCH RESULTS
+ * ABOUT LINK
+ * ABOUT PAGE
+ * MAP CONTROLS
+ * BASEMAP CONTROLS
+ * BASEMAP ATTRIBUTION
+ * FACILITY MOUSE OVER
+ * HIGHLIGHT FACILITY
+ * FACILITY POPUP
+ * GENERAL TAB
+ * CHEMICAL & INDUSTRY TAB
+ * CHEMICAL TAB
+ * WWU LOGO
+ * SOCIAL MEDIA
+ * LOADING PAGE ICON
+ */
+
+
 
 /*************************** GENERAL STYLES ***************************/
 
@@ -333,7 +379,7 @@ h3 { /*About Header*/
 
 #searchbtn:hover {
 	text-decoration: none;
-	background: #A8A8A8 ;
+	background: #A8A8A8;
 	background: -webkit-gradient(linear, left top, left bottom, from(#A8A8A8), to(#909090));
 	background: -moz-linear-gradient(top, #A8A8A8, #909090 );
 }
@@ -432,6 +478,7 @@ h3 { /*About Header*/
 	}
 
 }
+
 /*************************** ABOUT LINK ***************************/
 
 .fancybox {
