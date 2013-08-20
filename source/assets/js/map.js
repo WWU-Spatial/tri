@@ -437,7 +437,7 @@
 					$("#search-results").empty();
 					doSearch($('#searchbox').val(), 0);
 					
-					$('#loading').fadeIn(500);
+					
 					ga('send', 'event', 'Search', 'Query', $('#searchbox').val());
 					
 					
@@ -447,6 +447,7 @@
 			function doSearch(term, start) {
 				var url = '//toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
 				var startTime = new Date().getTime();
+				$('#loading').fadeIn(500);
 				$.ajax({
 					url : url,
 					success : function(r) {
@@ -471,15 +472,13 @@
 							$("#search-results").html("<p>No results found for " + term + "<br/>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
 						}
 						$("#search-results-container").css('display') === 'none' ? $("#search-results-container").toggle() : null;
-						$('#loading').fadeOut(500);
-						
 					},
 					error : function(request) {
-						$('#loading').fadeOut(500);
 						ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
 					}
 				})
 				.done(function(){
+						$('#loading').fadeOut(500);
 						var totalTime = new Date().getTime()-startTime;
 						ga('send', 'timing', 'search', 'query', totalTime);
 					});
