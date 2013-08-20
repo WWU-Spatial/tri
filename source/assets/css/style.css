@@ -96,12 +96,10 @@ h3 { /*About Header*/
 /*************************** GENERAL CLASSES ***************************/
 
 .dropshadow {
-	
-	-moz-box-shadow: 3px 3px 5px #000;
 	-webkit-box-shadow: 3px 5px 5px #000;
+	-moz-box-shadow: 3px 3px 5px #000;
 	box-shadow: 3px 5px 5px #000;
-	behavior: url("assets/ie/PIE.htc");
-	
+	behavior: url('assets/ie/PIE.htc');
 }
 
 .noselect {
@@ -430,6 +428,7 @@ h3 { /*About Header*/
 	display: none;
 	border: 1px solid #888;
 	background: white;
+	z-index: 20;
 }
 
 #search-results {
@@ -459,7 +458,7 @@ h3 { /*About Header*/
 	top: 3px;
 	padding-right: 25px;
 	padding-top: 5px;
-	background: url(../images/closeBtnUp_Small.png) no-repeat top right;
+	background: url("../images/closeBtnUp_Small.png") no-repeat top right;
 	text-align: right;
 	font-size: 1.6em;
 	color: #4292CD;
@@ -488,7 +487,7 @@ h3 { /*About Header*/
 	width: 80px;
 	background-color: rgb(150,150,150) transparent;
 	background-color: rgba(150,150,150,0.8);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50969696,endColorstr=#50969696);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90969696,endColorstr=#90969696);
 	text-decoration: none;
 	font-weight: 700;
 	color: #000;
@@ -498,15 +497,15 @@ h3 { /*About Header*/
 }
 
 .fancybox #about-question {
-		display: none;
-	}
+	display: none;
+}
 
 .fancybox:active, .fancybox:hover {
 	color: #fff;
 	border-color: #fff;
 	cursor: pointer;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
-	background-color: rgba(0,0,0,.8);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90000000,endColorstr=#90000000);
+	background-color: rgba(0,0,0,0.8);
 }
 
 @media only screen and (max-width: 925px) {
@@ -527,8 +526,9 @@ h3 { /*About Header*/
 		height: 30px;
 		width: 30px;
 		margin: 0;
+		-webkit-border-radius: 15px;
+		-moz-border-radius: 15px;
 		border-radius: 15px;
-		behavior: url("assets/ie/PIE.htc");
 	}
 	
 	.fancybox #about-label {
@@ -599,7 +599,7 @@ h3 { /*About Header*/
 @media only screen and (max-width: 430px) {
 
 	.leaflet-control-zoom {
-		top: 85px;
+		top: 95px;
 		left: 2px;
 		margin: 0 !important;
 	}
@@ -617,6 +617,7 @@ h3 { /*About Header*/
 	display: block;
 	right: 10px;
 	top: 60px;
+	z-index: 10;
 }
 
 .base-thumb {
@@ -692,7 +693,6 @@ h3 { /*About Header*/
 	}
 	
 	.base-thumb {
-		
 		margin: 20px auto;
 		line-height: 50px;
 		width: 85px;
