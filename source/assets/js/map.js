@@ -345,6 +345,11 @@
 				}
 				map.addLayer(baseMaps[lyr]);
 				baseMaps[lyr].bringToBack();
+				if (lyr == "Satellite") {
+					$("#basemap-icon").css("background-position", "0px 26px");
+				} else {
+					$("#basemap-icon").css("background-position", "0px 0px");
+				}
 				ga('send', 'event', 'Basemap', 'Change', lyr);
 			}
 	
