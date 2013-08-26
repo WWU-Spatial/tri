@@ -4,7 +4,7 @@ set STARTDIR=%CD%
 
 cd %STARTDIR%\source\assets\css
 
-type style.css leaflet-0.5.1.css jquery-ui-1.10.3.core.css jquery-ui-1.10.3.widgets.css jquery-ui-1.10.3.tabs.css jquery.fancybox.css > %STARTDIR%/build/assets/css/map.css
+type leaflet-0.5.1.css jquery-ui-1.10.3.core.css jquery-ui-1.10.3.widgets.css jquery-ui-1.10.3.tabs.css jquery.fancybox.css style.css > %STARTDIR%/build/assets/css/map.css
 
 cd %STARTDIR%/bin
 
@@ -17,9 +17,7 @@ cd %STARTDIR%\source\assets\js
 cd %STARTDIR%
 
 xcopy %STARTDIR%\source\assets\images\*.* %STARTDIR%\build\assets\images\ /e /y
-xcopy %STARTDIR%\source\assets\css\ie.css %STARTDIR%\build\assets\css\ie.css /y
-xcopy %STARTDIR%\source\assets\css\ie7.css %STARTDIR%\build\assets\css\ie7.css /y
-xcopy %STARTDIR%\source\assets\css\ie8.css %STARTDIR%\build\assets\css\ie8.css /y
+xcopy %STARTDIR%\source\assets\ie\*.* %STARTDIR%\build\assets\ie /e /y
 xcopy %STARTDIR%\source\assets\css\leaflet-ie-0.5.1.css %STARTDIR%\build\assets\css\leaflet-ie-0.5.1.css /y
 xcopy %STARTDIR%\source\assets\js\es5-shim.min.js %STARTDIR%\build\assets\js\es5-shim.min.js /y
 
