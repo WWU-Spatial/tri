@@ -341,10 +341,10 @@
 						if (map.hasLayer(obj)) {
 							map.removeLayer(obj);
 						}
-						map.addLayer(baseMaps[lyr]);
-						baseMaps[lyr].bringToBack();
 					}
 				}
+				map.addLayer(baseMaps[lyr]);
+				baseMaps[lyr].bringToBack();
 				ga('send', 'event', 'Basemap', 'Change', lyr);
 			}
 	
