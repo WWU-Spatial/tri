@@ -340,6 +340,9 @@ h3 { /*About Header*/
 	left: 0;
 	width: 190px;
 	height: 30px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 5px;
 	padding-left: 30px;
 	border: 1px solid #888;
 	border-right: 1px solid #fff;
@@ -349,6 +352,8 @@ h3 { /*About Header*/
 	font-size: 1.9em;
 	line-height: 30px;
 	background: #fff url("../images/magnifyingGlass_Small.png") no-repeat 4px 6px;
+	-webkit-border-radius: 0;
+	border-radius: 0;
 }
 
 #search-button {
@@ -359,6 +364,7 @@ h3 { /*About Header*/
 	height: 34px;
 	line-height: 17px;
 	margin: 0;
+	padding: 1px 6px;
 	font-size: 2.2em;
 	font-weight: bold;
 	outline: none;
@@ -371,6 +377,8 @@ h3 { /*About Header*/
 	background: #ccc;
 	background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#aaa));
 	background: -moz-linear-gradient(top, #ccc, #aaa);
+	-webkit-border-radius: 0;
+	border-radius: 0;
 	border-top-right-radius: 5px 5px;
 	border-bottom-right-radius: 5px 5px;
 }
@@ -580,12 +588,37 @@ h3 { /*About Header*/
 
 .leaflet-control-zoom {
 	top: 61px;
+	border: 1px solid #888;
 	-o-transition: .7s;
 	-ms-transition: .7s;
 	-moz-transition: .7s;
 	-webkit-transition: .7s;
 	transition: .7s;
 }
+
+.leaflet-touch .leaflet-control-zoom {
+	border: 2px solid rgba(0,0,0,0.3);
+}
+
+.leaflet-touch .leaflet-control-zoom a {
+	width: 22px;
+	height: 22px;
+	font-size: 1.8em;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+/*.leaflet-touch {
+	-webkit-border-radius: none;
+	border-radius: none;
+}*/
+
+.leaflet-touch .leaflet-bar-part {
+	border-bottom-width: 2px;
+}
+
+
+
 
 @media only screen and (max-width: 925px) {
 
