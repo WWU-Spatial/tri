@@ -108,11 +108,16 @@
 		function init() {
 			var utfClick;
 	
-			$(".fancybox").fancybox({
-				fitToView : false,
-				width : '90%',
-				height : '90%',
-				autoSize : false
+			$("#about-button").on('click', function(){
+				$("#mask").show();
+				$("#about-container").fadeIn(250, 'linear');
+			});
+			
+			$("#about-close").on('click', function(){
+				$("#about-container").fadeOut(250, 'linear', function(){
+					$("#mask").hide();
+				});
+				
 			});
 	
 			$("#facility-tabs").tabs();

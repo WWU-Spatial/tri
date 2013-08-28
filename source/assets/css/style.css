@@ -488,7 +488,7 @@ h3 { /*About Header*/
 
 /*************************** ABOUT LINK ***************************/
 
-.fancybox {
+#about-button {
 	position: absolute;
 	top: 74px;
 	left: 51px;
@@ -504,11 +504,11 @@ h3 { /*About Header*/
 	line-height: 35px;
 }
 
-.fancybox #about-question {
+#about-button #about-question {
 	display: none;
 }
 
-.fancybox:active, .fancybox:hover {
+#about-button:active, #about-button:hover {
 	color: #fff;
 	border-color: #fff;
 	cursor: pointer;
@@ -518,7 +518,7 @@ h3 { /*About Header*/
 
 @media only screen and (max-width: 925px) {
 
-	.fancybox {
+	#about-button {
 		top: 95px;
 		width: 66px;
 		margin: 10px 15px 10px 0;
@@ -529,7 +529,7 @@ h3 { /*About Header*/
 
 @media only screen and (max-width: 430px) {
 
-	.fancybox {
+	#about-button {
 		left: 37px;
 		height: 30px;
 		width: 30px;
@@ -539,23 +539,61 @@ h3 { /*About Header*/
 		border-radius: 15px;
 	}
 	
-	.fancybox #about-label {
+	#about-button #about-label {
 		display: none;
 	}
 	
-	.fancybox #about-question {
+	#about-button #about-question {
 		display: inline;
 	}
 }
 
 /*************************** ABOUT PAGE ***************************/
 
-#about {
-	margin: 0 auto;
-	width: 90%;
+#mask {
+	position: fixed;
+	display: block;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	overflow: hidden;
+	background-color: rgb(0, 0, 0);
+	filter: alpha(opacity=65);
+	-moz-opacity: 0.65;
+	opacity: 0.65;
+	z-index: 20
 }
 
-#about > p {
+#about-container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+#about {
+	position: absolute;
+	display: block;
+	left: 7%;
+	right: 7%;
+	top: 7%;
+	bottom: 7%;
+	background-color: #fff;
+	z-index: 30;
+	border-radius: 3px;
+}
+
+#about-inner {
+	position: absolute;
+	overflow-y: auto;
+	left: 2%;
+	top: 2%;
+	right: 2%;
+	bottom: 2%;
+	padding: 0px 15px;
+}
+
+#about-inner > p {
 	line-height: 1.4em;
 	font-size: 1.6em;
 }
@@ -583,6 +621,40 @@ h3 { /*About Header*/
 	margin-right: 10%;
 	line-height: 60px;
 }
+
+#about-close {
+	position: absolute;
+	top: -18px;
+	right: -18px;
+	width: 36px;
+	height: 36px;
+	cursor: pointer;
+	z-index: 35;
+	background-image: url('../images/fancybox_sprite.png');
+}
+
+@media only screen and (max-width: 925px) {
+
+	#about {
+		left: 5%;
+		right: 5%;
+		top: 5%;
+		bottom: 5%;
+	}
+	
+}
+
+@media only screen and (max-width: 430px) {
+
+	#about {
+		left: 3%;
+		right: 3%;
+		top: 3%;
+		bottom: 3%;
+	}
+	
+}
+
 
 /*************************** MAP CONTROLS ***************************/
 
