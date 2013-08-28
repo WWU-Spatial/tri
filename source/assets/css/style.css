@@ -180,10 +180,19 @@ h3 { /*About Header*/
 
 /*************************** HEADER ***************************/
 
-#ecos-logo {
+#ecos-logo-small {
 	position: absolute;
 	left: 5px;
 	top: 2px;
+}
+
+#ecos-logo-large {
+	position: absolute;
+	left: 5px;
+	top: 6px;
+	display: none;
+	padding: 4px;
+	background-color: #fff;
 }
 
 #title {
@@ -201,6 +210,14 @@ h3 { /*About Header*/
 }
 
 @media only screen and (max-width: 925px) {
+	#ecos-logo-small {
+		display: none;
+	}
+	
+	#ecos-logo-large {
+		display: block
+	}
+	
 	#title {
 		top: 10px;
 		left: 0;
@@ -222,7 +239,7 @@ h3 { /*About Header*/
 
 
 @media only screen and (max-width: 430px) {
-	#ecos-logo {
+	#ecos-logo-large {
 		display: none;
 	}
 	
