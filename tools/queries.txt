@@ -1,0 +1,8 @@
+
+
+#Get facility submission totals
+SELECT SubmissionYear, CASStandard, ChemicalNumber, SortName as Chemical, sum(SumOfPoundsPT) AS Pounds, sum(sumOfScore) AS Score FROM ResultsByFacilityYearMediaAndChemical WHERE facilityid = "54552FLMBP200NO" AND Media <= 2 GROUP BY CASStandard ORDER BY SubmissionYear;
+
+SELECT FacilityNumber, FacilityID, SubmissionYear, CASStandard, ChemicalNumber, SortName as Chemical, sum(SumOfPoundsPT) AS Pounds, sum(sumOfScore) AS Score FROM ResultsByFacilityYearMediaAndChemical WHERE Media <= 2 GROUP BY CASStandard, FacilityID ORDER BY SubmissionYear;
+
+SELECT FacilityNumber, FacilityID, SubmissionYear, CASStandard, ChemicalNumber, SortName as Chemical, sum(SumOfPoundsPT) AS Pounds, sum(sumOfScore) AS Score FROM ResultsByFacilityYearMediaAndChemical WHERE Media <= 2 AND FacilityID =  "00603HWLTTSTATE" GROUP BY CASStandard, FacilityID ORDER BY SubmissionYear;
