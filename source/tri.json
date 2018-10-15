@@ -1,0 +1,1577 @@
+[
+    /* Risk 0-10 */
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p0",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p1",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p2",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p3",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p4",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p5",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p6",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",0],
+                ["<=","2014TotScr",10]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s0p7",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(45, 100%, 79%)"],
+                    [22,"hsl(45, 100%, 79%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    /* Risk 100-1000 */
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p0",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p1",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p2",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p3",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p4",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p5",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p6",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s1p7",
+        "paint": {
+            "circle-color": {
+                "base": 1,
+                "stops": [
+                    [0,"hsl(40, 100%, 66%)"],
+                    [22,"hsl(40, 100%, 66%)"]
+                ]
+            },
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    /* 1,000 - 10,000 */
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p0",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p1",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p2",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p3",
+        "paint": {
+        	"circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p4",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p5",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p6",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s2p7",
+        "paint": {
+            "circle-color": "hsl(26, 86%, 50%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    /* 10,000 - 100,000 */
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p0",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p1",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p2",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p3",
+        "paint": {
+        	"circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p4",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p5",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p6",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s3p7",
+        "paint": {
+            "circle-color": "hsl(22, 98%, 40%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    /* 100,000 - 1,000,000 */
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p0",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p1",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p2",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p3",
+        "paint": {
+        	"circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p4",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p5",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p6",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s4p7",
+        "paint": {
+            "circle-color": "hsl(19, 94%, 31%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    /* > 1,000,000 */
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",0],
+            	["<=","2014TotLbs",10],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p0",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2],
+                    [16,7]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10],
+            	["<=","2014TotLbs",100],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p1",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.2],
+                    [16,15.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p2",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,2.5],
+                    [16,17.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100],
+            	["<=","2014TotLbs",1000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p3",
+        "paint": {
+        	"circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3],
+                    [16,21]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000],
+            	["<=","2014TotLbs",10000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p4",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,3.8],
+                    [16,26.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",10000],
+            	["<=","2014TotLbs",100000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p5",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,5],
+                    [16,35]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",100000],
+            	["<=","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p6",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+
+    {
+        "interactive": true,
+        "layout": {"visibility": "visible"},
+        "filter": [
+            "all",
+            ["==","$type","Point"],
+            ["all",
+            	[">","2014TotLbs",1000000],
+                [">","2014TotScr",10],
+                ["<=","2014TotScr",100]
+            ]
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities s5p7",
+        "paint": {
+            "circle-color": "hsl(19, 89%, 21%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [0,1],
+                    [6,6.5],
+                    [16,45.5]
+                ]
+            }
+        },
+        "source-layer": "facilities"
+    },
+    {
+        "layout": {
+            "visibility": "visible"
+        },
+        "filter": [
+            "==",
+            "2014TotScr",
+            0
+        ],
+        "type": "circle",
+        "source": "mapbox://lesserj.48o9dsel",
+        "id": "facilities 0",
+        "paint": {
+            "circle-color": "hsl(0, 0%, 46%)",
+            "circle-radius": {
+                "base": 1,
+                "stops": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        16,
+                        5
+                    ]
+                ]
+            }
+        },
+        "source-layer": "facilities",
+        "interactive": true
+    }
+]

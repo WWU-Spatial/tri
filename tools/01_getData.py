@@ -1,19 +1,22 @@
+#Must run using 64 bit python since we deal with some large doubles
+
 import os
 import re
 import sqlite3
 import pypyodbc #Needs to be installed separately
 
-OUTPUT_SQLITE_DB = r"C:\Users\Jacob\Downloads\easyrsei_v234_64bit\tri.sqlite"
+OUTPUT_SQLITE_DB = r"tri.sqlite"
 
-INPUT_DATABASE_2 = r"C:\Users\Jacob\Downloads\easyrsei_v234_64bit\Data_2_V234.accdb"
-INPUT_DATABASE_3 = r"C:\Users\Jacob\Downloads\easyrsei_v234_64bit\Data_3_V234.accdb"
+INPUT_DATABASE_2 = r"C:\Users\Jacob\AppData\Roaming\EasyRSEI\Data_2_V234.accdb"
+INPUT_DATABASE_3 = r"C:\Users\Jacob\AppData\Roaming\EasyRSEI\Data_3_V234.accdb"
+INPUT_DATABASE_4 = r"C:\Users\Jacob\AppData\Roaming\EasyRSEI\Data_4_V234.accdb"
 
 # Create SQLITE Database
 conn = sqlite3.connect(OUTPUT_SQLITE_DB)
 #conn.text_factory = str
 cursor = conn.cursor()
 
-for db in [INPUT_DATABASE_2, INPUT_DATABASE_3]:
+for db in [INPUT_DATABASE_2, INPUT_DATABASE_3, INPUT_DATABASE_4]:
 	db_conn = pypyodbc.connect(r"Driver={Microsoft Access Driver (*.mdb, *.accdb)};Dbq=" + db)
 	db_cur = db_conn.cursor()
 	tables = []
@@ -24,7 +27,6 @@ for db in [INPUT_DATABASE_2, INPUT_DATABASE_3]:
 
 	# Get DATABASE_2 Tables
 	for table in tables:
-		#print table
 		
 		columns = []
 		for column in db_cur.columns(table=table):
@@ -32,13 +34,12 @@ for db in [INPUT_DATABASE_2, INPUT_DATABASE_3]:
 			col_name = re.sub('[^a-zA-Z0-9]', '_', column[3])
 			columns.append('{} {}({})'.format(col_name, column[5], column[6]))
 		cols = ', '.join(columns)
-		
+
 		# Drop table if it exists in sqlite database then create new
 		conn.execute('DROP TABLE IF EXISTS "{}"'.format(table))
 		conn.execute('CREATE TABLE "{}" ({})'.format(table, cols))
 		
 		db_cur.execute('SELECT * FROM "{}"'.format(table))
-		
 		for row in db_cur:
 			values = []
 			for value in row:

@@ -9,7 +9,7 @@ import json
 
 import ogr
 
-outputName = "facilities.shp"
+outputName = "facilities/facilities.shp"
 ogr.UseExceptions()
 driver = ogr.GetDriverByName("ESRI Shapefile")
 if os.path.exists(outputName):
@@ -26,7 +26,7 @@ outLayer.CreateField(nameField)
 for k in range(1988, 2015):
     d = ogr.FieldDefn("{0}TotLbs".format(str(k)), ogr.OFTInteger)
     e = ogr.FieldDefn("{0}TotScr".format(str(k)), ogr.OFTReal)
-    e.SetPrecision(4)
+    e.SetPrecision(10)
     outLayer.CreateField(d)
     outLayer.CreateField(e)
     #print k
@@ -38,7 +38,7 @@ featureDefn = outLayer.GetLayerDefn()
 
 
 
-folder = "C:/Users/Derek/Documents/Github/tri/data/facilities"
+folder = "json"
 for i in os.listdir(folder):
     #print (i)
     path = "{0}/{1}".format(folder, i)
@@ -46,17 +46,17 @@ for i in os.listdir(folder):
     with open(path) as file:
         a = json.load(file)
 
-        long = a['Longitude']
+        lng = a['Longitude']
         lat = a['Latitude']
         ID = a['FacilityID']
         name = a['FacilityName']
-        
+
         point = ogr.Geometry(ogr.wkbPoint)
-        point.AddPoint(long, lat)
+        point.AddPoint(lng, lat)
         outFeature = ogr.Feature(featureDefn)
         outFeature.SetGeometry(point)
-        outFeature.SetField("ID", ID)
-        outFeature.SetField("Name", name)
+        outFeature.SetField("ID", str(ID))
+        outFeature.SetField("Name", str(name))
         
         for j in range(1988, 2015):
             try:
@@ -65,7 +65,10 @@ for i in os.listdir(folder):
             except Exception as e:
                 continue
             try:
-                outFeature.SetField("{0}TotScr".format(str(j)), a['Emissions']["{0}".format(j)]['TotalScore'])
+                if (a['Emissions']["{0}".format(j)]['TotalScore'] > 10):
+                    outFeature.SetField("{0}TotScr".format(str(j)), round(a['Emissions']["{0}".format(j)]['TotalScore']))
+                else: 
+                    outFeature.SetField("{0}TotScr".format(str(j)), a['Emissions']["{0}".format(j)]['TotalScore'])
             except Exception as e:
                 continue
         outLayer.CreateFeature(outFeature)
