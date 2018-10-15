@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MERIDEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "154133672",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43139.355475,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1308206873907",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.012577,
+                    "SubmissionNumber": 808780,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.012577,
+            "state_score_percentile": 20,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1309207584727",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.012607,
+                    "SubmissionNumber": 871105,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.012607,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1310208864710",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.012638,
+                    "SubmissionNumber": 986532,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.012638,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316248",
+    "FacilityID": "06451NTDLR136GR",
+    "FacilityNumber": 113536,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.553554,
+    "Longitude": -72.793014,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 93,
+            "us_pounds_pct": 19,
+            "us_score_pct": 6
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 96,
+            "us_pounds_pct": 14,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 14,
+            "us_score_pct": 4
+        },
+        "naicscode": "562211",
+        "name": "Hazardous Waste Treatment and Disposal"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5622",
+    "NAICSCodeSame3Digit": "562",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UNITED OIL RECOVERY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "UNITED OIL RECOVERY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WILLIAM MORRIS",
+    "PublicContactPhone": "2032386745",
+    "RCRANumber": "CTD021816889",
+    "RadialDistance": 2980439,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 117,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 117,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 114,
+            "us_pounds_pct": 14,
+            "us_score_pct": 4
+        },
+        "name": "Refuse systems",
+        "siccode": "4953"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "495",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.3353,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "136 GRACEY AVE",
+    "SubmitLat": 41.55417,
+    "SubmitLong": 72.79167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2349,
+    "Y": 2833,
+    "ZIP9": "06451",
+    "ZIPCode": "06451"
+}

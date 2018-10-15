@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 6250084,
+    "AssignedReach": "02030103000789",
+    "City": "MORRIS PLAINS",
+    "County": "NJ,MORRIS",
+    "DUNS": "008297848",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28557.984825,
+    "DistanceToReach": 10.164915,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100151404",
+                    "MaxOnsite": "03",
+                    "Pounds": 414.0,
+                    "Score": 12.3725,
+                    "SubmissionNumber": 1761215,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 414.0,
+            "TotalScore": 12.3725,
+            "state_score_percentile": 21,
+            "us_score_percentile": 20
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120521935",
+                    "MaxOnsite": "03",
+                    "Pounds": 420.0,
+                    "Score": 12.766,
+                    "SubmissionNumber": 1940451,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 420.0,
+            "TotalScore": 12.766,
+            "state_score_percentile": 22,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110000320885",
+    "FacilityID": "07950RTRND200EA",
+    "FacilityNumber": 115044,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.816989,
+    "Longitude": -74.469099,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 54,
+            "us_score_pct": 27
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 22
+        },
+        "naicscode": "335129",
+        "name": "Other Lighting Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3351",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0025739",
+    "Name": "LITTON SYS. INC. AIRTRON DIV.",
+    "NearComID": 6250084,
+    "NearReach": "02030103000789",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "008297848",
+    "ParentName": "LITTON SYS INC",
+    "PreferredLat": 40.81639,
+    "PreferredLong": 74.47333,
+    "PublicContactName": "KURT FISCHER",
+    "PublicContactPhone": "9735395500",
+    "RCRANumber": "NJD030239412",
+    "RadialDistance": 2819420,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 99,
+            "us_pounds_pct": 23,
+            "us_score_pct": 45
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 29,
+            "us_score_pct": 38
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "200 E. HANOVER AVE.",
+    "SubmitLat": 40.81639,
+    "SubmitLong": 74.47333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2205,
+    "Y": 2693,
+    "ZIP9": "079502496",
+    "ZIPCode": "07950"
+}

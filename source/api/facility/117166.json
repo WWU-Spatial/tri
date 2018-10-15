@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "210576500",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13741.049524,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105312779",
+                    "MaxOnsite": "03",
+                    "Pounds": 24420.0,
+                    "Score": 119426.0,
+                    "SubmissionNumber": 1810825,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 24420.0,
+            "TotalScore": 119426.0,
+            "state_score_percentile": 77,
+            "us_score_percentile": 67
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398125042693",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.871559,
+                    "SubmissionNumber": 1969597,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.871559,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000327030",
+    "FacilityID": "14213KYSTN1095N",
+    "FacilityNumber": 117166,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.913168,
+    "Longitude": -78.899686,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 561,
+            "us_pounds_pct": 88,
+            "us_score_pct": 85
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 11,
+            "state_score_pct": 5,
+            "us_count": 522,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KEYSTONE CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.91639,
+    "PreferredLong": 78.90361,
+    "PublicContactName": "JOSEPH VENTURO",
+    "PublicContactPhone": "7168321232",
+    "RCRANumber": "NYD002105765",
+    "RadialDistance": 2715004,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 94,
+            "state_score_pct": 94,
+            "us_count": 575,
+            "us_pounds_pct": 87,
+            "us_score_pct": 85
+        },
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 15,
+            "state_score_pct": 15,
+            "us_count": 546,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.0,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "1095 NIAGARA ST.",
+    "SubmitLat": 42.91639,
+    "SubmitLong": 78.90361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1705,
+    "Y": 2886,
+    "ZIP9": "14213",
+    "ZIPCode": "14213"
+}

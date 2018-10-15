@@ -1,0 +1,256 @@
+{
+    "AssignedComID": 21972778,
+    "AssignedReach": "04140203000002",
+    "City": "FULTON",
+    "County": "NY,OSWEGO",
+    "DUNS": "926081712",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36308.485476,
+    "DistanceToReach": 133.885532,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105105795",
+                    "MaxOnsite": "03",
+                    "Pounds": 2150.0,
+                    "Score": 0.848573,
+                    "SubmissionNumber": 1797699,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2150.0,
+            "TotalScore": 0.848573,
+            "state_score_percentile": 42,
+            "us_score_percentile": 35
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115075069",
+                    "MaxOnsite": "03",
+                    "Pounds": 1550.0,
+                    "Score": 0.635325,
+                    "SubmissionNumber": 1880086,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1550.0,
+            "TotalScore": 0.635325,
+            "state_score_percentile": 41,
+            "us_score_percentile": 32
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1399135089023",
+                    "MaxOnsite": "03",
+                    "Pounds": 3050.0,
+                    "Score": 0.28321,
+                    "SubmissionNumber": 2063468,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3050.0,
+            "TotalScore": 0.28321,
+            "state_score_percentile": 48,
+            "us_score_percentile": 40
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208443960",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 0.252014,
+                    "SubmissionNumber": 946843,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 0.252014,
+            "state_score_percentile": 45,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "36075",
+    "FRSID": "110000582637",
+    "FacilityID": "13069RMSTRRR2BO",
+    "FacilityNumber": 116616,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.353111,
+    "Longitude": -76.427028,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 41,
+            "us_pounds_pct": 19,
+            "us_score_pct": 29
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 41,
+            "us_pounds_pct": 31,
+            "us_score_pct": 34
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 41,
+            "us_pounds_pct": 34,
+            "us_score_pct": 19
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 25,
+            "us_pounds_pct": 32,
+            "us_score_pct": 48
+        },
+        "naicscode": "339991",
+        "name": "Gasket, Packing, and Sealing Device Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 22,
+            "us_count": 152,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 143,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 147,
+            "us_pounds_pct": 9,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 120,
+            "us_pounds_pct": 13,
+            "us_score_pct": 11
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "INTERFACE SOLUTIONS INC",
+    "NearComID": 21972778,
+    "NearReach": "04140203000002",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUSQUEHANNA CAPITAL ACQUISITION CO",
+    "PreferredLat": 43.35278,
+    "PreferredLong": 76.4275,
+    "PublicContactName": "DUANE T GORDON",
+    "PublicContactPhone": "3155928105",
+    "RCRANumber": "NYD002243939",
+    "RadialDistance": 2887032,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 184,
+            "us_pounds_pct": 9,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 44,
+            "us_count": 174,
+            "us_pounds_pct": 5,
+            "us_score_pct": 8
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 173,
+            "us_pounds_pct": 7,
+            "us_score_pct": 2
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 144,
+            "us_pounds_pct": 11,
+            "us_score_pct": 10
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.1156,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.8496,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.2776,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "2885 STATE RT 481",
+    "SubmitLat": 43.35278,
+    "SubmitLong": 76.4275,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1936,
+    "Y": 2993,
+    "ZIP9": "13069",
+    "ZIPCode": "13069"
+}

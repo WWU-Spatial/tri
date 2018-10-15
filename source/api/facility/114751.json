@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PATERSON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "042909036",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24865.83391,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105252593",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 9.202210000000001,
+                    "SubmissionNumber": 1807135,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 9.202210000000001,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115033805",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 9.298,
+                    "SubmissionNumber": 1877598,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 9.298,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125031587",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 9.39377,
+                    "SubmissionNumber": 1969073,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 9.39377,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110000320073",
+    "FacilityID": "07502SPCTR200SH",
+    "FacilityNumber": 114751,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.923191,
+    "Longitude": -74.188339,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 55,
+            "us_count": 92,
+            "us_pounds_pct": 25,
+            "us_score_pct": 58
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 62,
+            "us_count": 84,
+            "us_pounds_pct": 29,
+            "us_score_pct": 71
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 62,
+            "us_count": 78,
+            "us_pounds_pct": 31,
+            "us_score_pct": 71
+        },
+        "naicscode": "325910",
+        "name": "Printing Ink Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SPECTRACHEM CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.9175,
+    "PreferredLong": 74.16806,
+    "PublicContactName": "MARTIN CROWN",
+    "PublicContactPhone": "9735958181",
+    "RCRANumber": "NJD042909036",
+    "RadialDistance": 2845274,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 62,
+            "us_count": 94,
+            "us_pounds_pct": 25,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 71,
+            "us_count": 84,
+            "us_pounds_pct": 29,
+            "us_score_pct": 73
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 71,
+            "us_count": 79,
+            "us_pounds_pct": 32,
+            "us_score_pct": 74
+        },
+        "name": "Printing ink",
+        "siccode": "2893"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "200 SHERIDAN AVE.",
+    "SubmitLat": 40.9175,
+    "SubmitLong": 74.16806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2230,
+    "Y": 2714,
+    "ZIP9": "07502",
+    "ZIPCode": "07502"
+}

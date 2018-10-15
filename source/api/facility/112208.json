@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST WARWICK",
+    "County": "RI,KENT",
+    "DUNS": "001189083",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 8538.818175,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1302201079163",
+                    "MaxOnsite": "03",
+                    "Pounds": 1838.0,
+                    "Score": 3776.36,
+                    "SubmissionNumber": 283574,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1838.0,
+            "TotalScore": 3776.36,
+            "state_score_percentile": 60,
+            "us_score_percentile": 45
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1303201734074",
+                    "MaxOnsite": "03",
+                    "Pounds": 1997.0,
+                    "Score": 4103.74,
+                    "SubmissionNumber": 349021,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201734377",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 2.48485,
+                    "SubmissionNumber": 349050,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1998.0,
+            "TotalScore": 4106.22485,
+            "state_score_percentile": 65,
+            "us_score_percentile": 46
+        }
+    },
+    "FIPS": "44003",
+    "FRSID": "110004902712",
+    "FacilityID": "02893MTCHM155MA",
+    "FacilityNumber": 112208,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.693611,
+    "Longitude": -71.521388,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 165,
+            "us_pounds_pct": 36,
+            "us_score_pct": 92
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 162,
+            "us_pounds_pct": 36,
+            "us_score_pct": 91
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "METACHEM RESINS CORP (MERECO)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "MERECO TECHNOLOGIES GROUP INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PHILIP M. PAPOOJIAN",
+    "PublicContactPhone": "4018229300",
+    "RCRANumber": "RID001189083",
+    "RadialDistance": 3075164,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 176,
+            "us_pounds_pct": 37,
+            "us_score_pct": 91
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 173,
+            "us_pounds_pct": 38,
+            "us_score_pct": 91
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "1505 MAIN ST",
+    "SubmitLat": 41.69361,
+    "SubmitLong": 71.52139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2470,
+    "Y": 2884,
+    "ZIP9": "02893",
+    "ZIPCode": "02893"
+}

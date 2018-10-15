@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "JUNCOS",
+    "County": "PR,JUNCOS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21931.916819,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1309207931522",
+                    "MaxOnsite": "05",
+                    "Pounds": 300.0,
+                    "Score": 1289.96,
+                    "SubmissionNumber": 902684,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 300.0,
+            "TotalScore": 1289.96,
+            "state_score_percentile": 38,
+            "us_score_percentile": 39
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1310208869774",
+                    "MaxOnsite": "05",
+                    "Pounds": 300.0,
+                    "Score": 1310.012,
+                    "SubmissionNumber": 986809,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 300.0,
+            "TotalScore": 1310.012,
+            "state_score_percentile": 39,
+            "us_score_percentile": 39
+        }
+    },
+    "FIPS": "72077",
+    "FRSID": "110000580924",
+    "FacilityID": "00777LSRPRRD185",
+    "FacilityNumber": 110429,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.25196,
+    "Longitude": -65.917179,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 25,
+            "us_score_pct": 48
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 25,
+            "us_score_pct": 51
+        },
+        "naicscode": "325181",
+        "name": "Alkalies and Chlorine Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LASER PRODUCT INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANGEL CRUZ",
+    "PublicContactPhone": "7876533714",
+    "RCRANumber": "PRN008022055",
+    "RadialDistance": 44926,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 38,
+            "us_score_pct": 53
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 40,
+            "us_score_pct": 59
+        },
+        "name": "Alkalies and chlorine",
+        "siccode": "2812"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "RD 185 KM 190",
+    "SubmitLat": 18.24889,
+    "SubmitLong": 65.92278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 43,
+    "Y": 34,
+    "ZIP9": "00777",
+    "ZIPCode": "00777"
+}

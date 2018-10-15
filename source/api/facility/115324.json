@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "VINELAND",
+    "County": "NJ,CUMBERLAND",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 45781.989949,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105320067",
+                    "MaxOnsite": "03",
+                    "Pounds": 14030.0,
+                    "Score": 18.489095000000002,
+                    "SubmissionNumber": 1811314,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14030.0,
+            "TotalScore": 18.489095000000002,
+            "state_score_percentile": 70,
+            "us_score_percentile": 57
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115178752",
+                    "MaxOnsite": "03",
+                    "Pounds": 17770.0,
+                    "Score": 23.454632,
+                    "SubmissionNumber": 1885529,
+                    "Use": ""
+                }
+            ],
+            "TotalPounds": 17770.0,
+            "TotalScore": 23.454632,
+            "state_score_percentile": 75,
+            "us_score_percentile": 62
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125127872",
+                    "MaxOnsite": "03",
+                    "Pounds": 12420.0,
+                    "Score": 16.485569,
+                    "SubmissionNumber": 1973619,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 12420.0,
+            "TotalScore": 16.485569,
+            "state_score_percentile": 69,
+            "us_score_percentile": 56
+        }
+    },
+    "FIPS": "34011",
+    "FRSID": "110000582174",
+    "FacilityID": "08360MDSTC1560N",
+    "FacilityNumber": 115324,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.509341,
+    "Longitude": -75.024418,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 27,
+            "us_score_pct": 62
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 46,
+            "us_score_pct": 67
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 26,
+            "us_score_pct": 41
+        },
+        "naicscode": "337127",
+        "name": "Institutional Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHARLES BESELER CO. LIBRARY BUREAU STEEL DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "061069407",
+    "ParentName": "CHARLES BESELER CO",
+    "PreferredLat": 39.50056,
+    "PreferredLong": 75.025,
+    "PublicContactName": "ANTHONY J. ELHAJJ",
+    "PublicContactPhone": "6096965700",
+    "RCRANumber": "NJD087102877",
+    "RadialDistance": 2693856,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 28,
+            "us_score_pct": 30
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 38,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 28,
+            "us_score_pct": 30
+        },
+        "name": "Office and store fixtures, partitions, shelving and lockers, except wood",
+        "siccode": "2542"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "254",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.8214,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.8392,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1560 N.W. BLVD.",
+    "SubmitLat": 39.50056,
+    "SubmitLong": 75.025,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2188,
+    "Y": 2504,
+    "ZIP9": "08360",
+    "ZIPCode": "08360"
+}

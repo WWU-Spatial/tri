@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST HAVEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "005127402",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 76769.353481,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1396100197363",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 32.7932,
+                    "SubmissionNumber": 1765237,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 32.7932,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1397110132281",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 32.9089,
+                    "SubmissionNumber": 1835683,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 32.9089,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125230680",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.05206,
+                    "SubmissionNumber": 1978015,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 6.05206,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130432899",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.07419,
+                    "SubmissionNumber": 2026932,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 6.07419,
+            "state_score_percentile": 22,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300145122634",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.09633,
+                    "SubmissionNumber": 82958,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 6.09633,
+            "state_score_percentile": 23,
+            "us_score_percentile": 19
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150353807",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.10768,
+                    "SubmissionNumber": 126062,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 6.10768,
+            "state_score_percentile": 34,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316827",
+    "FacilityID": "06512MTLLB281SI",
+    "FacilityNumber": 113724,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.257376,
+    "Longitude": -72.876,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 68,
+            "us_pounds_pct": 25,
+            "us_score_pct": 64
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 35,
+            "us_score_pct": 69
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 24,
+            "us_score_pct": 45
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 27,
+            "us_score_pct": 50
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 35,
+            "us_score_pct": 50
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 42,
+            "us_score_pct": 57
+        },
+        "naicscode": "324191",
+        "name": "Petroleum Lubricating Oil and Grease Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FUCHS LUBRICANTS CO. - EAST HAVEN DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005127402",
+    "ParentName": "FUCHS LUBRICANTS CO",
+    "PreferredLat": 41.25778,
+    "PreferredLong": 72.87722,
+    "PublicContactName": "E. KATHLEEN OWENS",
+    "PublicContactPhone": "7083338900",
+    "RCRANumber": "CTD001182054",
+    "RadialDistance": 2955323,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 27,
+            "us_score_pct": 64
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 82,
+            "us_pounds_pct": 35,
+            "us_score_pct": 65
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 83,
+            "us_pounds_pct": 23,
+            "us_score_pct": 45
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 23,
+            "us_score_pct": 50
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 30,
+            "us_score_pct": 47
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 35,
+            "us_score_pct": 51
+        },
+        "name": "Lubricating oils and greases",
+        "siccode": "2992"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "299",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1382,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "281 SILVER SANDS RD",
+    "SubmitLat": 41.25889,
+    "SubmitLong": 72.875,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2350,
+    "Y": 2791,
+    "ZIP9": "06512",
+    "ZIPCode": "06512"
+}

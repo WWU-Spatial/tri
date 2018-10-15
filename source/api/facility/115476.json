@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EDISON",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "101685881",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26347.731815,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115020190",
+                    "MaxOnsite": "03",
+                    "Pounds": 7581.0,
+                    "Score": 1.089473,
+                    "SubmissionNumber": 1876723,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7581.0,
+            "TotalScore": 1.089473,
+            "state_score_percentile": 61,
+            "us_score_percentile": 47
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125304877",
+                    "MaxOnsite": "03",
+                    "Pounds": 5736.0,
+                    "Score": 0.8722570000000001,
+                    "SubmissionNumber": 1981479,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5736.0,
+            "TotalScore": 0.8722570000000001,
+            "state_score_percentile": 58,
+            "us_score_percentile": 45
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399130255793",
+                    "MaxOnsite": "03",
+                    "Pounds": 8686.0,
+                    "Score": 1.340389,
+                    "SubmissionNumber": 2011949,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399130255805",
+                    "MaxOnsite": "03",
+                    "Pounds": 4982.0,
+                    "Score": 1.2258580000000001,
+                    "SubmissionNumber": 2011950,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130255817",
+                    "MaxOnsite": "02",
+                    "Pounds": 2176.0,
+                    "Score": 0.32676099999999997,
+                    "SubmissionNumber": 2011951,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15844.0,
+            "TotalScore": 2.893008,
+            "state_score_percentile": 72,
+            "us_score_percentile": 62
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300145069441",
+                    "MaxOnsite": "",
+                    "Pounds": 7428.0,
+                    "Score": 1.077164,
+                    "SubmissionNumber": 80131,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1300145069617",
+                    "MaxOnsite": "",
+                    "Pounds": 4157.0,
+                    "Score": 1.050138,
+                    "SubmissionNumber": 80142,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11585.0,
+            "TotalScore": 2.1273020000000002,
+            "state_score_percentile": 73,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110040905456",
+    "FacilityID": "08817QLTYW8SUTT",
+    "FacilityNumber": 115476,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.54446,
+    "Longitude": -74.402786,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 44,
+            "us_count": 83,
+            "us_pounds_pct": 18,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 44,
+            "us_count": 79,
+            "us_pounds_pct": 20,
+            "us_score_pct": 37
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 55,
+            "us_count": 72,
+            "us_pounds_pct": 43,
+            "us_score_pct": 52
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 55,
+            "us_count": 72,
+            "us_pounds_pct": 41,
+            "us_score_pct": 51
+        },
+        "naicscode": "323111",
+        "name": "Commercial Gravure Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "QUALITY WALLCOVERING INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.54306,
+    "PreferredLong": 74.40444,
+    "PublicContactName": "GARY MITCHELL",
+    "PublicContactPhone": "7329853349",
+    "RCRANumber": "NJD101685881",
+    "RadialDistance": 2805290,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 90,
+            "us_pounds_pct": 17,
+            "us_score_pct": 35
+        },
+        "1998": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 83,
+            "us_pounds_pct": 19,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 77,
+            "us_pounds_pct": 40,
+            "us_score_pct": 50
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 60,
+            "us_count": 76,
+            "us_pounds_pct": 39,
+            "us_score_pct": 47
+        },
+        "name": "Commercial printing, gravure",
+        "siccode": "2754"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.144,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.9974,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "8 SUTTON PL.",
+    "SubmitLat": 40.54306,
+    "SubmitLong": 74.40444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2220,
+    "Y": 2658,
+    "ZIP9": "088172223",
+    "ZIPCode": "08817"
+}

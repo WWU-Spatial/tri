@@ -1,0 +1,267 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "793169512",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 92543.205659,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1307205955608",
+                    "MaxOnsite": "03",
+                    "Pounds": 79.0,
+                    "Score": 54.2631,
+                    "SubmissionNumber": 725510,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1307205955610",
+                    "MaxOnsite": "03",
+                    "Pounds": 11582.0,
+                    "Score": 7.4918700000000005,
+                    "SubmissionNumber": 725511,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11661.0,
+            "TotalScore": 61.75497,
+            "state_score_percentile": 78,
+            "us_score_percentile": 70
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1308206330944",
+                    "MaxOnsite": "03",
+                    "Pounds": 12715.0,
+                    "Score": 8.11259,
+                    "SubmissionNumber": 757778,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12715.0,
+            "TotalScore": 8.11259,
+            "state_score_percentile": 81,
+            "us_score_percentile": 73
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1309207481641",
+                    "MaxOnsite": "03",
+                    "Pounds": 1934.0,
+                    "Score": 1.7839170000000002,
+                    "SubmissionNumber": 861408,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1934.0,
+            "TotalScore": 1.7839170000000002,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1310208418691",
+                    "MaxOnsite": "03",
+                    "Pounds": 2126.0,
+                    "Score": 1.891856,
+                    "SubmissionNumber": 944417,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2126.0,
+            "TotalScore": 1.891856,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110031331280",
+    "FacilityID": "14615CRSTR149WR",
+    "FacilityNumber": 117423,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.203643,
+    "Longitude": -77.654855,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 28,
+            "us_pounds_pct": 67,
+            "us_score_pct": 67
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 23,
+            "us_pounds_pct": 69,
+            "us_score_pct": 69
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 21,
+            "us_pounds_pct": 38,
+            "us_score_pct": 61
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 19,
+            "us_pounds_pct": 42,
+            "us_score_pct": 57
+        },
+        "naicscode": "325992",
+        "name": "Photographic Film, Paper, Plate, and Chemical Manufacturing"
+    },
+    "NAICS2": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 7,
+            "us_pounds_pct": 100,
+            "us_score_pct": 71
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 7,
+            "us_pounds_pct": 100,
+            "us_score_pct": 57
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 7,
+            "us_pounds_pct": 100,
+            "us_score_pct": 42
+        },
+        "naicscode": "334517",
+        "name": "Irradiation Apparatus Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CARESTREAM HEALTH INC - ISC B-14",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "244882650",
+    "ParentName": "ONEX CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN LABELLA",
+    "PublicContactPhone": "5856276514",
+    "RCRANumber": "NYR000145185",
+    "RadialDistance": 2806432,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 30,
+            "us_pounds_pct": 66,
+            "us_score_pct": 70
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 24,
+            "us_pounds_pct": 70,
+            "us_score_pct": 62
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 22,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 22,
+            "us_pounds_pct": 45,
+            "us_score_pct": 59
+        },
+        "name": "Photographic equipment and supplies",
+        "siccode": "3861"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "386",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1669 LAKE AVENUE, EASTMAN BUSINESS PARK, BUILDING 14",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1820,
+    "Y": 2948,
+    "ZIP9": "14652",
+    "ZIPCode": "14652"
+}

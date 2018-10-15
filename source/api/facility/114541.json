@@ -1,0 +1,286 @@
+{
+    "AssignedComID": 6251384,
+    "AssignedReach": "02030103001371",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "002447860",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4478.042742,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100333347",
+                    "MaxOnsite": "05",
+                    "Pounds": 8582.0,
+                    "Score": 3.241807,
+                    "SubmissionNumber": 1776570,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75650",
+                    "Chemical": "tert-Butyl alcohol",
+                    "ChemicalNumber": 82,
+                    "DCN": "1396100333350",
+                    "MaxOnsite": "04",
+                    "Pounds": 314.0,
+                    "Score": 1.379787,
+                    "SubmissionNumber": 1776571,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396100333362",
+                    "MaxOnsite": "04",
+                    "Pounds": 140.0,
+                    "Score": 0.067785,
+                    "SubmissionNumber": 1776572,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100333374",
+                    "MaxOnsite": "04",
+                    "Pounds": 709.0,
+                    "Score": 0.213046,
+                    "SubmissionNumber": 1776573,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 9745.0,
+            "TotalScore": 4.902425,
+            "state_score_percentile": 65,
+            "us_score_percentile": 50
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110324023",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.23059,
+                    "SubmissionNumber": 1852217,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397110324035",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 0.474941,
+                    "SubmissionNumber": 1852218,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1750.0,
+            "TotalScore": 0.705531,
+            "state_score_percentile": 40,
+            "us_score_percentile": 32
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120558972",
+                    "MaxOnsite": "05",
+                    "Pounds": 2990.0,
+                    "Score": 1.103538,
+                    "SubmissionNumber": 1943332,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398120558984",
+                    "MaxOnsite": "04",
+                    "Pounds": 1369.0,
+                    "Score": 0.687763,
+                    "SubmissionNumber": 1943333,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120558996",
+                    "MaxOnsite": "04",
+                    "Pounds": 698.0,
+                    "Score": 0.21235400000000001,
+                    "SubmissionNumber": 1943334,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5057.0,
+            "TotalScore": 2.0036549999999997,
+            "state_score_percentile": 56,
+            "us_score_percentile": 43
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130337239",
+                    "MaxOnsite": "05",
+                    "Pounds": 291.0,
+                    "Score": 0.091013,
+                    "SubmissionNumber": 2018792,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 291.0,
+            "TotalScore": 0.091013,
+            "state_score_percentile": 22,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319478",
+    "FacilityID": "07105QNTMC300DO",
+    "FacilityNumber": 114541,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.7229,
+    "Longitude": -74.123253,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 83,
+            "us_pounds_pct": 15,
+            "us_score_pct": 6
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 84,
+            "us_pounds_pct": 7,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 86,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 88,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "naicscode": "325110",
+        "name": "Petrochemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0116513",
+    "Name": "EQUISTAR CHEMICALS LP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "194123154",
+    "ParentName": "LYONDELL CHEMICAL CO",
+    "PreferredLat": 40.72306,
+    "PreferredLong": 74.12361,
+    "PublicContactName": "ROBERT W KASTNER",
+    "PublicContactPhone": "9735782200",
+    "RCRANumber": "NJD002447860",
+    "RadialDistance": 2836044,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 40,
+            "state_pounds_pct": 62,
+            "state_score_pct": 10,
+            "us_count": 620,
+            "us_pounds_pct": 36,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 37,
+            "state_pounds_pct": 35,
+            "state_score_pct": 8,
+            "us_count": 616,
+            "us_pounds_pct": 17,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 37,
+            "state_pounds_pct": 56,
+            "state_score_pct": 13,
+            "us_count": 619,
+            "us_pounds_pct": 27,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 38,
+            "state_pounds_pct": 23,
+            "state_score_pct": 5,
+            "us_count": 623,
+            "us_pounds_pct": 5,
+            "us_score_pct": 4
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.0363,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.655,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.3645,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "300 DOREMUS AVENUE",
+    "SubmitLat": 40.72333,
+    "SubmitLong": 74.12333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2243,
+    "Y": 2689,
+    "ZIP9": "07105",
+    "ZIPCode": "07105"
+}

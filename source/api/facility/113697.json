@@ -1,0 +1,565 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STRATFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "001180231",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 90603.376936,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150527784",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 0.14062,
+                    "SubmissionNumber": 141402,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.14062,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200312433",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.07,
+                    "Score": 0.09872,
+                    "SubmissionNumber": 220600,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.07,
+            "TotalScore": 0.09872,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201213434",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.14,
+                    "Score": 0.198012,
+                    "SubmissionNumber": 301408,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.14,
+            "TotalScore": 0.198012,
+            "state_score_percentile": 8,
+            "us_score_percentile": 2
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202978286",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.13,
+                    "Score": 0.1844,
+                    "SubmissionNumber": 460362,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.13,
+            "TotalScore": 0.1844,
+            "state_score_percentile": 7,
+            "us_score_percentile": 3
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305204025860",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.15,
+                    "Score": 0.213382,
+                    "SubmissionNumber": 556041,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.15,
+            "TotalScore": 0.213382,
+            "state_score_percentile": 8,
+            "us_score_percentile": 4
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204666818",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.15,
+                    "Score": 0.213995,
+                    "SubmissionNumber": 613592,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.15,
+            "TotalScore": 0.213995,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307206061121",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.13,
+                    "Score": 0.185994,
+                    "SubmissionNumber": 734417,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.13,
+            "TotalScore": 0.185994,
+            "state_score_percentile": 8,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000763200",
+    "FacilityID": "06497RSSRB1299W",
+    "FacilityNumber": 113697,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.191403,
+    "Longitude": -73.135945,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 487,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 479,
+            "us_pounds_pct": 0,
+            "us_score_pct": 4
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 463,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 462,
+            "us_pounds_pct": 0,
+            "us_score_pct": 4
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 461,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 459,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 442,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICS2": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 85,
+            "us_pounds_pct": 1,
+            "us_score_pct": 15
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 86,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 78,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 81,
+            "us_pounds_pct": 3,
+            "us_score_pct": 8
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 77,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 76,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 75,
+            "us_pounds_pct": 2,
+            "us_score_pct": 9
+        },
+        "naicscode": "326113",
+        "name": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+    },
+    "NAICS3": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 528,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 521,
+            "us_pounds_pct": 0,
+            "us_score_pct": 7
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 506,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 492,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 505,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 492,
+            "us_pounds_pct": 0,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 467,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROSS & ROBERTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001180231",
+    "ParentName": "ROSS & ROBERTS INC",
+    "PreferredLat": 41.18972,
+    "PreferredLong": 73.13694,
+    "PublicContactName": "SAMUEL J. ROSENBERG, PHD",
+    "PublicContactPhone": "2033789363",
+    "RCRANumber": "CTD001180231",
+    "RadialDistance": 2933501,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 526,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 517,
+            "us_pounds_pct": 0,
+            "us_score_pct": 4
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 503,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 505,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 499,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 492,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 480,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 98,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 99,
+            "us_pounds_pct": 1,
+            "us_score_pct": 8
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 87,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 87,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 81,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 79,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "name": "Unsupported plastics film and sheet",
+        "siccode": "3081"
+    },
+    "SIC3": {
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 668,
+            "us_pounds_pct": 0,
+            "us_score_pct": 11
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 663,
+            "us_pounds_pct": 0,
+            "us_score_pct": 8
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 641,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2004": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 615,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 610,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 569,
+            "us_pounds_pct": 1,
+            "us_score_pct": 12
+        },
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 512,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 1.0374,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.7434,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "1299 W BROAD ST",
+    "SubmitLat": 41.18917,
+    "SubmitLong": 73.13694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2326,
+    "Y": 2776,
+    "ZIP9": "066145746",
+    "ZIPCode": "06614"
+}

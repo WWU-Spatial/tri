@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CAMBRIDGE",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "006953665",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6714.773237,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300200973028",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 3.76091,
+                    "SubmissionNumber": 91707,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 3.76091,
+            "state_score_percentile": 4,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301200973319",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 3.77472,
+                    "SubmissionNumber": 188232,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 3.77472,
+            "state_score_percentile": 5,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200973129",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 3.78853,
+                    "SubmissionNumber": 278434,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 3.78853,
+            "state_score_percentile": 6,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000739648",
+    "FacilityID": "02139CMBRD46BLA",
+    "FacilityNumber": 111611,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.363073,
+    "Longitude": -71.114612,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 17,
+            "state_pounds_pct": 5,
+            "state_score_pct": 17,
+            "us_count": 623,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "2001": {
+            "state_count": 18,
+            "state_pounds_pct": 8,
+            "state_score_pct": 22,
+            "us_count": 630,
+            "us_pounds_pct": 0,
+            "us_score_pct": 8
+        },
+        "2002": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 22,
+            "us_count": 624,
+            "us_pounds_pct": 0,
+            "us_score_pct": 7
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0004901",
+    "Name": "CAMBRIDGE ELECTRIC LIGHT CO. BLACKSTONE STATION",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "087571431",
+    "ParentName": "NSTAR",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LEIGH A. MARTIN",
+    "PublicContactPhone": "6175982723",
+    "RCRANumber": "MAD006953665",
+    "RadialDistance": 3145468,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 13,
+            "us_count": 631,
+            "us_pounds_pct": 2,
+            "us_score_pct": 9
+        },
+        "2001": {
+            "state_count": 16,
+            "state_pounds_pct": 9,
+            "state_score_pct": 12,
+            "us_count": 638,
+            "us_pounds_pct": 1,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 12,
+            "us_count": 623,
+            "us_pounds_pct": 0,
+            "us_score_pct": 8
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 3.7369,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 76.1878,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 17.0141,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "46 BLACKSTONE ST.",
+    "SubmitLat": 42.36417,
+    "SubmitLong": 71.115,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2486,
+    "Y": 2984,
+    "ZIP9": "02139",
+    "ZIPCode": "02139"
+}

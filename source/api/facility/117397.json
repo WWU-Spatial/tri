@@ -1,0 +1,332 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "002214195",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 93143.200878,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105163707",
+                    "MaxOnsite": "05",
+                    "Pounds": 10511.0,
+                    "Score": 2.267067,
+                    "SubmissionNumber": 1801437,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10511.0,
+            "TotalScore": 2.267067,
+            "state_score_percentile": 60,
+            "us_score_percentile": 52
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115215321",
+                    "MaxOnsite": "05",
+                    "Pounds": 7211.0,
+                    "Score": 1.3620070000000002,
+                    "SubmissionNumber": 1887175,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7211.0,
+            "TotalScore": 1.3620070000000002,
+            "state_score_percentile": 58,
+            "us_score_percentile": 47
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125219016",
+                    "MaxOnsite": "05",
+                    "Pounds": 6318.0,
+                    "Score": 1.217183,
+                    "SubmissionNumber": 1977463,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125219055",
+                    "MaxOnsite": "04",
+                    "Pounds": 4309.0,
+                    "Score": 32.7692,
+                    "SubmissionNumber": 1977465,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10627.0,
+            "TotalScore": 33.986383,
+            "state_score_percentile": 63,
+            "us_score_percentile": 53
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135139691",
+                    "MaxOnsite": "05",
+                    "Pounds": 7591.0,
+                    "Score": 1.5323449999999998,
+                    "SubmissionNumber": 2066070,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399135139842",
+                    "MaxOnsite": "04",
+                    "Pounds": 3102.0,
+                    "Score": 23.375999999999998,
+                    "SubmissionNumber": 2066078,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10693.0,
+            "TotalScore": 24.908344999999997,
+            "state_score_percentile": 64,
+            "us_score_percentile": 55
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300145152841",
+                    "MaxOnsite": "05",
+                    "Pounds": 8674.0,
+                    "Score": 1.969172,
+                    "SubmissionNumber": 84700,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300145152878",
+                    "MaxOnsite": "04",
+                    "Pounds": 2984.0,
+                    "Score": 22.365000000000002,
+                    "SubmissionNumber": 84702,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 11658.0,
+            "TotalScore": 24.334172000000002,
+            "state_score_percentile": 69,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000327904",
+    "FacilityID": "14608KLNBR600OA",
+    "FacilityNumber": 117397,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.164002,
+    "Longitude": -77.630377,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 122,
+            "us_pounds_pct": 90,
+            "us_score_pct": 36
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 84,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 100,
+            "us_pounds_pct": 91,
+            "us_score_pct": 60
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 99,
+            "us_pounds_pct": 88,
+            "us_score_pct": 62
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 97,
+            "us_pounds_pct": 89,
+            "us_score_pct": 56
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KLEEN BRITE LABORATORIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.16333,
+    "PreferredLong": 77.63056,
+    "PublicContactName": "PHILIP M. MISTRETTA",
+    "PublicContactPhone": "7166370630",
+    "RCRANumber": "NYD986905909",
+    "RadialDistance": 2804529,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 113,
+            "us_pounds_pct": 90,
+            "us_score_pct": 36
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 85,
+            "us_score_pct": 29
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 90,
+            "us_score_pct": 60
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 90,
+            "us_score_pct": 65
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 91,
+            "us_score_pct": 59
+        },
+        "name": "Soap and other detergents, except specialty cleaners",
+        "siccode": "2841"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 92,
+            "us_score_pct": 46
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 100,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 84,
+            "us_score_pct": 76
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 84,
+            "us_score_pct": 84
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 100,
+            "us_score_pct": 66
+        },
+        "name": "Plastics bottles",
+        "siccode": "3085"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 13.2588,
+    "StackHeightSource": "New York",
+    "StackVelocity": 9.95,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "600 OAK ST.",
+    "SubmitLat": 43.16333,
+    "SubmitLong": 77.63056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1823,
+    "Y": 2943,
+    "ZIP9": "14608",
+    "ZIPCode": "14608"
+}

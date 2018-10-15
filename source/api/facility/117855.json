@@ -1,0 +1,3138 @@
+{
+    "AssignedComID": 3821263,
+    "AssignedReach": "05030101000072",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "004337465",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11772.203887,
+    "DistanceToReach": 442.990849,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100168715",
+                    "MaxOnsite": "04",
+                    "Pounds": 2550.0,
+                    "Score": 6.895568,
+                    "SubmissionNumber": 1762805,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1396100168739",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 856.927,
+                    "SubmissionNumber": 1762806,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1396100168741",
+                    "MaxOnsite": "04",
+                    "Pounds": 21500.0,
+                    "Score": 0.9001279999999999,
+                    "SubmissionNumber": 1762807,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1396100168754",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 277.30316,
+                    "SubmissionNumber": 1762808,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1396100225960",
+                    "MaxOnsite": "05",
+                    "Pounds": 10000.0,
+                    "Score": 23586.34,
+                    "SubmissionNumber": 1767719,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1396100225972",
+                    "MaxOnsite": "05",
+                    "Pounds": 2605.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1767720,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100225984",
+                    "MaxOnsite": "04",
+                    "Pounds": 1450.0,
+                    "Score": 0.08549399999999999,
+                    "SubmissionNumber": 1767721,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100225996",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 2.704285,
+                    "SubmissionNumber": 1767722,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 39610.0,
+            "TotalScore": 24731.155635,
+            "state_score_percentile": 79,
+            "us_score_percentile": 74
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1397110274521",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 852.609,
+                    "SubmissionNumber": 1847866,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1397110274533",
+                    "MaxOnsite": "04",
+                    "Pounds": 9400.0,
+                    "Score": 0.393144,
+                    "SubmissionNumber": 1847867,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110274560",
+                    "MaxOnsite": "04",
+                    "Pounds": 1750.0,
+                    "Score": 0.105133,
+                    "SubmissionNumber": 1847868,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110274572",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 2.6905029999999996,
+                    "SubmissionNumber": 1847869,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1397110274584",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.093258,
+                    "SubmissionNumber": 1847870,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1397110274596",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.163412,
+                    "SubmissionNumber": 1847871,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1397110274608",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.020286,
+                    "SubmissionNumber": 1847872,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1397110274610",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1847873,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1397110274622",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 81636.88,
+                    "SubmissionNumber": 1847874,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1397110274634",
+                    "MaxOnsite": "03",
+                    "Pounds": 1550.0,
+                    "Score": 0.148494,
+                    "SubmissionNumber": 1847875,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1397110458357",
+                    "MaxOnsite": "05",
+                    "Pounds": 3800.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1863851,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115291623",
+                    "MaxOnsite": "04",
+                    "Pounds": 4450.0,
+                    "Score": 14.564594,
+                    "SubmissionNumber": 1891757,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1397115291635",
+                    "MaxOnsite": "05",
+                    "Pounds": 15750.0,
+                    "Score": 41329.907999999996,
+                    "SubmissionNumber": 1891758,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1397115291647",
+                    "MaxOnsite": "04",
+                    "Pounds": 3050.0,
+                    "Score": 3151.6961,
+                    "SubmissionNumber": 1891759,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 44005.0,
+            "TotalScore": 126989.27192399999,
+            "state_score_percentile": 81,
+            "us_score_percentile": 76
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120350881",
+                    "MaxOnsite": "04",
+                    "Pounds": 4700.0,
+                    "Score": 12.7831,
+                    "SubmissionNumber": 1927309,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1398120350893",
+                    "MaxOnsite": "05",
+                    "Pounds": 16300.0,
+                    "Score": 37666.43,
+                    "SubmissionNumber": 1927310,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1398120350905",
+                    "MaxOnsite": "04",
+                    "Pounds": 16800.0,
+                    "Score": 0.706775,
+                    "SubmissionNumber": 1927311,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1398120350917",
+                    "MaxOnsite": "05",
+                    "Pounds": 3700.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1927312,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120350929",
+                    "MaxOnsite": "04",
+                    "Pounds": 1550.0,
+                    "Score": 0.091285,
+                    "SubmissionNumber": 1927313,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120350931",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 2.6767220000000003,
+                    "SubmissionNumber": 1927314,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1398120350943",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.092773,
+                    "SubmissionNumber": 1927315,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1398120350956",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.16256199999999998,
+                    "SubmissionNumber": 1927316,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1398120350970",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1927318,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1398120350982",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 32158.0,
+                    "SubmissionNumber": 1927319,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1398120351008",
+                    "MaxOnsite": "03",
+                    "Pounds": 2850.0,
+                    "Score": 0.249551,
+                    "SubmissionNumber": 1927321,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1398120351010",
+                    "MaxOnsite": "04",
+                    "Pounds": 1550.0,
+                    "Score": 1498.2842,
+                    "SubmissionNumber": 1927322,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 50450.0,
+            "TotalScore": 71339.47696799999,
+            "state_score_percentile": 82,
+            "us_score_percentile": 78
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130688500",
+                    "MaxOnsite": "04",
+                    "Pounds": 4200.0,
+                    "Score": 11.03074,
+                    "SubmissionNumber": 2047739,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1399130688512",
+                    "MaxOnsite": "05",
+                    "Pounds": 13800.0,
+                    "Score": 33643.16,
+                    "SubmissionNumber": 2047740,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1399130688524",
+                    "MaxOnsite": "04",
+                    "Pounds": 14300.0,
+                    "Score": 0.5829949999999999,
+                    "SubmissionNumber": 2047741,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1399130688536",
+                    "MaxOnsite": "03",
+                    "Pounds": 3600.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2047742,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130688548",
+                    "MaxOnsite": "04",
+                    "Pounds": 1550.0,
+                    "Score": 0.090818,
+                    "SubmissionNumber": 2047743,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130688551",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 2.662951,
+                    "SubmissionNumber": 2047744,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1399130688563",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.092288,
+                    "SubmissionNumber": 2047745,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1399130688575",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.161711,
+                    "SubmissionNumber": 2047746,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1399130688599",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2047748,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1399130688601",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 24524.962,
+                    "SubmissionNumber": 2047749,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1399130688613",
+                    "MaxOnsite": "03",
+                    "Pounds": 2450.0,
+                    "Score": 0.205451,
+                    "SubmissionNumber": 2047750,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1399130688625",
+                    "MaxOnsite": "05",
+                    "Pounds": 1650.0,
+                    "Score": 1599.0222999999999,
+                    "SubmissionNumber": 2047751,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1399130688637",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.072656,
+                    "SubmissionNumber": 2047752,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1399130688649",
+                    "MaxOnsite": "02",
+                    "Pounds": 1450.0,
+                    "Score": 250.028,
+                    "SubmissionNumber": 2047753,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 46010.0,
+            "TotalScore": 60032.07190999999,
+            "state_score_percentile": 81,
+            "us_score_percentile": 77
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140462464",
+                    "MaxOnsite": "04",
+                    "Pounds": 878.0,
+                    "Score": 1.561472,
+                    "SubmissionNumber": 38358,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1300140462476",
+                    "MaxOnsite": "05",
+                    "Pounds": 12448.0,
+                    "Score": 29298.18,
+                    "SubmissionNumber": 38359,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1300140462488",
+                    "MaxOnsite": "04",
+                    "Pounds": 5006.0,
+                    "Score": 0.231288,
+                    "SubmissionNumber": 38360,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1300140462490",
+                    "MaxOnsite": "03",
+                    "Pounds": 3718.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 38361,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140462502",
+                    "MaxOnsite": "04",
+                    "Pounds": 1316.0,
+                    "Score": 0.075311,
+                    "SubmissionNumber": 38362,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140462514",
+                    "MaxOnsite": "04",
+                    "Pounds": 552.0,
+                    "Score": 1.567736,
+                    "SubmissionNumber": 38363,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1300140462526",
+                    "MaxOnsite": "04",
+                    "Pounds": 58.0,
+                    "Score": 0.008465,
+                    "SubmissionNumber": 38364,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1300140462538",
+                    "MaxOnsite": "04",
+                    "Pounds": 370.0,
+                    "Score": 0.074908,
+                    "SubmissionNumber": 38365,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1300140462540",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.0,
+                    "Score": 0.014091,
+                    "SubmissionNumber": 38366,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1300140462553",
+                    "MaxOnsite": "04",
+                    "Pounds": 90.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 38367,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140462565",
+                    "MaxOnsite": "04",
+                    "Pounds": 298.0,
+                    "Score": 19821.66,
+                    "SubmissionNumber": 38368,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1300140462577",
+                    "MaxOnsite": "03",
+                    "Pounds": 872.0,
+                    "Score": 0.039298,
+                    "SubmissionNumber": 38369,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1300140462589",
+                    "MaxOnsite": "05",
+                    "Pounds": 1732.0,
+                    "Score": 1622.601,
+                    "SubmissionNumber": 38370,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1300140462591",
+                    "MaxOnsite": "04",
+                    "Pounds": 55.0,
+                    "Score": 0.0148,
+                    "SubmissionNumber": 38371,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1300140462603",
+                    "MaxOnsite": "02",
+                    "Pounds": 316.0,
+                    "Score": 74.0575,
+                    "SubmissionNumber": 38372,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140462627",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.8,
+                    "Score": 0.0,
+                    "SubmissionNumber": 38374,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 27717.8,
+            "TotalScore": 50820.08586900001,
+            "state_score_percentile": 75,
+            "us_score_percentile": 72
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1301150507554",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 0.023763,
+                    "SubmissionNumber": 139603,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150507566",
+                    "MaxOnsite": "04",
+                    "Pounds": 17654.0,
+                    "Score": 23.60576,
+                    "SubmissionNumber": 139604,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1301150507578",
+                    "MaxOnsite": "04",
+                    "Pounds": 114.0,
+                    "Score": 0.024526000000000003,
+                    "SubmissionNumber": 139605,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1301150507580",
+                    "MaxOnsite": "05",
+                    "Pounds": 13408.0,
+                    "Score": 32537.74,
+                    "SubmissionNumber": 139606,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150507592",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.5,
+                    "Score": 0.0,
+                    "SubmissionNumber": 139607,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1301150507604",
+                    "MaxOnsite": "04",
+                    "Pounds": 376.0,
+                    "Score": 0.07874,
+                    "SubmissionNumber": 139608,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1301150507616",
+                    "MaxOnsite": "02",
+                    "Pounds": 1280.0,
+                    "Score": 222.21460000000002,
+                    "SubmissionNumber": 139609,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1301150507628",
+                    "MaxOnsite": "04",
+                    "Pounds": 6128.0,
+                    "Score": 0.158211,
+                    "SubmissionNumber": 139610,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1301150507642",
+                    "MaxOnsite": "05",
+                    "Pounds": 1690.0,
+                    "Score": 1675.2797,
+                    "SubmissionNumber": 139612,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1301150507655",
+                    "MaxOnsite": "04",
+                    "Pounds": 222.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 139613,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1301150507667",
+                    "MaxOnsite": "03",
+                    "Pounds": 3710.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 139614,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150507679",
+                    "MaxOnsite": "04",
+                    "Pounds": 155.6,
+                    "Score": 14955.01757,
+                    "SubmissionNumber": 139615,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1301150507681",
+                    "MaxOnsite": "03",
+                    "Pounds": 1032.0,
+                    "Score": 0.058626,
+                    "SubmissionNumber": 139616,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1301150507693",
+                    "MaxOnsite": "04",
+                    "Pounds": 48.0,
+                    "Score": 0.013688,
+                    "SubmissionNumber": 139617,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150507705",
+                    "MaxOnsite": "04",
+                    "Pounds": 1396.0,
+                    "Score": 0.08179,
+                    "SubmissionNumber": 139618,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301150507717",
+                    "MaxOnsite": "04",
+                    "Pounds": 560.0,
+                    "Score": 1.586778,
+                    "SubmissionNumber": 139619,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150507729",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.2,
+                    "Score": 2.789608,
+                    "SubmissionNumber": 139620,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 47785.299999999996,
+            "TotalScore": 49418.67336,
+            "state_score_percentile": 85,
+            "us_score_percentile": 82
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1302200519611",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 0.015723,
+                    "SubmissionNumber": 239903,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200519635",
+                    "MaxOnsite": "04",
+                    "Pounds": 15954.0,
+                    "Score": 21.35765,
+                    "SubmissionNumber": 239905,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1302200519650",
+                    "MaxOnsite": "04",
+                    "Pounds": 62.0,
+                    "Score": 0.017281,
+                    "SubmissionNumber": 239907,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1302200519674",
+                    "MaxOnsite": "05",
+                    "Pounds": 5872.0,
+                    "Score": 12731.72,
+                    "SubmissionNumber": 239909,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200519698",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.3,
+                    "Score": 0.0,
+                    "SubmissionNumber": 239911,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1302200519712",
+                    "MaxOnsite": "04",
+                    "Pounds": 354.0,
+                    "Score": 0.072258,
+                    "SubmissionNumber": 239913,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1302200519736",
+                    "MaxOnsite": "02",
+                    "Pounds": 1150.0,
+                    "Score": 182.75560000000002,
+                    "SubmissionNumber": 239915,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1302200519751",
+                    "MaxOnsite": "04",
+                    "Pounds": 4714.0,
+                    "Score": 0.116867,
+                    "SubmissionNumber": 239917,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1302200519799",
+                    "MaxOnsite": "05",
+                    "Pounds": 820.0,
+                    "Score": 743.2527,
+                    "SubmissionNumber": 239921,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1302200519813",
+                    "MaxOnsite": "04",
+                    "Pounds": 158.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 239923,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1302200519825",
+                    "MaxOnsite": "03",
+                    "Pounds": 1338.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 239924,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200519837",
+                    "MaxOnsite": "04",
+                    "Pounds": 268.8,
+                    "Score": 25646.079029999997,
+                    "SubmissionNumber": 239925,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1302200519849",
+                    "MaxOnsite": "03",
+                    "Pounds": 804.0,
+                    "Score": 0.043779,
+                    "SubmissionNumber": 239926,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1302200519852",
+                    "MaxOnsite": "04",
+                    "Pounds": 28.0,
+                    "Score": 0.007925,
+                    "SubmissionNumber": 239927,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200519864",
+                    "MaxOnsite": "04",
+                    "Pounds": 696.0,
+                    "Score": 0.037415000000000004,
+                    "SubmissionNumber": 239928,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1302200519876",
+                    "MaxOnsite": "04",
+                    "Pounds": 232.0,
+                    "Score": 0.556293,
+                    "SubmissionNumber": 239929,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200519888",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.8,
+                    "Score": 0.386039,
+                    "SubmissionNumber": 239930,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 32457.899999999998,
+            "TotalScore": 39326.41856,
+            "state_score_percentile": 81,
+            "us_score_percentile": 79
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1303201721279",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 0.015604,
+                    "SubmissionNumber": 347840,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201721281",
+                    "MaxOnsite": "04",
+                    "Pounds": 15800.0,
+                    "Score": 21.327460000000002,
+                    "SubmissionNumber": 347841,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1303201721293",
+                    "MaxOnsite": "04",
+                    "Pounds": 66.0,
+                    "Score": 0.01826,
+                    "SubmissionNumber": 347842,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1303201721305",
+                    "MaxOnsite": "05",
+                    "Pounds": 4660.0,
+                    "Score": 10592.139,
+                    "SubmissionNumber": 347843,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1303201721317",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 347844,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1303201721329",
+                    "MaxOnsite": "04",
+                    "Pounds": 60.0,
+                    "Score": 0.029076,
+                    "SubmissionNumber": 347845,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1303201721331",
+                    "MaxOnsite": "02",
+                    "Pounds": 202.0,
+                    "Score": 76.95277,
+                    "SubmissionNumber": 347846,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1303201721343",
+                    "MaxOnsite": "04",
+                    "Pounds": 5300.0,
+                    "Score": 0.132724,
+                    "SubmissionNumber": 347847,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1303201721370",
+                    "MaxOnsite": "05",
+                    "Pounds": 714.0,
+                    "Score": 691.6403,
+                    "SubmissionNumber": 347850,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1303201721382",
+                    "MaxOnsite": "04",
+                    "Pounds": 214.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 347851,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1303201721394",
+                    "MaxOnsite": "03",
+                    "Pounds": 64.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 347852,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201721406",
+                    "MaxOnsite": "04",
+                    "Pounds": 320.0,
+                    "Score": 28359.872,
+                    "SubmissionNumber": 347853,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1303201721418",
+                    "MaxOnsite": "03",
+                    "Pounds": 920.0,
+                    "Score": 0.049533,
+                    "SubmissionNumber": 347854,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1303201721420",
+                    "MaxOnsite": "04",
+                    "Pounds": 30.0,
+                    "Score": 0.008036,
+                    "SubmissionNumber": 347855,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201721432",
+                    "MaxOnsite": "04",
+                    "Pounds": 520.0,
+                    "Score": 0.027549,
+                    "SubmissionNumber": 347856,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1303201721444",
+                    "MaxOnsite": "04",
+                    "Pounds": 148.0,
+                    "Score": 0.381546,
+                    "SubmissionNumber": 347857,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201721457",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.0,
+                    "Score": 3.5991,
+                    "SubmissionNumber": 347858,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 29032.0,
+            "TotalScore": 39746.19295799999,
+            "state_score_percentile": 80,
+            "us_score_percentile": 78
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1304202818391",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.007742,
+                    "SubmissionNumber": 446205,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202818403",
+                    "MaxOnsite": "04",
+                    "Pounds": 15600.0,
+                    "Score": 20.53264,
+                    "SubmissionNumber": 446206,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1304202818415",
+                    "MaxOnsite": "04",
+                    "Pounds": 62.0,
+                    "Score": 0.016641,
+                    "SubmissionNumber": 446207,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1304202818427",
+                    "MaxOnsite": "05",
+                    "Pounds": 6000.0,
+                    "Score": 10949.83,
+                    "SubmissionNumber": 446208,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304202818439",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 446209,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1304202818441",
+                    "MaxOnsite": "04",
+                    "Pounds": 54.0,
+                    "Score": 0.025973,
+                    "SubmissionNumber": 446210,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1304202818454",
+                    "MaxOnsite": "02",
+                    "Pounds": 190.0,
+                    "Score": 63.25437,
+                    "SubmissionNumber": 446211,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1304202818466",
+                    "MaxOnsite": "04",
+                    "Pounds": 16200.0,
+                    "Score": 0.280445,
+                    "SubmissionNumber": 446212,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304202818480",
+                    "MaxOnsite": "05",
+                    "Pounds": 740.0,
+                    "Score": 657.5141,
+                    "SubmissionNumber": 446214,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1304202818492",
+                    "MaxOnsite": "04",
+                    "Pounds": 156.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 446215,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1304202818504",
+                    "MaxOnsite": "03",
+                    "Pounds": 78.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 446216,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202818516",
+                    "MaxOnsite": "04",
+                    "Pounds": 264.0,
+                    "Score": 24553.239,
+                    "SubmissionNumber": 446217,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1304202818528",
+                    "MaxOnsite": "03",
+                    "Pounds": 2840.0,
+                    "Score": 0.10411300000000001,
+                    "SubmissionNumber": 446218,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1304202818530",
+                    "MaxOnsite": "04",
+                    "Pounds": 26.0,
+                    "Score": 0.007248,
+                    "SubmissionNumber": 446219,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304202818542",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 0.034796,
+                    "SubmissionNumber": 446220,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304202818555",
+                    "MaxOnsite": "04",
+                    "Pounds": 310.0,
+                    "Score": 0.525856,
+                    "SubmissionNumber": 446221,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202818567",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 5.25491,
+                    "SubmissionNumber": 446222,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 43532.0,
+            "TotalScore": 36250.627834000006,
+            "state_score_percentile": 85,
+            "us_score_percentile": 82
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1305203624287",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.007683,
+                    "SubmissionNumber": 519289,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203624299",
+                    "MaxOnsite": "04",
+                    "Pounds": 14400.0,
+                    "Score": 18.82648,
+                    "SubmissionNumber": 519290,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1305203624301",
+                    "MaxOnsite": "04",
+                    "Pounds": 32.0,
+                    "Score": 0.008721,
+                    "SubmissionNumber": 519291,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1305203624313",
+                    "MaxOnsite": "05",
+                    "Pounds": 7200.0,
+                    "Score": 12492.82,
+                    "SubmissionNumber": 519292,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1305203624325",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 519293,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1305203624337",
+                    "MaxOnsite": "04",
+                    "Pounds": 36.0,
+                    "Score": 0.017185,
+                    "SubmissionNumber": 519294,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1305203624349",
+                    "MaxOnsite": "02",
+                    "Pounds": 244.0,
+                    "Score": 49.813,
+                    "SubmissionNumber": 519295,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1305203624352",
+                    "MaxOnsite": "04",
+                    "Pounds": 30700.0,
+                    "Score": 0.5073799999999999,
+                    "SubmissionNumber": 519296,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203624364",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.2,
+                    "Score": 5.55322,
+                    "SubmissionNumber": 519297,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1305203624388",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 530.717,
+                    "SubmissionNumber": 519299,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1305203624390",
+                    "MaxOnsite": "04",
+                    "Pounds": 70.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 519300,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1305203624402",
+                    "MaxOnsite": "03",
+                    "Pounds": 70.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 519301,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203624414",
+                    "MaxOnsite": "04",
+                    "Pounds": 110.0,
+                    "Score": 10256.7,
+                    "SubmissionNumber": 519302,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1305203624426",
+                    "MaxOnsite": "03",
+                    "Pounds": 5500.0,
+                    "Score": 0.188386,
+                    "SubmissionNumber": 519303,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1305203624438",
+                    "MaxOnsite": "04",
+                    "Pounds": 38.0,
+                    "Score": 0.010513,
+                    "SubmissionNumber": 519304,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203624440",
+                    "MaxOnsite": "04",
+                    "Pounds": 1300.0,
+                    "Score": 0.048634000000000004,
+                    "SubmissionNumber": 519305,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1305203624453",
+                    "MaxOnsite": "04",
+                    "Pounds": 390.0,
+                    "Score": 0.704592,
+                    "SubmissionNumber": 519306,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 60852.2,
+            "TotalScore": 23355.922794000002,
+            "state_score_percentile": 89,
+            "us_score_percentile": 86
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1306204825374",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.007623,
+                    "SubmissionNumber": 628291,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204825386",
+                    "MaxOnsite": "04",
+                    "Pounds": 18600.0,
+                    "Score": 23.00286,
+                    "SubmissionNumber": 628292,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1306204825398",
+                    "MaxOnsite": "04",
+                    "Pounds": 26.0,
+                    "Score": 0.007032,
+                    "SubmissionNumber": 628293,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1306204825400",
+                    "MaxOnsite": "05",
+                    "Pounds": 29000.0,
+                    "Score": 52325.92,
+                    "SubmissionNumber": 628294,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204825412",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 628295,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1306204825424",
+                    "MaxOnsite": "04",
+                    "Pounds": 28.0,
+                    "Score": 0.013265,
+                    "SubmissionNumber": 628296,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1306204825436",
+                    "MaxOnsite": "02",
+                    "Pounds": 3600.0,
+                    "Score": 934.713,
+                    "SubmissionNumber": 628297,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1306204825448",
+                    "MaxOnsite": "04",
+                    "Pounds": 34200.0,
+                    "Score": 0.536823,
+                    "SubmissionNumber": 628298,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204825451",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.1,
+                    "Score": 6.99583,
+                    "SubmissionNumber": 628299,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1306204825475",
+                    "MaxOnsite": "05",
+                    "Pounds": 4270.0,
+                    "Score": 1639.262,
+                    "SubmissionNumber": 628301,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1306204825487",
+                    "MaxOnsite": "04",
+                    "Pounds": 62.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 628302,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1306204825499",
+                    "MaxOnsite": "03",
+                    "Pounds": 1210.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 628303,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204825501",
+                    "MaxOnsite": "04",
+                    "Pounds": 78.0,
+                    "Score": 7215.36,
+                    "SubmissionNumber": 628304,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1306204825513",
+                    "MaxOnsite": "03",
+                    "Pounds": 5500.0,
+                    "Score": 0.18714799999999998,
+                    "SubmissionNumber": 628305,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1306204825525",
+                    "MaxOnsite": "04",
+                    "Pounds": 16.0,
+                    "Score": 0.004393,
+                    "SubmissionNumber": 628306,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204825537",
+                    "MaxOnsite": "04",
+                    "Pounds": 11924.0,
+                    "Score": 0.2577,
+                    "SubmissionNumber": 628307,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1306204825549",
+                    "MaxOnsite": "04",
+                    "Pounds": 1820.0,
+                    "Score": 2.112545,
+                    "SubmissionNumber": 628308,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 110350.1,
+            "TotalScore": 62148.38021900001,
+            "state_score_percentile": 92,
+            "us_score_percentile": 90
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1307205830641",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 0.015127,
+                    "SubmissionNumber": 715734,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205830654",
+                    "MaxOnsite": "04",
+                    "Pounds": 3900.0,
+                    "Score": 9.94064,
+                    "SubmissionNumber": 715735,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1307205830666",
+                    "MaxOnsite": "04",
+                    "Pounds": 74.0,
+                    "Score": 0.019862,
+                    "SubmissionNumber": 715736,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1307205830678",
+                    "MaxOnsite": "05",
+                    "Pounds": 28100.0,
+                    "Score": 33302.3,
+                    "SubmissionNumber": 715737,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205830680",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 715738,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1307205830692",
+                    "MaxOnsite": "04",
+                    "Pounds": 62.0,
+                    "Score": 0.029148,
+                    "SubmissionNumber": 715739,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1307205830704",
+                    "MaxOnsite": "02",
+                    "Pounds": 3950.0,
+                    "Score": 494.4608,
+                    "SubmissionNumber": 715740,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1307205830716",
+                    "MaxOnsite": "04",
+                    "Pounds": 30600.0,
+                    "Score": 0.5311319999999999,
+                    "SubmissionNumber": 715741,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205830728",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.8,
+                    "Score": 5.7612000000000005,
+                    "SubmissionNumber": 715742,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1307205830742",
+                    "MaxOnsite": "05",
+                    "Pounds": 1940.0,
+                    "Score": 1671.028,
+                    "SubmissionNumber": 715744,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1307205830755",
+                    "MaxOnsite": "04",
+                    "Pounds": 172.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 715745,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1307205830767",
+                    "MaxOnsite": "03",
+                    "Pounds": 1690.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 715746,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205830779",
+                    "MaxOnsite": "04",
+                    "Pounds": 300.0,
+                    "Score": 27529.9,
+                    "SubmissionNumber": 715747,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1307205830781",
+                    "MaxOnsite": "03",
+                    "Pounds": 5370.0,
+                    "Score": 0.194109,
+                    "SubmissionNumber": 715748,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1307205830793",
+                    "MaxOnsite": "04",
+                    "Pounds": 78.0,
+                    "Score": 0.021248,
+                    "SubmissionNumber": 715749,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205830805",
+                    "MaxOnsite": "04",
+                    "Pounds": 5200.0,
+                    "Score": 0.156107,
+                    "SubmissionNumber": 715750,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1307205830817",
+                    "MaxOnsite": "04",
+                    "Pounds": 1030.0,
+                    "Score": 1.828878,
+                    "SubmissionNumber": 715751,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 82483.8,
+            "TotalScore": 63016.186251,
+            "state_score_percentile": 92,
+            "us_score_percentile": 88
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1308206621373",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.03752,
+                    "SubmissionNumber": 785243,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206621385",
+                    "MaxOnsite": "04",
+                    "Pounds": 3700.0,
+                    "Score": 9.460734,
+                    "SubmissionNumber": 785244,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1308206621397",
+                    "MaxOnsite": "04",
+                    "Pounds": 68.0,
+                    "Score": 0.017738,
+                    "SubmissionNumber": 785245,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1308206621409",
+                    "MaxOnsite": "05",
+                    "Pounds": 25100.0,
+                    "Score": 29103.5,
+                    "SubmissionNumber": 785246,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206621411",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 785247,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1308206621423",
+                    "MaxOnsite": "04",
+                    "Pounds": 56.0,
+                    "Score": 0.026124,
+                    "SubmissionNumber": 785248,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1308206621435",
+                    "MaxOnsite": "02",
+                    "Pounds": 3850.0,
+                    "Score": 479.87489999999997,
+                    "SubmissionNumber": 785249,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1308206621447",
+                    "MaxOnsite": "03",
+                    "Pounds": 16.0,
+                    "Score": 1.25999,
+                    "SubmissionNumber": 785250,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1308206621450",
+                    "MaxOnsite": "04",
+                    "Pounds": 29200.0,
+                    "Score": 0.493588,
+                    "SubmissionNumber": 785251,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206621462",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.800000000000001,
+                    "Score": 5.25514,
+                    "SubmissionNumber": 785252,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1308206621486",
+                    "MaxOnsite": "05",
+                    "Pounds": 1690.0,
+                    "Score": 1511.8079,
+                    "SubmissionNumber": 785254,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1308206621498",
+                    "MaxOnsite": "04",
+                    "Pounds": 162.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 785255,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1308206621500",
+                    "MaxOnsite": "03",
+                    "Pounds": 1720.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 785256,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206621512",
+                    "MaxOnsite": "04",
+                    "Pounds": 280.0,
+                    "Score": 25487.8,
+                    "SubmissionNumber": 785257,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1308206621524",
+                    "MaxOnsite": "03",
+                    "Pounds": 5220.0,
+                    "Score": 0.184813,
+                    "SubmissionNumber": 785258,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1308206621536",
+                    "MaxOnsite": "04",
+                    "Pounds": 60.0,
+                    "Score": 0.016217,
+                    "SubmissionNumber": 785259,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206621548",
+                    "MaxOnsite": "04",
+                    "Pounds": 4900.0,
+                    "Score": 0.140795,
+                    "SubmissionNumber": 785260,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1308206621551",
+                    "MaxOnsite": "04",
+                    "Pounds": 970.0,
+                    "Score": 1.654969,
+                    "SubmissionNumber": 785261,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 77015.8,
+            "TotalScore": 56601.530428,
+            "state_score_percentile": 91,
+            "us_score_percentile": 89
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207975792",
+                    "MaxOnsite": "05",
+                    "Pounds": 5678.0,
+                    "Score": 7.6701500000000005,
+                    "SubmissionNumber": 905897,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1309207975804",
+                    "MaxOnsite": "04",
+                    "Pounds": 76.0,
+                    "Score": 0.013253000000000001,
+                    "SubmissionNumber": 905898,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1309207975816",
+                    "MaxOnsite": "05",
+                    "Pounds": 23137.0,
+                    "Score": 25616.5,
+                    "SubmissionNumber": 905899,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207975828",
+                    "MaxOnsite": "02",
+                    "Pounds": 160.20000000000002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 905900,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1319773",
+                    "Chemical": "Cresol (mixed isomers)",
+                    "ChemicalNumber": 163,
+                    "DCN": "1309207975830",
+                    "MaxOnsite": "03",
+                    "Pounds": 48.0,
+                    "Score": 0.014785000000000001,
+                    "SubmissionNumber": 905901,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1309207975842",
+                    "MaxOnsite": "02",
+                    "Pounds": 3720.0,
+                    "Score": 482.3934,
+                    "SubmissionNumber": 905902,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1309207975867",
+                    "MaxOnsite": "03",
+                    "Pounds": 4210.0,
+                    "Score": 0.119064,
+                    "SubmissionNumber": 905904,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207975879",
+                    "MaxOnsite": "03",
+                    "Pounds": 14.6,
+                    "Score": 19.110770000000002,
+                    "SubmissionNumber": 905905,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207975881",
+                    "MaxOnsite": "02",
+                    "Pounds": 57.7,
+                    "Score": 55.4489,
+                    "SubmissionNumber": 905906,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1309207975893",
+                    "MaxOnsite": "05",
+                    "Pounds": 3146.0,
+                    "Score": 1742.271,
+                    "SubmissionNumber": 905907,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1309207975905",
+                    "MaxOnsite": "04",
+                    "Pounds": 632.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 905908,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1309207975917",
+                    "MaxOnsite": "05",
+                    "Pounds": 1923.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 905909,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207975929",
+                    "MaxOnsite": "04",
+                    "Pounds": 303.5,
+                    "Score": 21555.710000000003,
+                    "SubmissionNumber": 905910,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1309207975931",
+                    "MaxOnsite": "01",
+                    "Pounds": 361.0,
+                    "Score": 0.034802,
+                    "SubmissionNumber": 905911,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207975956",
+                    "MaxOnsite": "04",
+                    "Pounds": 3517.0,
+                    "Score": 0.083607,
+                    "SubmissionNumber": 905913,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1309207975968",
+                    "MaxOnsite": "04",
+                    "Pounds": 566.0,
+                    "Score": 0.6833830000000001,
+                    "SubmissionNumber": 905914,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 47549.99999999999,
+            "TotalScore": 49480.053114,
+            "state_score_percentile": 89,
+            "us_score_percentile": 87
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "105679",
+                    "Chemical": "2,4-Dimethylphenol",
+                    "ChemicalNumber": 261,
+                    "DCN": "1310208310108",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.013368,
+                    "SubmissionNumber": 935063,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208310110",
+                    "MaxOnsite": "04",
+                    "Pounds": 739.0,
+                    "Score": 1.0158,
+                    "SubmissionNumber": 935064,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "120127",
+                    "Chemical": "Anthracene",
+                    "ChemicalNumber": 36,
+                    "DCN": "1310208310122",
+                    "MaxOnsite": "04",
+                    "Pounds": 86.0,
+                    "Score": 0.014127,
+                    "SubmissionNumber": 935065,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1310208310134",
+                    "MaxOnsite": "05",
+                    "Pounds": 28863.0,
+                    "Score": 31788.9,
+                    "SubmissionNumber": 935066,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208310146",
+                    "MaxOnsite": "03",
+                    "Pounds": 166.9,
+                    "Score": 0.0,
+                    "SubmissionNumber": 935067,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1310208310161",
+                    "MaxOnsite": "03",
+                    "Pounds": 4766.0,
+                    "Score": 629.482,
+                    "SubmissionNumber": 935069,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1310208310173",
+                    "MaxOnsite": "04",
+                    "Pounds": 9262.0,
+                    "Score": 0.21905999999999998,
+                    "SubmissionNumber": 935070,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208310185",
+                    "MaxOnsite": "04",
+                    "Pounds": 74.9,
+                    "Score": 104.89289,
+                    "SubmissionNumber": 935071,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1310208310197",
+                    "MaxOnsite": "02",
+                    "Pounds": 15.9,
+                    "Score": 15.184694,
+                    "SubmissionNumber": 935072,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1310208310209",
+                    "MaxOnsite": "05",
+                    "Pounds": 4225.0,
+                    "Score": 2470.4790000000003,
+                    "SubmissionNumber": 935073,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "85018",
+                    "Chemical": "Phenanthrene",
+                    "ChemicalNumber": 453,
+                    "DCN": "1310208310211",
+                    "MaxOnsite": "04",
+                    "Pounds": 725.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 935074,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1310208310235",
+                    "MaxOnsite": "05",
+                    "Pounds": 2054.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 935076,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208310247",
+                    "MaxOnsite": "05",
+                    "Pounds": 335.4,
+                    "Score": 22752.85,
+                    "SubmissionNumber": 935077,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1310208310250",
+                    "MaxOnsite": "03",
+                    "Pounds": 598.0,
+                    "Score": 0.053770000000000005,
+                    "SubmissionNumber": 935078,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1310208310274",
+                    "MaxOnsite": "03",
+                    "Pounds": 234.0,
+                    "Score": 0.024272000000000002,
+                    "SubmissionNumber": 935080,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208310286",
+                    "MaxOnsite": "04",
+                    "Pounds": 4438.0,
+                    "Score": 0.107533,
+                    "SubmissionNumber": 935081,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1310208310298",
+                    "MaxOnsite": "04",
+                    "Pounds": 693.0,
+                    "Score": 0.8679410000000001,
+                    "SubmissionNumber": 935082,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 57281.100000000006,
+            "TotalScore": 57764.104455,
+            "state_score_percentile": 90,
+            "us_score_percentile": 88
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000744874",
+    "FacilityID": "15225SHNNG200NE",
+    "FacilityNumber": 117855,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.495069,
+    "Longitude": -80.077834,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 32,
+            "state_pounds_pct": 68,
+            "state_score_pct": 59,
+            "us_count": 143,
+            "us_pounds_pct": 64,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 31,
+            "state_pounds_pct": 70,
+            "state_score_pct": 80,
+            "us_count": 140,
+            "us_pounds_pct": 65,
+            "us_score_pct": 83
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 80,
+            "state_score_pct": 66,
+            "us_count": 141,
+            "us_pounds_pct": 71,
+            "us_score_pct": 75
+        },
+        "1999": {
+            "state_count": 28,
+            "state_pounds_pct": 78,
+            "state_score_pct": 64,
+            "us_count": 140,
+            "us_pounds_pct": 72,
+            "us_score_pct": 72
+        },
+        "2000": {
+            "state_count": 28,
+            "state_pounds_pct": 75,
+            "state_score_pct": 57,
+            "us_count": 143,
+            "us_pounds_pct": 59,
+            "us_score_pct": 67
+        },
+        "2001": {
+            "state_count": 26,
+            "state_pounds_pct": 88,
+            "state_score_pct": 57,
+            "us_count": 140,
+            "us_pounds_pct": 78,
+            "us_score_pct": 75
+        },
+        "2002": {
+            "state_count": 25,
+            "state_pounds_pct": 68,
+            "state_score_pct": 60,
+            "us_count": 132,
+            "us_pounds_pct": 67,
+            "us_score_pct": 71
+        },
+        "2003": {
+            "state_count": 25,
+            "state_pounds_pct": 76,
+            "state_score_pct": 68,
+            "us_count": 130,
+            "us_pounds_pct": 66,
+            "us_score_pct": 70
+        },
+        "2004": {
+            "state_count": 23,
+            "state_pounds_pct": 82,
+            "state_score_pct": 65,
+            "us_count": 129,
+            "us_pounds_pct": 72,
+            "us_score_pct": 71
+        },
+        "2005": {
+            "state_count": 23,
+            "state_pounds_pct": 86,
+            "state_score_pct": 52,
+            "us_count": 129,
+            "us_pounds_pct": 86,
+            "us_score_pct": 67
+        },
+        "2006": {
+            "state_count": 23,
+            "state_pounds_pct": 100,
+            "state_score_pct": 65,
+            "us_count": 127,
+            "us_pounds_pct": 92,
+            "us_score_pct": 79
+        },
+        "2007": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 65,
+            "us_count": 130,
+            "us_pounds_pct": 89,
+            "us_score_pct": 80
+        },
+        "2008": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 65,
+            "us_count": 134,
+            "us_pounds_pct": 91,
+            "us_score_pct": 82
+        },
+        "2009": {
+            "state_count": 24,
+            "state_pounds_pct": 95,
+            "state_score_pct": 75,
+            "us_count": 131,
+            "us_pounds_pct": 90,
+            "us_score_pct": 87
+        },
+        "2010": {
+            "state_count": 24,
+            "state_pounds_pct": 91,
+            "state_score_pct": 79,
+            "us_count": 128,
+            "us_pounds_pct": 89,
+            "us_score_pct": 83
+        },
+        "naicscode": "331111",
+        "name": "Iron and Steel Mills"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 80,
+            "us_count": 30,
+            "us_pounds_pct": 56,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 80,
+            "us_count": 29,
+            "us_pounds_pct": 48,
+            "us_score_pct": 89
+        },
+        "1998": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 80,
+            "us_count": 29,
+            "us_pounds_pct": 51,
+            "us_score_pct": 82
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 80,
+            "us_count": 30,
+            "us_pounds_pct": 70,
+            "us_score_pct": 80
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 77,
+            "us_count": 36,
+            "us_pounds_pct": 50,
+            "us_score_pct": 75
+        },
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 75,
+            "us_count": 44,
+            "us_pounds_pct": 65,
+            "us_score_pct": 84
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 46,
+            "us_pounds_pct": 69,
+            "us_score_pct": 82
+        },
+        "2003": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 71,
+            "us_count": 43,
+            "us_pounds_pct": 62,
+            "us_score_pct": 76
+        },
+        "2004": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 71,
+            "us_count": 47,
+            "us_pounds_pct": 70,
+            "us_score_pct": 82
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 57,
+            "us_count": 45,
+            "us_pounds_pct": 68,
+            "us_score_pct": 73
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 71,
+            "us_count": 45,
+            "us_pounds_pct": 80,
+            "us_score_pct": 82
+        },
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 71,
+            "us_count": 46,
+            "us_pounds_pct": 71,
+            "us_score_pct": 84
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 36,
+            "us_pounds_pct": 61,
+            "us_score_pct": 72
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 87,
+            "us_count": 36,
+            "us_pounds_pct": 55,
+            "us_score_pct": 83
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 85,
+            "us_count": 34,
+            "us_pounds_pct": 55,
+            "us_score_pct": 85
+        },
+        "naicscode": "324199",
+        "name": "All Other Petroleum and Coal Products Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3311",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "SHENANGO INC",
+    "NearComID": 3824131,
+    "NearReach": "05030101000072",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "876235490",
+    "ParentName": "DTE ENERGY CO",
+    "PreferredLat": 40.5083,
+    "PreferredLong": 80.1267,
+    "PublicContactName": "JAMES J. KLINE",
+    "PublicContactPhone": "4127776083",
+    "RCRANumber": "PAD004337465",
+    "RadialDistance": 2448226,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 31,
+            "state_pounds_pct": 64,
+            "state_score_pct": 45,
+            "us_count": 152,
+            "us_pounds_pct": 64,
+            "us_score_pct": 54
+        },
+        "1997": {
+            "state_count": 32,
+            "state_pounds_pct": 65,
+            "state_score_pct": 71,
+            "us_count": 154,
+            "us_pounds_pct": 66,
+            "us_score_pct": 84
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 70,
+            "state_score_pct": 60,
+            "us_count": 151,
+            "us_pounds_pct": 72,
+            "us_score_pct": 76
+        },
+        "1999": {
+            "state_count": 28,
+            "state_pounds_pct": 67,
+            "state_score_pct": 57,
+            "us_count": 149,
+            "us_pounds_pct": 72,
+            "us_score_pct": 73
+        },
+        "2000": {
+            "state_count": 29,
+            "state_pounds_pct": 65,
+            "state_score_pct": 51,
+            "us_count": 153,
+            "us_pounds_pct": 59,
+            "us_score_pct": 67
+        },
+        "2001": {
+            "state_count": 27,
+            "state_pounds_pct": 77,
+            "state_score_pct": 51,
+            "us_count": 150,
+            "us_pounds_pct": 76,
+            "us_score_pct": 74
+        },
+        "2002": {
+            "state_count": 27,
+            "state_pounds_pct": 62,
+            "state_score_pct": 59,
+            "us_count": 142,
+            "us_pounds_pct": 66,
+            "us_score_pct": 70
+        },
+        "2003": {
+            "state_count": 27,
+            "state_pounds_pct": 66,
+            "state_score_pct": 62,
+            "us_count": 141,
+            "us_pounds_pct": 65,
+            "us_score_pct": 72
+        },
+        "2004": {
+            "state_count": 26,
+            "state_pounds_pct": 73,
+            "state_score_pct": 57,
+            "us_count": 142,
+            "us_pounds_pct": 69,
+            "us_score_pct": 71
+        },
+        "2005": {
+            "state_count": 25,
+            "state_pounds_pct": 84,
+            "state_score_pct": 44,
+            "us_count": 141,
+            "us_pounds_pct": 82,
+            "us_score_pct": 64
+        },
+        "2006": {
+            "state_count": 25,
+            "state_pounds_pct": 96,
+            "state_score_pct": 60,
+            "us_count": 141,
+            "us_pounds_pct": 90,
+            "us_score_pct": 78
+        },
+        "2007": {
+            "state_count": 25,
+            "state_pounds_pct": 92,
+            "state_score_pct": 60,
+            "us_count": 138,
+            "us_pounds_pct": 86,
+            "us_score_pct": 77
+        },
+        "2008": {
+            "state_count": 25,
+            "state_pounds_pct": 92,
+            "state_score_pct": 60,
+            "us_count": 141,
+            "us_pounds_pct": 88,
+            "us_score_pct": 78
+        },
+        "2009": {
+            "state_count": 25,
+            "state_pounds_pct": 92,
+            "state_score_pct": 68,
+            "us_count": 138,
+            "us_pounds_pct": 87,
+            "us_score_pct": 86
+        },
+        "2010": {
+            "state_count": 24,
+            "state_pounds_pct": 87,
+            "state_score_pct": 70,
+            "us_count": 136,
+            "us_pounds_pct": 86,
+            "us_score_pct": 84
+        },
+        "name": "Steel works, blast furnaces (including coke ovens), and rolling mills",
+        "siccode": "3312"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 3.0739,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 30.7624,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.5555,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PA",
+    "Street": "200 NEVILLE RD",
+    "SubmitLat": 40.49667,
+    "SubmitLong": 80.07556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1644,
+    "Y": 2536,
+    "ZIP9": "15225",
+    "ZIPCode": "15225"
+}

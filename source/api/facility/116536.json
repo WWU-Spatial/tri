@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERFORD",
+    "County": "NY,SARATOGA",
+    "DUNS": "063785083",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13855.342821,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1396100254996",
+                    "MaxOnsite": "03",
+                    "Pounds": 148.0,
+                    "Score": 2.007552,
+                    "SubmissionNumber": 1770180,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396100255037",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.000658,
+                    "SubmissionNumber": 1770184,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 151.0,
+            "TotalScore": 2.00821,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1397110299967",
+                    "MaxOnsite": "03",
+                    "Pounds": 135.0,
+                    "Score": 1.8272389999999998,
+                    "SubmissionNumber": 1850141,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397110299979",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.000656,
+                    "SubmissionNumber": 1850142,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 138.0,
+            "TotalScore": 1.8278949999999998,
+            "state_score_percentile": 15,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36091",
+    "FRSID": "110010612809",
+    "FacilityID": "12888MRCNS430HU",
+    "FacilityNumber": 116536,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 42.82786,
+    "Longitude": -73.66729,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 25,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 28,
+            "us_score_pct": 22
+        },
+        "naicscode": "324122",
+        "name": "Asphalt Shingle and Coating Materials Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NYR00A504",
+    "Name": "MONSEY PRODUCTS CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002269710",
+    "ParentName": "MONSEY PRODUCTS CO",
+    "PreferredLat": 42.82706,
+    "PreferredLong": 73.66788,
+    "PublicContactName": "MICHAEL P MANNING",
+    "PublicContactPhone": "6109338888",
+    "RCRANumber": "NYR00A504",
+    "RadialDistance": 3011952,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 25,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 28,
+            "us_score_pct": 21
+        },
+        "name": "Asphalt felts and coatings",
+        "siccode": "2952"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "430 HUDSON RIVER RD",
+    "SubmitLat": 42.06667,
+    "SubmitLong": 73.75,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2221,
+    "Y": 2982,
+    "ZIP9": "12188",
+    "ZIPCode": "12188"
+}

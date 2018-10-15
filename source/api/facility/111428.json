@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BEVERLY",
+    "County": "MA,ESSEX",
+    "DUNS": "038331310",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18030.820128,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201768571",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.96,
+                    "Score": 1.2027,
+                    "SubmissionNumber": 352037,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.96,
+            "TotalScore": 1.2027,
+            "state_score_percentile": 17,
+            "us_score_percentile": 5
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202345245",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.76,
+                    "Score": 0.953403,
+                    "SubmissionNumber": 402748,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.76,
+            "TotalScore": 0.953403,
+            "state_score_percentile": 16,
+            "us_score_percentile": 6
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203187493",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.49,
+                    "Score": 0.615509,
+                    "SubmissionNumber": 478623,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.49,
+            "TotalScore": 0.615509,
+            "state_score_percentile": 18,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110020514905",
+    "FacilityID": "01960KSRSY1TECH",
+    "FacilityNumber": 111428,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.52111,
+    "Longitude": -70.96417,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 42,
+            "us_count": 72,
+            "us_pounds_pct": 25,
+            "us_score_pct": 37
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 67,
+            "us_pounds_pct": 23,
+            "us_score_pct": 37
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 71,
+            "us_pounds_pct": 18,
+            "us_score_pct": 33
+        },
+        "naicscode": "334419",
+        "name": "Other Electronic Component Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KAISER SYSTEMS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOYCE BOWEN",
+    "PublicContactPhone": "9789229300",
+    "RCRANumber": "NA",
+    "RadialDistance": 3165704,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 54,
+            "us_count": 155,
+            "us_pounds_pct": 33,
+            "us_score_pct": 44
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 45,
+            "us_count": 152,
+            "us_pounds_pct": 30,
+            "us_score_pct": 40
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 162,
+            "us_pounds_pct": 27,
+            "us_score_pct": 35
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "10 TECHNOLOGY DR",
+    "SubmitLat": 42.52111,
+    "SubmitLong": 70.96417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2495,
+    "Y": 3009,
+    "ZIP9": "01915",
+    "ZIPCode": "01915"
+}

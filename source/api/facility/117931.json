@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "UNIONTOWN",
+    "County": "PA,FAYETTE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 76144.738447,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105073530",
+                    "MaxOnsite": "03",
+                    "Pounds": 8500.0,
+                    "Score": 6306.95,
+                    "SubmissionNumber": 1795633,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105073542",
+                    "MaxOnsite": "03",
+                    "Pounds": 11800.0,
+                    "Score": 11.04,
+                    "SubmissionNumber": 1795634,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20300.0,
+            "TotalScore": 6317.99,
+            "state_score_percentile": 70,
+            "us_score_percentile": 64
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115048694",
+                    "MaxOnsite": "03",
+                    "Pounds": 11800.0,
+                    "Score": 11.1165,
+                    "SubmissionNumber": 1878466,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115048706",
+                    "MaxOnsite": "03",
+                    "Pounds": 8500.0,
+                    "Score": 6375.8,
+                    "SubmissionNumber": 1878467,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20300.0,
+            "TotalScore": 6386.9165,
+            "state_score_percentile": 70,
+            "us_score_percentile": 64
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120220367",
+                    "MaxOnsite": "03",
+                    "Pounds": 5900.0,
+                    "Score": 5.59653,
+                    "SubmissionNumber": 1917792,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398120220379",
+                    "MaxOnsite": "03",
+                    "Pounds": 4250.0,
+                    "Score": 3222.32,
+                    "SubmissionNumber": 1917793,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10150.0,
+            "TotalScore": 3227.91653,
+            "state_score_percentile": 58,
+            "us_score_percentile": 53
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1399130491309",
+                    "MaxOnsite": "03",
+                    "Pounds": 8500.0,
+                    "Score": 6513.5,
+                    "SubmissionNumber": 2031717,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130491311",
+                    "MaxOnsite": "03",
+                    "Pounds": 11800.0,
+                    "Score": 11.2696,
+                    "SubmissionNumber": 2031718,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20300.0,
+            "TotalScore": 6524.7696,
+            "state_score_percentile": 71,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "42051",
+    "FRSID": "110024942428",
+    "FacilityID": "15401GRMMFOLIVE",
+    "FacilityNumber": 117931,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.926517,
+    "Longitude": -79.725829,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 59,
+            "us_pounds_pct": 66,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 61,
+            "us_pounds_pct": 73,
+            "us_score_pct": 78
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 61,
+            "us_pounds_pct": 57,
+            "us_score_pct": 68
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 66,
+            "us_score_pct": 70
+        },
+        "naicscode": "332322",
+        "name": "Sheet Metal Work Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GEROME MANUFACTURING CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 39.85556,
+    "PreferredLong": 79.74167,
+    "PublicContactName": "JOSEPH J PUTILA",
+    "PublicContactPhone": "7244388544",
+    "RCRANumber": "PAD987389830",
+    "RadialDistance": 2422385,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 87,
+            "us_count": 86,
+            "us_pounds_pct": 52,
+            "us_score_pct": 81
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 88,
+            "us_count": 80,
+            "us_pounds_pct": 60,
+            "us_score_pct": 78
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 71,
+            "us_count": 80,
+            "us_pounds_pct": 40,
+            "us_score_pct": 71
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 83,
+            "us_pounds_pct": 59,
+            "us_score_pct": 74
+        },
+        "name": "Sheet metal work",
+        "siccode": "3444"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "OLIVER RD",
+    "SubmitLat": 39.86417,
+    "SubmitLong": 79.74556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1694,
+    "Y": 2465,
+    "ZIP9": "15401",
+    "ZIPCode": "15401"
+}

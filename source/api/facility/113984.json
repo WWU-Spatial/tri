@@ -1,0 +1,325 @@
+{
+    "AssignedComID": 7717180,
+    "AssignedReach": "01100005000419",
+    "City": "DANBURY",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "128576977",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 86571.324047,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "2837890",
+                    "Chemical": "2-Chloro-1,1,1,2-tetrafluoroethane",
+                    "ChemicalNumber": 126,
+                    "DCN": "1396105225419",
+                    "MaxOnsite": "03",
+                    "Pounds": 12787.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1805576,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12787.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 63,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1397115228013",
+                    "MaxOnsite": "03",
+                    "Pounds": 13477.0,
+                    "Score": 8.21585,
+                    "SubmissionNumber": 1887753,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13477.0,
+            "TotalScore": 8.21585,
+            "state_score_percentile": 66,
+            "us_score_percentile": 57
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1398125188730",
+                    "MaxOnsite": "03",
+                    "Pounds": 12200.0,
+                    "Score": 7.57498,
+                    "SubmissionNumber": 1976262,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12200.0,
+            "TotalScore": 7.57498,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303204096919",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.283531,
+                    "SubmissionNumber": 380932,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 0.283531,
+            "state_score_percentile": 47,
+            "us_score_percentile": 40
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304203081284",
+                    "MaxOnsite": "03",
+                    "Pounds": 1200.0,
+                    "Score": 0.340608,
+                    "SubmissionNumber": 467806,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1200.0,
+            "TotalScore": 0.340608,
+            "state_score_percentile": 56,
+            "us_score_percentile": 44
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204297547",
+                    "MaxOnsite": "03",
+                    "Pounds": 782.1,
+                    "Score": 0.222475,
+                    "SubmissionNumber": 579368,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 782.1,
+            "TotalScore": 0.222475,
+            "state_score_percentile": 53,
+            "us_score_percentile": 42
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307205888668",
+                    "MaxOnsite": "03",
+                    "Pounds": 378.0,
+                    "Score": 0.107642,
+                    "SubmissionNumber": 720018,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 378.0,
+            "TotalScore": 0.107642,
+            "state_score_percentile": 48,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000317648",
+    "FacilityID": "06810MRCNCONECA",
+    "FacilityNumber": 113984,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.39457,
+    "Longitude": -73.43674,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 150,
+            "us_pounds_pct": 57,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 139,
+            "us_pounds_pct": 58,
+            "us_score_pct": 49
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 137,
+            "us_pounds_pct": 60,
+            "us_score_pct": 50
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 144,
+            "us_pounds_pct": 34,
+            "us_score_pct": 25
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 142,
+            "us_pounds_pct": 44,
+            "us_score_pct": 26
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 138,
+            "us_pounds_pct": 38,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 133,
+            "us_pounds_pct": 27,
+            "us_score_pct": 16
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MANNKIND CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.39167,
+    "PreferredLong": 73.43333,
+    "PublicContactName": "JOHN GRIMARDI",
+    "PublicContactPhone": "2037963556",
+    "RCRANumber": "CTD000791095",
+    "RadialDistance": 2927029,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 146,
+            "us_pounds_pct": 56,
+            "us_score_pct": 1
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 136,
+            "us_pounds_pct": 58,
+            "us_score_pct": 47
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 135,
+            "us_pounds_pct": 60,
+            "us_score_pct": 48
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 133,
+            "us_pounds_pct": 35,
+            "us_score_pct": 24
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 129,
+            "us_pounds_pct": 44,
+            "us_score_pct": 24
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 121,
+            "us_pounds_pct": 40,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 118,
+            "us_pounds_pct": 29,
+            "us_score_pct": 17
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.716,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "1 CASPER ST",
+    "SubmitLat": 41.39333,
+    "SubmitLong": 73.4375,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2290,
+    "Y": 2796,
+    "ZIP9": "06810",
+    "ZIPCode": "06810"
+}

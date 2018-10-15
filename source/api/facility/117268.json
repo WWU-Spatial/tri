@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WHEATFIELD",
+    "County": "NY,NIAGARA",
+    "DUNS": "002104875",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26680.777805,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1301155009677",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.024152,
+                    "SubmissionNumber": 172775,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.024152,
+            "state_score_percentile": 10,
+            "us_score_percentile": 9
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1302200094136",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.024045,
+                    "SubmissionNumber": 200412,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.024045,
+            "state_score_percentile": 13,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "36063",
+    "FRSID": "110006449600",
+    "FacilityID": "14304WLLMS2080L",
+    "FacilityNumber": 117268,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.121537,
+    "Longitude": -78.936384,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 69,
+            "us_pounds_pct": 16,
+            "us_score_pct": 2
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 66,
+            "us_pounds_pct": 17,
+            "us_score_pct": 3
+        },
+        "naicscode": "331491",
+        "name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "WILLIAMS SPECIALTY ALLOYS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004212999",
+    "ParentName": "BRUSH ENGINEERED MATERIALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LANCE SCARAFIA",
+    "PublicContactPhone": "7162973762",
+    "RCRANumber": "NYR000064634",
+    "RadialDistance": 2730714,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 61,
+            "us_pounds_pct": 18,
+            "us_score_pct": 1
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 60,
+            "us_pounds_pct": 18,
+            "us_score_pct": 1
+        },
+        "name": "Rolling, drawing, and extruding of nonferrous metals, except copper and aluminum",
+        "siccode": "3356"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2080 LOCKPORT RD.",
+    "SubmitLat": 43.12111,
+    "SubmitLong": 78.9325,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1696,
+    "Y": 2914,
+    "ZIP9": "14304",
+    "ZIPCode": "14304"
+}

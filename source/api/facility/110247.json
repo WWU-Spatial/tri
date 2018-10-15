@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GURABO",
+    "County": "PR,GURABO",
+    "DUNS": "603218058",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20529.140931,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105239053",
+                    "MaxOnsite": "04",
+                    "Pounds": 240.0,
+                    "Score": 0.9128109999999999,
+                    "SubmissionNumber": 1806472,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 240.0,
+            "TotalScore": 0.9128109999999999,
+            "state_score_percentile": 18,
+            "us_score_percentile": 14
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110365893",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.159798,
+                    "SubmissionNumber": 1855961,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2.159798,
+            "state_score_percentile": 27,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120521315",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.180209,
+                    "SubmissionNumber": 1940402,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2.180209,
+            "state_score_percentile": 21,
+            "us_score_percentile": 21
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130554710",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.200609,
+                    "SubmissionNumber": 2037032,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2.200609,
+            "state_score_percentile": 21,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140667318",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.22101,
+                    "SubmissionNumber": 51313,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2.22101,
+            "state_score_percentile": 31,
+            "us_score_percentile": 25
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200996623",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.972371,
+                    "SubmissionNumber": 279682,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.972371,
+            "state_score_percentile": 29,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "72063",
+    "FRSID": "110012565713",
+    "FacilityID": "00657DDWLLCARR1",
+    "FacilityNumber": 110247,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.248692,
+    "Longitude": -65.986583,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 16,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 23,
+            "us_score_pct": 34
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 24,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 28,
+            "us_score_pct": 39
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 30,
+            "us_score_pct": 40
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 25,
+            "us_score_pct": 33
+        },
+        "naicscode": "311999",
+        "name": "All Other Miscellaneous Food Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3119",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "PRR05B099",
+    "Name": "D. D. WILLIAMSON (P.R.) LTD.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "603218058",
+    "ParentName": "WILLIAMSON GROUP INC",
+    "PreferredLat": 18.25833,
+    "PreferredLong": 65.97333,
+    "PublicContactName": "EDWIN MARTINEZ",
+    "PublicContactPhone": "7877374100",
+    "RCRANumber": "PRN008011033",
+    "RadialDistance": 39177,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 40,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 26,
+            "us_score_pct": 52
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 34,
+            "us_score_pct": 56
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 47,
+            "us_score_pct": 45
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 32,
+            "us_score_pct": 41
+        },
+        "name": "Flavoring extracts and flavoring syrups, n.e.c.",
+        "siccode": "2087"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "208",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 15.8496,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.5471,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "RD. 189 KM. 5.8 RINCON WARD",
+    "SubmitLat": 18.23417,
+    "SubmitLong": 66.96917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 34,
+    "Y": 34,
+    "ZIP9": "00778",
+    "ZIPCode": "00778"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "627457812",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27058.085491,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1397115108589",
+                    "MaxOnsite": "03",
+                    "Pounds": 52.0,
+                    "Score": 14.34493,
+                    "SubmissionNumber": 1882061,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 52.0,
+            "TotalScore": 14.34493,
+            "state_score_percentile": 9,
+            "us_score_percentile": 10
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398120470657",
+                    "MaxOnsite": "03",
+                    "Pounds": 51.0,
+                    "Score": 14.23906,
+                    "SubmissionNumber": 1936565,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 51.0,
+            "TotalScore": 14.23906,
+            "state_score_percentile": 10,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000311608",
+    "FacilityID": "02703QLCRF43FOR",
+    "FacilityNumber": 111863,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.946134,
+    "Longitude": -71.274934,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 7,
+            "state_score_pct": 19,
+            "us_count": 546,
+            "us_pounds_pct": 18,
+            "us_score_pct": 24
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 9,
+            "state_score_pct": 28,
+            "us_count": 522,
+            "us_pounds_pct": 20,
+            "us_score_pct": 25
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "QUAL-CRAFT METAL FINISHING CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001012327",
+    "ParentName": "QUALITY STEEL PRODS INC",
+    "PreferredLat": 41.94583,
+    "PreferredLong": 71.285,
+    "PublicContactName": "DENNIS NOLAN",
+    "PublicContactPhone": "5082224560",
+    "RCRANumber": "",
+    "RadialDistance": 3107960,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 3,
+            "state_score_pct": 21,
+            "us_count": 565,
+            "us_pounds_pct": 18,
+            "us_score_pct": 23
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 8,
+            "state_score_pct": 30,
+            "us_count": 546,
+            "us_pounds_pct": 20,
+            "us_score_pct": 25
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "43 FOREST ST.",
+    "SubmitLat": 41.94583,
+    "SubmitLong": 71.285,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2485,
+    "Y": 2924,
+    "ZIP9": "02703",
+    "ZIPCode": "02703"
+}

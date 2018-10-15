@@ -1,0 +1,262 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "OXFORD",
+    "County": "ME,OXFORD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 61484.358457,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105157440",
+                    "MaxOnsite": "03",
+                    "Pounds": 17765.0,
+                    "Score": 0.135508,
+                    "SubmissionNumber": 1800989,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105157453",
+                    "MaxOnsite": "03",
+                    "Pounds": 31575.0,
+                    "Score": 9.096316999999999,
+                    "SubmissionNumber": 1800990,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 49340.0,
+            "TotalScore": 9.231824999999999,
+            "state_score_percentile": 70,
+            "us_score_percentile": 77
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115256517",
+                    "MaxOnsite": "03",
+                    "Pounds": 16769.0,
+                    "Score": 4.8403350000000005,
+                    "SubmissionNumber": 1889431,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16769.0,
+            "TotalScore": 4.8403350000000005,
+            "state_score_percentile": 58,
+            "us_score_percentile": 61
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "98828",
+                    "Chemical": "Cumene",
+                    "ChemicalNumber": 165,
+                    "DCN": "1399135147369",
+                    "MaxOnsite": "01",
+                    "Pounds": 105.0,
+                    "Score": 0.007976,
+                    "SubmissionNumber": 2066489,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1399135147395",
+                    "MaxOnsite": "02",
+                    "Pounds": 2927.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2066490,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399135147407",
+                    "MaxOnsite": "03",
+                    "Pounds": 2179.0,
+                    "Score": 16.6155,
+                    "SubmissionNumber": 2066491,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135147698",
+                    "MaxOnsite": "03",
+                    "Pounds": 4160.0,
+                    "Score": 0.03202,
+                    "SubmissionNumber": 2066511,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1399135147813",
+                    "MaxOnsite": "02",
+                    "Pounds": 1375.0,
+                    "Score": 0.11756,
+                    "SubmissionNumber": 2066518,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135147902",
+                    "MaxOnsite": "03",
+                    "Pounds": 3474.0,
+                    "Score": 0.021016,
+                    "SubmissionNumber": 2066526,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135148031",
+                    "MaxOnsite": "03",
+                    "Pounds": 6976.0,
+                    "Score": 2.0411289999999997,
+                    "SubmissionNumber": 2066531,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21196.0,
+            "TotalScore": 18.835200999999998,
+            "state_score_percentile": 66,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "23017",
+    "FRSID": "110000763102",
+    "FacilityID": "04270CRNWLRTE26",
+    "FacilityNumber": 112902,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.184139,
+    "Longitude": -70.51747,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 60,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 33,
+            "us_score_pct": 61
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 34,
+            "us_score_pct": 68
+        },
+        "naicscode": "321999",
+        "name": "All Other Miscellaneous Wood Product Manufacturing"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3219",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CORNWALL WOOD PRODUCTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 44.18722,
+    "PreferredLong": 70.51778,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "MED000840983",
+    "RadialDistance": 3304563,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 60,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 41,
+            "us_score_pct": 64
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 43,
+            "us_score_pct": 70
+        },
+        "name": "Wood products, n.e.c.",
+        "siccode": "2499"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "249",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.7348,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4851,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "1435 MAIN ST",
+    "SubmitLat": 44.18722,
+    "SubmitLong": 70.51778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2477,
+    "Y": 3241,
+    "ZIP9": "04270",
+    "ZIPCode": "04270"
+}

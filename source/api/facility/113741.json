@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAMDEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "089621767",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 61871.538738,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1304202897435",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 3402.87,
+                    "SubmissionNumber": 453338,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 3402.87,
+            "state_score_percentile": 40,
+            "us_score_percentile": 31
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1305203371467",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 3421.54,
+                    "SubmissionNumber": 495664,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 3421.54,
+            "state_score_percentile": 40,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316890",
+    "FacilityID": "06514SPRRP750SH",
+    "FacilityNumber": 113741,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.403751,
+    "Longitude": -72.914563,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 65,
+            "us_pounds_pct": 29,
+            "us_score_pct": 95
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 65,
+            "us_pounds_pct": 26,
+            "us_score_pct": 95
+        },
+        "naicscode": "325910",
+        "name": "Printing Ink Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SUPERIOR PRINTING INK CO INC - CMF1",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PRINTING INK CO INC",
+    "PreferredLat": 41.40083,
+    "PreferredLong": 72.91611,
+    "PublicContactName": "BOB BERNATAVITZ",
+    "PublicContactPhone": "2032811921",
+    "RCRANumber": "CTD089621767",
+    "RadialDistance": 2962393,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 30,
+            "us_score_pct": 98
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 27,
+            "us_score_pct": 98
+        },
+        "name": "Printing ink",
+        "siccode": "2893"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "750 SHERMAN AVE",
+    "SubmitLat": 41.40083,
+    "SubmitLong": 72.91611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2341,
+    "Y": 2809,
+    "ZIP9": "06514",
+    "ZIPCode": "06514"
+}

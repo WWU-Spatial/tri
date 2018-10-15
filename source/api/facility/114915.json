@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "OCEAN",
+    "County": "NJ,MONMOUTH",
+    "DUNS": "090002717",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52065.83985,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105031571",
+                    "MaxOnsite": "04",
+                    "Pounds": 1534.0,
+                    "Score": 5.934950000000001,
+                    "SubmissionNumber": 1792697,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1534.0,
+            "TotalScore": 5.934950000000001,
+            "state_score_percentile": 41,
+            "us_score_percentile": 32
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115141893",
+                    "MaxOnsite": "04",
+                    "Pounds": 1515.0,
+                    "Score": 5.893034,
+                    "SubmissionNumber": 1883741,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115141905",
+                    "MaxOnsite": "04",
+                    "Pounds": 1350.0,
+                    "Score": 27.08231,
+                    "SubmissionNumber": 1883742,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2865.0,
+            "TotalScore": 32.975344,
+            "state_score_percentile": 47,
+            "us_score_percentile": 37
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125037352",
+                    "MaxOnsite": "04",
+                    "Pounds": 1105.0,
+                    "Score": 4.321218999999999,
+                    "SubmissionNumber": 1969332,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125037554",
+                    "MaxOnsite": "04",
+                    "Pounds": 1169.0,
+                    "Score": 23.575397000000002,
+                    "SubmissionNumber": 1969344,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2274.0,
+            "TotalScore": 27.896616,
+            "state_score_percentile": 44,
+            "us_score_percentile": 35
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135129777",
+                    "MaxOnsite": "04",
+                    "Pounds": 1118.0,
+                    "Score": 4.395434,
+                    "SubmissionNumber": 2065588,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1118.0,
+            "TotalScore": 4.395434,
+            "state_score_percentile": 35,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "34025",
+    "FRSID": "110000320590",
+    "FacilityID": "07712NRTHM3504R",
+    "FacilityNumber": 114915,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.240629,
+    "Longitude": -74.04565,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 32,
+            "state_score_pct": 21,
+            "us_count": 634,
+            "us_pounds_pct": 28,
+            "us_score_pct": 33
+        },
+        "1997": {
+            "state_count": 27,
+            "state_pounds_pct": 44,
+            "state_score_pct": 25,
+            "us_count": 600,
+            "us_pounds_pct": 35,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 27,
+            "state_pounds_pct": 44,
+            "state_score_pct": 25,
+            "us_count": 608,
+            "us_pounds_pct": 33,
+            "us_score_pct": 52
+        },
+        "1999": {
+            "state_count": 26,
+            "state_pounds_pct": 23,
+            "state_score_pct": 23,
+            "us_count": 596,
+            "us_pounds_pct": 23,
+            "us_score_pct": 30
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "NORTH AMERICAN TECH.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "",
+    "ParentName": "NA",
+    "PreferredLat": 40.24117,
+    "PreferredLong": 74.04401,
+    "PublicContactName": "SHERMAN STEINBERG",
+    "PublicContactPhone": "7329221661",
+    "RCRANumber": "NA",
+    "RadialDistance": 2809171,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 30,
+            "state_pounds_pct": 30,
+            "state_score_pct": 26,
+            "us_count": 613,
+            "us_pounds_pct": 28,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 29,
+            "state_pounds_pct": 44,
+            "state_score_pct": 31,
+            "us_count": 579,
+            "us_pounds_pct": 36,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 43,
+            "state_score_pct": 26,
+            "us_count": 580,
+            "us_pounds_pct": 33,
+            "us_score_pct": 52
+        },
+        "1999": {
+            "state_count": 29,
+            "state_pounds_pct": 20,
+            "state_score_pct": 24,
+            "us_count": 563,
+            "us_pounds_pct": 21,
+            "us_score_pct": 30
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.0279,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.3645,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "3504 ROSE AVE.",
+    "SubmitLat": 40.24111,
+    "SubmitLong": 74.04389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2266,
+    "Y": 2626,
+    "ZIP9": "077123908",
+    "ZIPCode": "07712"
+}

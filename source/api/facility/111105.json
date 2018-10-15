@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MARLBOROUGH",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "161273545",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 45986.602693,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155135116",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 2.77462,
+                    "SubmissionNumber": 180640,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 2.77462,
+            "state_score_percentile": 19,
+            "us_score_percentile": 9
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201768215",
+                    "MaxOnsite": "02",
+                    "Pounds": 20.0,
+                    "Score": 11.69562,
+                    "SubmissionNumber": 352003,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 11.69562,
+            "state_score_percentile": 31,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110013288799",
+    "FacilityID": "01752SMTKN274CE",
+    "FacilityNumber": 111105,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.3175,
+    "Longitude": -71.588888,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 72,
+            "us_pounds_pct": 38,
+            "us_score_pct": 40
+        },
+        "2003": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 54,
+            "us_score_pct": 68
+        },
+        "naicscode": "334419",
+        "name": "Other Electronic Component Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SMTEK NEW ENGLAND",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "008288813",
+    "ParentName": "SMTEK INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK BAKER",
+    "PublicContactPhone": "5084850275",
+    "RCRANumber": "NA",
+    "RadialDistance": 3110902,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 50,
+            "us_count": 154,
+            "us_pounds_pct": 40,
+            "us_score_pct": 44
+        },
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 72,
+            "state_score_pct": 90,
+            "us_count": 155,
+            "us_pounds_pct": 64,
+            "us_score_pct": 69
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "274 CEDARHILL ROAD",
+    "SubmitLat": 42.3175,
+    "SubmitLong": 71.58889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2441,
+    "Y": 2965,
+    "ZIP9": "01752",
+    "ZIPCode": "01752"
+}

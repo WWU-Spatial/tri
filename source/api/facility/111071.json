@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLLISTON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "066589342",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35332.065516,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105185437",
+                    "MaxOnsite": "03",
+                    "Pounds": 13710.0,
+                    "Score": 0.364609,
+                    "SubmissionNumber": 1802937,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13710.0,
+            "TotalScore": 0.364609,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110064262",
+                    "MaxOnsite": "03",
+                    "Pounds": 13637.0,
+                    "Score": 0.365319,
+                    "SubmissionNumber": 1829538,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13637.0,
+            "TotalScore": 0.365319,
+            "state_score_percentile": 69,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110022447182",
+    "FacilityID": "01746WFWDN29EVE",
+    "FacilityNumber": 111071,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.212772,
+    "Longitude": -71.408877,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 25,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 29,
+            "us_score_pct": 8
+        },
+        "naicscode": "326140",
+        "name": "Polystyrene Foam Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COLD CHAIN TECHNOLOGIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "COLD CHAIN TECHNOLOGIES INC",
+    "PreferredLat": 42.21194,
+    "PreferredLong": 71.40806,
+    "PublicContactName": "DAVE MCDONALD",
+    "PublicContactPhone": "7742337278",
+    "RCRANumber": "NA",
+    "RadialDistance": 3116080,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 264,
+            "us_pounds_pct": 30,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 232,
+            "us_pounds_pct": 32,
+            "us_score_pct": 3
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.0104,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.5344,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "29 EVERETT ST",
+    "SubmitLat": 42.21528,
+    "SubmitLong": 71.40917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2462,
+    "Y": 2956,
+    "ZIP9": "01746",
+    "ZIPCode": "01746"
+}

@@ -1,0 +1,841 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAKEWOOD",
+    "County": "NJ,OCEAN",
+    "DUNS": "002179893",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 71269.827608,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125103046",
+                    "MaxOnsite": "04",
+                    "Pounds": 101.0,
+                    "Score": 0.004743,
+                    "SubmissionNumber": 1972449,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125103073",
+                    "MaxOnsite": "04",
+                    "Pounds": 771.0,
+                    "Score": 1.77184,
+                    "SubmissionNumber": 1972452,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 872.0,
+            "TotalScore": 1.776583,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399130423167",
+                    "MaxOnsite": "03",
+                    "Pounds": 1226.0,
+                    "Score": 0.059425,
+                    "SubmissionNumber": 2026087,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399202166993",
+                    "MaxOnsite": "04",
+                    "Pounds": 170.0,
+                    "Score": 0.315092,
+                    "SubmissionNumber": 2076979,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399202167007",
+                    "MaxOnsite": "04",
+                    "Pounds": 34.0,
+                    "Score": 1.6226,
+                    "SubmissionNumber": 2076980,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1430.0,
+            "TotalScore": 1.997117,
+            "state_score_percentile": 38,
+            "us_score_percentile": 32
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1300202210011",
+                    "MaxOnsite": "03",
+                    "Pounds": 67.0,
+                    "Score": 3.25013,
+                    "SubmissionNumber": 93243,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300202210023",
+                    "MaxOnsite": "05",
+                    "Pounds": 324.0,
+                    "Score": 0.610445,
+                    "SubmissionNumber": 93244,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 391.0,
+            "TotalScore": 3.860575,
+            "state_score_percentile": 27,
+            "us_score_percentile": 23
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1301150514053",
+                    "MaxOnsite": "04",
+                    "Pounds": 2120.0,
+                    "Score": 0.106911,
+                    "SubmissionNumber": 140213,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301202210047",
+                    "MaxOnsite": "05",
+                    "Pounds": 402.0,
+                    "Score": 0.772511,
+                    "SubmissionNumber": 190989,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1301202210050",
+                    "MaxOnsite": "04",
+                    "Pounds": 83.0,
+                    "Score": 4.10593,
+                    "SubmissionNumber": 190990,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2605.0,
+            "TotalScore": 4.985352,
+            "state_score_percentile": 55,
+            "us_score_percentile": 47
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1302200372504",
+                    "MaxOnsite": "04",
+                    "Pounds": 1830.0,
+                    "Score": 0.094403,
+                    "SubmissionNumber": 226217,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1302202209995",
+                    "MaxOnsite": "05",
+                    "Pounds": 281.0,
+                    "Score": 0.550548,
+                    "SubmissionNumber": 286031,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1302202210009",
+                    "MaxOnsite": "04",
+                    "Pounds": 58.0,
+                    "Score": 2.92487,
+                    "SubmissionNumber": 286032,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2169.0,
+            "TotalScore": 3.569821,
+            "state_score_percentile": 54,
+            "us_score_percentile": 46
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303202057752",
+                    "MaxOnsite": "04",
+                    "Pounds": 1155.56,
+                    "Score": 0.049855000000000003,
+                    "SubmissionNumber": 374749,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1303202057764",
+                    "MaxOnsite": "04",
+                    "Pounds": 65.0,
+                    "Score": 3.34025,
+                    "SubmissionNumber": 374750,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1303202057776",
+                    "MaxOnsite": "05",
+                    "Pounds": 313.0,
+                    "Score": 0.625006,
+                    "SubmissionNumber": 374751,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1533.56,
+            "TotalScore": 4.015111,
+            "state_score_percentile": 49,
+            "us_score_percentile": 44
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304202922340",
+                    "MaxOnsite": "04",
+                    "Pounds": 441.0,
+                    "Score": 0.897172,
+                    "SubmissionNumber": 455445,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1304202922365",
+                    "MaxOnsite": "04",
+                    "Pounds": 91.0,
+                    "Score": 4.76368,
+                    "SubmissionNumber": 455447,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 532.0,
+            "TotalScore": 5.660852,
+            "state_score_percentile": 43,
+            "us_score_percentile": 38
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1305203934967",
+                    "MaxOnsite": "05",
+                    "Pounds": 415.0,
+                    "Score": 0.859873,
+                    "SubmissionNumber": 547833,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1305203934979",
+                    "MaxOnsite": "04",
+                    "Pounds": 88.0,
+                    "Score": 4.69109,
+                    "SubmissionNumber": 547834,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 503.0,
+            "TotalScore": 5.550963,
+            "state_score_percentile": 43,
+            "us_score_percentile": 38
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1306204878514",
+                    "MaxOnsite": "04",
+                    "Pounds": 118.0,
+                    "Score": 6.40357,
+                    "SubmissionNumber": 632996,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1306204878526",
+                    "MaxOnsite": "05",
+                    "Pounds": 557.0,
+                    "Score": 1.17503,
+                    "SubmissionNumber": 632997,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 675.0,
+            "TotalScore": 7.5786,
+            "state_score_percentile": 45,
+            "us_score_percentile": 41
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1307206186381",
+                    "MaxOnsite": "04",
+                    "Pounds": 100.49000000000001,
+                    "Score": 5.557216,
+                    "SubmissionNumber": 741046,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1307206186393",
+                    "MaxOnsite": "04",
+                    "Pounds": 475.3,
+                    "Score": 1.021943,
+                    "SubmissionNumber": 741047,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 575.79,
+            "TotalScore": 6.579159000000001,
+            "state_score_percentile": 45,
+            "us_score_percentile": 41
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1308206870798",
+                    "MaxOnsite": "04",
+                    "Pounds": 81.6,
+                    "Score": 2295.28,
+                    "SubmissionNumber": 808480,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1308206870800",
+                    "MaxOnsite": "03",
+                    "Pounds": 77.92,
+                    "Score": 4.385743000000001,
+                    "SubmissionNumber": 808481,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1308206870812",
+                    "MaxOnsite": "04",
+                    "Pounds": 368.65,
+                    "Score": 0.806853,
+                    "SubmissionNumber": 808482,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 528.17,
+            "TotalScore": 2300.472596,
+            "state_score_percentile": 44,
+            "us_score_percentile": 42
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1309207328042",
+                    "MaxOnsite": "03",
+                    "Pounds": 54.120000000000005,
+                    "Score": 3.10066,
+                    "SubmissionNumber": 847378,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1309207328055",
+                    "MaxOnsite": "04",
+                    "Pounds": 256.22,
+                    "Score": 0.570897,
+                    "SubmissionNumber": 847379,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 310.34000000000003,
+            "TotalScore": 3.671557,
+            "state_score_percentile": 45,
+            "us_score_percentile": 40
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1310208698670",
+                    "MaxOnsite": "03",
+                    "Pounds": 70.41,
+                    "Score": 4.211102,
+                    "SubmissionNumber": 970926,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1310208698694",
+                    "MaxOnsite": "04",
+                    "Pounds": 324.26,
+                    "Score": 0.751054,
+                    "SubmissionNumber": 970928,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 394.66999999999996,
+            "TotalScore": 4.962156,
+            "state_score_percentile": 44,
+            "us_score_percentile": 40
+        }
+    },
+    "FIPS": "34029",
+    "FRSID": "110000321820",
+    "FacilityID": "08701MYNTL995TO",
+    "FacilityNumber": 115420,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.058867,
+    "Longitude": -74.190227,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 15,
+            "state_pounds_pct": 46,
+            "state_score_pct": 46,
+            "us_count": 185,
+            "us_pounds_pct": 22,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 15,
+            "state_pounds_pct": 66,
+            "state_score_pct": 53,
+            "us_count": 181,
+            "us_pounds_pct": 32,
+            "us_score_pct": 39
+        },
+        "2000": {
+            "state_count": 16,
+            "state_pounds_pct": 37,
+            "state_score_pct": 43,
+            "us_count": 179,
+            "us_pounds_pct": 13,
+            "us_score_pct": 40
+        },
+        "2001": {
+            "state_count": 14,
+            "state_pounds_pct": 85,
+            "state_score_pct": 64,
+            "us_count": 174,
+            "us_pounds_pct": 44,
+            "us_score_pct": 47
+        },
+        "2002": {
+            "state_count": 12,
+            "state_pounds_pct": 75,
+            "state_score_pct": 66,
+            "us_count": 165,
+            "us_pounds_pct": 39,
+            "us_score_pct": 42
+        },
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 72,
+            "state_score_pct": 54,
+            "us_count": 162,
+            "us_pounds_pct": 33,
+            "us_score_pct": 45
+        },
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 155,
+            "us_pounds_pct": 24,
+            "us_score_pct": 45
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 46,
+            "state_score_pct": 38,
+            "us_count": 157,
+            "us_pounds_pct": 21,
+            "us_score_pct": 43
+        },
+        "2006": {
+            "state_count": 14,
+            "state_pounds_pct": 64,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 27,
+            "us_score_pct": 50
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 64,
+            "state_score_pct": 50,
+            "us_count": 146,
+            "us_pounds_pct": 28,
+            "us_score_pct": 51
+        },
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 50,
+            "state_score_pct": 92,
+            "us_count": 155,
+            "us_pounds_pct": 29,
+            "us_score_pct": 92
+        },
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 57,
+            "state_score_pct": 42,
+            "us_count": 151,
+            "us_pounds_pct": 26,
+            "us_score_pct": 49
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 36,
+            "us_count": 146,
+            "us_pounds_pct": 27,
+            "us_score_pct": 50
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIKA CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002179893",
+    "ParentName": "SIKA CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ARTHUR VAN HOUTEN",
+    "PublicContactPhone": "2015086920",
+    "RCRANumber": "NJD061058814",
+    "RadialDistance": 2787337,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 58,
+            "us_count": 200,
+            "us_pounds_pct": 22,
+            "us_score_pct": 38
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 58,
+            "us_count": 196,
+            "us_pounds_pct": 32,
+            "us_score_pct": 39
+        },
+        "2000": {
+            "state_count": 13,
+            "state_pounds_pct": 38,
+            "state_score_pct": 46,
+            "us_count": 192,
+            "us_pounds_pct": 12,
+            "us_score_pct": 38
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 63,
+            "us_count": 189,
+            "us_pounds_pct": 44,
+            "us_score_pct": 47
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 176,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 55,
+            "us_count": 173,
+            "us_pounds_pct": 34,
+            "us_score_pct": 42
+        },
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 70,
+            "us_count": 165,
+            "us_pounds_pct": 25,
+            "us_score_pct": 45
+        },
+        "2005": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 58,
+            "us_count": 168,
+            "us_pounds_pct": 22,
+            "us_score_pct": 42
+        },
+        "2006": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 160,
+            "us_pounds_pct": 26,
+            "us_score_pct": 48
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 75,
+            "us_count": 151,
+            "us_pounds_pct": 29,
+            "us_score_pct": 49
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 100,
+            "us_count": 160,
+            "us_pounds_pct": 29,
+            "us_score_pct": 91
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 58,
+            "us_count": 156,
+            "us_pounds_pct": 25,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 147,
+            "us_pounds_pct": 24,
+            "us_score_pct": 51
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SIC2": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 33,
+            "us_count": 373,
+            "us_pounds_pct": 31,
+            "us_score_pct": 32
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 33,
+            "us_count": 363,
+            "us_pounds_pct": 40,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 33,
+            "us_count": 386,
+            "us_pounds_pct": 22,
+            "us_score_pct": 39
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 367,
+            "us_pounds_pct": 58,
+            "us_score_pct": 44
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 44,
+            "us_count": 349,
+            "us_pounds_pct": 55,
+            "us_score_pct": 44
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 55,
+            "us_count": 345,
+            "us_pounds_pct": 50,
+            "us_score_pct": 47
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 63,
+            "us_count": 353,
+            "us_pounds_pct": 32,
+            "us_score_pct": 50
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 362,
+            "us_pounds_pct": 29,
+            "us_score_pct": 50
+        },
+        "2006": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 342,
+            "us_pounds_pct": 35,
+            "us_score_pct": 54
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 351,
+            "us_pounds_pct": 37,
+            "us_score_pct": 59
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 366,
+            "us_pounds_pct": 34,
+            "us_score_pct": 97
+        },
+        "2009": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 63,
+            "us_count": 354,
+            "us_pounds_pct": 28,
+            "us_score_pct": 53
+        },
+        "2010": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 44,
+            "us_count": 340,
+            "us_pounds_pct": 27,
+            "us_score_pct": 53
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "MU",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "995 TOWBIN AVE",
+    "SubmitLat": 40.05667,
+    "SubmitLong": 74.18722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2257,
+    "Y": 2598,
+    "ZIP9": "08701",
+    "ZIPCode": "08701"
+}

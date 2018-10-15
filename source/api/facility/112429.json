@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUDSON",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "623385411",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 54270.010959,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207768641",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.066223,
+                    "SubmissionNumber": 888272,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.066223,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208656734",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.066729,
+                    "SubmissionNumber": 966954,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.066729,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110000801008",
+    "FacilityID": "03051FLXTC4INDU",
+    "FacilityNumber": 112429,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.779997,
+    "Longitude": -71.387004,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 119,
+            "us_pounds_pct": 18,
+            "us_score_pct": 13
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 42,
+            "us_count": 120,
+            "us_pounds_pct": 16,
+            "us_score_pct": 13
+        },
+        "naicscode": "334418",
+        "name": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+    },
+    "NAICS2": {
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 89,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 80,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "VULCAN FLEX CIRCUIT CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "071971394",
+    "ParentName": "VULCAN ELECTRIC CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS F. GROVES",
+    "PublicContactPhone": "6038831500",
+    "RCRANumber": "NHD980671077",
+    "RadialDistance": 3154651,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 118,
+            "us_pounds_pct": 10,
+            "us_score_pct": 7
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 107,
+            "us_pounds_pct": 11,
+            "us_score_pct": 10
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "4 INDUSTRIAL DR",
+    "SubmitLat": 42.77944,
+    "SubmitLong": 71.38556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2444,
+    "Y": 3032,
+    "ZIP9": "03051",
+    "ZIPCode": "03051"
+}

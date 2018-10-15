@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PENN YAN",
+    "County": "NY,YATES",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 92139.114654,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1304202238198",
+                    "MaxOnsite": "03",
+                    "Pounds": 5099.0,
+                    "Score": 0.44267899999999993,
+                    "SubmissionNumber": 392954,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5099.0,
+            "TotalScore": 0.44267899999999993,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1306204784351",
+                    "MaxOnsite": "03",
+                    "Pounds": 8087.0,
+                    "Score": 0.692496,
+                    "SubmissionNumber": 624517,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8087.0,
+            "TotalScore": 0.692496,
+            "state_score_percentile": 73,
+            "us_score_percentile": 64
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1307205313594",
+                    "MaxOnsite": "03",
+                    "Pounds": 2918.0,
+                    "Score": 0.248128,
+                    "SubmissionNumber": 669522,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2918.0,
+            "TotalScore": 0.248128,
+            "state_score_percentile": 64,
+            "us_score_percentile": 55
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1308207155262",
+                    "MaxOnsite": "03",
+                    "Pounds": 4117.0,
+                    "Score": 0.347653,
+                    "SubmissionNumber": 828794,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4117.0,
+            "TotalScore": 0.347653,
+            "state_score_percentile": 70,
+            "us_score_percentile": 60
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1309207155957",
+                    "MaxOnsite": "03",
+                    "Pounds": 3423.0,
+                    "Score": 0.28703,
+                    "SubmissionNumber": 832410,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3423.0,
+            "TotalScore": 0.28703,
+            "state_score_percentile": 71,
+            "us_score_percentile": 61
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1310208203808",
+                    "MaxOnsite": "03",
+                    "Pounds": 3414.0,
+                    "Score": 0.284257,
+                    "SubmissionNumber": 924932,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3414.0,
+            "TotalScore": 0.284257,
+            "state_score_percentile": 70,
+            "us_score_percentile": 60
+        }
+    },
+    "FIPS": "36123",
+    "FRSID": "110004494235",
+    "FacilityID": "14527RMCST118MN",
+    "FacilityNumber": 117352,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.655508,
+    "Longitude": -77.057218,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 72,
+            "state_score_pct": 9,
+            "us_count": 492,
+            "us_pounds_pct": 27,
+            "us_score_pct": 21
+        },
+        "2006": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 9,
+            "us_count": 492,
+            "us_pounds_pct": 39,
+            "us_score_pct": 28
+        },
+        "2007": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 9,
+            "us_count": 467,
+            "us_pounds_pct": 23,
+            "us_score_pct": 13
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 9,
+            "us_count": 456,
+            "us_pounds_pct": 28,
+            "us_score_pct": 18
+        },
+        "2009": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 9,
+            "us_count": 418,
+            "us_pounds_pct": 28,
+            "us_score_pct": 22
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 38,
+            "state_score_pct": 7,
+            "us_count": 420,
+            "us_pounds_pct": 26,
+            "us_score_pct": 21
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "REMEE CASTING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ROTO SALT",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRETT OAKES",
+    "PublicContactPhone": "3155363742",
+    "RCRANumber": "NYD987012796",
+    "RadialDistance": 2795695,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 83,
+            "state_score_pct": 16,
+            "us_count": 615,
+            "us_pounds_pct": 30,
+            "us_score_pct": 21
+        },
+        "2006": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 18,
+            "us_count": 569,
+            "us_pounds_pct": 43,
+            "us_score_pct": 27
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 20,
+            "us_count": 512,
+            "us_pounds_pct": 25,
+            "us_score_pct": 12
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 18,
+            "us_count": 470,
+            "us_pounds_pct": 32,
+            "us_score_pct": 19
+        },
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 424,
+            "us_pounds_pct": 31,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 413,
+            "us_pounds_pct": 30,
+            "us_score_pct": 20
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "118 MONELL ST",
+    "SubmitLat": 42.65556,
+    "SubmitLong": 77.05722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1893,
+    "Y": 2886,
+    "ZIP9": "14527",
+    "ZIPCode": "14527"
+}

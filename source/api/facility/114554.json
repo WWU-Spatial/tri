@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 6261186,
+    "AssignedReach": "02030104000112",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "122248768",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 2100.014661,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105346151",
+                    "MaxOnsite": "04",
+                    "Pounds": 635.0,
+                    "Score": 0.16892100000000002,
+                    "SubmissionNumber": 1813358,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 635.0,
+            "TotalScore": 0.16892100000000002,
+            "state_score_percentile": 29,
+            "us_score_percentile": 24
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110376771",
+                    "MaxOnsite": "04",
+                    "Pounds": 460.0,
+                    "Score": 0.123411,
+                    "SubmissionNumber": 1856885,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 460.0,
+            "TotalScore": 0.123411,
+            "state_score_percentile": 21,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000763246",
+    "FacilityID": "07105WBCRF80WHE",
+    "FacilityNumber": 114554,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.717581,
+    "Longitude": -74.157854,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 15,
+            "state_pounds_pct": 33,
+            "state_score_pct": 13,
+            "us_count": 202,
+            "us_pounds_pct": 21,
+            "us_score_pct": 16
+        },
+        "1997": {
+            "state_count": 14,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 188,
+            "us_pounds_pct": 12,
+            "us_score_pct": 13
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "WEBCRAFT CHEMICALS INC., CRAIG ADHESIVES DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.7173,
+    "PreferredLong": 74.1586,
+    "PublicContactName": "ROBERT WHITEHEAD",
+    "PublicContactPhone": "9733441483",
+    "RCRANumber": "NJD000308817",
+    "RadialDistance": 2833371,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 55,
+            "state_score_pct": 22,
+            "us_count": 338,
+            "us_pounds_pct": 36,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 13,
+            "state_pounds_pct": 30,
+            "state_score_pct": 15,
+            "us_count": 315,
+            "us_pounds_pct": 28,
+            "us_score_pct": 10
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "80 WHEELER POINT RD.",
+    "SubmitLat": 40.71722,
+    "SubmitLong": 74.15861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2239,
+    "Y": 2687,
+    "ZIP9": "07105",
+    "ZIPCode": "07105"
+}

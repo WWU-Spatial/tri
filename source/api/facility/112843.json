@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WELLS",
+    "County": "ME,YORK",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 49385.452908,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207846256",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.016766,
+                    "SubmissionNumber": 895532,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207846268",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.0,
+                    "Score": 15.73189,
+                    "SubmissionNumber": 895533,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.1,
+            "TotalScore": 15.748656,
+            "state_score_percentile": 14,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208660581",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.4,
+                    "Score": 18.98042,
+                    "SubmissionNumber": 967309,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.4,
+            "TotalScore": 18.98042,
+            "state_score_percentile": 17,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "23031",
+    "FRSID": "110008433347",
+    "FacilityID": "0409WPKNDS81BYD",
+    "FacilityNumber": 112843,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.304261,
+    "Longitude": -70.701843,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 220,
+            "us_pounds_pct": 50,
+            "us_score_pct": 32
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 219,
+            "us_pounds_pct": 49,
+            "us_score_pct": 31
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC - WELLS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN KORIS",
+    "PublicContactPhone": "2078542561",
+    "RCRANumber": "ME5000001305",
+    "RadialDistance": 3234048,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 210,
+            "us_pounds_pct": 51,
+            "us_score_pct": 33
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 211,
+            "us_pounds_pct": 50,
+            "us_score_pct": 32
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "81 BOYD RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2492,
+    "Y": 3120,
+    "ZIP9": "04090",
+    "ZIPCode": "04090"
+}

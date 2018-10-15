@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18553.859941,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1397115005720",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 9.41568,
+                    "SubmissionNumber": 1875695,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 9.41568,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1300145000244",
+                    "MaxOnsite": "",
+                    "Pounds": 10.0,
+                    "Score": 9.64844,
+                    "SubmissionNumber": 75839,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 9.64844,
+            "state_score_percentile": 11,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110000323383",
+    "FacilityID": "11222JJBRN249HU",
+    "FacilityNumber": 115951,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.733384,
+    "Longitude": -73.951153,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 80,
+            "us_pounds_pct": 4,
+            "us_score_pct": 18
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 84,
+            "us_pounds_pct": 9,
+            "us_score_pct": 26
+        },
+        "naicscode": "331524",
+        "name": "Aluminum Foundries (except Die-Casting)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "J & J BRONZE & ALUMINUM CASTING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "J & J BRONZE & ALUMINUM CASTING CORP",
+    "PreferredLat": 40.7277,
+    "PreferredLong": 73.9481,
+    "PublicContactName": "VINCENT A. GROSSO",
+    "PublicContactPhone": "7183832111",
+    "RCRANumber": "NYR000154658",
+    "RadialDistance": 2848284,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 22,
+            "us_count": 100,
+            "us_pounds_pct": 5,
+            "us_score_pct": 18
+        },
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 18,
+            "state_score_pct": 37,
+            "us_count": 98,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "name": "Aluminum foundries",
+        "siccode": "3365"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "336",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.2964,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "249 HURON ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2260,
+    "Y": 2694,
+    "ZIP9": "11222",
+    "ZIPCode": "11222"
+}

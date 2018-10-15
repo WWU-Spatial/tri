@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BELLEVILLE",
+    "County": "NJ,ESSEX",
+    "DUNS": "002149508",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9622.987682,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100058674",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 0.109222,
+                    "SubmissionNumber": 1753203,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.109222,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397115067629",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 0.110048,
+                    "SubmissionNumber": 1879447,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.110048,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319557",
+    "FacilityID": "07109MLLRS24BEL",
+    "FacilityNumber": 114563,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.785672,
+    "Longitude": -74.150312,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 561,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 546,
+            "us_pounds_pct": 0,
+            "us_score_pct": 2
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MILLER & SON",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.78556,
+    "PreferredLong": 74.15083,
+    "PublicContactName": "EDWARD MILLER",
+    "PublicContactPhone": "9737596445",
+    "RCRANumber": "NJD002149508",
+    "RadialDistance": 2838473,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 575,
+            "us_pounds_pct": 0,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 565,
+            "us_pounds_pct": 0,
+            "us_score_pct": 2
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "24 BELLEVILLE AVE",
+    "SubmitLat": 40.78556,
+    "SubmitLong": 74.15083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2697,
+    "ZIP9": "07109",
+    "ZIPCode": "07109"
+}

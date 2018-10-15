@@ -1,0 +1,172 @@
+{
+    "AssignedComID": 6778573,
+    "AssignedReach": "01080201000065",
+    "City": "TURNERS FALLS",
+    "County": "MA,FRANKLIN",
+    "DUNS": "001116532",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 75726.907016,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145075091",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 80458,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145075127",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.015,
+                    "Score": 0.143082,
+                    "SubmissionNumber": 80459,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.017,
+            "TotalScore": 0.143082,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301155030543",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.003,
+                    "Score": 0.028556,
+                    "SubmissionNumber": 174147,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301155030606",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0003,
+                    "Score": 0.0,
+                    "SubmissionNumber": 174152,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.0033,
+            "TotalScore": 0.028556,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25011",
+    "FRSID": "110002464155",
+    "FacilityID": "01376SLCKMOFFCA",
+    "FacilityNumber": 110756,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.608419,
+    "Longitude": -72.560366,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 87,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 86,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "naicscode": "322110",
+        "name": "Pulp Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0005011",
+    "Name": "ESLEECK MANUFACTURING CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.61083,
+    "PreferredLong": 72.55167,
+    "PublicContactName": "CHARLES H. BLANKER",
+    "PublicContactPhone": "4138634326",
+    "RCRANumber": "MAD001116532",
+    "RadialDistance": 3066806,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 20,
+            "us_count": 194,
+            "us_pounds_pct": 4,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 22,
+            "us_count": 184,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.1829,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 53.34,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 2.7432,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "36 CANAL RD",
+    "SubmitLat": 42.61083,
+    "SubmitLong": 72.55167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2336,
+    "Y": 2980,
+    "ZIP9": "01376",
+    "ZIPCode": "01376"
+}

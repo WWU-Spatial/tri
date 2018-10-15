@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORWOOD",
+    "County": "MA,NORFOLK",
+    "DUNS": "980668784",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25634.490492,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130597887",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.174325,
+                    "SubmissionNumber": 2040622,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.174325,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140078128",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.17457499999999998,
+                    "SubmissionNumber": 6945,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.17457499999999998,
+            "state_score_percentile": 12,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110000834946",
+    "FacilityID": "02062BSLTM20NOR",
+    "FacilityNumber": 111515,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.172955,
+    "Longitude": -71.2016,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 22,
+            "us_count": 506,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 18,
+            "state_pounds_pct": 8,
+            "state_score_pct": 16,
+            "us_count": 508,
+            "us_pounds_pct": 13,
+            "us_score_pct": 4
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ABSOLUTE METAL FINISHING INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL DENEEN JR",
+    "PublicContactPhone": "7815518235",
+    "RCRANumber": "MAD980668784",
+    "RadialDistance": 3127410,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 20,
+            "state_pounds_pct": 5,
+            "state_score_pct": 25,
+            "us_count": 534,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 20,
+            "state_pounds_pct": 7,
+            "state_score_pct": 20,
+            "us_count": 537,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "20 NORTHVIEW AVE",
+    "SubmitLat": 42.29111,
+    "SubmitLong": 71.33778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2484,
+    "Y": 2956,
+    "ZIP9": "02062",
+    "ZIPCode": "02062"
+}

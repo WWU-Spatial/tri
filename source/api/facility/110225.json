@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CIDRA",
+    "County": "PR,CIDRA",
+    "DUNS": "105748099",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33036.524197,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105364487",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.007442,
+                    "SubmissionNumber": 1814884,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.007442,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115176606",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.020052,
+                    "SubmissionNumber": 1885363,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.020052,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125139636",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.033919,
+                    "SubmissionNumber": 1974146,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.033919,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "72041",
+    "FRSID": "110007813615",
+    "FacilityID": "00639NCMNF43BAL",
+    "FacilityNumber": 110225,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 18.17806,
+    "Longitude": -66.16111,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 634,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 600,
+            "us_pounds_pct": 0,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 608,
+            "us_pounds_pct": 1,
+            "us_score_pct": 4
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ENCO MANUFACTURING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 18.15083,
+    "PreferredLong": 65.96333,
+    "PublicContactName": "HIRAM DIAZ",
+    "PublicContactPhone": "7877393751",
+    "RCRANumber": "PRN008003360",
+    "RadialDistance": 21839,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 613,
+            "us_pounds_pct": 0,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 22,
+            "us_count": 579,
+            "us_pounds_pct": 0,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 580,
+            "us_pounds_pct": 1,
+            "us_score_pct": 4
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "BALDORIOTY NO 43",
+    "SubmitLat": 18.17806,
+    "SubmitLong": 66.16111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 12,
+    "Y": 24,
+    "ZIP9": "00739",
+    "ZIPCode": "00739"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELMA",
+    "County": "NY,ERIE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17398.633327,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206742037",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.011679,
+                    "SubmissionNumber": 796520,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.011679,
+            "state_score_percentile": 13,
+            "us_score_percentile": 8
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207462779",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.011637,
+                    "SubmissionNumber": 859637,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.011637,
+            "state_score_percentile": 14,
+            "us_score_percentile": 9
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208336154",
+                    "MaxOnsite": "04",
+                    "Pounds": 47.0,
+                    "Score": 0.544959,
+                    "SubmissionNumber": 937566,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 47.0,
+            "TotalScore": 0.544959,
+            "state_score_percentile": 37,
+            "us_score_percentile": 28
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000564452",
+    "FacilityID": "14059STBNF1150M",
+    "FacilityNumber": 117009,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.8,
+    "Longitude": -78.62027,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 36,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 45,
+            "us_score_pct": 43
+        },
+        "naicscode": "311511",
+        "name": "Fluid Milk Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STEUBEN FOODS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.80056,
+    "PreferredLong": 78.62194,
+    "PublicContactName": "LEONARD CARRUTHERS",
+    "PublicContactPhone": "7166554000",
+    "RCRANumber": "NYR000135509",
+    "RadialDistance": 2720460,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 32,
+            "us_pounds_pct": 4,
+            "us_score_pct": 6
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 48,
+            "us_score_pct": 41
+        },
+        "name": "Fluid milk",
+        "siccode": "2026"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1150 MAPLE RD",
+    "SubmitLat": 42.80056,
+    "SubmitLong": 78.62194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1735,
+    "Y": 2876,
+    "ZIP9": "14059",
+    "ZIPCode": "14059"
+}

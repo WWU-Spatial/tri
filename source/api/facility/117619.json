@@ -1,0 +1,300 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "VANPORT",
+    "County": "PA,BEAVER",
+    "DUNS": "004396974",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 22474.881183,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306204910879",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 240406.0,
+                    "SubmissionNumber": 635832,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1306204910881",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 159.984,
+                    "SubmissionNumber": 635833,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 240565.984,
+            "state_score_percentile": 32,
+            "us_score_percentile": 33
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1307205472804",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 239269.0,
+                    "SubmissionNumber": 684229,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1307205472929",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 159.228,
+                    "SubmissionNumber": 684241,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 239428.228,
+            "state_score_percentile": 34,
+            "us_score_percentile": 34
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308206727897",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 238133.0,
+                    "SubmissionNumber": 795265,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308206727909",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 158.471,
+                    "SubmissionNumber": 795266,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 238291.471,
+            "state_score_percentile": 38,
+            "us_score_percentile": 36
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1310208877910",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 235860.0,
+                    "SubmissionNumber": 987397,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208877985",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 156.959,
+                    "SubmissionNumber": 987403,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 236016.959,
+            "state_score_percentile": 38,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "42007",
+    "FRSID": "110031020384",
+    "FacilityID": "15009KMMNF685ST",
+    "FacilityNumber": 117619,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.680113,
+    "Longitude": -80.338176,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 53,
+            "us_pounds_pct": 43,
+            "us_score_pct": 79
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 80,
+            "us_count": 58,
+            "us_pounds_pct": 56,
+            "us_score_pct": 81
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 83,
+            "us_count": 61,
+            "us_pounds_pct": 56,
+            "us_score_pct": 85
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 51,
+            "us_pounds_pct": 59,
+            "us_score_pct": 84
+        },
+        "naicscode": "332313",
+        "name": "Plate Work Manufacturing"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 83,
+            "us_count": 52,
+            "us_pounds_pct": 52,
+            "us_score_pct": 94
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 83,
+            "us_count": 48,
+            "us_pounds_pct": 51,
+            "us_score_pct": 95
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 83,
+            "us_count": 49,
+            "us_pounds_pct": 59,
+            "us_score_pct": 93
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 100,
+            "us_count": 49,
+            "us_pounds_pct": 65,
+            "us_score_pct": 97
+        },
+        "naicscode": "332710",
+        "name": "Machine Shops"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KMA MANUFACTURING LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004396974",
+    "ParentName": "KMA MANUFACTURING LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DIRK SLIWINSKI",
+    "PublicContactPhone": "7243713059",
+    "RCRANumber": "NA",
+    "RadialDistance": 2448942,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2006": {
+            "state_count": 13,
+            "state_pounds_pct": 30,
+            "state_score_pct": 61,
+            "us_count": 133,
+            "us_pounds_pct": 38,
+            "us_score_pct": 85
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 60,
+            "us_count": 136,
+            "us_pounds_pct": 49,
+            "us_score_pct": 88
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 70,
+            "us_count": 135,
+            "us_pounds_pct": 54,
+            "us_score_pct": 91
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 85,
+            "us_count": 123,
+            "us_pounds_pct": 58,
+            "us_score_pct": 91
+        },
+        "name": "Fabricated plate work (boiler shops)",
+        "siccode": "3443"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "685 STATE ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1613,
+    "Y": 2557,
+    "ZIP9": "15009",
+    "ZIPCode": "15009"
+}

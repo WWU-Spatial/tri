@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGEVILLE",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "064352529",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 17748.428131,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206922041",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001,
+                    "Score": 0.001569,
+                    "SubmissionNumber": 813241,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1308206922054",
+                    "MaxOnsite": "01",
+                    "Pounds": 18.0,
+                    "Score": 109.846,
+                    "SubmissionNumber": 813242,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 18.001,
+            "TotalScore": 109.84756900000001,
+            "state_score_percentile": 23,
+            "us_score_percentile": 22
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207546286",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.002,
+                    "Score": 0.003131,
+                    "SubmissionNumber": 867455,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.002,
+            "TotalScore": 0.003131,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208480689",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001,
+                    "Score": 0.001562,
+                    "SubmissionNumber": 950330,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.001,
+            "TotalScore": 0.001562,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110039496863",
+    "FacilityID": "1501WTBCTY6MAYE",
+    "FacilityNumber": 117640,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.36483,
+    "Longitude": -80.10521,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 36,
+            "us_pounds_pct": 55,
+            "us_score_pct": 72
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 33,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 34,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "naicscode": "562920",
+        "name": "Materials Recovery Facilities"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5629",
+    "NAICSCodeSame3Digit": "562",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "TUBE CITY IMS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "TUBE CITY IMS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL J. CONNOLLY",
+    "PublicContactPhone": "2159565618",
+    "RCRANumber": "",
+    "RadialDistance": 2435934,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 117,
+            "us_pounds_pct": 35,
+            "us_score_pct": 52
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 117,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 114,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "name": "Refuse systems",
+        "siccode": "4953"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "495",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.3353,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "600 MAYER ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1644,
+    "Y": 2518,
+    "ZIP9": "15017",
+    "ZIPCode": "15017"
+}

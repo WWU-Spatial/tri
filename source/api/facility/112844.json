@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORTLAND",
+    "County": "ME,CUMBERLAND",
+    "DUNS": "045953718",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5485.233407,
+    "DistanceToReach": 2322.319951,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105356758",
+                    "MaxOnsite": "03",
+                    "Pounds": 4391.0,
+                    "Score": 28.806335999999998,
+                    "SubmissionNumber": 1814240,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4391.0,
+            "TotalScore": 28.806335999999998,
+            "state_score_percentile": 30,
+            "us_score_percentile": 41
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110176575",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 1.41671,
+                    "SubmissionNumber": 1839351,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110176587",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 10213.7,
+                    "SubmissionNumber": 1839352,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110176599",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 883.605,
+                    "SubmissionNumber": 1839353,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115286179",
+                    "MaxOnsite": "03",
+                    "Pounds": 7259.0,
+                    "Score": 47.775895999999996,
+                    "SubmissionNumber": 1891285,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7274.0,
+            "TotalScore": 11146.497605999999,
+            "state_score_percentile": 41,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "23005",
+    "FRSID": "110035937047",
+    "FacilityID": "04101BTHRN40COM",
+    "FacilityNumber": 112844,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.65815,
+    "Longitude": -70.24971,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 44,
+            "us_pounds_pct": 11,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 35,
+            "us_score_pct": 80
+        },
+        "naicscode": "336611",
+        "name": "Ship Building and Repairing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3366",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": 1,
+    "NPDESPermit": "MER05A035",
+    "Name": "BATH IRON WORKS CORP.",
+    "NearComID": 6721949,
+    "NearReach": "01060001000365",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001381284",
+    "ParentName": "GENERAL DYNAMICS CORP",
+    "PreferredLat": 43.65806,
+    "PreferredLong": 70.24611,
+    "PublicContactName": "KEVIN P. GILDART",
+    "PublicContactPhone": "2074422025",
+    "RCRANumber": "MER05A035",
+    "RadialDistance": 3286737,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 47,
+            "us_pounds_pct": 14,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 35,
+            "us_score_pct": 79
+        },
+        "name": "Ship building and repairing",
+        "siccode": "3731"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "373",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.7864,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.2357,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "40 COMMERCIAL ST.",
+    "SubmitLat": 43.65917,
+    "SubmitLong": 70.24889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2522,
+    "Y": 3179,
+    "ZIP9": "04101",
+    "ZIPCode": "04101"
+}

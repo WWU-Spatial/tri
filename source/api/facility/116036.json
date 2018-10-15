@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MASPETH",
+    "County": "NY,QUEENS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20717.184014,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135116337",
+                    "MaxOnsite": "",
+                    "Pounds": 250.0,
+                    "Score": 0.212,
+                    "SubmissionNumber": 2064968,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.212,
+            "state_score_percentile": 19,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300145141976",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 0.216328,
+                    "SubmissionNumber": 83985,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.216328,
+            "state_score_percentile": 23,
+            "us_score_percentile": 19
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1301155182619",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 0.21653,
+                    "SubmissionNumber": 183637,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.21653,
+            "state_score_percentile": 29,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "36081",
+    "FRSID": "110002093421",
+    "FacilityID": "11378TLTNC57474",
+    "FacilityNumber": 116036,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.71824,
+    "Longitude": -73.922227,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 14
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 7
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 18,
+            "us_pounds_pct": 38,
+            "us_score_pct": 11
+        },
+        "naicscode": "335122",
+        "name": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3351",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ATLITE LIGHTING EQUIPMENT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "COOPER LIGHTING DIV OF COOPER LTD",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GILBERT LOPEZ",
+    "PublicContactPhone": "7184970394",
+    "RCRANumber": "NYR000049809",
+    "RadialDistance": 2849213,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 25,
+            "us_score_pct": 25
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 23,
+            "us_score_pct": 15
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 37,
+            "us_score_pct": 12
+        },
+        "name": "Commercial, industrial, and institutional electric lighting fixtures",
+        "siccode": "3646"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "364",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9032,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "57-47 47TH ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2263,
+    "Y": 2693,
+    "ZIP9": "11378",
+    "ZIPCode": "11378"
+}

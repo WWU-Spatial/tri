@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GUILFORD",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "008192044",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 70538.143229,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100090582",
+                    "MaxOnsite": "03",
+                    "Pounds": 1640.0,
+                    "Score": 0.087675,
+                    "SubmissionNumber": 1755975,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1640.0,
+            "TotalScore": 0.087675,
+            "state_score_percentile": 37,
+            "us_score_percentile": 33
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110041062",
+                    "MaxOnsite": "03",
+                    "Pounds": 1510.0,
+                    "Score": 0.08199,
+                    "SubmissionNumber": 1827499,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1510.0,
+            "TotalScore": 0.08199,
+            "state_score_percentile": 40,
+            "us_score_percentile": 32
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120019777",
+                    "MaxOnsite": "03",
+                    "Pounds": 1500.0,
+                    "Score": 0.082463,
+                    "SubmissionNumber": 1901179,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 0.082463,
+            "state_score_percentile": 38,
+            "us_score_percentile": 31
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316177",
+    "FacilityID": "06437BRNNG385LO",
+    "FacilityNumber": 113522,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.298288,
+    "Longitude": -72.696519,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 39,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 31,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 34,
+            "us_score_pct": 17
+        },
+        "naicscode": "325992",
+        "name": "Photographic Film, Paper, Plate, and Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ARKWRIGHT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "058065707",
+    "ParentName": "ARKWRIGHT INC",
+    "PreferredLat": 41.29917,
+    "PreferredLong": 72.69528,
+    "PublicContactName": "NOREEN CONNOLLY",
+    "PublicContactPhone": "2034535294",
+    "RCRANumber": "CTD047551593",
+    "RadialDistance": 2970096,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 9
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 32,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 30,
+            "us_score_pct": 17
+        },
+        "name": "Photographic equipment and supplies",
+        "siccode": "3861"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "386",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "385 LONG HILL RD.",
+    "SubmitLat": 41.29917,
+    "SubmitLong": 72.69528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2367,
+    "Y": 2801,
+    "ZIP9": "06437",
+    "ZIPCode": "06437"
+}

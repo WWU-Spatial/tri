@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LOWELL",
+    "County": "MA,ESSEX",
+    "DUNS": "794021550",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35360.479339,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396105260475",
+                    "MaxOnsite": "03",
+                    "Pounds": 200.0,
+                    "Score": 3.83021,
+                    "SubmissionNumber": 1807675,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 200.0,
+            "TotalScore": 3.83021,
+            "state_score_percentile": 16,
+            "us_score_percentile": 14
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397115233049",
+                    "MaxOnsite": "03",
+                    "Pounds": 270.0,
+                    "Score": 5.18263,
+                    "SubmissionNumber": 1888015,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 270.0,
+            "TotalScore": 5.18263,
+            "state_score_percentile": 19,
+            "us_score_percentile": 18
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120406424",
+                    "MaxOnsite": "03",
+                    "Pounds": 109.0,
+                    "Score": 2.09702,
+                    "SubmissionNumber": 1931771,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 109.0,
+            "TotalScore": 2.09702,
+            "state_score_percentile": 13,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000499210",
+    "FacilityID": "01852CTNGS90PHO",
+    "FacilityNumber": 111268,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.628236,
+    "Longitude": -71.279454,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 4,
+            "state_score_pct": 16,
+            "us_count": 561,
+            "us_pounds_pct": 22,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 15,
+            "state_score_pct": 15,
+            "us_count": 546,
+            "us_pounds_pct": 33,
+            "us_score_pct": 16
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 19,
+            "state_score_pct": 19,
+            "us_count": 522,
+            "us_pounds_pct": 23,
+            "us_score_pct": 13
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COATING SYSTEMS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.62944,
+    "PreferredLong": 71.27361,
+    "PublicContactName": "ARTHUR SACCO",
+    "PublicContactPhone": "9789373712",
+    "RCRANumber": "MAD985290337",
+    "RadialDistance": 3151741,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 7,
+            "state_score_pct": 17,
+            "us_count": 575,
+            "us_pounds_pct": 23,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 14,
+            "state_score_pct": 17,
+            "us_count": 565,
+            "us_pounds_pct": 34,
+            "us_score_pct": 16
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 17,
+            "state_score_pct": 21,
+            "us_count": 546,
+            "us_pounds_pct": 24,
+            "us_score_pct": 12
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "90 PHOENIX AVE",
+    "SubmitLat": 42.62944,
+    "SubmitLong": 71.27361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2460,
+    "Y": 3015,
+    "ZIP9": "01852",
+    "ZIPCode": "01852"
+}

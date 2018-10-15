@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FAIRPORT",
+    "County": "NY,MONROE",
+    "DUNS": "036001187",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 103525.076767,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155160082",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.04,
+                    "Score": 0.889717,
+                    "SubmissionNumber": 182129,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.04,
+            "TotalScore": 0.889717,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201576699",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 10.1725,
+                    "SubmissionNumber": 334550,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 10.1725,
+            "state_score_percentile": 16,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110013336531",
+    "FacilityID": "14450SNDCC151PE",
+    "FacilityNumber": 117306,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.0898,
+    "Longitude": -77.39249,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 22,
+            "us_count": 202,
+            "us_pounds_pct": 27,
+            "us_score_pct": 24
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 55,
+            "us_count": 138,
+            "us_pounds_pct": 44,
+            "us_score_pct": 57
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SEN DEC CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM TETTE",
+    "PublicContactPhone": "5854253390",
+    "RCRANumber": "NA",
+    "RadialDistance": 2811642,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 14,
+            "state_pounds_pct": 50,
+            "state_score_pct": 35,
+            "us_count": 236,
+            "us_pounds_pct": 28,
+            "us_score_pct": 26
+        },
+        "2003": {
+            "state_count": 13,
+            "state_pounds_pct": 34,
+            "state_score_pct": 61,
+            "us_count": 171,
+            "us_pounds_pct": 50,
+            "us_score_pct": 61
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "151 PERINTON PKWY",
+    "SubmitLat": 43.08944,
+    "SubmitLong": 77.39361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1849,
+    "Y": 2938,
+    "ZIP9": "14450",
+    "ZIPCode": "14450"
+}

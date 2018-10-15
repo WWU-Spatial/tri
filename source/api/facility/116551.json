@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROUSES POINT",
+    "County": "NY,CLINTON",
+    "DUNS": "093254142",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 61526.459246,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105034437",
+                    "MaxOnsite": "03",
+                    "Pounds": 27000.0,
+                    "Score": 2.90821,
+                    "SubmissionNumber": 1792873,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 27000.0,
+            "TotalScore": 2.90821,
+            "state_score_percentile": 79,
+            "us_score_percentile": 69
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115006544",
+                    "MaxOnsite": "03",
+                    "Pounds": 26000.0,
+                    "Score": 2.76616,
+                    "SubmissionNumber": 1875747,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 26000.0,
+            "TotalScore": 2.76616,
+            "state_score_percentile": 78,
+            "us_score_percentile": 68
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398125010355",
+                    "MaxOnsite": "03",
+                    "Pounds": 4000.0,
+                    "Score": 0.420281,
+                    "SubmissionNumber": 1967948,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4000.0,
+            "TotalScore": 0.420281,
+            "state_score_percentile": 51,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "36019",
+    "FRSID": "110000325032",
+    "FacilityID": "12979PWRTXONELI",
+    "FacilityNumber": 116551,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.99963,
+    "Longitude": -73.36294,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 22,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 83,
+            "us_pounds_pct": 21,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "naicscode": "322130",
+        "name": "Paperboard Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "POWERTEX INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 45.0008,
+    "PreferredLong": 73.36078,
+    "PublicContactName": "ALAN A. CARDIN",
+    "PublicContactPhone": "5182974000",
+    "RCRANumber": "NYD986967289",
+    "RadialDistance": 3190185,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 119,
+            "us_pounds_pct": 68,
+            "us_score_pct": 36
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 62,
+            "us_count": 110,
+            "us_pounds_pct": 70,
+            "us_score_pct": 33
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 105,
+            "us_pounds_pct": 33,
+            "us_score_pct": 16
+        },
+        "name": "Manufacturing industries, n.e.c.",
+        "siccode": "3999"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "399",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.967,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1 LINCOLN BLVD.",
+    "SubmitLat": 45.00083,
+    "SubmitLong": 73.36083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2180,
+    "Y": 3280,
+    "ZIP9": "12979",
+    "ZIPCode": "12979"
+}

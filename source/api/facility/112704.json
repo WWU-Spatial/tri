@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORTSMOUTH",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 76553.972374,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207828447",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.6000000000000001,
+                    "Score": 31.58309,
+                    "SubmissionNumber": 893859,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.6000000000000001,
+            "TotalScore": 31.58309,
+            "state_score_percentile": 20,
+            "us_score_percentile": 7
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208781599",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.5,
+                    "Score": 25.6759,
+                    "SubmissionNumber": 978907,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 25.6759,
+            "state_score_percentile": 20,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110009113958",
+    "FacilityID": "0380WPKNDS65PEV",
+    "FacilityNumber": 112704,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.047651,
+    "Longitude": -70.776816,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 71,
+            "us_count": 220,
+            "us_pounds_pct": 31,
+            "us_score_pct": 39
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 21,
+            "state_score_pct": 71,
+            "us_count": 219,
+            "us_pounds_pct": 27,
+            "us_score_pct": 34
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC - PORTSMOUTH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RYAN CROSBIE",
+    "PublicContactPhone": "6035275142",
+    "RCRANumber": "NHD500018718",
+    "RadialDistance": 3212304,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 71,
+            "us_count": 210,
+            "us_pounds_pct": 31,
+            "us_score_pct": 40
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 21,
+            "state_score_pct": 71,
+            "us_count": 211,
+            "us_pounds_pct": 28,
+            "us_score_pct": 36
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "650 PEVERLY RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2494,
+    "Y": 3084,
+    "ZIP9": "03801",
+    "ZIPCode": "03801"
+}

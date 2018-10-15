@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH PLAINFIELD",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "041814005",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26511.907269,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1396100067762",
+                    "MaxOnsite": "03",
+                    "Pounds": 589.0,
+                    "Score": 0.33674,
+                    "SubmissionNumber": 1753979,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 589.0,
+            "TotalScore": 0.33674,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150263010",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.380202,
+                    "SubmissionNumber": 118127,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.380202,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110001142264",
+    "FacilityID": "07080FRRCR115SK",
+    "FacilityNumber": 114421,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.565555,
+    "Longitude": -74.42672,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 10,
+            "us_count": 152,
+            "us_pounds_pct": 37,
+            "us_score_pct": 23
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 175,
+            "us_pounds_pct": 0,
+            "us_score_pct": 18
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FERRO CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004161477",
+    "ParentName": "FERRO CORP",
+    "PreferredLat": 40.56389,
+    "PreferredLong": 74.42778,
+    "PublicContactName": "LARRY RYAN",
+    "PublicContactPhone": "4196823311",
+    "RCRANumber": "NJD041814005",
+    "RadialDistance": 2805115,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 10,
+            "us_count": 167,
+            "us_pounds_pct": 35,
+            "us_score_pct": 22
+        },
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 196,
+            "us_pounds_pct": 0,
+            "us_score_pct": 18
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "115 SKYLINE DR.",
+    "SubmitLat": 40.56389,
+    "SubmitLong": 74.42778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2217,
+    "Y": 2661,
+    "ZIP9": "07080",
+    "ZIPCode": "07080"
+}

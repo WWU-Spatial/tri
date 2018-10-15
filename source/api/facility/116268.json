@@ -1,0 +1,241 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "COHOES",
+    "County": "NY,ALBANY",
+    "DUNS": "053976551",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 8205.516612,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1308206947804",
+                    "MaxOnsite": "03",
+                    "Pounds": 39.0,
+                    "Score": 0.017411,
+                    "SubmissionNumber": 815485,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 39.0,
+            "TotalScore": 0.017411,
+            "state_score_percentile": 34,
+            "us_score_percentile": 26
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1309207545310",
+                    "MaxOnsite": "03",
+                    "Pounds": 36.0,
+                    "Score": 0.016058,
+                    "SubmissionNumber": 867361,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 36.0,
+            "TotalScore": 0.016058,
+            "state_score_percentile": 35,
+            "us_score_percentile": 27
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1310208884698",
+                    "MaxOnsite": "04",
+                    "Pounds": 38.3,
+                    "Score": 0.017105000000000002,
+                    "SubmissionNumber": 987884,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 38.3,
+            "TotalScore": 0.017105000000000002,
+            "state_score_percentile": 36,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110019416540",
+    "FacilityID": "12047SFTYK17GRE",
+    "FacilityNumber": 116268,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.800462,
+    "Longitude": -73.726553,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 74,
+            "us_pounds_pct": 85,
+            "us_score_pct": 70
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 71,
+            "us_pounds_pct": 80,
+            "us_score_pct": 66
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 69,
+            "us_pounds_pct": 68,
+            "us_score_pct": 57
+        },
+        "naicscode": "562112",
+        "name": "Hazardous Waste Collection"
+    },
+    "NAICS2": {
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 71,
+            "us_pounds_pct": 85,
+            "us_score_pct": 73
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 69,
+            "us_pounds_pct": 82,
+            "us_score_pct": 68
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 67,
+            "us_pounds_pct": 68,
+            "us_score_pct": 59
+        },
+        "naicscode": "484220",
+        "name": "Specialized Freight (except Used Goods) Trucking, Local"
+    },
+    "NAICS3": {
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 68,
+            "us_pounds_pct": 88,
+            "us_score_pct": 76
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 66,
+            "us_pounds_pct": 84,
+            "us_score_pct": 71
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 64,
+            "us_pounds_pct": 71,
+            "us_score_pct": 62
+        },
+        "naicscode": "484230",
+        "name": "Specialized Freight (except Used Goods) Trucking, Long-Distance"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5621",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SAFETY-KLEEN SYSTEMS (200401)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "053976551",
+    "ParentName": "SAFETY-KLEEN HOLDCO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ART INGLES",
+    "PublicContactPhone": "5187838080",
+    "RCRANumber": "NYD986872869",
+    "RadialDistance": 3006292,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 14,
+            "us_pounds_pct": 78,
+            "us_score_pct": 64
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 46
+        },
+        "name": "",
+        "siccode": "4212"
+    },
+    "SICCode2Digit": "42",
+    "SICCode3Digit": "421",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "NY",
+    "Street": "17 GREEN MOUNTAIN DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2216,
+    "Y": 2977,
+    "ZIP9": "12047",
+    "ZIPCode": "12047"
+}

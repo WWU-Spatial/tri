@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 22740701,
+    "AssignedReach": "02020004002160",
+    "City": "JOHNSTOWN",
+    "County": "NY,FULTON",
+    "DUNS": "011562477",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55873.331193,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100092129",
+                    "MaxOnsite": "02",
+                    "Pounds": 750.0,
+                    "Score": 0.685015,
+                    "SubmissionNumber": 1756113,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.685015,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110024357",
+                    "MaxOnsite": "02",
+                    "Pounds": 750.0,
+                    "Score": 0.680152,
+                    "SubmissionNumber": 1826029,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.680152,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36035",
+    "FRSID": "110000324275",
+    "FacilityID": "12095HDSNNMAPLE",
+    "FacilityNumber": 116307,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.03064,
+    "Longitude": -74.369458,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 202,
+            "us_pounds_pct": 23,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 188,
+            "us_pounds_pct": 22,
+            "us_score_pct": 29
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HUDSON INDUSTRIES CORP MILLIGAN & HIGGINS DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "045783073",
+    "ParentName": "UHFC",
+    "PreferredLat": 43.02917,
+    "PreferredLong": 74.36833,
+    "PublicContactName": "JAY UTZIG",
+    "PublicContactPhone": "5187624638",
+    "RCRANumber": "NYD066821422",
+    "RadialDistance": 2983413,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 218,
+            "us_pounds_pct": 23,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 201,
+            "us_pounds_pct": 21,
+            "us_score_pct": 29
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9632,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 14.9352,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.4864,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "100 MAPLE AVE   PO BOX 506",
+    "SubmitLat": 43.02917,
+    "SubmitLong": 74.36833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2146,
+    "Y": 2994,
+    "ZIP9": "12095",
+    "ZIPCode": "12095"
+}

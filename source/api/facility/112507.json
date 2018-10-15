@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NASHUA",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "611479064",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 62296.256805,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301155022611",
+                    "MaxOnsite": "04",
+                    "Pounds": 99.0,
+                    "Score": 0.1196,
+                    "SubmissionNumber": 173686,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 99.0,
+            "TotalScore": 0.1196,
+            "state_score_percentile": 33,
+            "us_score_percentile": 22
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202334140",
+                    "MaxOnsite": "02",
+                    "Pounds": 750.0,
+                    "Score": 0.908429,
+                    "SubmissionNumber": 401747,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.908429,
+            "state_score_percentile": 54,
+            "us_score_percentile": 40
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203368511",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.90787,
+                    "SubmissionNumber": 495374,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.90787,
+            "state_score_percentile": 63,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110000883848",
+    "FacilityID": "03063CRCTC4STAT",
+    "FacilityNumber": 112507,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.79295,
+    "Longitude": -71.52803,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 202,
+            "us_pounds_pct": 50,
+            "us_score_pct": 7
+        },
+        "2004": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 57,
+            "us_count": 141,
+            "us_pounds_pct": 83,
+            "us_score_pct": 30
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 57,
+            "us_count": 131,
+            "us_pounds_pct": 82,
+            "us_score_pct": 29
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CIRCUIT CONNECT INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.7779,
+    "PreferredLong": 71.5201,
+    "PublicContactName": "WILLIS WHALEN",
+    "PublicContactPhone": "6038807447",
+    "RCRANumber": "NHD986466688",
+    "RadialDistance": 3146277,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 20,
+            "us_count": 236,
+            "us_pounds_pct": 53,
+            "us_score_pct": 8
+        },
+        "2004": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 62,
+            "us_count": 176,
+            "us_pounds_pct": 84,
+            "us_score_pct": 32
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 62,
+            "us_count": 168,
+            "us_pounds_pct": 83,
+            "us_score_pct": 33
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "4 STATE ST",
+    "SubmitLat": 42.79389,
+    "SubmitLong": 71.52694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2430,
+    "Y": 3030,
+    "ZIP9": "03063",
+    "ZIPCode": "03063"
+}

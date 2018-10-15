@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CARLSTADT",
+    "County": "NJ,BERGEN",
+    "DUNS": "836340935",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 15942.621243,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105172086",
+                    "MaxOnsite": "03",
+                    "Pounds": 11773.0,
+                    "Score": 3.035895,
+                    "SubmissionNumber": 1802006,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105398503",
+                    "MaxOnsite": "03",
+                    "Pounds": 12925.0,
+                    "Score": 779.0799999999999,
+                    "SubmissionNumber": 1817543,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 24698.0,
+            "TotalScore": 782.1158949999999,
+            "state_score_percentile": 80,
+            "us_score_percentile": 67
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115199857",
+                    "MaxOnsite": "03",
+                    "Pounds": 14027.0,
+                    "Score": 3.6474719999999996,
+                    "SubmissionNumber": 1886495,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115252456",
+                    "MaxOnsite": "",
+                    "Pounds": 15200.0,
+                    "Score": 923.6560000000001,
+                    "SubmissionNumber": 1889195,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29227.0,
+            "TotalScore": 927.303472,
+            "state_score_percentile": 81,
+            "us_score_percentile": 70
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120473905",
+                    "MaxOnsite": "03",
+                    "Pounds": 9027.0,
+                    "Score": 2.3698379999999997,
+                    "SubmissionNumber": 1936754,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120473917",
+                    "MaxOnsite": "03",
+                    "Pounds": 13064.0,
+                    "Score": 792.9167,
+                    "SubmissionNumber": 1936755,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 22091.0,
+            "TotalScore": 795.286538,
+            "state_score_percentile": 79,
+            "us_score_percentile": 66
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130294756",
+                    "MaxOnsite": "03",
+                    "Pounds": 9400.0,
+                    "Score": 2.486622,
+                    "SubmissionNumber": 2015268,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130294768",
+                    "MaxOnsite": "03",
+                    "Pounds": 16400.0,
+                    "Score": 1003.9594,
+                    "SubmissionNumber": 2015269,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25800.0,
+            "TotalScore": 1006.446022,
+            "state_score_percentile": 82,
+            "us_score_percentile": 69
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000318905",
+    "FacilityID": "07072PNRND401WA",
+    "FacilityNumber": 114378,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.820113,
+    "Longitude": -74.063406,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 61,
+            "us_pounds_pct": 59,
+            "us_score_pct": 78
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 57,
+            "us_pounds_pct": 56,
+            "us_score_pct": 82
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 58,
+            "us_pounds_pct": 53,
+            "us_score_pct": 77
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 56,
+            "us_pounds_pct": 55,
+            "us_score_pct": 76
+        },
+        "naicscode": "332321",
+        "name": "Metal Window and Door Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PIONEER INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.81953,
+    "PreferredLong": 74.06418,
+    "PublicContactName": "KAMAL SHEIKH",
+    "PublicContactPhone": "2019331900",
+    "RCRANumber": "NJD048410799",
+    "RadialDistance": 2846599,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 53,
+            "us_score_pct": 79
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 60,
+            "us_pounds_pct": 55,
+            "us_score_pct": 88
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 49,
+            "us_score_pct": 79
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 49,
+            "us_score_pct": 79
+        },
+        "name": "Metal doors, sash, frames, molding, and trim",
+        "siccode": "3442"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.5156,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.8087,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "401 WASHINGTON AVE.",
+    "SubmitLat": 40.81944,
+    "SubmitLong": 74.06417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2246,
+    "Y": 2703,
+    "ZIP9": "07072",
+    "ZIPCode": "07072"
+}

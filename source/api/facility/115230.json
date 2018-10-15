@@ -1,0 +1,252 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTHAMPTON",
+    "County": "NJ,BURLINGTON",
+    "DUNS": "053976551",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43164.149743,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398120654773",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.00081,
+                    "SubmissionNumber": 1950091,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.00081,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1300140583461",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.000271,
+                    "SubmissionNumber": 46463,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140583473",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 183.9574,
+                    "SubmissionNumber": 46464,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 9.0,
+            "TotalScore": 183.957671,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1301150737841",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.000543,
+                    "SubmissionNumber": 159765,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.000543,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "34005",
+    "FRSID": "110000321394",
+    "FacilityID": "08088SFTYK123RE",
+    "FacilityNumber": 115230,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.894045,
+    "Longitude": -74.743949,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 32,
+            "us_score_pct": 16
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 29,
+            "us_score_pct": 29
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 5,
+            "us_score_pct": 7
+        },
+        "naicscode": "562112",
+        "name": "Hazardous Waste Collection"
+    },
+    "NAICS2": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 35,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 60,
+            "us_pounds_pct": 29,
+            "us_score_pct": 30
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 6,
+            "us_score_pct": 7
+        },
+        "naicscode": "484220",
+        "name": "Specialized Freight (except Used Goods) Trucking, Local"
+    },
+    "NAICS3": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 37,
+            "us_score_pct": 21
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 30,
+            "us_score_pct": 27
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 6,
+            "us_score_pct": 7
+        },
+        "naicscode": "484230",
+        "name": "Specialized Freight (except Used Goods) Trucking, Long-Distance"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5621",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SAFETY-KLEEN SYSTEMS (213904)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "053976551",
+    "ParentName": "SAFETY-KLEEN HOLDCO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KEITH WILSON",
+    "PublicContactPhone": "6098592049",
+    "RCRANumber": "NJD000768101",
+    "RadialDistance": 2738598,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 107,
+            "us_pounds_pct": 22,
+            "us_score_pct": 11
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 119,
+            "us_pounds_pct": 21,
+            "us_score_pct": 31
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 111,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "name": "Business services, n.e.c.",
+        "siccode": "7389"
+    },
+    "SICCode2Digit": "73",
+    "SICCode3Digit": "738",
+    "SICCodeSame2Digit": "73",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0772,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "123 RED LION RD",
+    "SubmitLat": 39.89056,
+    "SubmitLong": 74.74694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2205,
+    "Y": 2563,
+    "ZIP9": "08088",
+    "ZIPCode": "08088"
+}

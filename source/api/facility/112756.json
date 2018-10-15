@@ -1,0 +1,230 @@
+{
+    "AssignedComID": 5845822,
+    "AssignedReach": "01060003000133",
+    "City": "ROCHESTER",
+    "County": "NH,STRAFFORD",
+    "DUNS": "002059525",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65911.615422,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204909372",
+                    "MaxOnsite": "03",
+                    "Pounds": 17.33,
+                    "Score": 9.73431,
+                    "SubmissionNumber": 635689,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17.33,
+            "TotalScore": 9.73431,
+            "state_score_percentile": 38,
+            "us_score_percentile": 20
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307206028502",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.15,
+                    "Score": 0.656707,
+                    "SubmissionNumber": 731621,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.15,
+            "TotalScore": 0.656707,
+            "state_score_percentile": 28,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "33017",
+    "FRSID": "110000581344",
+    "FacilityID": "03867KWTHMFARMI",
+    "FacilityNumber": 112756,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.33046,
+    "Longitude": -71.00582,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 50,
+            "us_score_pct": 58
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "naicscode": "332994",
+        "name": "Small Arms Manufacturing"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 37,
+            "us_pounds_pct": 21,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 38,
+            "us_pounds_pct": 10,
+            "us_score_pct": 10
+        },
+        "naicscode": "331512",
+        "name": "Steel Investment Foundries"
+    },
+    "NAICS3": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 25,
+            "us_score_pct": 28
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 10,
+            "us_score_pct": 9
+        },
+        "naicscode": "331528",
+        "name": "Other Nonferrous Foundries (except Die-Casting)"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KW THOMPSON TOOL CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "046872417",
+    "ParentName": "SMITH & WESSON HOLDING CO",
+    "PreferredLat": 43.31694,
+    "PreferredLong": 70.99917,
+    "PublicContactName": "WILLIAM SERRA",
+    "PublicContactPhone": "4137473470",
+    "RCRANumber": "NHD002059525",
+    "RadialDistance": 3216027,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 53,
+            "us_score_pct": 61
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 28,
+            "us_score_pct": 28
+        },
+        "name": "Small arms",
+        "siccode": "3484"
+    },
+    "SIC2": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 39,
+            "us_pounds_pct": 20,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 39,
+            "us_pounds_pct": 7,
+            "us_score_pct": 5
+        },
+        "name": "Steel investment foundries",
+        "siccode": "3324"
+    },
+    "SIC3": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 16,
+            "us_score_pct": 27
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 57,
+            "us_pounds_pct": 7,
+            "us_score_pct": 10
+        },
+        "name": "Nonferrous foundries, except aluminum and copper",
+        "siccode": "3369"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "348",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 1.8918,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "400 N MAIN ST",
+    "SubmitLat": 43.31694,
+    "SubmitLong": 70.99917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2462,
+    "Y": 3115,
+    "ZIP9": "03867",
+    "ZIPCode": "03867"
+}

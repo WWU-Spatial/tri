@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HILLSBOROUGH",
+    "County": "NJ,SOMERSET",
+    "DUNS": "062187633",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 45237.439251,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120135722",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.433923,
+                    "SubmissionNumber": 1910774,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.433923,
+            "state_score_percentile": 14,
+            "us_score_percentile": 15
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130214416",
+                    "MaxOnsite": "03",
+                    "Pounds": 23680.0,
+                    "Score": 41.7478,
+                    "SubmissionNumber": 2008513,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23680.0,
+            "TotalScore": 41.7478,
+            "state_score_percentile": 79,
+            "us_score_percentile": 68
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110000322482",
+    "FacilityID": "08876JXMFG321VA",
+    "FacilityNumber": 115640,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.52808,
+    "Longitude": -74.653125,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 55,
+            "us_score_pct": 55
+        },
+        "naicscode": "336212",
+        "name": "Truck Trailer Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3362",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "000000000",
+    "Name": "AJAX MFG. CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016212404",
+    "ParentName": "STANDARD AUTOMOTIVE CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT J. SLEMMER",
+    "PublicContactPhone": "9083695544",
+    "RCRANumber": "NJD982279879",
+    "RadialDistance": 2787453,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 57,
+            "us_score_pct": 55
+        },
+        "name": "Truck trailers",
+        "siccode": "3715"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.585,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.2718,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "321 VALLEY RD.",
+    "SubmitLat": 40.58333,
+    "SubmitLong": 74.75,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2195,
+    "Y": 2650,
+    "ZIP9": "088760000",
+    "ZIPCode": "08876"
+}

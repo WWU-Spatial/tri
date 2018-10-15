@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROCKPORT",
+    "County": "NY,MONROE",
+    "DUNS": "002214195",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 71842.956156,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125265052",
+                    "MaxOnsite": "04",
+                    "Pounds": 624.0,
+                    "Score": 5.061342000000001,
+                    "SubmissionNumber": 1979510,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 624.0,
+            "TotalScore": 5.061342000000001,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399135140111",
+                    "MaxOnsite": "04",
+                    "Pounds": 431.0,
+                    "Score": 3.490005,
+                    "SubmissionNumber": 2066091,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 431.0,
+            "TotalScore": 3.490005,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000327557",
+    "FacilityID": "14420KLNBR100FA",
+    "FacilityNumber": 117282,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.207816,
+    "Longitude": -77.931887,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 100,
+            "us_pounds_pct": 56,
+            "us_score_pct": 42
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 99,
+            "us_pounds_pct": 42,
+            "us_score_pct": 41
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0002283",
+    "Name": "KLEEN BRITE LABORATORIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.20917,
+    "PreferredLong": 77.93556,
+    "PublicContactName": "SUSAN EXFORD",
+    "PublicContactPhone": "7166370630",
+    "RCRANumber": "NYD002217123",
+    "RadialDistance": 2791648,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 88,
+            "us_pounds_pct": 52,
+            "us_score_pct": 40
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 86,
+            "us_pounds_pct": 44,
+            "us_score_pct": 40
+        },
+        "name": "Soap and other detergents, except specialty cleaners",
+        "siccode": "2841"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "100 FAIR ST.",
+    "SubmitLat": 43.20917,
+    "SubmitLong": 77.93556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1793,
+    "Y": 2944,
+    "ZIP9": "14420",
+    "ZIPCode": "14420"
+}

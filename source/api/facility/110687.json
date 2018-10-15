@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SPRINGFIELD",
+    "County": "MA,HAMPDEN",
+    "DUNS": "048662910",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22048.386509,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205352166",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.030029,
+                    "SubmissionNumber": 673117,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.030029,
+            "state_score_percentile": 17,
+            "us_score_percentile": 8
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206728053",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.64,
+                    "Score": 0.019227,
+                    "SubmissionNumber": 795281,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.64,
+            "TotalScore": 0.019227,
+            "state_score_percentile": 13,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000308417",
+    "FacilityID": "01109LSTRN54WAL",
+    "FacilityNumber": 110687,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.109802,
+    "Longitude": -72.561767,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 312,
+            "us_pounds_pct": 3,
+            "us_score_pct": 8
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 322,
+            "us_pounds_pct": 3,
+            "us_score_pct": 6
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LUSTER-ON PRODUCTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.10944,
+    "PreferredLong": 72.56194,
+    "PublicContactName": "ALEX PRICE",
+    "PublicContactPhone": "4137392541",
+    "RCRANumber": "MAD048662910",
+    "RadialDistance": 3032885,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 280,
+            "us_pounds_pct": 2,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 280,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SIC2": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 410,
+            "us_pounds_pct": 2,
+            "us_score_pct": 4
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 405,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 22.86,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "54 WALTHAM AVE",
+    "SubmitLat": 42.10944,
+    "SubmitLong": 72.56194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2353,
+    "Y": 2913,
+    "ZIP9": "01109",
+    "ZIPCode": "01109"
+}

@@ -1,0 +1,342 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST FREETOWN",
+    "County": "MA,BRISTOL",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38669.765289,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203843659",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.26,
+                    "Score": 0.121011,
+                    "SubmissionNumber": 539483,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.26,
+            "TotalScore": 0.121011,
+            "state_score_percentile": 13,
+            "us_score_percentile": 5
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204301497",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.2,
+                    "Score": 0.093162,
+                    "SubmissionNumber": 579728,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.093162,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205327265",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.04662,
+                    "SubmissionNumber": 670778,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.04662,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206271001",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.06,
+                    "Score": 0.027995,
+                    "SubmissionNumber": 752381,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.06,
+            "TotalScore": 0.027995,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207401252",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.07,
+                    "Score": 0.032688,
+                    "SubmissionNumber": 853865,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.07,
+            "TotalScore": 0.032688,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208120535",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.09,
+                    "Score": 0.042062,
+                    "SubmissionNumber": 917022,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.09,
+            "TotalScore": 0.042062,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110015758802",
+    "FacilityID": "02717PRFRR66BRA",
+    "FacilityNumber": 111878,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.759481,
+    "Longitude": -70.967927,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 62,
+            "state_score_pct": 51,
+            "us_count": 280,
+            "us_pounds_pct": 75,
+            "us_score_pct": 68
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 46,
+            "state_score_pct": 42,
+            "us_count": 278,
+            "us_pounds_pct": 70,
+            "us_score_pct": 58
+        },
+        "2007": {
+            "state_count": 20,
+            "state_pounds_pct": 30,
+            "state_score_pct": 15,
+            "us_count": 259,
+            "us_pounds_pct": 57,
+            "us_score_pct": 45
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 22,
+            "state_score_pct": 16,
+            "us_count": 296,
+            "us_pounds_pct": 43,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 29,
+            "state_score_pct": 16,
+            "us_count": 292,
+            "us_pounds_pct": 40,
+            "us_score_pct": 33
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 50,
+            "state_score_pct": 23,
+            "us_count": 287,
+            "us_pounds_pct": 47,
+            "us_score_pct": 40
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PREFERRED CONCRETE CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANTONIO SOUSA",
+    "PublicContactPhone": "5087635500",
+    "RCRANumber": "NA",
+    "RadialDistance": 3117073,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 62,
+            "state_score_pct": 51,
+            "us_count": 292,
+            "us_pounds_pct": 72,
+            "us_score_pct": 66
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 46,
+            "state_score_pct": 42,
+            "us_count": 286,
+            "us_pounds_pct": 68,
+            "us_score_pct": 56
+        },
+        "2007": {
+            "state_count": 20,
+            "state_pounds_pct": 30,
+            "state_score_pct": 15,
+            "us_count": 266,
+            "us_pounds_pct": 56,
+            "us_score_pct": 44
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 22,
+            "state_score_pct": 16,
+            "us_count": 297,
+            "us_pounds_pct": 42,
+            "us_score_pct": 29
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 29,
+            "state_score_pct": 16,
+            "us_count": 291,
+            "us_pounds_pct": 38,
+            "us_score_pct": 32
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 50,
+            "state_score_pct": 23,
+            "us_count": 279,
+            "us_pounds_pct": 47,
+            "us_score_pct": 40
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SIC2": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 43,
+            "us_pounds_pct": 65,
+            "us_score_pct": 44
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 59,
+            "us_score_pct": 36
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 46,
+            "us_score_pct": 33
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 37,
+            "us_pounds_pct": 54,
+            "us_score_pct": 54
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 52,
+            "us_score_pct": 40
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 37,
+            "us_pounds_pct": 56,
+            "us_score_pct": 43
+        },
+        "name": "Concrete block and brick",
+        "siccode": "3271"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "66 BRALEY RD",
+    "SubmitLat": 41.75389,
+    "SubmitLong": 70.9725,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2522,
+    "Y": 2907,
+    "ZIP9": "02717",
+    "ZIPCode": "02717"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 9433641,
+    "AssignedReach": "02040302000613",
+    "City": "FOLSOM",
+    "County": "NJ,ATLANTIC",
+    "DUNS": "853453968",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 46755.535283,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1308207152378",
+                    "MaxOnsite": "07",
+                    "Pounds": 1000.0,
+                    "Score": 2.209849,
+                    "SubmissionNumber": 828770,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 2.209849,
+            "state_score_percentile": 53,
+            "us_score_percentile": 47
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1309207585100",
+                    "MaxOnsite": "07",
+                    "Pounds": 1000.0,
+                    "Score": 2.227051,
+                    "SubmissionNumber": 871143,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 2.227051,
+            "state_score_percentile": 57,
+            "us_score_percentile": 49
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208198921",
+                    "MaxOnsite": "07",
+                    "Pounds": 1000.0,
+                    "Score": 2.244242,
+                    "SubmissionNumber": 924480,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 2.244242,
+            "state_score_percentile": 53,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "34001",
+    "FRSID": "110002347318",
+    "FacilityID": "08037MRCNGRT54S",
+    "FacilityNumber": 115129,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.612416,
+    "Longitude": -74.830909,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 314,
+            "us_pounds_pct": 35,
+            "us_score_pct": 22
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 11,
+            "us_count": 304,
+            "us_pounds_pct": 40,
+            "us_score_pct": 24
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 20,
+            "us_count": 298,
+            "us_pounds_pct": 37,
+            "us_score_pct": 20
+        },
+        "naicscode": "332812",
+        "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AMERICAN GALVANIZING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003113123",
+    "ParentName": "RECO INDUSTRIAL INC",
+    "PreferredLat": 39.6123,
+    "PreferredLong": 74.8313,
+    "PublicContactName": "JOHN GREGOR",
+    "PublicContactPhone": "6095672090",
+    "RCRANumber": "NJD092870963",
+    "RadialDistance": 2713973,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 11,
+            "us_count": 298,
+            "us_pounds_pct": 38,
+            "us_score_pct": 21
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 11,
+            "us_count": 282,
+            "us_pounds_pct": 41,
+            "us_score_pct": 20
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 30,
+            "us_count": 281,
+            "us_pounds_pct": 39,
+            "us_score_pct": 20
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "RT 54-SOUTH BLACK HORSE PIKE",
+    "SubmitLat": 39.33333,
+    "SubmitLong": 50.31056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2205,
+    "Y": 2523,
+    "ZIP9": "08037",
+    "ZIPCode": "08037"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KENNEBUNK",
+    "County": "ME,YORK",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33467.182639,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1397115144343",
+                    "MaxOnsite": "03",
+                    "Pounds": 2475.0,
+                    "Score": 0.15903,
+                    "SubmissionNumber": 1883845,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2475.0,
+            "TotalScore": 0.15903,
+            "state_score_percentile": 23,
+            "us_score_percentile": 36
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1398125080438",
+                    "MaxOnsite": "03",
+                    "Pounds": 2649.0,
+                    "Score": 0.173063,
+                    "SubmissionNumber": 1971346,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2649.0,
+            "TotalScore": 0.173063,
+            "state_score_percentile": 30,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "23031",
+    "FRSID": "110013980246",
+    "FacilityID": "04043FBRGLALOWI",
+    "FacilityNumber": 112805,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.407428,
+    "Longitude": -70.563222,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 57,
+            "us_score_pct": 14
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 16
+        },
+        "naicscode": "327000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3270",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "FIBERGLASS PLUS RECREATIONAL INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KENNETH L. BURNS, JR.",
+    "PublicContactPhone": "2079858585",
+    "RCRANumber": "",
+    "RadialDistance": 3249870,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 8,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 18,
+            "us_score_pct": 22
+        },
+        "name": "Nonmetallic mineral products, n.e.c.",
+        "siccode": "3299"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "329",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 2.9083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "ALOWIVE PARK RD",
+    "SubmitLat": 43.45417,
+    "SubmitLong": 70.49583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2501,
+    "Y": 3137,
+    "ZIP9": "04043",
+    "ZIPCode": "04043"
+}

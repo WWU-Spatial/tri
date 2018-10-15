@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOOSICK FALLS",
+    "County": "NY,RENSSELAER",
+    "DUNS": "008382947",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39098.579346,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100412853",
+                    "MaxOnsite": "03",
+                    "Pounds": 367.0,
+                    "Score": 1.09225,
+                    "SubmissionNumber": 1782713,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 367.0,
+            "TotalScore": 1.09225,
+            "state_score_percentile": 24,
+            "us_score_percentile": 19
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397110300492",
+                    "MaxOnsite": "03",
+                    "Pounds": 367.0,
+                    "Score": 1.08853,
+                    "SubmissionNumber": 1850190,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 367.0,
+            "TotalScore": 1.08853,
+            "state_score_percentile": 22,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "36083",
+    "FRSID": "110000918357",
+    "FacilityID": "12090FRN  RIVER",
+    "FacilityNumber": 116300,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.890356,
+    "Longitude": -73.360112,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 113,
+            "us_pounds_pct": 2,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 113,
+            "us_pounds_pct": 3,
+            "us_score_pct": 25
+        },
+        "naicscode": "322222",
+        "name": "Coated and Laminated Paper Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "FURON CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "008382947",
+    "ParentName": "SAINT-GOBAIN PERFORMANCE PLASTICS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN HAYDEN",
+    "PublicContactPhone": "5186867301",
+    "RCRANumber": "NYD991291881",
+    "RadialDistance": 3035622,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 18,
+            "us_count": 121,
+            "us_pounds_pct": 4,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 33,
+            "us_count": 118,
+            "us_pounds_pct": 5,
+            "us_score_pct": 25
+        },
+        "name": "Coated and laminated paper, n.e.c.",
+        "siccode": "2672"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 77,
+            "us_pounds_pct": 10,
+            "us_score_pct": 19
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 74,
+            "us_pounds_pct": 6,
+            "us_score_pct": 21
+        },
+        "name": "Coated fabrics, not rubberized",
+        "siccode": "2295"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6309,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4394,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "RIVER RD. 2",
+    "SubmitLat": 42.90583,
+    "SubmitLong": 73.3575,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2249,
+    "Y": 2998,
+    "ZIP9": "12090",
+    "ZIPCode": "12090"
+}

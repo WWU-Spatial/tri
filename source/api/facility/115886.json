@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LONG ISLAND CITY",
+    "County": "NY,QUEENS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18222.975124,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105373233",
+                    "MaxOnsite": "04",
+                    "Pounds": 70.0,
+                    "Score": 0.08428,
+                    "SubmissionNumber": 1815628,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105373245",
+                    "MaxOnsite": "04",
+                    "Pounds": 123.0,
+                    "Score": 1.01158,
+                    "SubmissionNumber": 1815629,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 193.0,
+            "TotalScore": 1.0958599999999998,
+            "state_score_percentile": 17,
+            "us_score_percentile": 14
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120469984",
+                    "MaxOnsite": "03",
+                    "Pounds": 48.0,
+                    "Score": 0.058847,
+                    "SubmissionNumber": 1936504,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120469996",
+                    "MaxOnsite": "04",
+                    "Pounds": 66.0,
+                    "Score": 0.552704,
+                    "SubmissionNumber": 1936505,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 114.0,
+            "TotalScore": 0.611551,
+            "state_score_percentile": 13,
+            "us_score_percentile": 12
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399130333343",
+                    "MaxOnsite": "04",
+                    "Pounds": 54.0,
+                    "Score": 0.456265,
+                    "SubmissionNumber": 2018448,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 54.0,
+            "TotalScore": 0.456265,
+            "state_score_percentile": 12,
+            "us_score_percentile": 11
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140537426",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 3.71142,
+                    "SubmissionNumber": 43470,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 3.71142,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36081",
+    "FRSID": "110000323196",
+    "FacilityID": "11101SCHWR50012",
+    "FacilityNumber": 115886,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.74356,
+    "Longitude": -73.95839,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 15,
+            "state_score_pct": 15,
+            "us_count": 634,
+            "us_pounds_pct": 6,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 13,
+            "state_score_pct": 17,
+            "us_count": 608,
+            "us_pounds_pct": 5,
+            "us_score_pct": 15
+        },
+        "1999": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 21,
+            "us_count": 596,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 31,
+            "state_score_pct": 31,
+            "us_count": 573,
+            "us_pounds_pct": 12,
+            "us_score_pct": 27
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SCHWARTZ CHEMICAL CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.74306,
+    "PreferredLong": 73.95778,
+    "PublicContactName": "JOHN GILROY",
+    "PublicContactPhone": "7187847592",
+    "RCRANumber": "NYD001317403",
+    "RadialDistance": 2848479,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 15,
+            "state_score_pct": 15,
+            "us_count": 613,
+            "us_pounds_pct": 7,
+            "us_score_pct": 18
+        },
+        "1998": {
+            "state_count": 24,
+            "state_pounds_pct": 12,
+            "state_score_pct": 20,
+            "us_count": 580,
+            "us_pounds_pct": 5,
+            "us_score_pct": 15
+        },
+        "1999": {
+            "state_count": 20,
+            "state_pounds_pct": 10,
+            "state_score_pct": 25,
+            "us_count": 563,
+            "us_pounds_pct": 5,
+            "us_score_pct": 12
+        },
+        "2000": {
+            "state_count": 20,
+            "state_pounds_pct": 30,
+            "state_score_pct": 35,
+            "us_count": 539,
+            "us_pounds_pct": 12,
+            "us_score_pct": 26
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "50-01 SECOND ST.",
+    "SubmitLat": 40.74306,
+    "SubmitLong": 73.95778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2259,
+    "Y": 2696,
+    "ZIP9": "11101",
+    "ZIPCode": "11101"
+}

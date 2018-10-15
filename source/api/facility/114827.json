@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HACKENSACK",
+    "County": "NJ,BERGEN",
+    "DUNS": "002016103",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21699.531914,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399201999479",
+                    "MaxOnsite": "03",
+                    "Pounds": 147500.0,
+                    "Score": 56.878569999999996,
+                    "SubmissionNumber": 2076696,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 147500.0,
+            "TotalScore": 56.878569999999996,
+            "state_score_percentile": 96,
+            "us_score_percentile": 89
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300201999467",
+                    "MaxOnsite": "03",
+                    "Pounds": 16900.0,
+                    "Score": 6.596118,
+                    "SubmissionNumber": 92655,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16900.0,
+            "TotalScore": 6.596118,
+            "state_score_percentile": 78,
+            "us_score_percentile": 65
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301201999493",
+                    "MaxOnsite": "03",
+                    "Pounds": 8380.0,
+                    "Score": 3.286379,
+                    "SubmissionNumber": 190013,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8380.0,
+            "TotalScore": 3.286379,
+            "state_score_percentile": 71,
+            "us_score_percentile": 59
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1302201999481",
+                    "MaxOnsite": "03",
+                    "Pounds": 19845.0,
+                    "Score": 8.04055,
+                    "SubmissionNumber": 284475,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19845.0,
+            "TotalScore": 8.04055,
+            "state_score_percentile": 83,
+            "us_score_percentile": 73
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303201854155",
+                    "MaxOnsite": "04",
+                    "Pounds": 17633.0,
+                    "Score": 7.14651,
+                    "SubmissionNumber": 359497,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17633.0,
+            "TotalScore": 7.14651,
+            "state_score_percentile": 83,
+            "us_score_percentile": 72
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304202341792",
+                    "MaxOnsite": "04",
+                    "Pounds": 7815.0,
+                    "Score": 3.02349,
+                    "SubmissionNumber": 402427,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7815.0,
+            "TotalScore": 3.02349,
+            "state_score_percentile": 77,
+            "us_score_percentile": 62
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000801801",
+    "FacilityID": "07601DVNCF344LD",
+    "FacilityNumber": 114827,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.876592,
+    "Longitude": -74.056894,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 75
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 75
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "naicscode": "313000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3130",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ADVANCE FIBER TECHNOLOGIES CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PETER A PHILIPS",
+    "PublicContactPhone": "2014882700",
+    "RCRANumber": "NJD002016103",
+    "RadialDistance": 2850849,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 62
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 50
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 71
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 71
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 71
+        },
+        "name": "Thread mills",
+        "siccode": "2284"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "228",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.2776,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7229,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "344 LODI ST",
+    "SubmitLat": 40.87667,
+    "SubmitLong": 74.05694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2244,
+    "Y": 2711,
+    "ZIP9": "07601",
+    "ZIPCode": "07601"
+}

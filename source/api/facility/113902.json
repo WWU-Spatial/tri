@@ -1,0 +1,190 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW MILFORD",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 72395.820855,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207421924",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0091,
+                    "Score": 1.013832,
+                    "SubmissionNumber": 855791,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0091,
+            "TotalScore": 1.013832,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208314221",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0112,
+                    "Score": 1.205752,
+                    "SubmissionNumber": 935466,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0112,
+            "TotalScore": 1.205752,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110020515272",
+    "FacilityID": "06776SCSCN7YUNG",
+    "FacilityNumber": 113902,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.580648,
+    "Longitude": -73.417624,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "T",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "naicscode": "454311",
+        "name": "Heating Oil Dealers"
+    },
+    "NAICS2": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "naicscode": "454312",
+        "name": "Liquefied Petroleum Gas (Bottled Gas) Dealers"
+    },
+    "NAICS3": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "naicscode": "454319",
+        "name": "Other Fuel Dealers"
+    },
+    "NAICSCode3Digit": "454",
+    "NAICSCode4Digit": "4543",
+    "NAICSCodeSame3Digit": "454",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SCASCO INC  - NEW MILFORD",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS US HOLDINGS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NA",
+    "RadialDistance": 2940889,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 445,
+            "us_pounds_pct": 0,
+            "us_score_pct": 9
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 456,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "7 YOUNGS FIELD RD",
+    "SubmitLat": 41.58056,
+    "SubmitLong": 73.68417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2286,
+    "Y": 2821,
+    "ZIP9": "06776",
+    "ZIPCode": "06776"
+}

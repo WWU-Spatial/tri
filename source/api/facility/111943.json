@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BEDFORD",
+    "County": "MA,BRISTOL",
+    "DUNS": "009687930",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 38545.165577,
+    "DistanceToReach": 2921.220876,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306204826299",
+                    "MaxOnsite": "06",
+                    "Pounds": 524.0,
+                    "Score": 25.1042,
+                    "SubmissionNumber": 628380,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204826301",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.4,
+                    "Score": 0.238544,
+                    "SubmissionNumber": 628381,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 524.4,
+            "TotalScore": 25.342744,
+            "state_score_percentile": 54,
+            "us_score_percentile": 39
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307205551005",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.239648,
+                    "SubmissionNumber": 691556,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.239648,
+            "state_score_percentile": 26,
+            "us_score_percentile": 13
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206708909",
+                    "MaxOnsite": "05",
+                    "Pounds": 6.0,
+                    "Score": 0.287702,
+                    "SubmissionNumber": 793489,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 0.287702,
+            "state_score_percentile": 27,
+            "us_score_percentile": 16
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207722442",
+                    "MaxOnsite": "05",
+                    "Pounds": 6.0,
+                    "Score": 0.287827,
+                    "SubmissionNumber": 883945,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 0.287827,
+            "state_score_percentile": 26,
+            "us_score_percentile": 16
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208231858",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.747,
+                    "Score": 0.03585,
+                    "SubmissionNumber": 927646,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.747,
+            "TotalScore": 0.03585,
+            "state_score_percentile": 12,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110031001047",
+    "FacilityID": "02745FCCBL96FLA",
+    "FacilityNumber": 111943,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.717701,
+    "Longitude": -70.968681,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 64,
+            "us_score_pct": 66
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 22,
+            "us_score_pct": 15
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 38,
+            "us_pounds_pct": 27,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 37,
+            "us_pounds_pct": 25,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 36,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "naicscode": "335929",
+        "name": "Other Communication and Energy Wire Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "AFC CABLE SYSTEMS",
+    "NearComID": 5881385,
+    "NearReach": "01090002001483",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "875632788",
+    "ParentName": "TYCO INTERNATIONAL LTD",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "EDWARD VERISSIMO",
+    "PublicContactPhone": "5089851200",
+    "RCRANumber": "MAC300006418",
+    "RadialDistance": 3114411,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 71,
+            "us_pounds_pct": 60,
+            "us_score_pct": 59
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 69,
+            "us_pounds_pct": 20,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 69,
+            "us_pounds_pct": 25,
+            "us_score_pct": 17
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 65,
+            "us_pounds_pct": 22,
+            "us_score_pct": 20
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 62,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "960 FLAHERTY DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2523,
+    "Y": 2901,
+    "ZIP9": "02745",
+    "ZIPCode": "02745"
+}

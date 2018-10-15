@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "608138749",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32488.375575,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140422395",
+                    "MaxOnsite": "02",
+                    "Pounds": 9.89,
+                    "Score": 403.18289999999996,
+                    "SubmissionNumber": 35571,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140422407",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.16,
+                    "Score": 0.0,
+                    "SubmissionNumber": 35572,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.05,
+            "TotalScore": 403.18289999999996,
+            "state_score_percentile": 9,
+            "us_score_percentile": 8
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150203952",
+                    "MaxOnsite": "03",
+                    "Pounds": 31.3,
+                    "Score": 1265.874,
+                    "SubmissionNumber": 112732,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150203964",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.8,
+                    "Score": 0.0,
+                    "SubmissionNumber": 112733,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 32.1,
+            "TotalScore": 1265.874,
+            "state_score_percentile": 19,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110001078707",
+    "FacilityID": "15238KPPRS1005W",
+    "FacilityNumber": 117878,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.541777,
+    "Longitude": -79.836332,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 56
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 13,
+            "us_pounds_pct": 38,
+            "us_score_pct": 69
+        },
+        "naicscode": "325100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KOPPERS INDUSTRIES INC HTC PILOT PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "196991582",
+    "ParentName": "KOPPERS INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BOB WOMBLES",
+    "PublicContactPhone": "4128263951",
+    "RCRANumber": "PAD987388642",
+    "RadialDistance": 2465842,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 115,
+            "us_pounds_pct": 4,
+            "us_score_pct": 37
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 57,
+            "us_count": 111,
+            "us_pounds_pct": 10,
+            "us_score_pct": 43
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.9741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1005 WILLIAM PITT WAY",
+    "SubmitLat": 40.46667,
+    "SubmitLong": 80.83333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1668,
+    "Y": 2547,
+    "ZIP9": "15238",
+    "ZIPCode": "15238"
+}

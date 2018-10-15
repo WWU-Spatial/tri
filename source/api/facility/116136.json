@@ -1,0 +1,277 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CENTRAL ISLIP",
+    "County": "NY,SUFFOLK",
+    "DUNS": "628037467",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 84397.49119,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115307769",
+                    "MaxOnsite": "03",
+                    "Pounds": 12228.0,
+                    "Score": 0.9473929999999999,
+                    "SubmissionNumber": 1892765,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12228.0,
+            "TotalScore": 0.9473929999999999,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125345520",
+                    "MaxOnsite": "03",
+                    "Pounds": 30340.0,
+                    "Score": 2.367109,
+                    "SubmissionNumber": 1983891,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 30340.0,
+            "TotalScore": 2.367109,
+            "state_score_percentile": 80,
+            "us_score_percentile": 71
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130429727",
+                    "MaxOnsite": "04",
+                    "Pounds": 14682.0,
+                    "Score": 1.128038,
+                    "SubmissionNumber": 2026677,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14682.0,
+            "TotalScore": 1.128038,
+            "state_score_percentile": 69,
+            "us_score_percentile": 60
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140657444",
+                    "MaxOnsite": "04",
+                    "Pounds": 31350.0,
+                    "Score": 3.009534,
+                    "SubmissionNumber": 50770,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 31350.0,
+            "TotalScore": 3.009534,
+            "state_score_percentile": 83,
+            "us_score_percentile": 74
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301150440838",
+                    "MaxOnsite": "03",
+                    "Pounds": 13178.0,
+                    "Score": 1.615421,
+                    "SubmissionNumber": 133722,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150440840",
+                    "MaxOnsite": "03",
+                    "Pounds": 18977.0,
+                    "Score": 1.823473,
+                    "SubmissionNumber": 133723,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301150440853",
+                    "MaxOnsite": "03",
+                    "Pounds": 14892.0,
+                    "Score": 13.4077,
+                    "SubmissionNumber": 133724,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 47047.0,
+            "TotalScore": 16.846594,
+            "state_score_percentile": 88,
+            "us_score_percentile": 82
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000323864",
+    "FacilityID": "11722JSCND42WIN",
+    "FacilityNumber": 116136,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.796032,
+    "Longitude": -73.172494,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 41,
+            "us_pounds_pct": 41,
+            "us_score_pct": 7
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 74,
+            "us_score_pct": 17
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 46,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 67,
+            "us_score_pct": 19
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 79,
+            "us_score_pct": 58
+        },
+        "naicscode": "337215",
+        "name": "Showcase, Partition, Shelving, and Locker Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3372",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JASCO INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JAY AUSTRIAN",
+    "PublicContactPhone": "6313481772",
+    "RCRANumber": "NYD980647838",
+    "RadialDistance": 2905056,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 34,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 57,
+            "us_score_pct": 42
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 27,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 61,
+            "us_score_pct": 47
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 76,
+            "us_score_pct": 85
+        },
+        "name": "Wood office and store fixtures, partitions, shelving, and lockers",
+        "siccode": "2541"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "254",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.0104,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.7536,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "42 WINDSOR PL.",
+    "SubmitLat": 40.7975,
+    "SubmitLong": 73.1725,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2336,
+    "Y": 2722,
+    "ZIP9": "11722",
+    "ZIPCode": "11722"
+}

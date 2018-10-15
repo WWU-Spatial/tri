@@ -1,0 +1,224 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PENNSAUKEN",
+    "County": "NJ,CAMDEN",
+    "DUNS": "188956411",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16435.024534,
+    "DistanceToReach": 363.159059,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140825074",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.6,
+                    "Score": 0.0,
+                    "SubmissionNumber": 63493,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140825086",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.77,
+                    "Score": 906.366,
+                    "SubmissionNumber": 63494,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 7.37,
+            "TotalScore": 906.366,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150589947",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.15000000000000002,
+                    "Score": 38.46372,
+                    "SubmissionNumber": 146925,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.15000000000000002,
+            "TotalScore": 38.46372,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200503845",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.02,
+                    "Score": 486.0354,
+                    "SubmissionNumber": 238450,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.02,
+            "TotalScore": 486.0354,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "34007",
+    "FRSID": "110015311367",
+    "FacilityID": "08110KCHMT36THR",
+    "FacilityNumber": 115273,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.97093,
+    "Longitude": -75.094917,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 102,
+            "us_pounds_pct": 48,
+            "us_score_pct": 63
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 104,
+            "us_pounds_pct": 26,
+            "us_score_pct": 52
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 120,
+            "us_pounds_pct": 55,
+            "us_score_pct": 70
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0109860",
+    "Name": "KOCH MATERIALS CO.",
+    "NearComID": 4495868,
+    "NearReach": "02040202000077",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006944334",
+    "ParentName": "KOCH INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "SID JOHNSON",
+    "PublicContactPhone": "3168288583",
+    "RCRANumber": "NJD011636131",
+    "RadialDistance": 2719969,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 110,
+            "us_pounds_pct": 48,
+            "us_score_pct": 62
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 117,
+            "us_pounds_pct": 25,
+            "us_score_pct": 51
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 129,
+            "us_pounds_pct": 51,
+            "us_score_pct": 68
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SIC2": {
+        "2000": {
+            "state_count": 24,
+            "state_pounds_pct": 12,
+            "state_score_pct": 20,
+            "us_count": 513,
+            "us_pounds_pct": 2,
+            "us_score_pct": 43
+        },
+        "2001": {
+            "state_count": 24,
+            "state_pounds_pct": 4,
+            "state_score_pct": 12,
+            "us_count": 535,
+            "us_pounds_pct": 1,
+            "us_score_pct": 18
+        },
+        "2002": {
+            "state_count": 24,
+            "state_pounds_pct": 4,
+            "state_score_pct": 20,
+            "us_count": 521,
+            "us_pounds_pct": 2,
+            "us_score_pct": 34
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "MU",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "36TH & RIVER RD. PETTY'S ISLAND",
+    "SubmitLat": 39.96667,
+    "SubmitLong": 75.1,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2167,
+    "Y": 2565,
+    "ZIP9": "08110",
+    "ZIPCode": "08110"
+}

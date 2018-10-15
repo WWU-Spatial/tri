@@ -1,0 +1,269 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAWRENCE",
+    "County": "MA,ESSEX",
+    "DUNS": "066619404",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 40724.014749,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1307205226638",
+                    "MaxOnsite": "04",
+                    "Pounds": 1723.0,
+                    "Score": 74.1985,
+                    "SubmissionNumber": 661458,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1723.0,
+            "TotalScore": 74.1985,
+            "state_score_percentile": 66,
+            "us_score_percentile": 50
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1308206612766",
+                    "MaxOnsite": "04",
+                    "Pounds": 1709.0,
+                    "Score": 73.8932,
+                    "SubmissionNumber": 784456,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1709.0,
+            "TotalScore": 73.8932,
+            "state_score_percentile": 68,
+            "us_score_percentile": 52
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1310208403624",
+                    "MaxOnsite": "03",
+                    "Pounds": 1780.0,
+                    "Score": 77.5831,
+                    "SubmissionNumber": 942994,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1780.0,
+            "TotalScore": 77.5831,
+            "state_score_percentile": 67,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000846693",
+    "FacilityID": "01841MLDNM46STA",
+    "FacilityNumber": 111221,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.717306,
+    "Longitude": -71.179171,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 42,
+            "us_score_pct": 68
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 50,
+            "us_score_pct": 81
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 11,
+            "us_pounds_pct": 54,
+            "us_score_pct": 90
+        },
+        "naicscode": "313312",
+        "name": "Textile and Fabric Finishing (except Broadwoven Fabric) Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "POLARTEC LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.7156,
+    "PreferredLong": 71.1815,
+    "PublicContactName": "JIHAD HAJJAR",
+    "PublicContactPhone": "9785573452",
+    "RCRANumber": "MAD001030576",
+    "RadialDistance": 3164195,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 15,
+            "us_pounds_pct": 46,
+            "us_score_pct": 66
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 13,
+            "us_pounds_pct": 46,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 11,
+            "us_pounds_pct": 45,
+            "us_score_pct": 81
+        },
+        "name": "Finishers of textiles, n.e.c.",
+        "siccode": "2269"
+    },
+    "SIC2": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 66
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "Knit outerwear mills",
+        "siccode": "2253"
+    },
+    "SIC3": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 100
+        },
+        "name": "Knitting mills, n.e.c.",
+        "siccode": "2259"
+    },
+    "SIC4": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 75
+        },
+        "name": "Textile goods, n.e.c.",
+        "siccode": "2299"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "226",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.183,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 25.0777,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.9071,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "46 STAFFORD ST",
+    "SubmitLat": 42.67528,
+    "SubmitLong": 71.18333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2467,
+    "Y": 3029,
+    "ZIP9": "01841",
+    "ZIPCode": "01841"
+}

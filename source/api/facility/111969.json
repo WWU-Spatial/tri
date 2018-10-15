@@ -1,0 +1,275 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "072090103",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28896.065738,
+    "DistanceToReach": 51.976062,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100386337",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.848229,
+                    "SubmissionNumber": 1780715,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396100386349",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 27188.0,
+                    "SubmissionNumber": 1780716,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 27188.848229,
+            "state_score_percentile": 18,
+            "us_score_percentile": 17
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110464789",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.850589,
+                    "SubmissionNumber": 1864354,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110464791",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 1335.8049999999998,
+                    "SubmissionNumber": 1864355,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1397110464803",
+                    "MaxOnsite": "04",
+                    "Pounds": 750.0,
+                    "Score": 386.898,
+                    "SubmissionNumber": 1864356,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 765.0,
+            "TotalScore": 1723.5535889999996,
+            "state_score_percentile": 29,
+            "us_score_percentile": 26
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120513635",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.85295,
+                    "SubmissionNumber": 1939899,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120513647",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 1338.524,
+                    "SubmissionNumber": 1939900,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 1339.3769499999999,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130471269",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.85531,
+                    "SubmissionNumber": 2030134,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399130471271",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 1341.243,
+                    "SubmissionNumber": 2030135,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 1342.0983099999999,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000700625",
+    "FacilityID": "02761HNDYH72ELM",
+    "FacilityNumber": 111969,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.981537,
+    "Longitude": -71.33029,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 12,
+            "state_score_pct": 76,
+            "us_count": 561,
+            "us_pounds_pct": 29,
+            "us_score_pct": 72
+        },
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 30,
+            "state_score_pct": 61,
+            "us_count": 546,
+            "us_pounds_pct": 47,
+            "us_score_pct": 54
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 4,
+            "state_score_pct": 71,
+            "us_count": 522,
+            "us_pounds_pct": 14,
+            "us_score_pct": 53
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 11,
+            "state_score_pct": 66,
+            "us_count": 506,
+            "us_pounds_pct": 16,
+            "us_score_pct": 53
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "HANDY & HARMAN ELECTRONIC MATERIALS",
+    "NearComID": 6128019,
+    "NearReach": "01090004001053",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002028876",
+    "ParentName": "HANDY & HARMAN",
+    "PreferredLat": 41.98111,
+    "PreferredLong": 71.32833,
+    "PublicContactName": "STEVE GERRISH",
+    "PublicContactPhone": "4014346543",
+    "RCRANumber": "MAD048974349",
+    "RadialDistance": 3106479,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 14,
+            "state_score_pct": 71,
+            "us_count": 575,
+            "us_pounds_pct": 29,
+            "us_score_pct": 73
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 28,
+            "state_score_pct": 60,
+            "us_count": 565,
+            "us_pounds_pct": 47,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 4,
+            "state_score_pct": 69,
+            "us_count": 546,
+            "us_pounds_pct": 14,
+            "us_score_pct": 53
+        },
+        "1999": {
+            "state_count": 20,
+            "state_pounds_pct": 10,
+            "state_score_pct": 65,
+            "us_count": 534,
+            "us_pounds_pct": 15,
+            "us_score_pct": 53
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5486,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.0104,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.4112,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "72 ELM ST.",
+    "SubmitLat": 41.98111,
+    "SubmitLong": 71.32833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2478,
+    "Y": 2927,
+    "ZIP9": "02760",
+    "ZIPCode": "02760"
+}

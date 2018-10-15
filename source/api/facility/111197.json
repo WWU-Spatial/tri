@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAVERHILL",
+    "County": "MA,ESSEX",
+    "DUNS": "071130868",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 46453.329279,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206596227",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.024671,
+                    "SubmissionNumber": 782932,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 0.024671,
+            "state_score_percentile": 27,
+            "us_score_percentile": 16
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207899319",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.024636,
+                    "SubmissionNumber": 900293,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 0.024636,
+            "state_score_percentile": 26,
+            "us_score_percentile": 16
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208106979",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 0.0164,
+                    "SubmissionNumber": 915760,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 0.0164,
+            "state_score_percentile": 21,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110024335487",
+    "FacilityID": "01830JSPHS133HA",
+    "FacilityNumber": 111197,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.783056,
+    "Longitude": -71.088333,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "naicscode": "311412",
+        "name": "Frozen Specialty Food Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3114",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "JOSEPH'S GOURMET PASTA",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "131481657",
+    "ParentName": "NESTLE USA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "STEPHEN AQUILINO",
+    "PublicContactPhone": "9785211718",
+    "RCRANumber": "",
+    "RadialDistance": 3174491,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "name": "Frozen specialties, n.e.c.",
+        "siccode": "2038"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "203",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.035,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "133 HALE ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2473,
+    "Y": 3040,
+    "ZIP9": "01830",
+    "ZIPCode": "01830"
+}

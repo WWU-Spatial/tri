@@ -1,0 +1,323 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "108661737",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7486.27126,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100358872",
+                    "MaxOnsite": "03",
+                    "Pounds": 3030.0,
+                    "Score": 1.316144,
+                    "SubmissionNumber": 1778638,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100358884",
+                    "MaxOnsite": "03",
+                    "Pounds": 360.0,
+                    "Score": 6.00265,
+                    "SubmissionNumber": 1778639,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3390.0,
+            "TotalScore": 7.3187940000000005,
+            "state_score_percentile": 50,
+            "us_score_percentile": 39
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110378801",
+                    "MaxOnsite": "03",
+                    "Pounds": 195.0,
+                    "Score": 3.27553,
+                    "SubmissionNumber": 1857048,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110466366",
+                    "MaxOnsite": "03",
+                    "Pounds": 2490.0,
+                    "Score": 1.0896370000000002,
+                    "SubmissionNumber": 1864479,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2685.0,
+            "TotalScore": 4.365167,
+            "state_score_percentile": 47,
+            "us_score_percentile": 36
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120056080",
+                    "MaxOnsite": "03",
+                    "Pounds": 456.0,
+                    "Score": 0.201023,
+                    "SubmissionNumber": 1904205,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 456.0,
+            "TotalScore": 0.201023,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130294337",
+                    "MaxOnsite": "03",
+                    "Pounds": 1655.0,
+                    "Score": 0.726799,
+                    "SubmissionNumber": 2015229,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1655.0,
+            "TotalScore": 0.726799,
+            "state_score_percentile": 40,
+            "us_score_percentile": 34
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140531854",
+                    "MaxOnsite": "03",
+                    "Pounds": 545.0,
+                    "Score": 0.240343,
+                    "SubmissionNumber": 43130,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 545.0,
+            "TotalScore": 0.240343,
+            "state_score_percentile": 32,
+            "us_score_percentile": 27
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1302200748414",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 0.101227,
+                    "SubmissionNumber": 261004,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "106503",
+                    "Chemical": "p-Phenylenediamine",
+                    "ChemicalNumber": 456,
+                    "DCN": "1302200748426",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.011499,
+                    "SubmissionNumber": 261005,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 260.0,
+            "TotalScore": 0.11272599999999999,
+            "state_score_percentile": 32,
+            "us_score_percentile": 29
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319263",
+    "FacilityID": "07104CHMCL2975R",
+    "FacilityNumber": 114492,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.767116,
+    "Longitude": -74.159271,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 45,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 13,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 4,
+            "us_score_pct": 2
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 6,
+            "us_score_pct": 8
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 45,
+            "us_pounds_pct": 6,
+            "us_score_pct": 4
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 45,
+            "us_pounds_pct": 4,
+            "us_score_pct": 2
+        },
+        "naicscode": "325192",
+        "name": "Cyclic Crude and Intermediate Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHEMICAL COMPOUNDS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.76528,
+    "PreferredLong": 74.15833,
+    "PublicContactName": "ARTURO CELLERI",
+    "PublicContactPhone": "3604813700",
+    "RCRANumber": "NJD108661737",
+    "RadialDistance": 2836620,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 61,
+            "state_score_pct": 22,
+            "us_count": 116,
+            "us_pounds_pct": 25,
+            "us_score_pct": 10
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 70,
+            "state_score_pct": 17,
+            "us_count": 119,
+            "us_pounds_pct": 28,
+            "us_score_pct": 11
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 6,
+            "us_count": 119,
+            "us_pounds_pct": 15,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 6,
+            "us_count": 116,
+            "us_pounds_pct": 20,
+            "us_score_pct": 6
+        },
+        "2000": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 6,
+            "us_count": 115,
+            "us_pounds_pct": 20,
+            "us_score_pct": 5
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 12,
+            "us_count": 98,
+            "us_pounds_pct": 10,
+            "us_score_pct": 5
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5791,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.0266,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.9378,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "29-75 RIVERSIDE AVE",
+    "SubmitLat": 40.76528,
+    "SubmitLong": 74.15833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2694,
+    "ZIP9": "07104",
+    "ZIPCode": "07104"
+}

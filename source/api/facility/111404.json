@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWBURYPORT",
+    "County": "MA,ESSEX",
+    "DUNS": "022960413",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 50171.648534,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155051396",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.11,
+                    "Score": 0.043736,
+                    "SubmissionNumber": 175497,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.11,
+            "TotalScore": 0.043736,
+            "state_score_percentile": 6,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200105551",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.11,
+                    "Score": 0.043718,
+                    "SubmissionNumber": 201453,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.11,
+            "TotalScore": 0.043718,
+            "state_score_percentile": 7,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000310324",
+    "FacilityID": "01950BRSHW22GRA",
+    "FacilityNumber": 111404,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.804812,
+    "Longitude": -70.883098,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 18,
+            "us_count": 523,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 5,
+            "state_score_pct": 11,
+            "us_count": 506,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICS2": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "naicscode": "327113",
+        "name": "Porcelain Electrical Supply Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ZENTRIX TECHNOLOGIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "622913080",
+    "ParentName": "BRUSH ENGINEERED MATERIALS",
+    "PreferredLat": 42.785,
+    "PreferredLong": 70.88528,
+    "PublicContactName": "JOYCE L. MELANSON",
+    "PublicContactPhone": "9784629361",
+    "RCRANumber": "MAD022960413",
+    "RadialDistance": 3189463,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 19,
+            "state_pounds_pct": 5,
+            "state_score_pct": 15,
+            "us_count": 553,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2002": {
+            "state_count": 19,
+            "state_pounds_pct": 5,
+            "state_score_pct": 15,
+            "us_count": 533,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.581,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.2272,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "22 GRAF RD",
+    "SubmitLat": 42.80194,
+    "SubmitLong": 70.885,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2492,
+    "Y": 3048,
+    "ZIP9": "01950",
+    "ZIPCode": "01950"
+}

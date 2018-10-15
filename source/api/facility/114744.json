@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WAYNE",
+    "County": "NJ,PASSAIC",
+    "DUNS": "004345385",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 25197.146066,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1308206806477",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.327321,
+                    "SubmissionNumber": 802500,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.327321,
+            "state_score_percentile": 20,
+            "us_score_percentile": 18
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1309207397124",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.32765,
+                    "SubmissionNumber": 853465,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.32765,
+            "state_score_percentile": 19,
+            "us_score_percentile": 19
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1310208703569",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.327978,
+                    "SubmissionNumber": 971392,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.327978,
+            "state_score_percentile": 20,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110039496612",
+    "FacilityID": "0747WCTGRD5MANS",
+    "FacilityNumber": 114744,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.915281,
+    "Longitude": -74.261095,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 155,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 151,
+            "us_pounds_pct": 6,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 27,
+            "us_count": 146,
+            "us_pounds_pct": 6,
+            "us_score_pct": 24
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "ACTEGA RADCURE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ACTEGA GMBH",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JIM WITTIG",
+    "PublicContactPhone": "8567352003",
+    "RCRANumber": "",
+    "RadialDistance": 2839913,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 18,
+            "us_count": 160,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 156,
+            "us_pounds_pct": 7,
+            "us_score_pct": 24
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 37,
+            "us_count": 147,
+            "us_pounds_pct": 7,
+            "us_score_pct": 22
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "5 MANSARD CT",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2223,
+    "Y": 2712,
+    "ZIP9": "07470",
+    "ZIPCode": "07470"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": 15465157,
+    "AssignedReach": "04150305000957",
+    "City": "POTSDAM",
+    "County": "NY,ST LAWRENCE",
+    "DUNS": "827669727",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 148661.701469,
+    "DistanceToReach": 75.212837,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1300140269402",
+                    "MaxOnsite": "02",
+                    "Pounds": 2334.0,
+                    "Score": 233.42994000000002,
+                    "SubmissionNumber": 24336,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140269414",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.007,
+                    "Score": 0.017109,
+                    "SubmissionNumber": 24337,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140269426",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0003,
+                    "Score": 0.0,
+                    "SubmissionNumber": 24338,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2334.0073,
+            "TotalScore": 233.44704900000002,
+            "state_score_percentile": 46,
+            "us_score_percentile": 40
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200531818",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.005,
+                    "Score": 0.012132,
+                    "SubmissionNumber": 241013,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.005,
+            "TotalScore": 0.012132,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "36089",
+    "FRSID": "110019291112",
+    "FacilityID": "13676MDSPC547AS",
+    "FacilityNumber": 116875,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.7145,
+    "Longitude": -74.99625,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 54,
+            "us_count": 163,
+            "us_pounds_pct": 17,
+            "us_score_pct": 31
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 154,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "POTSDAM SPECIALTY PAPER INC",
+    "NearComID": 15465165,
+    "NearReach": "04150305000957",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOEL BEHM",
+    "PublicContactPhone": "3152675611",
+    "RCRANumber": "NYD085158632",
+    "RadialDistance": 3075240,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 50,
+            "us_count": 194,
+            "us_pounds_pct": 16,
+            "us_score_pct": 29
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 28,
+            "us_count": 175,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.5398,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 33.5375,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.6357,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "547A SISSONVILLE RD",
+    "SubmitLat": 44.71222,
+    "SubmitLong": 74.99583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2034,
+    "Y": 3206,
+    "ZIP9": "13676",
+    "ZIPCode": "13676"
+}

@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AGAWAM",
+    "County": "MA,HAMPDEN",
+    "DUNS": "001118744",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12857.862416,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105274068",
+                    "MaxOnsite": "05",
+                    "Pounds": 591.0,
+                    "Score": 75.31219999999999,
+                    "SubmissionNumber": 1808537,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 591.0,
+            "TotalScore": 75.31219999999999,
+            "state_score_percentile": 26,
+            "us_score_percentile": 24
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115129126",
+                    "MaxOnsite": "05",
+                    "Pounds": 4.0,
+                    "Score": 0.445507,
+                    "SubmissionNumber": 1883145,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 0.445507,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000307908",
+    "FacilityID": "01001TLSFN90IND",
+    "FacilityNumber": 110520,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.045136,
+    "Longitude": -72.644599,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 68,
+            "us_score_pct": 48
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 12,
+            "us_score_pct": 8
+        },
+        "naicscode": "331522",
+        "name": "Nonferrous (except Aluminum) Die-Casting Foundries"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ATLAS FOUNDERS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.035,
+    "PreferredLong": 72.63528,
+    "PublicContactName": "HENRY E SULLIVAN",
+    "PublicContactPhone": "4137864210",
+    "RCRANumber": "NA",
+    "RadialDistance": 3023098,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 71,
+            "us_score_pct": 56
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "name": "Nonferrous die-castings, except aluminum",
+        "siccode": "3364"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 47,
+            "us_score_pct": 46
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 100,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "name": "Aluminum foundries",
+        "siccode": "3365"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "336",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.2964,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "90 INDUSTRIAL LN",
+    "SubmitLat": 42.035,
+    "SubmitLong": 72.63528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2347,
+    "Y": 2902,
+    "ZIP9": "010010303",
+    "ZIPCode": "01001"
+}

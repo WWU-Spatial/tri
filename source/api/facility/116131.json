@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BOHEMIA",
+    "County": "NY,SUFFOLK",
+    "DUNS": "052790318",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 90115.990781,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100310630",
+                    "MaxOnsite": "03",
+                    "Pounds": 21384.0,
+                    "Score": 1.53419,
+                    "SubmissionNumber": 1774686,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21384.0,
+            "TotalScore": 1.53419,
+            "state_score_percentile": 76,
+            "us_score_percentile": 65
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110226899",
+                    "MaxOnsite": "03",
+                    "Pounds": 24592.0,
+                    "Score": 1.77827,
+                    "SubmissionNumber": 1843662,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 24592.0,
+            "TotalScore": 1.77827,
+            "state_score_percentile": 77,
+            "us_score_percentile": 68
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120244203",
+                    "MaxOnsite": "03",
+                    "Pounds": 21609.0,
+                    "Score": 1.5748,
+                    "SubmissionNumber": 1919591,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21609.0,
+            "TotalScore": 1.5748,
+            "state_score_percentile": 75,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110041979188",
+    "FacilityID": "11716NBTYN105OR",
+    "FacilityNumber": 116131,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.77481,
+    "Longitude": -73.101252,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 42,
+            "us_score_pct": 22
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 45,
+            "us_score_pct": 28
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 43,
+            "us_score_pct": 29
+        },
+        "naicscode": "325411",
+        "name": "Medicinal and Botanical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "NBTY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NYR000123760",
+    "RadialDistance": 2908528,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 74,
+            "us_pounds_pct": 39,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 74,
+            "us_pounds_pct": 44,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 73,
+            "us_pounds_pct": 36,
+            "us_score_pct": 21
+        },
+        "name": "Medicinal chemicals and botanical products",
+        "siccode": "2833"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 69,
+            "state_score_pct": 30,
+            "us_count": 146,
+            "us_pounds_pct": 65,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 25,
+            "us_count": 136,
+            "us_pounds_pct": 66,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 30,
+            "us_count": 135,
+            "us_pounds_pct": 65,
+            "us_score_pct": 28
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "105 ORVILLE DR",
+    "SubmitLat": 40.77778,
+    "SubmitLong": 73.10833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2344,
+    "Y": 2720,
+    "ZIP9": "117162510",
+    "ZIPCode": "11716"
+}

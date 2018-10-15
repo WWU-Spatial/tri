@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BAKERSTOWN",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "004365870",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28042.903606,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100212733",
+                    "MaxOnsite": "03",
+                    "Pounds": 8730.0,
+                    "Score": 0.171074,
+                    "SubmissionNumber": 1766587,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100414794",
+                    "MaxOnsite": "04",
+                    "Pounds": 33510.0,
+                    "Score": 30.6599,
+                    "SubmissionNumber": 1782866,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 42240.0,
+            "TotalScore": 30.830974,
+            "state_score_percentile": 80,
+            "us_score_percentile": 75
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110164163",
+                    "MaxOnsite": "02",
+                    "Pounds": 925.0,
+                    "Score": 0.018289,
+                    "SubmissionNumber": 1838346,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110434370",
+                    "MaxOnsite": "04",
+                    "Pounds": 28684.0,
+                    "Score": 26.4911,
+                    "SubmissionNumber": 1861802,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29609.0,
+            "TotalScore": 26.509389,
+            "state_score_percentile": 76,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110041017477",
+    "FacilityID": "15007BKRSTMIDDL",
+    "FacilityNumber": 117617,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.66481,
+    "Longitude": -79.965353,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 74,
+            "us_pounds_pct": 59,
+            "us_score_pct": 32
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 72,
+            "us_pounds_pct": 44,
+            "us_score_pct": 26
+        },
+        "naicscode": "332439",
+        "name": "Other Metal Container Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3324",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "BAKERSTOWN CONTAINER CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.66333,
+    "PreferredLong": 79.96556,
+    "PublicContactName": "LARRY DAVIS   EXT 228",
+    "PublicContactPhone": "7244437255",
+    "RCRANumber": "PAD004365870",
+    "RadialDistance": 2468620,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "name": "",
+        "siccode": "7699"
+    },
+    "SICCode2Digit": "76",
+    "SICCode3Digit": "769",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.9248,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4749,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PA",
+    "Street": "BOX 51 MIDDLESEX ST",
+    "SubmitLat": 40.66333,
+    "SubmitLong": 79.96556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1652,
+    "Y": 2561,
+    "ZIP9": "15007",
+    "ZIPCode": "15007"
+}

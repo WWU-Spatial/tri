@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LODI",
+    "County": "NJ,BERGEN",
+    "DUNS": "002169233",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21523.584942,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150010940",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 728.509,
+                    "SubmissionNumber": 95132,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 728.509,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200051946",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 1211.566,
+                    "SubmissionNumber": 196908,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 1211.566,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000320475",
+    "FacilityID": "07644SFFRN210GA",
+    "FacilityNumber": 114873,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.880779,
+    "Longitude": -74.075135,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 12,
+            "state_pounds_pct": 20,
+            "state_score_pct": 91,
+            "us_count": 523,
+            "us_pounds_pct": 4,
+            "us_score_pct": 54
+        },
+        "2002": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 81,
+            "us_count": 506,
+            "us_pounds_pct": 7,
+            "us_score_pct": 59
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SUFFERN PLATING CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.88063,
+    "PreferredLong": 74.07574,
+    "PublicContactName": "PHILIP LANDAU",
+    "PublicContactPhone": "9734734404",
+    "RCRANumber": "NJD002169233",
+    "RadialDistance": 2849918,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 25,
+            "state_score_pct": 90,
+            "us_count": 553,
+            "us_pounds_pct": 4,
+            "us_score_pct": 53
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 88,
+            "us_count": 533,
+            "us_pounds_pct": 7,
+            "us_score_pct": 58
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.581,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.2272,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "210 GARIBALDI AVE.",
+    "SubmitLat": 40.3375,
+    "SubmitLong": 74.0,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2242,
+    "Y": 2711,
+    "ZIP9": "07644",
+    "ZIPCode": "07644"
+}

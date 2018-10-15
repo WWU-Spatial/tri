@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAS PIEDRAS",
+    "County": "PR,LAS PIEDRAS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31468.221056,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105181150",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 8.00047,
+                    "SubmissionNumber": 1802633,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105181162",
+                    "MaxOnsite": "03",
+                    "Pounds": 1500.0,
+                    "Score": 0.11662,
+                    "SubmissionNumber": 1802634,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2000.0,
+            "TotalScore": 8.11709,
+            "state_score_percentile": 47,
+            "us_score_percentile": 34
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125045346",
+                    "MaxOnsite": "03",
+                    "Pounds": 1500.0,
+                    "Score": 0.11960400000000002,
+                    "SubmissionNumber": 1969765,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 0.11960400000000002,
+            "state_score_percentile": 37,
+            "us_score_percentile": 31
+        }
+    },
+    "FIPS": "72085",
+    "FRSID": "110000917312",
+    "FacilityID": "00771CNSMRRD183",
+    "FacilityNumber": 110423,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.174019,
+    "Longitude": -65.879325,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 27,
+            "state_pounds_pct": 37,
+            "state_score_pct": 37,
+            "us_count": 150,
+            "us_pounds_pct": 38,
+            "us_score_pct": 49
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 34,
+            "state_score_pct": 8,
+            "us_count": 137,
+            "us_pounds_pct": 34,
+            "us_score_pct": 8
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "PR0023540",
+    "Name": "JOHNSON & JOHNSON CONSUMER PRODS. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001307081",
+    "ParentName": "JOHNSON & JOHNSON",
+    "PreferredLat": 18.17667,
+    "PreferredLong": 65.87389,
+    "PublicContactName": "STANLEY L. BURD",
+    "PublicContactPhone": "9088742552",
+    "RCRANumber": "PRD090585902",
+    "RadialDistance": 43709,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 36,
+            "state_score_pct": 36,
+            "us_count": 146,
+            "us_pounds_pct": 36,
+            "us_score_pct": 48
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 38,
+            "state_score_pct": 9,
+            "us_count": 135,
+            "us_pounds_pct": 33,
+            "us_score_pct": 9
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "RD. 183 KM 20.6",
+    "SubmitLat": 18.17667,
+    "SubmitLong": 65.87389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 48,
+    "Y": 24,
+    "ZIP9": "00771",
+    "ZIPCode": "00771"
+}

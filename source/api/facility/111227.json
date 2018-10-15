@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAWRENCE",
+    "County": "MA,ESSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39057.111083,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100420367",
+                    "MaxOnsite": "03",
+                    "Pounds": 2910.0,
+                    "Score": 76.5114,
+                    "SubmissionNumber": 1783218,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2910.0,
+            "TotalScore": 76.5114,
+            "state_score_percentile": 44,
+            "us_score_percentile": 37
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397110480961",
+                    "MaxOnsite": "03",
+                    "Pounds": 2910.0,
+                    "Score": 77.2886,
+                    "SubmissionNumber": 1864743,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2910.0,
+            "TotalScore": 77.2886,
+            "state_score_percentile": 40,
+            "us_score_percentile": 37
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120021656",
+                    "MaxOnsite": "03",
+                    "Pounds": 2910.0,
+                    "Score": 78.0658,
+                    "SubmissionNumber": 1901343,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2910.0,
+            "TotalScore": 78.0658,
+            "state_score_percentile": 46,
+            "us_score_percentile": 38
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399135092993",
+                    "MaxOnsite": "03",
+                    "Pounds": 13269.0,
+                    "Score": 359.508,
+                    "SubmissionNumber": 2063721,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13269.0,
+            "TotalScore": 359.508,
+            "state_score_percentile": 72,
+            "us_score_percentile": 58
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155126170",
+                    "MaxOnsite": "01",
+                    "Pounds": 27.1,
+                    "Score": 20.7955,
+                    "SubmissionNumber": 180007,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 27.1,
+            "TotalScore": 20.7955,
+            "state_score_percentile": 26,
+            "us_score_percentile": 18
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302201016096",
+                    "MaxOnsite": "01",
+                    "Pounds": 23.7,
+                    "Score": 18.2395,
+                    "SubmissionNumber": 280719,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 23.7,
+            "TotalScore": 18.2395,
+            "state_score_percentile": 29,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000309844",
+    "FacilityID": "01842TLNTC250CA",
+    "FacilityNumber": 111227,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.70647,
+    "Longitude": -71.15666,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 10,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 83,
+            "us_pounds_pct": 8,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 8,
+            "us_score_pct": 24
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 104,
+            "us_pounds_pct": 25,
+            "us_score_pct": 32
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 80,
+            "us_count": 93,
+            "us_pounds_pct": 21,
+            "us_score_pct": 27
+        },
+        "naicscode": "322130",
+        "name": "Paperboard Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "MAG250813",
+    "Name": "NEWARK ATLANTIC PAPERBOARD CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "362578395",
+    "ParentName": "NEWARK GROUP",
+    "PreferredLat": 42.70194,
+    "PreferredLong": 71.16417,
+    "PublicContactName": "RICHARD J. THERIAULT JR.",
+    "PublicContactPhone": "9783734111",
+    "RCRANumber": "MAG250813",
+    "RadialDistance": 3164972,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 10,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 8,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 7,
+            "us_score_pct": 22
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 7,
+            "us_score_pct": 25
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 114,
+            "us_pounds_pct": 26,
+            "us_score_pct": 35
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 100,
+            "us_pounds_pct": 21,
+            "us_score_pct": 28
+        },
+        "name": "Paperboard mills",
+        "siccode": "2631"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "263",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.598,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 37.9966,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.5282,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "250 CANAL ST.",
+    "SubmitLat": 42.70194,
+    "SubmitLong": 71.16417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2469,
+    "Y": 3028,
+    "ZIP9": "018401642",
+    "ZIPCode": "01840"
+}

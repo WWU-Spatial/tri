@@ -1,0 +1,251 @@
+{
+    "AssignedComID": 8087845,
+    "AssignedReach": "02050101000060",
+    "City": "BAINBRIDGE",
+    "County": "NY,CHENANGO",
+    "DUNS": "043857812",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 106967.78311,
+    "DistanceToReach": 40.574539,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398120387915",
+                    "MaxOnsite": "01",
+                    "Pounds": 27000.0,
+                    "Score": 71.4669,
+                    "SubmissionNumber": 1930302,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1398120387927",
+                    "MaxOnsite": "01",
+                    "Pounds": 140000.0,
+                    "Score": 19.0771,
+                    "SubmissionNumber": 1930303,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120387939",
+                    "MaxOnsite": "03",
+                    "Pounds": 5300.0,
+                    "Score": 0.140429,
+                    "SubmissionNumber": 1930304,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 172300.0,
+            "TotalScore": 90.684429,
+            "state_score_percentile": 92,
+            "us_score_percentile": 90
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1399135104798",
+                    "MaxOnsite": "02",
+                    "Pounds": 144683.0,
+                    "Score": 19.6401,
+                    "SubmissionNumber": 2064309,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 144683.0,
+            "TotalScore": 19.6401,
+            "state_score_percentile": 92,
+            "us_score_percentile": 89
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1300145149035",
+                    "MaxOnsite": "02",
+                    "Pounds": 183600.0,
+                    "Score": 24.8276,
+                    "SubmissionNumber": 84462,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1300145149148",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.052588,
+                    "SubmissionNumber": 84468,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300145149201",
+                    "MaxOnsite": "01",
+                    "Pounds": 13.0,
+                    "Score": 0.117196,
+                    "SubmissionNumber": 84472,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1300145149264",
+                    "MaxOnsite": "02",
+                    "Pounds": 68528.0,
+                    "Score": 180.005,
+                    "SubmissionNumber": 84475,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1300145149290",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000441,
+                    "Score": 0.0,
+                    "SubmissionNumber": 84477,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 252151.000441,
+            "TotalScore": 205.002384,
+            "state_score_percentile": 94,
+            "us_score_percentile": 93
+        }
+    },
+    "FIPS": "36017",
+    "FRSID": "110000582762",
+    "FacilityID": "13733SJNNSRTE7",
+    "FacilityNumber": 116882,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.276667,
+    "Longitude": -75.478056,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 559,
+            "us_pounds_pct": 35,
+            "us_score_pct": 18
+        },
+        "1999": {
+            "state_count": 31,
+            "state_pounds_pct": 51,
+            "state_score_pct": 16,
+            "us_count": 562,
+            "us_pounds_pct": 33,
+            "us_score_pct": 11
+        },
+        "2000": {
+            "state_count": 35,
+            "state_pounds_pct": 62,
+            "state_score_pct": 28,
+            "us_count": 623,
+            "us_pounds_pct": 51,
+            "us_score_pct": 30
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0003867",
+    "Name": "AES JENNISON LLC",
+    "NearComID": 8087855,
+    "NearReach": "02050101000060",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "043857812",
+    "ParentName": "AES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANDREW M. CHADWICK",
+    "PublicContactPhone": "6077296950",
+    "RCRANumber": "NYR000133553",
+    "RadialDistance": 2859903,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 46,
+            "state_score_pct": 17,
+            "us_count": 555,
+            "us_pounds_pct": 35,
+            "us_score_pct": 18
+        },
+        "1999": {
+            "state_count": 29,
+            "state_pounds_pct": 51,
+            "state_score_pct": 17,
+            "us_count": 558,
+            "us_pounds_pct": 33,
+            "us_score_pct": 10
+        },
+        "2000": {
+            "state_count": 34,
+            "state_pounds_pct": 64,
+            "state_score_pct": 32,
+            "us_count": 631,
+            "us_pounds_pct": 53,
+            "us_score_pct": 31
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NY",
+    "Street": "RTE. 7",
+    "SubmitLat": 42.26,
+    "SubmitLong": 75.48694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2060,
+    "Y": 2868,
+    "ZIP9": "137330189",
+    "ZIPCode": "13733"
+}

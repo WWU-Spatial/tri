@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STONY POINT",
+    "County": "NY,ROCKLAND",
+    "DUNS": "001704154",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59325.665884,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105274157",
+                    "MaxOnsite": "04",
+                    "Pounds": 17100.0,
+                    "Score": 23627.670000000002,
+                    "SubmissionNumber": 1808541,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17100.0,
+            "TotalScore": 23627.670000000002,
+            "state_score_percentile": 71,
+            "us_score_percentile": 61
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115057630",
+                    "MaxOnsite": "04",
+                    "Pounds": 18259.0,
+                    "Score": 25515.010000000002,
+                    "SubmissionNumber": 1878862,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18259.0,
+            "TotalScore": 25515.010000000002,
+            "state_score_percentile": 72,
+            "us_score_percentile": 62
+        }
+    },
+    "FIPS": "36087",
+    "FRSID": "110000823262",
+    "FacilityID": "10980LGHTNINDUS",
+    "FacilityNumber": 115845,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.21618,
+    "Longitude": -73.98643,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 81,
+            "us_score_pct": 93
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 81,
+            "us_score_pct": 87
+        },
+        "naicscode": "335122",
+        "name": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3351",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "LIGHTING SERVICES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.2185,
+    "PreferredLong": 73.9872,
+    "PublicContactName": "PAUL JESSON",
+    "PublicContactPhone": "9149422800",
+    "RCRANumber": "NYD001704220",
+    "RadialDistance": 2878610,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 80,
+            "us_score_pct": 93
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 73,
+            "us_score_pct": 86
+        },
+        "name": "Commercial, industrial, and institutional electric lighting fixtures",
+        "siccode": "3646"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "364",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9032,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2 KAY FRIES DR.",
+    "SubmitLat": 41.20278,
+    "SubmitLong": 73.95806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2241,
+    "Y": 2758,
+    "ZIP9": "10980",
+    "ZIPCode": "10980"
+}

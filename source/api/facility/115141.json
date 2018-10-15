@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LUMBERTON",
+    "County": "NJ,BURLINGTON",
+    "DUNS": "175527068",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 34424.838521,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1301200990164",
+                    "MaxOnsite": "03",
+                    "Pounds": 3654.0,
+                    "Score": 0.134338,
+                    "SubmissionNumber": 188407,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3654.0,
+            "TotalScore": 0.134338,
+            "state_score_percentile": 60,
+            "us_score_percentile": 50
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1302200912691",
+                    "MaxOnsite": "03",
+                    "Pounds": 3852.0,
+                    "Score": 0.142231,
+                    "SubmissionNumber": 274069,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3852.0,
+            "TotalScore": 0.142231,
+            "state_score_percentile": 60,
+            "us_score_percentile": 52
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303202007415",
+                    "MaxOnsite": "03",
+                    "Pounds": 726.0,
+                    "Score": 0.026159,
+                    "SubmissionNumber": 371891,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 726.0,
+            "TotalScore": 0.026159,
+            "state_score_percentile": 40,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "34005",
+    "FRSID": "110004234454",
+    "FacilityID": "08048SNCNT92ARK",
+    "FacilityNumber": 115141,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.937854,
+    "Longitude": -74.852497,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 13,
+            "us_pounds_pct": 76,
+            "us_score_pct": 30
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 81,
+            "us_score_pct": 45
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 72,
+            "us_score_pct": 18
+        },
+        "naicscode": "323119",
+        "name": "Other Commercial Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0135119",
+    "Name": "SANCOA INTERNATIONAL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JAMES TORRICO",
+    "PublicContactPhone": "8562730700",
+    "RCRANumber": "NJD986629491",
+    "RadialDistance": 2734142,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 53,
+            "us_score_pct": 26
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 41,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 32,
+            "us_score_pct": 9
+        },
+        "name": "Commercial printing, n.e.c.",
+        "siccode": "2759"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.722,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.9129,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4768,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "92 ARK RD",
+    "SubmitLat": 39.85306,
+    "SubmitLong": 74.93861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2193,
+    "Y": 2566,
+    "ZIP9": "08048",
+    "ZIPCode": "08048"
+}

@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MERRIMACK",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "007321904",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64670.36693,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1396105166944",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 1.61219,
+                    "SubmissionNumber": 1801703,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396105166957",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 22.5543,
+                    "SubmissionNumber": 1801704,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 24.166490000000003,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1397110050426",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.03265,
+                    "SubmissionNumber": 1828321,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.03265,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1398125099667",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.033057,
+                    "SubmissionNumber": 1972255,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.033057,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1399135019964",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.033463,
+                    "SubmissionNumber": 2059531,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.033463,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1300145197808",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.03387,
+                    "SubmissionNumber": 87403,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.03387,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110000313429",
+    "FacilityID": "03054NTRDN7CONT",
+    "FacilityNumber": 112461,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.837041,
+    "Longitude": -71.499231,
+    "Method": "GPS - UNSPECIFIED",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 138,
+            "us_pounds_pct": 22,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 145,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 145,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 138,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 140,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TEXAS INSTRUMENTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "007321904",
+    "ParentName": "TEXAS INSTRUMENTS INC",
+    "PreferredLat": 42.83611,
+    "PreferredLong": 71.50111,
+    "PublicContactName": "MICHAEL CURRIER",
+    "PublicContactPhone": "6034298716",
+    "RCRANumber": "NHD045513785",
+    "RadialDistance": 3151092,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 136,
+            "us_pounds_pct": 23,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 142,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 142,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 137,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 140,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "7 CONTINENTAL BLVD.",
+    "SubmitLat": 42.83611,
+    "SubmitLong": 71.50111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2431,
+    "Y": 3037,
+    "ZIP9": "030544334",
+    "ZIPCode": "03054"
+}

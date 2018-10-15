@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SAYREVILLE",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "001725456",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32647.120701,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105004713",
+                    "MaxOnsite": "01",
+                    "Pounds": 51250.0,
+                    "Score": 254.35581,
+                    "SubmissionNumber": 1790887,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 51250.0,
+            "TotalScore": 254.35581,
+            "state_score_percentile": 90,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110034321",
+                    "MaxOnsite": "01",
+                    "Pounds": 75930.0,
+                    "Score": 325.7414,
+                    "SubmissionNumber": 1826883,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 75930.0,
+            "TotalScore": 325.7414,
+            "state_score_percentile": 92,
+            "us_score_percentile": 83
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000874484",
+    "FacilityID": "08872SNSHNBORDE",
+    "FacilityNumber": 115610,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.434374,
+    "Longitude": -74.332269,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 91,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 89,
+            "us_score_pct": 78
+        },
+        "naicscode": "311000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3110",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "KEEBLER FOODS CO. (SUNSHINE BISCUITS)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001326065",
+    "ParentName": "KEEBLER FOODS CO",
+    "PreferredLat": 40.43194,
+    "PreferredLong": 74.34306,
+    "PublicContactName": "LIVIA PONTANI-BAILEY",
+    "PublicContactPhone": "7326134613",
+    "RCRANumber": "NJD981563315",
+    "RadialDistance": 2802612,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 65,
+            "us_score_pct": 73
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 95,
+            "us_score_pct": 85
+        },
+        "name": "Cookies and crackers",
+        "siccode": "2052"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "205",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3764,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.62,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "BORDENTOWN AVE. & JERNEE MILL RD.",
+    "SubmitLat": 40.43194,
+    "SubmitLong": 74.34306,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2231,
+    "Y": 2645,
+    "ZIP9": "08872",
+    "ZIPCode": "08872"
+}

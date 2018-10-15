@@ -1,0 +1,172 @@
+{
+    "AssignedComID": 6177928,
+    "AssignedReach": "01100004000588",
+    "City": "CLINTON",
+    "County": "CT,MIDDLESEX",
+    "DUNS": "094320132",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 74794.612643,
+    "DistanceToReach": 67.07498,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204544353",
+                    "MaxOnsite": "01",
+                    "Pounds": 36.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 602317,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204544365",
+                    "MaxOnsite": "04",
+                    "Pounds": 2971.0,
+                    "Score": 59535.3,
+                    "SubmissionNumber": 602318,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3007.0,
+            "TotalScore": 59535.3,
+            "state_score_percentile": 64,
+            "us_score_percentile": 53
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205887019",
+                    "MaxOnsite": "01",
+                    "Pounds": 50.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 719884,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205887021",
+                    "MaxOnsite": "01",
+                    "Pounds": 4642.0,
+                    "Score": 93264.7,
+                    "SubmissionNumber": 719885,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4692.0,
+            "TotalScore": 93264.7,
+            "state_score_percentile": 74,
+            "us_score_percentile": 60
+        }
+    },
+    "FIPS": "09007",
+    "FRSID": "110000523327",
+    "FacilityID": "06413CHSBRJOHNS",
+    "FacilityNumber": 113500,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.27071,
+    "Longitude": -72.522341,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 95,
+            "us_pounds_pct": 78,
+            "us_score_pct": 98
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 83,
+            "us_score_pct": 100
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "UNILEVER HPC",
+    "NearComID": 6178222,
+    "NearReach": "01100004000588",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "UNILEVER",
+    "PreferredLat": 41.29167,
+    "PreferredLong": 72.53333,
+    "PublicContactName": "SANTOS MARTINEZ",
+    "PublicContactPhone": "8606642621",
+    "RCRANumber": "CTD001186030",
+    "RadialDistance": 2980070,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 31,
+            "us_pounds_pct": 83,
+            "us_score_pct": 96
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 85,
+            "us_score_pct": 100
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.716,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.6576,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "1 JOHN ST",
+    "SubmitLat": 41.29167,
+    "SubmitLong": 72.53333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2385,
+    "Y": 2801,
+    "ZIP9": "06413",
+    "ZIPCode": "06413"
+}

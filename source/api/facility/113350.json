@@ -1,0 +1,980 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WETHERSFIELD",
+    "County": "CT,HARTFORD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23991.327256,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1398120689056",
+                    "MaxOnsite": "06",
+                    "Pounds": 613.0,
+                    "Score": 0.47286300000000003,
+                    "SubmissionNumber": 1951998,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1398120689068",
+                    "MaxOnsite": "05",
+                    "Pounds": 153.0,
+                    "Score": 667.794,
+                    "SubmissionNumber": 1951999,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120689070",
+                    "MaxOnsite": "06",
+                    "Pounds": 525.0,
+                    "Score": 0.057658,
+                    "SubmissionNumber": 1952000,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120689082",
+                    "MaxOnsite": "06",
+                    "Pounds": 434.0,
+                    "Score": 2.4824029999999997,
+                    "SubmissionNumber": 1952001,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1398120689094",
+                    "MaxOnsite": "05",
+                    "Pounds": 90.0,
+                    "Score": 13.34521,
+                    "SubmissionNumber": 1952002,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1398120689106",
+                    "MaxOnsite": "06",
+                    "Pounds": 2641.0,
+                    "Score": 36.3042,
+                    "SubmissionNumber": 1952003,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1398120689118",
+                    "MaxOnsite": "05",
+                    "Pounds": 336.0,
+                    "Score": 30.38254,
+                    "SubmissionNumber": 1952004,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 4792.0,
+            "TotalScore": 750.8388739999998,
+            "state_score_percentile": 50,
+            "us_score_percentile": 43
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130635182",
+                    "MaxOnsite": "06",
+                    "Pounds": 704.0,
+                    "Score": 0.537061,
+                    "SubmissionNumber": 2043572,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1399130635194",
+                    "MaxOnsite": "05",
+                    "Pounds": 186.0,
+                    "Score": 800.197,
+                    "SubmissionNumber": 2043573,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130635206",
+                    "MaxOnsite": "06",
+                    "Pounds": 612.0,
+                    "Score": 0.06621,
+                    "SubmissionNumber": 2043574,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130635218",
+                    "MaxOnsite": "06",
+                    "Pounds": 392.0,
+                    "Score": 2.174828,
+                    "SubmissionNumber": 2043575,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399130635220",
+                    "MaxOnsite": "05",
+                    "Pounds": 92.0,
+                    "Score": 13.21715,
+                    "SubmissionNumber": 2043576,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1399130635232",
+                    "MaxOnsite": "06",
+                    "Pounds": 3367.0,
+                    "Score": 45.8771,
+                    "SubmissionNumber": 2043577,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399130635244",
+                    "MaxOnsite": "05",
+                    "Pounds": 138.0,
+                    "Score": 11.68093,
+                    "SubmissionNumber": 2043578,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 5491.0,
+            "TotalScore": 873.750279,
+            "state_score_percentile": 54,
+            "us_score_percentile": 46
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1300140632112",
+                    "MaxOnsite": "06",
+                    "Pounds": 763.0,
+                    "Score": 0.5802309999999999,
+                    "SubmissionNumber": 49402,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1300140632124",
+                    "MaxOnsite": "05",
+                    "Pounds": 203.0,
+                    "Score": 870.682,
+                    "SubmissionNumber": 49403,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140632136",
+                    "MaxOnsite": "06",
+                    "Pounds": 659.0,
+                    "Score": 0.07100300000000001,
+                    "SubmissionNumber": 49404,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140632148",
+                    "MaxOnsite": "06",
+                    "Pounds": 409.0,
+                    "Score": 2.257448,
+                    "SubmissionNumber": 49405,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1300140632151",
+                    "MaxOnsite": "05",
+                    "Pounds": 96.0,
+                    "Score": 13.745560000000001,
+                    "SubmissionNumber": 49406,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1300140632163",
+                    "MaxOnsite": "06",
+                    "Pounds": 3733.0,
+                    "Score": 50.896699999999996,
+                    "SubmissionNumber": 49407,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1300140632175",
+                    "MaxOnsite": "05",
+                    "Pounds": 153.0,
+                    "Score": 13.27165,
+                    "SubmissionNumber": 49408,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 6016.0,
+            "TotalScore": 951.504592,
+            "state_score_percentile": 54,
+            "us_score_percentile": 50
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1301150498549",
+                    "MaxOnsite": "05",
+                    "Pounds": 152.0,
+                    "Score": 13.02892,
+                    "SubmissionNumber": 138747,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1301150498552",
+                    "MaxOnsite": "05",
+                    "Pounds": 242.0,
+                    "Score": 1036.897,
+                    "SubmissionNumber": 138748,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150498564",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 138749,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1301150498576",
+                    "MaxOnsite": "05",
+                    "Pounds": 106.0,
+                    "Score": 15.05453,
+                    "SubmissionNumber": 138750,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1301150498588",
+                    "MaxOnsite": "06",
+                    "Pounds": 4575.0,
+                    "Score": 62.6657,
+                    "SubmissionNumber": 138751,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1301150498590",
+                    "MaxOnsite": "06",
+                    "Pounds": 898.0,
+                    "Score": 0.68065,
+                    "SubmissionNumber": 138752,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150498602",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.8999999999999999,
+                    "Score": 124.3041,
+                    "SubmissionNumber": 138753,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150498614",
+                    "MaxOnsite": "05",
+                    "Pounds": 763.0,
+                    "Score": 0.081756,
+                    "SubmissionNumber": 138754,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301150498626",
+                    "MaxOnsite": "06",
+                    "Pounds": 449.0,
+                    "Score": 2.458089,
+                    "SubmissionNumber": 138755,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 7186.0,
+            "TotalScore": 1255.1707450000001,
+            "state_score_percentile": 66,
+            "us_score_percentile": 58
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1302200448393",
+                    "MaxOnsite": "05",
+                    "Pounds": 143.0,
+                    "Score": 12.12764,
+                    "SubmissionNumber": 233257,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1302200448405",
+                    "MaxOnsite": "05",
+                    "Pounds": 237.0,
+                    "Score": 1014.682,
+                    "SubmissionNumber": 233258,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200448417",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.13999999999999999,
+                    "Score": 0.0,
+                    "SubmissionNumber": 233259,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1302200448429",
+                    "MaxOnsite": "05",
+                    "Pounds": 105.0,
+                    "Score": 14.92535,
+                    "SubmissionNumber": 233260,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1302200448431",
+                    "MaxOnsite": "06",
+                    "Pounds": 4461.0,
+                    "Score": 60.9619,
+                    "SubmissionNumber": 233261,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1302200448443",
+                    "MaxOnsite": "05",
+                    "Pounds": 880.0,
+                    "Score": 0.6665760000000001,
+                    "SubmissionNumber": 233262,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200448456",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.86,
+                    "Score": 116.5453,
+                    "SubmissionNumber": 233263,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200448468",
+                    "MaxOnsite": "05",
+                    "Pounds": 752.0,
+                    "Score": 0.08063600000000001,
+                    "SubmissionNumber": 233264,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1302200448470",
+                    "MaxOnsite": "05",
+                    "Pounds": 441.0,
+                    "Score": 2.4185220000000003,
+                    "SubmissionNumber": 233265,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 7020.0,
+            "TotalScore": 1222.4079239999999,
+            "state_score_percentile": 67,
+            "us_score_percentile": 58
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1303201366491",
+                    "MaxOnsite": "05",
+                    "Pounds": 298.0,
+                    "Score": 26.53075,
+                    "SubmissionNumber": 315645,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1303201366503",
+                    "MaxOnsite": "05",
+                    "Pounds": 216.0,
+                    "Score": 930.9730000000001,
+                    "SubmissionNumber": 315646,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1303201366515",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.13,
+                    "Score": 0.0,
+                    "SubmissionNumber": 315647,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1303201366527",
+                    "MaxOnsite": "05",
+                    "Pounds": 152.0,
+                    "Score": 22.6111,
+                    "SubmissionNumber": 315648,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1303201366541",
+                    "MaxOnsite": "06",
+                    "Pounds": 4007.0,
+                    "Score": 54.9969,
+                    "SubmissionNumber": 315650,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1303201366554",
+                    "MaxOnsite": "05",
+                    "Pounds": 807.0,
+                    "Score": 0.615788,
+                    "SubmissionNumber": 315651,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201366566",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.78,
+                    "Score": 105.9751,
+                    "SubmissionNumber": 315652,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201366578",
+                    "MaxOnsite": "05",
+                    "Pounds": 694.0,
+                    "Score": 0.07500699999999999,
+                    "SubmissionNumber": 315653,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1303201366580",
+                    "MaxOnsite": "05",
+                    "Pounds": 713.0,
+                    "Score": 4.10023,
+                    "SubmissionNumber": 315654,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 6887.91,
+            "TotalScore": 1145.8778750000001,
+            "state_score_percentile": 66,
+            "us_score_percentile": 59
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1304202676007",
+                    "MaxOnsite": "05",
+                    "Pounds": 533.0,
+                    "Score": 49.236070000000005,
+                    "SubmissionNumber": 433409,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304202676045",
+                    "MaxOnsite": "05",
+                    "Pounds": 3.0,
+                    "Score": 4.64311,
+                    "SubmissionNumber": 433413,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202676058",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.02,
+                    "Score": 2.59989,
+                    "SubmissionNumber": 433414,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 536.02,
+            "TotalScore": 56.47907000000001,
+            "state_score_percentile": 48,
+            "us_score_percentile": 38
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1305203711318",
+                    "MaxOnsite": "05",
+                    "Pounds": 29.0,
+                    "Score": 2.09051,
+                    "SubmissionNumber": 527564,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1305203711383",
+                    "MaxOnsite": "05",
+                    "Pounds": 3.0,
+                    "Score": 4.65386,
+                    "SubmissionNumber": 527571,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203711395",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.03,
+                    "Score": 3.90739,
+                    "SubmissionNumber": 527572,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 32.03,
+            "TotalScore": 10.65176,
+            "state_score_percentile": 30,
+            "us_score_percentile": 23
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1306204566448",
+                    "MaxOnsite": "05",
+                    "Pounds": 3.0,
+                    "Score": 4.66461,
+                    "SubmissionNumber": 604351,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204566451",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.03,
+                    "Score": 3.91495,
+                    "SubmissionNumber": 604352,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1306205131269",
+                    "MaxOnsite": "05",
+                    "Pounds": 78.0,
+                    "Score": 6.404579999999999,
+                    "SubmissionNumber": 651767,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 81.03,
+            "TotalScore": 14.98414,
+            "state_score_percentile": 38,
+            "us_score_percentile": 27
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1307205361405",
+                    "MaxOnsite": "05",
+                    "Pounds": 35.0,
+                    "Score": 2.53442,
+                    "SubmissionNumber": 673997,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205361443",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.02,
+                    "Score": 2.61501,
+                    "SubmissionNumber": 674001,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1307205361468",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 3.1169,
+                    "SubmissionNumber": 674003,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 37.02,
+            "TotalScore": 8.26633,
+            "state_score_percentile": 33,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315659",
+    "FacilityID": "06109MRDHS50BUR",
+    "FacilityNumber": 113350,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.718547,
+    "Longitude": -72.649458,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 524,
+            "us_pounds_pct": 46,
+            "us_score_pct": 37
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 492,
+            "us_pounds_pct": 53,
+            "us_score_pct": 37
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 503,
+            "us_pounds_pct": 59,
+            "us_score_pct": 43
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 521,
+            "us_pounds_pct": 67,
+            "us_score_pct": 53
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 506,
+            "us_pounds_pct": 66,
+            "us_score_pct": 50
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 459,
+            "us_pounds_pct": 66,
+            "us_score_pct": 51
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 458,
+            "us_pounds_pct": 16,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 450,
+            "us_pounds_pct": 4,
+            "us_score_pct": 12
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 425,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 436,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HESS CORP WETHERSFIELD TERMINAL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006979785",
+    "ParentName": "HESS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PETER HAID",
+    "PublicContactPhone": "7327507088",
+    "RCRANumber": "CTD085073054",
+    "RadialDistance": 3000948,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 531,
+            "us_pounds_pct": 47,
+            "us_score_pct": 38
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 502,
+            "us_pounds_pct": 54,
+            "us_score_pct": 39
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 513,
+            "us_pounds_pct": 60,
+            "us_score_pct": 44
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 535,
+            "us_pounds_pct": 68,
+            "us_score_pct": 55
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 521,
+            "us_pounds_pct": 67,
+            "us_score_pct": 52
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 474,
+            "us_pounds_pct": 66,
+            "us_score_pct": 53
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 472,
+            "us_pounds_pct": 17,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 465,
+            "us_pounds_pct": 7,
+            "us_score_pct": 12
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 439,
+            "us_pounds_pct": 7,
+            "us_score_pct": 14
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 446,
+            "us_pounds_pct": 6,
+            "us_score_pct": 14
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8721,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.2106,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 1.9191,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "50 BURBANK RD",
+    "SubmitLat": 41.71833,
+    "SubmitLong": 72.64667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2357,
+    "Y": 2858,
+    "ZIP9": "06109",
+    "ZIPCode": "06109"
+}

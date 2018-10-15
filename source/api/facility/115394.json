@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TRENTON",
+    "County": "NJ,MERCER",
+    "DUNS": "877684886",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57724.444906,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115319218",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 1.91455,
+                    "SubmissionNumber": 1893500,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1397115319220",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.7984,
+                    "SubmissionNumber": 1893501,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 12.712950000000001,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1398125330567",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.7901,
+                    "SubmissionNumber": 1982945,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125330581",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 1.91338,
+                    "SubmissionNumber": 1982946,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 12.70348,
+            "state_score_percentile": 4,
+            "us_score_percentile": 5
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1399135212153",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.7818,
+                    "SubmissionNumber": 2070385,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 10.7818,
+            "state_score_percentile": 2,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1300145038408",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.7735,
+                    "SubmissionNumber": 78399,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300145038434",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 1.91103,
+                    "SubmissionNumber": 78402,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 12.68453,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110000771399",
+    "FacilityID": "08638CHLLNMEADE",
+    "FacilityNumber": 115394,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.23188,
+    "Longitude": -74.747135,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 50,
+            "us_pounds_pct": 20,
+            "us_score_pct": 52
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 51,
+            "us_pounds_pct": 23,
+            "us_score_pct": 54
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 52,
+            "us_pounds_pct": 12,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 47,
+            "us_pounds_pct": 13,
+            "us_score_pct": 44
+        },
+        "naicscode": "331422",
+        "name": "Copper Wire (except Mechanical) Drawing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "EASTERN WIRE & CABLE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.23222,
+    "PreferredLong": 74.74861,
+    "PublicContactName": "CHARLES INGRAM",
+    "PublicContactPhone": "6093931700",
+    "RCRANumber": "NJD000571026",
+    "RadialDistance": 2761050,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 111,
+            "us_pounds_pct": 12,
+            "us_score_pct": 51
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 112,
+            "us_pounds_pct": 13,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 113,
+            "us_pounds_pct": 7,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 62,
+            "state_score_pct": 25,
+            "us_count": 113,
+            "us_pounds_pct": 15,
+            "us_score_pct": 51
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "51 MEADE ST.",
+    "SubmitLat": 40.23222,
+    "SubmitLong": 74.74861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2195,
+    "Y": 2608,
+    "ZIP9": "08638",
+    "ZIPCode": "08638"
+}

@@ -1,0 +1,221 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAUPPAUGE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "001635622",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 78295.946692,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105099865",
+                    "MaxOnsite": "03",
+                    "Pounds": 11716.0,
+                    "Score": 266.309,
+                    "SubmissionNumber": 1797319,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11716.0,
+            "TotalScore": 266.309,
+            "state_score_percentile": 63,
+            "us_score_percentile": 53
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135008225",
+                    "MaxOnsite": "04",
+                    "Pounds": 480.0,
+                    "Score": 2.16102,
+                    "SubmissionNumber": 2058786,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399135184517",
+                    "MaxOnsite": "03",
+                    "Pounds": 441.0,
+                    "Score": 30.9166,
+                    "SubmissionNumber": 2068668,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 921.0,
+            "TotalScore": 33.077619999999996,
+            "state_score_percentile": 33,
+            "us_score_percentile": 28
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000806833",
+    "FacilityID": "11788RKYPC22ARK",
+    "FacilityNumber": 116207,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.813487,
+    "Longitude": -73.248951,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 40,
+            "us_score_pct": 90
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 23,
+            "us_score_pct": 61
+        },
+        "naicscode": "322212",
+        "name": "Folding Paperboard Box Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ARKAY PACKAGING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.8165,
+    "PreferredLong": 73.2123,
+    "PublicContactName": "JOHN NARCISSE",
+    "PublicContactPhone": "6312732000",
+    "RCRANumber": "NYD001635622",
+    "RadialDistance": 2901000,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 100,
+            "us_count": 90,
+            "us_pounds_pct": 40,
+            "us_score_pct": 82
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 6,
+            "us_score_pct": 47
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 100,
+            "us_count": 121,
+            "us_pounds_pct": 26,
+            "us_score_pct": 76
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 77,
+            "us_count": 114,
+            "us_pounds_pct": 5,
+            "us_score_pct": 64
+        },
+        "name": "Coated and laminated paper, n.e.c.",
+        "siccode": "2672"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 97,
+            "us_pounds_pct": 27,
+            "us_score_pct": 88
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 77,
+            "us_pounds_pct": 3,
+            "us_score_pct": 79
+        },
+        "name": "Commercial printing, gravure",
+        "siccode": "2754"
+    },
+    "SIC4": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 75,
+            "us_score_pct": 66
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 55,
+            "us_score_pct": 61
+        },
+        "name": "Platemaking and related services",
+        "siccode": "2796"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.317,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 6.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 17.1197,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "22 ARKAY DR",
+    "SubmitLat": 40.81639,
+    "SubmitLong": 73.21222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2328,
+    "Y": 2722,
+    "ZIP9": "11788",
+    "ZIPCode": "11788"
+}

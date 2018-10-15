@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MANCHESTER",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "793463209",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 78596.953706,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140291485",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 0.811363,
+                    "SubmissionNumber": 26237,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.811363,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200774077",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 0.810527,
+                    "SubmissionNumber": 263348,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.810527,
+            "state_score_percentile": 27,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110000313606",
+    "FacilityID": "03102CRLCB345MC",
+    "FacilityNumber": 112530,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.995614,
+    "Longitude": -71.474088,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 5,
+            "us_score_pct": 17
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 17,
+            "us_score_pct": 25
+        },
+        "naicscode": "335929",
+        "name": "Other Communication and Energy Wire Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GENERAL CABLE INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "793463209",
+    "ParentName": "GENERAL CABLE CORP",
+    "PreferredLat": 42.99167,
+    "PreferredLong": 71.47917,
+    "PublicContactName": "STEVE MESSENGER",
+    "PublicContactPhone": "8595728918",
+    "RCRANumber": "NHD982749582",
+    "RadialDistance": 3163306,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 113,
+            "us_pounds_pct": 5,
+            "us_score_pct": 21
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 91,
+            "us_pounds_pct": 15,
+            "us_score_pct": 24
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "345 MCGREGOR ST",
+    "SubmitLat": 42.99167,
+    "SubmitLong": 71.47917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2428,
+    "Y": 3059,
+    "ZIP9": "03102",
+    "ZIPCode": "03102"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERFORD",
+    "County": "VT,CALEDONIA",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 95918.962364,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207846282",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.004864,
+                    "SubmissionNumber": 895535,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207846294",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.8,
+                    "Score": 4.297536,
+                    "SubmissionNumber": 895536,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1.9000000000000001,
+            "TotalScore": 4.3024000000000004,
+            "state_score_percentile": 28,
+            "us_score_percentile": 10
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208726036",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.009733,
+                    "SubmissionNumber": 973570,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208726048",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.9,
+                    "Score": 9.284724,
+                    "SubmissionNumber": 973571,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 4.1,
+            "TotalScore": 9.294457000000001,
+            "state_score_percentile": 34,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "50005",
+    "FRSID": "110010911834",
+    "FacilityID": "0581WPKNDS2884D",
+    "FacilityNumber": 113126,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.371123,
+    "Longitude": -71.948907,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 220,
+            "us_pounds_pct": 50,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 219,
+            "us_pounds_pct": 56,
+            "us_score_pct": 25
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC - WATERFORD VT (P702 & C603)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK PELOQUIN",
+    "PublicContactPhone": "8022233002",
+    "RCRANumber": "VTD980196513",
+    "RadialDistance": 3228281,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 50,
+            "us_score_pct": 19
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 211,
+            "us_pounds_pct": 56,
+            "us_score_pct": 27
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "50",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "VT",
+    "Street": "2884 DUCK POND RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2335,
+    "Y": 3230,
+    "ZIP9": "05819",
+    "ZIPCode": "05819"
+}

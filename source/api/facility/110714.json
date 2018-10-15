@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DALTON",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59348.250609,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206863300",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00087,
+                    "Score": 0.000309,
+                    "SubmissionNumber": 807775,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.00087,
+            "TotalScore": 0.000309,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207626932",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00109,
+                    "Score": 0.000385,
+                    "SubmissionNumber": 875069,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.00109,
+            "TotalScore": 0.000385,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208647038",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00109,
+                    "Score": 0.000382,
+                    "SubmissionNumber": 966032,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.00109,
+            "TotalScore": 0.000382,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110015766884",
+    "FacilityID": "01226CNTYC32HUB",
+    "FacilityNumber": 110714,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.462148,
+    "Longitude": -73.188763,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 5,
+            "us_count": 296,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 8,
+            "us_count": 292,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 287,
+            "us_pounds_pct": 7,
+            "us_score_pct": 3
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COUNTY CONCRETE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK CLEMENTE",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "MAD066826165",
+    "RadialDistance": 3016359,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 5,
+            "us_count": 297,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 8,
+            "us_count": 291,
+            "us_pounds_pct": 3,
+            "us_score_pct": 2
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 279,
+            "us_pounds_pct": 7,
+            "us_score_pct": 3
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "320 HUBBARD AVE",
+    "SubmitLat": 42.46194,
+    "SubmitLong": 73.18667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2279,
+    "Y": 2945,
+    "ZIP9": "01226",
+    "ZIPCode": "01226"
+}

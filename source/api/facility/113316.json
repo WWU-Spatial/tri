@@ -1,0 +1,757 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WINDSOR",
+    "County": "CT,HARTFORD",
+    "DUNS": "001155753",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13021.349052,
+    "DistanceToReach": 86.140355,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105278509",
+                    "MaxOnsite": "03",
+                    "Pounds": 2200.0,
+                    "Score": 0.537381,
+                    "SubmissionNumber": 1808818,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105278511",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 90621.62400000001,
+                    "SubmissionNumber": 1808819,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105278523",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 65331.837999999996,
+                    "SubmissionNumber": 1808820,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2710.0,
+            "TotalScore": 155953.999381,
+            "state_score_percentile": 43,
+            "us_score_percentile": 37
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397115157467",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 90292.229,
+                    "SubmissionNumber": 1884672,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397115157479",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 65094.405,
+                    "SubmissionNumber": 1884673,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 155386.63400000002,
+            "state_score_percentile": 29,
+            "us_score_percentile": 22
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398125110559",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 64856.971,
+                    "SubmissionNumber": 1972877,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398125110662",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 89962.83399999999,
+                    "SubmissionNumber": 1972883,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 154819.805,
+            "state_score_percentile": 29,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140590249",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 89304.044,
+                    "SubmissionNumber": 46793,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140590252",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 64382.004,
+                    "SubmissionNumber": 46794,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 153686.048,
+            "state_score_percentile": 32,
+            "us_score_percentile": 26
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150300592",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 89313.837,
+                    "SubmissionNumber": 121378,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150300604",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 64389.048,
+                    "SubmissionNumber": 121379,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150300616",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 48.860479,
+                    "SubmissionNumber": 121380,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 520.0,
+            "TotalScore": 153751.745479,
+            "state_score_percentile": 40,
+            "us_score_percentile": 33
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200465235",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 89323.63,
+                    "SubmissionNumber": 234817,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200465247",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 64396.091,
+                    "SubmissionNumber": 234818,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200465250",
+                    "MaxOnsite": "02",
+                    "Pounds": 7.39,
+                    "Score": 36.16474,
+                    "SubmissionNumber": 234819,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 517.39,
+            "TotalScore": 153755.88574000003,
+            "state_score_percentile": 41,
+            "us_score_percentile": 35
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1303201911260",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 89333.42199999999,
+                    "SubmissionNumber": 364482,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1303201911272",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 64403.134999999995,
+                    "SubmissionNumber": 364483,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201911284",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.87,
+                    "Score": 33.626205,
+                    "SubmissionNumber": 364484,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 516.87,
+            "TotalScore": 153770.18320499998,
+            "state_score_percentile": 42,
+            "us_score_percentile": 35
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1304202993489",
+                    "MaxOnsite": "03",
+                    "Pounds": 68.0,
+                    "Score": 23682.966,
+                    "SubmissionNumber": 461695,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1304202993491",
+                    "MaxOnsite": "03",
+                    "Pounds": 90.0,
+                    "Score": 22850.316,
+                    "SubmissionNumber": 461696,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202993503",
+                    "MaxOnsite": "02",
+                    "Pounds": 7.17,
+                    "Score": 35.054571,
+                    "SubmissionNumber": 461697,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 165.17,
+            "TotalScore": 46568.336571,
+            "state_score_percentile": 36,
+            "us_score_percentile": 28
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1305203824103",
+                    "MaxOnsite": "03",
+                    "Pounds": 60.0,
+                    "Score": 20849.123,
+                    "SubmissionNumber": 537766,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1305203824115",
+                    "MaxOnsite": "03",
+                    "Pounds": 92.0,
+                    "Score": 23363.944,
+                    "SubmissionNumber": 537767,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203824127",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.859999999999999,
+                    "Score": 33.672977,
+                    "SubmissionNumber": 537768,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 158.86,
+            "TotalScore": 44246.739977,
+            "state_score_percentile": 38,
+            "us_score_percentile": 29
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306205107079",
+                    "MaxOnsite": "02",
+                    "Pounds": 7.74,
+                    "Score": 37.467538,
+                    "SubmissionNumber": 650502,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7.74,
+            "TotalScore": 37.467538,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1307206050510",
+                    "MaxOnsite": "03",
+                    "Pounds": 137.0,
+                    "Score": 48161.537000000004,
+                    "SubmissionNumber": 733532,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307206050650",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.9799999999999995,
+                    "Score": 33.918527,
+                    "SubmissionNumber": 733544,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 143.98,
+            "TotalScore": 48195.455527000006,
+            "state_score_percentile": 41,
+            "us_score_percentile": 30
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308206945901",
+                    "MaxOnsite": "03",
+                    "Pounds": 63.0,
+                    "Score": 21920.394,
+                    "SubmissionNumber": 815300,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206945925",
+                    "MaxOnsite": "02",
+                    "Pounds": 6.619999999999999,
+                    "Score": 32.5848,
+                    "SubmissionNumber": 815302,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 69.62,
+            "TotalScore": 21952.9788,
+            "state_score_percentile": 39,
+            "us_score_percentile": 28
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207258740",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.78,
+                    "Score": 23.569925,
+                    "SubmissionNumber": 840960,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.78,
+            "TotalScore": 23.569925,
+            "state_score_percentile": 23,
+            "us_score_percentile": 14
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208203012",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.45,
+                    "Score": 21.909233,
+                    "SubmissionNumber": 924854,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.45,
+            "TotalScore": 21.909233,
+            "state_score_percentile": 23,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315560",
+    "FacilityID": "06095TYLRF22DEE",
+    "FacilityNumber": 113316,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.81766,
+    "Longitude": -72.6552,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 61,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 51,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 48,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 36,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 39,
+            "us_score_pct": 100
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 32,
+            "us_score_pct": 100
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 100
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 31,
+            "us_score_pct": 100
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 29,
+            "us_score_pct": 97
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 13,
+            "us_score_pct": 61
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 34,
+            "us_score_pct": 95
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 38,
+            "us_score_pct": 94
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 46,
+            "us_score_pct": 61
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 26,
+            "us_score_pct": 53
+        },
+        "naicscode": "INVALD",
+        "name": ""
+    },
+    "NAICSCode3Digit": "NR",
+    "NAICSCode4Digit": "NR",
+    "NAICSCodeSame3Digit": "NR",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "TAYLOR & FENN CO",
+    "NearComID": 7700104,
+    "NearReach": "01080205000538",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.81611,
+    "PreferredLong": 72.65139,
+    "PublicContactName": "STEVEN KELLNER",
+    "PublicContactPhone": "8602497531",
+    "RCRANumber": "CTR000006171",
+    "RadialDistance": 3007164,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 217,
+            "us_pounds_pct": 50,
+            "us_score_pct": 94
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 28,
+            "us_score_pct": 95
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 31,
+            "us_score_pct": 95
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 205,
+            "us_pounds_pct": 31,
+            "us_score_pct": 98
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 220,
+            "us_pounds_pct": 37,
+            "us_score_pct": 98
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 206,
+            "us_pounds_pct": 35,
+            "us_score_pct": 98
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 206,
+            "us_pounds_pct": 40,
+            "us_score_pct": 98
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 198,
+            "us_pounds_pct": 25,
+            "us_score_pct": 92
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 193,
+            "us_pounds_pct": 26,
+            "us_score_pct": 93
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 192,
+            "us_pounds_pct": 7,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 186,
+            "us_pounds_pct": 28,
+            "us_score_pct": 93
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 184,
+            "us_pounds_pct": 20,
+            "us_score_pct": 86
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 173,
+            "us_pounds_pct": 8,
+            "us_score_pct": 24
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 161,
+            "us_pounds_pct": 7,
+            "us_score_pct": 21
+        },
+        "name": "Gray and ductile iron foundries",
+        "siccode": "3321"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "332",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.9774,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.5645,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.51,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "22 DEERFIELD RD",
+    "SubmitLat": 41.98,
+    "SubmitLong": 72.65139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2353,
+    "Y": 2871,
+    "ZIP9": "06095",
+    "ZIPCode": "06095"
+}

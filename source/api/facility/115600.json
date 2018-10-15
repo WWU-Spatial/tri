@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PHILLIPSBURG",
+    "County": "NJ,WARREN",
+    "DUNS": "002161875",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21505.77716,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155065651",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.5,
+                    "Score": 3.1898459999999997,
+                    "SubmissionNumber": 176431,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.5,
+            "TotalScore": 3.1898459999999997,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200008302",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.5,
+                    "Score": 3.208659,
+                    "SubmissionNumber": 193166,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.5,
+            "TotalScore": 3.208659,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "34041",
+    "FRSID": "110000803961",
+    "FacilityID": "08865RBLCR150AN",
+    "FacilityNumber": 115600,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14737,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.689596,
+    "Longitude": -75.183233,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 33,
+            "us_count": 523,
+            "us_pounds_pct": 3,
+            "us_score_pct": 17
+        },
+        "2002": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 27,
+            "us_count": 506,
+            "us_pounds_pct": 4,
+            "us_score_pct": 20
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0079367",
+    "Name": "ORBEL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL PALUMBO",
+    "PublicContactPhone": "9088591000",
+    "RCRANumber": "NJD986650992",
+    "RadialDistance": 2763602,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 40,
+            "us_count": 553,
+            "us_pounds_pct": 4,
+            "us_score_pct": 17
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 33,
+            "us_count": 533,
+            "us_pounds_pct": 4,
+            "us_score_pct": 20
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.581,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.2272,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "150 ANDERSON ST",
+    "SubmitLat": 40.69,
+    "SubmitLong": 75.18472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2137,
+    "Y": 2660,
+    "ZIP9": "08865",
+    "ZIPCode": "08865"
+}

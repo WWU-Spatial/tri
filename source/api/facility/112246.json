@@ -1,0 +1,207 @@
+{
+    "AssignedComID": 6134059,
+    "AssignedReach": "01090004000105",
+    "City": "PROVIDENCE",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "027664916",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9629.999618,
+    "DistanceToReach": 150.87014,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120645852",
+                    "MaxOnsite": "04",
+                    "Pounds": 43005.0,
+                    "Score": 44.120152,
+                    "SubmissionNumber": 1949553,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 43005.0,
+            "TotalScore": 44.120152,
+            "state_score_percentile": 89,
+            "us_score_percentile": 76
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130388541",
+                    "MaxOnsite": "04",
+                    "Pounds": 17108.0,
+                    "Score": 19.37171,
+                    "SubmissionNumber": 2023249,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130388554",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.000438,
+                    "SubmissionNumber": 2023250,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399130388566",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.048956,
+                    "SubmissionNumber": 2023251,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17114.0,
+            "TotalScore": 19.421104,
+            "state_score_percentile": 79,
+            "us_score_percentile": 63
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200737157",
+                    "MaxOnsite": "04",
+                    "Pounds": 4082.0,
+                    "Score": 4.241372,
+                    "SubmissionNumber": 259950,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 4082.0,
+            "TotalScore": 4.241372,
+            "state_score_percentile": 64,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110000312796",
+    "FacilityID": "02903SGNNW40POI",
+    "FacilityNumber": 112246,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.817192,
+    "Longitude": -71.405448,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 559,
+            "us_pounds_pct": 14,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 562,
+            "us_pounds_pct": 9,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 624,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "DOMINION ENERGY MANCHESTER STREET INC",
+    "NearComID": 900450036,
+    "NearReach": "01090004000105",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "196579130",
+    "ParentName": "DOMINION ENERGY INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CHRISTOPHER O'CONNELL",
+    "PublicContactPhone": "4014579267",
+    "RCRANumber": "RIR000016345",
+    "RadialDistance": 3090903,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 555,
+            "us_pounds_pct": 13,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 558,
+            "us_pounds_pct": 9,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 623,
+            "us_pounds_pct": 15,
+            "us_score_pct": 9
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 3.4832,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 19.7403,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 18.8794,
+    "StackVelocitySource": "Fac Spec",
+    "State": "RI",
+    "Street": "40 POINT ST",
+    "SubmitLat": 41.80833,
+    "SubmitLong": 71.4,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2477,
+    "Y": 2903,
+    "ZIP9": "02903",
+    "ZIPCode": "02903"
+}

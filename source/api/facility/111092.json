@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MARLBORO",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "606955318",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 46349.778544,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150286906",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.62,
+                    "Score": 0.36333,
+                    "SubmissionNumber": 120226,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.62,
+            "TotalScore": 0.36333,
+            "state_score_percentile": 9,
+            "us_score_percentile": 3
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200854394",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.62,
+                    "Score": 0.36448,
+                    "SubmissionNumber": 269828,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.62,
+            "TotalScore": 0.36448,
+            "state_score_percentile": 12,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110003490865",
+    "FacilityID": "01752FNWLS700NI",
+    "FacilityNumber": 111092,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.333792,
+    "Longitude": -71.595611,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 16,
+            "us_score_pct": 25
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "naicscode": "334512",
+        "name": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FENWAL SAFETY SYSTEMS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "606955318",
+    "ParentName": "KIDDE TECHNOLOGIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRIAN JOHNSON",
+    "PublicContactPhone": "5082291822",
+    "RCRANumber": "MAD985286954",
+    "RadialDistance": 3111522,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 91,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 86,
+            "us_pounds_pct": 6,
+            "us_score_pct": 16
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7891,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.6463,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.4985,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "700 NICKERSON RD.",
+    "SubmitLat": 42.33278,
+    "SubmitLong": 71.58944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2440,
+    "Y": 2967,
+    "ZIP9": "01752",
+    "ZIPCode": "01752"
+}

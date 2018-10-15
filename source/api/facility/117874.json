@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "049673973",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31064.815849,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105029742",
+                    "MaxOnsite": "03",
+                    "Pounds": 10024.0,
+                    "Score": 7298.66,
+                    "SubmissionNumber": 1792580,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10024.0,
+            "TotalScore": 7298.66,
+            "state_score_percentile": 57,
+            "us_score_percentile": 51
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200441677",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.0,
+                    "Score": 1.8726,
+                    "SubmissionNumber": 232605,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 1.8726,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000328967",
+    "FacilityID": "15238BCHRC625AL",
+    "FacilityNumber": 117874,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.5654,
+    "Longitude": -79.85938,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 72,
+            "us_pounds_pct": 48,
+            "us_score_pct": 61
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 60,
+            "us_pounds_pct": 8,
+            "us_score_pct": 31
+        },
+        "naicscode": "339112",
+        "name": "Surgical and Medical Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MEDRAD, INC. HEILMAN CENTER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "093170199",
+    "ParentName": "SCHERING BERLIN INC",
+    "PreferredLat": 40.5,
+    "PreferredLong": 79.875,
+    "PublicContactName": "LUANNE RADEMACHER",
+    "PublicContactPhone": "4127672400",
+    "RCRANumber": "PAD981106974",
+    "RadialDistance": 2466462,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 66,
+            "us_pounds_pct": 43,
+            "us_score_pct": 69
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 53,
+            "us_pounds_pct": 11,
+            "us_score_pct": 35
+        },
+        "name": "Surgical and medical instruments and apparatus",
+        "siccode": "3841"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.5238,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.3436,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.2084,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PA",
+    "Street": "625 ALPHA DR",
+    "SubmitLat": 40.50528,
+    "SubmitLong": 79.87417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1665,
+    "Y": 2550,
+    "ZIP9": "15238",
+    "ZIPCode": "15238"
+}

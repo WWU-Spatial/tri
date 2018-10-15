@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRONX",
+    "County": "NY,BRONX",
+    "DUNS": "001289909",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28227.144717,
+    "DistanceToReach": 107.686196,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105377701",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 118.769,
+                    "SubmissionNumber": 1816019,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 118.769,
+            "state_score_percentile": 28,
+            "us_score_percentile": 21
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300145013963",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 124.69300000000001,
+                    "SubmissionNumber": 76835,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 124.69300000000001,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36005",
+    "FRSID": "110000322703",
+    "FacilityID": "10460RSSLL1719W",
+    "FacilityNumber": 115710,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.834845,
+    "Longitude": -73.882753,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 111,
+            "us_pounds_pct": 45,
+            "us_score_pct": 72
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 42,
+            "us_score_pct": 71
+        },
+        "naicscode": "325612",
+        "name": "Polish and Other Sanitation Good Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "RUSSALL PRODS. CO. INC.",
+    "NearComID": 6241445,
+    "NearReach": "02030102000258",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.83333,
+    "PreferredLong": 73.88472,
+    "PublicContactName": "MARTIN DERISE",
+    "PublicContactPhone": "7189918100",
+    "RCRANumber": "NA",
+    "RadialDistance": 2859670,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 85,
+            "us_count": 158,
+            "us_pounds_pct": 49,
+            "us_score_pct": 75
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 118,
+            "us_pounds_pct": 41,
+            "us_score_pct": 72
+        },
+        "name": "Specialty cleaning, polishing, and sanitation preparations",
+        "siccode": "2842"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1719 W. FARMS RD.",
+    "SubmitLat": 40.83333,
+    "SubmitLong": 73.88472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2263,
+    "Y": 2710,
+    "ZIP9": "104601001",
+    "ZIPCode": "10460"
+}

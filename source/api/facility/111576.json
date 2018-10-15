@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH BOSTON",
+    "County": "MA,SUFFOLK",
+    "DUNS": "018056999",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3084.357629,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1398120495965",
+                    "MaxOnsite": "05",
+                    "Pounds": 46946.0,
+                    "Score": 3.246096,
+                    "SubmissionNumber": 1938474,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120495977",
+                    "MaxOnsite": "04",
+                    "Pounds": 83265.0,
+                    "Score": 38.927029999999995,
+                    "SubmissionNumber": 1938475,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 130211.0,
+            "TotalScore": 42.173125999999996,
+            "state_score_percentile": 96,
+            "us_score_percentile": 87
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130202498",
+                    "MaxOnsite": "04",
+                    "Pounds": 43386.0,
+                    "Score": 19.607224,
+                    "SubmissionNumber": 2007593,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 43386.0,
+            "TotalScore": 19.607224,
+            "state_score_percentile": 91,
+            "us_score_percentile": 77
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140284542",
+                    "MaxOnsite": "04",
+                    "Pounds": 27690.0,
+                    "Score": 12.575728,
+                    "SubmissionNumber": 25608,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 27690.0,
+            "TotalScore": 12.575728,
+            "state_score_percentile": 88,
+            "us_score_percentile": 72
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150405518",
+                    "MaxOnsite": "04",
+                    "Pounds": 37335.0,
+                    "Score": 16.993931,
+                    "SubmissionNumber": 130561,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 37335.0,
+            "TotalScore": 16.993931,
+            "state_score_percentile": 92,
+            "us_score_percentile": 79
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200608255",
+                    "MaxOnsite": "04",
+                    "Pounds": 26100.0,
+                    "Score": 11.912381,
+                    "SubmissionNumber": 248105,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 26100.0,
+            "TotalScore": 11.912381,
+            "state_score_percentile": 91,
+            "us_score_percentile": 76
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110000310823",
+    "FacilityID": "02127NWBST776SU",
+    "FacilityNumber": 111576,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.339265,
+    "Longitude": -71.034495,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 559,
+            "us_pounds_pct": 29,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 13,
+            "state_pounds_pct": 46,
+            "state_score_pct": 23,
+            "us_count": 562,
+            "us_pounds_pct": 15,
+            "us_score_pct": 10
+        },
+        "2000": {
+            "state_count": 17,
+            "state_pounds_pct": 47,
+            "state_score_pct": 29,
+            "us_count": 623,
+            "us_pounds_pct": 19,
+            "us_score_pct": 11
+        },
+        "2001": {
+            "state_count": 18,
+            "state_pounds_pct": 50,
+            "state_score_pct": 38,
+            "us_count": 630,
+            "us_pounds_pct": 23,
+            "us_score_pct": 14
+        },
+        "2002": {
+            "state_count": 18,
+            "state_pounds_pct": 44,
+            "state_score_pct": 27,
+            "us_count": 624,
+            "us_pounds_pct": 19,
+            "us_score_pct": 12
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0004731",
+    "Name": "EXELON NEW BOSTON L.L.C.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "040817707",
+    "ParentName": "EXELON NEW ENGLAND HOLDINGS LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GARY J. BASILESCO",
+    "PublicContactPhone": "6173812335",
+    "RCRANumber": "MAD000845420",
+    "RadialDistance": 3149300,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 555,
+            "us_pounds_pct": 28,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 41,
+            "state_score_pct": 16,
+            "us_count": 558,
+            "us_pounds_pct": 15,
+            "us_score_pct": 10
+        },
+        "2000": {
+            "state_count": 15,
+            "state_pounds_pct": 40,
+            "state_score_pct": 26,
+            "us_count": 631,
+            "us_pounds_pct": 21,
+            "us_score_pct": 13
+        },
+        "2001": {
+            "state_count": 16,
+            "state_pounds_pct": 43,
+            "state_score_pct": 31,
+            "us_count": 638,
+            "us_pounds_pct": 24,
+            "us_score_pct": 16
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 37,
+            "state_score_pct": 18,
+            "us_count": 623,
+            "us_pounds_pct": 20,
+            "us_score_pct": 13
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 5.48613,
+    "StackDiameterSource": "EPRI fac",
+    "StackHeight": 97.53124,
+    "StackHeightSource": "EPRI fac",
+    "StackVelocity": 19.81103,
+    "StackVelocitySource": "EPRI fac",
+    "State": "MA",
+    "Street": "776 SUMMER ST.",
+    "SubmitLat": 42.34083,
+    "SubmitLong": 71.03861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2494,
+    "Y": 2982,
+    "ZIP9": "02127",
+    "ZIPCode": "02127"
+}

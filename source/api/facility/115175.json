@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 4495764,
+    "AssignedReach": "02040202000032",
+    "City": "WEST DEPTFORD",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "181402173",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 8067.440839,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1304202718185",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.007908,
+                    "SubmissionNumber": 437259,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.007908,
+            "state_score_percentile": 16,
+            "us_score_percentile": 16
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1305203488251",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.007945,
+                    "SubmissionNumber": 506727,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.007945,
+            "state_score_percentile": 17,
+            "us_score_percentile": 17
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1306204521468",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.004476,
+                    "SubmissionNumber": 600137,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.004476,
+            "state_score_percentile": 11,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110000321116",
+    "FacilityID": "08066DPNC 2000N",
+    "FacilityNumber": 115175,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.818448,
+    "Longitude": -75.206721,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 15,
+            "state_score_pct": 10,
+            "us_count": 155,
+            "us_pounds_pct": 8,
+            "us_score_pct": 4
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 19,
+            "state_score_pct": 7,
+            "us_count": 157,
+            "us_pounds_pct": 7,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 14,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 151,
+            "us_pounds_pct": 6,
+            "us_score_pct": 3
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BOSTIK INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006083364",
+    "ParentName": "TOTAL HOLDINGS USA INC",
+    "PreferredLat": 39.82083,
+    "PreferredLong": 75.20833,
+    "PublicContactName": "JOE HARRIS",
+    "PublicContactPhone": "8568488669",
+    "RCRANumber": "NJR000042713",
+    "RadialDistance": 2702099,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 25,
+            "state_score_pct": 10,
+            "us_count": 165,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "2005": {
+            "state_count": 12,
+            "state_pounds_pct": 29,
+            "state_score_pct": 8,
+            "us_count": 168,
+            "us_pounds_pct": 9,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 8,
+            "us_count": 160,
+            "us_pounds_pct": 7,
+            "us_score_pct": 3
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "2000 NOLTE DR",
+    "SubmitLat": 39.83028,
+    "SubmitLong": 75.20333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2160,
+    "Y": 2542,
+    "ZIP9": "08066",
+    "ZIPCode": "08066"
+}

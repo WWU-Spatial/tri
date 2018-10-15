@@ -1,0 +1,183 @@
+{
+    "AssignedComID": 6163209,
+    "AssignedReach": "01100002000118",
+    "City": "VERSAILLES",
+    "County": "CT,NEW LONDON",
+    "DUNS": "061482407",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52244.443505,
+    "DistanceToReach": 187.883393,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204534111",
+                    "MaxOnsite": "08",
+                    "Pounds": 490.83,
+                    "Score": 0.0,
+                    "SubmissionNumber": 601353,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1306204534162",
+                    "MaxOnsite": "03",
+                    "Pounds": 2782.27,
+                    "Score": 141.032,
+                    "SubmissionNumber": 601358,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204534174",
+                    "MaxOnsite": "04",
+                    "Pounds": 45582.57,
+                    "Score": 561975.0,
+                    "SubmissionNumber": 601359,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 48855.67,
+            "TotalScore": 562116.032,
+            "state_score_percentile": 92,
+            "us_score_percentile": 84
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206467918",
+                    "MaxOnsite": "08",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 770792,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308207100924",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1898,
+                    "Score": 2.35871,
+                    "SubmissionNumber": 826956,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 500.1898,
+            "TotalScore": 2.35871,
+            "state_score_percentile": 51,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "09011",
+    "FRSID": "110000316024",
+    "FacilityID": "06383FDRLPINLAN",
+    "FacilityNumber": 113471,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.62232,
+    "Longitude": -72.044798,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 94,
+            "us_pounds_pct": 45,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 99,
+            "us_pounds_pct": 41,
+            "us_score_pct": 33
+        },
+        "naicscode": "322130",
+        "name": "Paperboard Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "CASCADES BOXBOARD GROUP - CONNECTICUT LLC",
+    "NearComID": 6163209,
+    "NearReach": "01100002000118",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "248138737",
+    "ParentName": "CASCADES CANADA INC",
+    "PreferredLat": 41.62417,
+    "PreferredLong": 72.04167,
+    "PublicContactName": "GHISLAIN LEVESQUE",
+    "PublicContactPhone": "8608233601",
+    "RCRANumber": "CTD001147867",
+    "RadialDistance": 3035141,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 101,
+            "us_pounds_pct": 47,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 104,
+            "us_pounds_pct": 40,
+            "us_score_pct": 33
+        },
+        "name": "Paperboard mills",
+        "siccode": "2631"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "263",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 1.2192,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 18.288,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.7229,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "130 INLAND RD",
+    "SubmitLat": 41.62694,
+    "SubmitLong": 72.33389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2420,
+    "Y": 2861,
+    "ZIP9": "06383",
+    "ZIPCode": "06383"
+}

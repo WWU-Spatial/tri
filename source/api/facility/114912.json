@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTWOOD",
+    "County": "NJ,BERGEN",
+    "DUNS": "001471614",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33762.248828,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205400892",
+                    "MaxOnsite": "03",
+                    "Pounds": 45.0,
+                    "Score": 2.42439,
+                    "SubmissionNumber": 677625,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 45.0,
+            "TotalScore": 2.42439,
+            "state_score_percentile": 27,
+            "us_score_percentile": 25
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206500872",
+                    "MaxOnsite": "03",
+                    "Pounds": 40.0,
+                    "Score": 2.15546,
+                    "SubmissionNumber": 773904,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40.0,
+            "TotalScore": 2.15546,
+            "state_score_percentile": 27,
+            "us_score_percentile": 26
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207628544",
+                    "MaxOnsite": "03",
+                    "Pounds": 45.0,
+                    "Score": 2.490894,
+                    "SubmissionNumber": 875227,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 45.0,
+            "TotalScore": 2.490894,
+            "state_score_percentile": 30,
+            "us_score_percentile": 28
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000320581",
+    "FacilityID": "07675KRTVR10CHA",
+    "FacilityNumber": 114912,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.98178,
+    "Longitude": -74.016774,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 85,
+            "us_pounds_pct": 35,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 89,
+            "us_pounds_pct": 38,
+            "us_score_pct": 22
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 84,
+            "us_pounds_pct": 39,
+            "us_score_pct": 22
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KURT VERSEN CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001181858",
+    "ParentName": "HUBBELL INC",
+    "PreferredLat": 41.98222,
+    "PreferredLong": 74.0175,
+    "PublicContactName": "JOHN P. PECORARO",
+    "PublicContactPhone": "2016648200",
+    "RCRANumber": "NJD001471614",
+    "RadialDistance": 2860642,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 75,
+            "us_score_pct": 87
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 71,
+            "us_score_pct": 85
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "name": "Commercial, industrial, and institutional electric lighting fixtures",
+        "siccode": "3646"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "364",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9032,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "10 CHARLES ST",
+    "SubmitLat": 40.98222,
+    "SubmitLong": 74.01722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2245,
+    "Y": 2726,
+    "ZIP9": "07675",
+    "ZIPCode": "07675"
+}

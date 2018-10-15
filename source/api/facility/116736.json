@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FRANKFORT",
+    "County": "NY,HERKIMER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 86651.613648,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1396105093518",
+                    "MaxOnsite": "04",
+                    "Pounds": 11644.0,
+                    "Score": 1.40449,
+                    "SubmissionNumber": 1796860,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 11644.0,
+            "TotalScore": 1.40449,
+            "state_score_percentile": 63,
+            "us_score_percentile": 53
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1397115033817",
+                    "MaxOnsite": "04",
+                    "Pounds": 12603.0,
+                    "Score": 1.50944,
+                    "SubmissionNumber": 1877599,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 12603.0,
+            "TotalScore": 1.50944,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1398125042059",
+                    "MaxOnsite": "03",
+                    "Pounds": 13033.0,
+                    "Score": 1.54985,
+                    "SubmissionNumber": 1969551,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 13033.0,
+            "TotalScore": 1.54985,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "36043",
+    "FRSID": "110000325746",
+    "FacilityID": "13340MHWKMMAINS",
+    "FacilityNumber": 116736,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.026107,
+    "Longitude": -75.05678,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 25,
+            "us_count": 197,
+            "us_pounds_pct": 54,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 16,
+            "us_count": 185,
+            "us_pounds_pct": 58,
+            "us_score_pct": 14
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 12,
+            "us_count": 192,
+            "us_pounds_pct": 59,
+            "us_score_pct": 15
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MOHAWK METAL PRODUCTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.025,
+    "PreferredLong": 75.05833,
+    "PublicContactName": "DONALD BISHOP",
+    "PublicContactPhone": "3157933000",
+    "RCRANumber": "NYD986999506",
+    "RadialDistance": 2941600,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 18,
+            "us_count": 350,
+            "us_pounds_pct": 55,
+            "us_score_pct": 14
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 11,
+            "us_count": 325,
+            "us_pounds_pct": 56,
+            "us_score_pct": 14
+        },
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 75,
+            "state_score_pct": 16,
+            "us_count": 332,
+            "us_pounds_pct": 59,
+            "us_score_pct": 13
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 2.1336,
+    "StackHeightSource": "New York",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "4293 ACME RD",
+    "SubmitLat": 43.025,
+    "SubmitLong": 75.05833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2079,
+    "Y": 2978,
+    "ZIP9": "13340",
+    "ZIPCode": "13340"
+}

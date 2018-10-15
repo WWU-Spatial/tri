@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MACEDON",
+    "County": "NY,WAYNE",
+    "DUNS": "173291675",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 98190.408576,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105104145",
+                    "MaxOnsite": "04",
+                    "Pounds": 9428.0,
+                    "Score": 0.21922,
+                    "SubmissionNumber": 1797619,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105104158",
+                    "MaxOnsite": "04",
+                    "Pounds": 14346.0,
+                    "Score": 0.34679499999999996,
+                    "SubmissionNumber": 1797620,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23774.0,
+            "TotalScore": 0.5660149999999999,
+            "state_score_percentile": 76,
+            "us_score_percentile": 66
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110089822",
+                    "MaxOnsite": "04",
+                    "Pounds": 4159.0,
+                    "Score": 0.091483,
+                    "SubmissionNumber": 1831837,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110089834",
+                    "MaxOnsite": "04",
+                    "Pounds": 7755.0,
+                    "Score": 0.174884,
+                    "SubmissionNumber": 1831838,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 11914.0,
+            "TotalScore": 0.266367,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        }
+    },
+    "FIPS": "36117",
+    "FRSID": "110000763754",
+    "FacilityID": "14502NKTNTRTE31",
+    "FacilityNumber": 117331,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.064456,
+    "Longitude": -77.324887,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 7,
+            "us_pounds_pct": 57,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 8,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "naicscode": "339944",
+        "name": "Carbon Paper and Inked Ribbon Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "NU-KOTE INTL. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "074056045",
+    "ParentName": "NU-KOTE HOLDINGS CORP",
+    "PreferredLat": 43.0664,
+    "PreferredLong": 77.325,
+    "PublicContactName": "JOHN J. MCDERMOTT",
+    "PublicContactPhone": "7164581070",
+    "RCRANumber": "NYD055959498",
+    "RadialDistance": 2813355,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 28
+        },
+        "name": "Carbon paper and inked ribbons",
+        "siccode": "3955"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "395",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8565,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1071 PITTSFORD-PALMYRA RD., NY HWY. RTE. 31",
+    "SubmitLat": 43.06639,
+    "SubmitLong": 77.325,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1856,
+    "Y": 2936,
+    "ZIP9": "14502",
+    "ZIPCode": "14502"
+}

@@ -1,0 +1,665 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "106805773",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11327.123443,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1396105016644",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.649464,
+                    "SubmissionNumber": 1791683,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105016657",
+                    "MaxOnsite": "04",
+                    "Pounds": 40.0,
+                    "Score": 0.009126,
+                    "SubmissionNumber": 1791684,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105016669",
+                    "MaxOnsite": "03",
+                    "Pounds": 26.0,
+                    "Score": 0.004671,
+                    "SubmissionNumber": 1791685,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 76.0,
+            "TotalScore": 0.663261,
+            "state_score_percentile": 13,
+            "us_score_percentile": 11
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115153328",
+                    "MaxOnsite": "03",
+                    "Pounds": 36.0,
+                    "Score": 0.008115,
+                    "SubmissionNumber": 1884313,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1397115153330",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 3.85,
+                    "SubmissionNumber": 1884314,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 39.0,
+            "TotalScore": 3.858115,
+            "state_score_percentile": 10,
+            "us_score_percentile": 9
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1398120276718",
+                    "MaxOnsite": "03",
+                    "Pounds": 104.0,
+                    "Score": 1.52906,
+                    "SubmissionNumber": 1922128,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1398120276720",
+                    "MaxOnsite": "03",
+                    "Pounds": 80.0,
+                    "Score": 1.87458,
+                    "SubmissionNumber": 1922129,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1398120276732",
+                    "MaxOnsite": "04",
+                    "Pounds": 14.0,
+                    "Score": 17.7484,
+                    "SubmissionNumber": 1922130,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1398120276744",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 44.3709,
+                    "SubmissionNumber": 1922131,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 203.0,
+            "TotalScore": 65.52294,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1399130371836",
+                    "MaxOnsite": "04",
+                    "Pounds": 81.0,
+                    "Score": 1.17625,
+                    "SubmissionNumber": 2021758,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1399130371848",
+                    "MaxOnsite": "04",
+                    "Pounds": 111.0,
+                    "Score": 2.5689,
+                    "SubmissionNumber": 2021759,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1399130371851",
+                    "MaxOnsite": "05",
+                    "Pounds": 180.0,
+                    "Score": 225.387,
+                    "SubmissionNumber": 2021760,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130371863",
+                    "MaxOnsite": "04",
+                    "Pounds": 49.0,
+                    "Score": 0.010776,
+                    "SubmissionNumber": 2021761,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130371875",
+                    "MaxOnsite": "04",
+                    "Pounds": 49.0,
+                    "Score": 0.008485,
+                    "SubmissionNumber": 2021762,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130371887",
+                    "MaxOnsite": "04",
+                    "Pounds": 39.0,
+                    "Score": 0.048267,
+                    "SubmissionNumber": 2021763,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "76131",
+                    "Chemical": "Freon 113",
+                    "ChemicalNumber": 317,
+                    "DCN": "1399130371899",
+                    "MaxOnsite": "05",
+                    "Pounds": 95.0,
+                    "Score": 0.118938,
+                    "SubmissionNumber": 2021764,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 604.0,
+            "TotalScore": 229.31861600000002,
+            "state_score_percentile": 29,
+            "us_score_percentile": 25
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1300140509555",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 3.70966,
+                    "SubmissionNumber": 41674,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140509567",
+                    "MaxOnsite": "04",
+                    "Pounds": 55.0,
+                    "Score": 0.009405,
+                    "SubmissionNumber": 41675,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "76131",
+                    "Chemical": "Freon 113",
+                    "ChemicalNumber": 317,
+                    "DCN": "1300140509579",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.001236,
+                    "SubmissionNumber": 41676,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 59.0,
+            "TotalScore": 3.720301,
+            "state_score_percentile": 17,
+            "us_score_percentile": 13
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150127431",
+                    "MaxOnsite": "04",
+                    "Pounds": 36.0,
+                    "Score": 0.006048,
+                    "SubmissionNumber": 105685,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 36.0,
+            "TotalScore": 0.006048,
+            "state_score_percentile": 21,
+            "us_score_percentile": 19
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1302200782187",
+                    "MaxOnsite": "04",
+                    "Pounds": 2058.0,
+                    "Score": 2.45571,
+                    "SubmissionNumber": 264096,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2058.0,
+            "TotalScore": 2.45571,
+            "state_score_percentile": 51,
+            "us_score_percentile": 46
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1304202578795",
+                    "MaxOnsite": "04",
+                    "Pounds": 771.0,
+                    "Score": 6.62161,
+                    "SubmissionNumber": 424409,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1304202578807",
+                    "MaxOnsite": "04",
+                    "Pounds": 465.0,
+                    "Score": 6.37509,
+                    "SubmissionNumber": 424410,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1236.0,
+            "TotalScore": 12.9967,
+            "state_score_percentile": 53,
+            "us_score_percentile": 45
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "75694",
+                    "Chemical": "CFC-11 (trichlorofluoromethane)",
+                    "ChemicalNumber": 106,
+                    "DCN": "1306205180351",
+                    "MaxOnsite": "04",
+                    "Pounds": 4618.0,
+                    "Score": 3.31094,
+                    "SubmissionNumber": 653220,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4618.0,
+            "TotalScore": 3.31094,
+            "state_score_percentile": 67,
+            "us_score_percentile": 58
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "75694",
+                    "Chemical": "CFC-11 (trichlorofluoromethane)",
+                    "ChemicalNumber": 106,
+                    "DCN": "1307205405537",
+                    "MaxOnsite": "04",
+                    "Pounds": 6624.0,
+                    "Score": 4.67136,
+                    "SubmissionNumber": 678061,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 6624.0,
+            "TotalScore": 4.67136,
+            "state_score_percentile": 73,
+            "us_score_percentile": 63
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "75694",
+                    "Chemical": "CFC-11 (trichlorofluoromethane)",
+                    "ChemicalNumber": 106,
+                    "DCN": "1308206880522",
+                    "MaxOnsite": "04",
+                    "Pounds": 6634.0,
+                    "Score": 4.60049,
+                    "SubmissionNumber": 809384,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 6634.0,
+            "TotalScore": 4.60049,
+            "state_score_percentile": 75,
+            "us_score_percentile": 65
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1310208672218",
+                    "MaxOnsite": "03",
+                    "Pounds": 31.0,
+                    "Score": 1.58428,
+                    "SubmissionNumber": 968425,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 31.0,
+            "TotalScore": 1.58428,
+            "state_score_percentile": 34,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000326969",
+    "FacilityID": "14210LLDSG20PEA",
+    "FacilityNumber": 117149,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.867993,
+    "Longitude": -78.840186,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 7,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 68,
+            "us_pounds_pct": 10,
+            "us_score_pct": 32
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 10,
+            "us_score_pct": 60
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 22,
+            "us_score_pct": 71
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 81,
+            "us_pounds_pct": 7,
+            "us_score_pct": 28
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 82,
+            "us_pounds_pct": 12,
+            "us_score_pct": 8
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 28,
+            "us_score_pct": 29
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 18,
+            "us_score_pct": 40
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 28,
+            "us_score_pct": 27
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 37,
+            "us_score_pct": 38
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 34,
+            "us_score_pct": 33
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 12,
+            "us_score_pct": 27
+        },
+        "naicscode": "325120",
+        "name": "Industrial Gas Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HONEYWELL INTERNATIONAL INC - BUFFALO RESEARCH LABORATORY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "139691877",
+    "ParentName": "HONEYWELL INTERNATIONAL INC",
+    "PreferredLat": 42.86861,
+    "PreferredLong": 78.84111,
+    "PublicContactName": "JAY KELLY",
+    "PublicContactPhone": "7168276382",
+    "RCRANumber": "NYD000632315",
+    "RadialDistance": 2714362,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 12,
+            "us_count": 620,
+            "us_pounds_pct": 3,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 25,
+            "us_count": 616,
+            "us_pounds_pct": 2,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 17,
+            "state_pounds_pct": 5,
+            "state_score_pct": 29,
+            "us_count": 619,
+            "us_pounds_pct": 4,
+            "us_score_pct": 30
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 623,
+            "us_pounds_pct": 10,
+            "us_score_pct": 38
+        },
+        "2000": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 20,
+            "us_count": 637,
+            "us_pounds_pct": 2,
+            "us_score_pct": 17
+        },
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 6,
+            "us_count": 642,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 25,
+            "us_count": 637,
+            "us_pounds_pct": 21,
+            "us_score_pct": 16
+        },
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 14,
+            "state_score_pct": 21,
+            "us_count": 635,
+            "us_pounds_pct": 14,
+            "us_score_pct": 21
+        },
+        "2006": {
+            "state_count": 13,
+            "state_pounds_pct": 38,
+            "state_score_pct": 7,
+            "us_count": 642,
+            "us_pounds_pct": 29,
+            "us_score_pct": 17
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 41,
+            "state_score_pct": 25,
+            "us_count": 650,
+            "us_pounds_pct": 34,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 15,
+            "state_pounds_pct": 46,
+            "state_score_pct": 20,
+            "us_count": 685,
+            "us_pounds_pct": 35,
+            "us_score_pct": 16
+        },
+        "2010": {
+            "state_count": 16,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 696,
+            "us_pounds_pct": 2,
+            "us_score_pct": 11
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.9741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "20 PEABODY ST",
+    "SubmitLat": 42.86861,
+    "SubmitLong": 78.84111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1712,
+    "Y": 2881,
+    "ZIP9": "14210",
+    "ZIPCode": "14210"
+}

@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BIDDEFORD",
+    "County": "ME,YORK",
+    "DUNS": "927949057",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23952.202388,
+    "DistanceToReach": 68.629516,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140848247",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 728.136,
+                    "SubmissionNumber": 65516,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140848250",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 108.607,
+                    "SubmissionNumber": 65517,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 836.7429999999999,
+            "state_score_percentile": 14,
+            "us_score_percentile": 7
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150768695",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 36392.8,
+                    "SubmissionNumber": 162383,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150768707",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 108.566,
+                    "SubmissionNumber": 162384,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 36501.366,
+            "state_score_percentile": 36,
+            "us_score_percentile": 27
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200039903",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 727.576,
+                    "SubmissionNumber": 195788,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200039915",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 108.524,
+                    "SubmissionNumber": 195789,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 836.1,
+            "state_score_percentile": 23,
+            "us_score_percentile": 14
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1303201398486",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 727.296,
+                    "SubmissionNumber": 318659,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 727.296,
+            "state_score_percentile": 18,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "23031",
+    "FRSID": "110013763793",
+    "FacilityID": "04005MTSPP516AL",
+    "FacilityNumber": 112787,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.47792,
+    "Longitude": -70.49615,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 22,
+            "us_score_pct": 55
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 81,
+            "us_score_pct": 90
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 45,
+            "us_score_pct": 72
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 44,
+            "us_score_pct": 77
+        },
+        "naicscode": "333291",
+        "name": "Paper Industry Machinery Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3332",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": 1,
+    "NPDESPermit": "MER00A157",
+    "Name": "METSO PAPER USA INC",
+    "NearComID": 9316885,
+    "NearReach": "01060002000463",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "070625116",
+    "ParentName": "METSO PAPER USA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS J CLAUS",
+    "PublicContactPhone": "2072821521",
+    "RCRANumber": "MER00A157",
+    "RadialDistance": 3258873,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 16,
+            "us_score_pct": 58
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 76,
+            "us_score_pct": 88
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 42,
+            "us_score_pct": 78
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 50,
+            "us_score_pct": 83
+        },
+        "name": "Paper industries machinery",
+        "siccode": "3554"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "355",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.5681,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1135,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8336,
+    "StackVelocitySource": "Fac Spec",
+    "State": "ME",
+    "Street": "516 ALFRED ST",
+    "SubmitLat": 43.47861,
+    "SubmitLong": 70.49778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2505,
+    "Y": 3148,
+    "ZIP9": "040050502",
+    "ZIPCode": "04005"
+}

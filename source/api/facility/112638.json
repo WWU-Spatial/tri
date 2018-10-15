@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TROY",
+    "County": "NH,CHESHIRE",
+    "DUNS": "001086222",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 106640.990156,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1397115244966",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.557674,
+                    "SubmissionNumber": 1888864,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 0.557674,
+            "state_score_percentile": 30,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1398125221604",
+                    "MaxOnsite": "04",
+                    "Pounds": 528.0,
+                    "Score": 0.663043,
+                    "SubmissionNumber": 1977602,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 528.0,
+            "TotalScore": 0.663043,
+            "state_score_percentile": 28,
+            "us_score_percentile": 23
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1399135011967",
+                    "MaxOnsite": "04",
+                    "Pounds": 234.0,
+                    "Score": 0.299608,
+                    "SubmissionNumber": 2059038,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 234.0,
+            "TotalScore": 0.299608,
+            "state_score_percentile": 12,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "33005",
+    "FRSID": "110000313875",
+    "FacilityID": "03465TRYML18MON",
+    "FacilityNumber": 112638,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.82583,
+    "Longitude": -72.17805,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 9,
+            "us_score_pct": 4
+        },
+        "naicscode": "313230",
+        "name": "Nonwoven Fabric Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3132",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NH0000523",
+    "Name": "TROY MILLS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.835,
+    "PreferredLong": 72.16806,
+    "PublicContactName": "MICHAEL CHROSTOWSKI",
+    "PublicContactPhone": "6032426822",
+    "RCRANumber": "NHD001086222",
+    "RadialDistance": 3106294,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 10
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 5
+        },
+        "name": "Nonwoven fabrics",
+        "siccode": "2297"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "229",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6828,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.5707,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "30  MONADNOCK ST.",
+    "SubmitLat": 42.835,
+    "SubmitLong": 72.16806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2366,
+    "Y": 3018,
+    "ZIP9": "03465",
+    "ZIPCode": "03465"
+}

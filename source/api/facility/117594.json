@@ -1,0 +1,286 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WELLSVILLE",
+    "County": "NY,ALLEGANY",
+    "DUNS": "063571608",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 111490.141358,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307208591382",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.019624,
+                    "SubmissionNumber": 745480,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1307208591394",
+                    "MaxOnsite": "05",
+                    "Pounds": 33.0,
+                    "Score": 30.9126,
+                    "SubmissionNumber": 745481,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1307208591406",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 12.4453,
+                    "SubmissionNumber": 745482,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 35.0,
+            "TotalScore": 43.377524,
+            "state_score_percentile": 31,
+            "us_score_percentile": 24
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1308208598603",
+                    "MaxOnsite": "05",
+                    "Pounds": 38.0,
+                    "Score": 35.2947,
+                    "SubmissionNumber": 831199,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 38.0,
+            "TotalScore": 35.2947,
+            "state_score_percentile": 33,
+            "us_score_percentile": 26
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309208036691",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 36.7033,
+                    "SubmissionNumber": 908670,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1309208036715",
+                    "MaxOnsite": "05",
+                    "Pounds": 16.0,
+                    "Score": 14.7339,
+                    "SubmissionNumber": 908671,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309208036727",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.019289,
+                    "SubmissionNumber": 908672,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 51.456489,
+            "state_score_percentile": 32,
+            "us_score_percentile": 24
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208279164",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.019121,
+                    "SubmissionNumber": 932101,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1310208279176",
+                    "MaxOnsite": "05",
+                    "Pounds": 12.0,
+                    "Score": 10.9552,
+                    "SubmissionNumber": 932102,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208279188",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 48.5159,
+                    "SubmissionNumber": 932103,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17.0,
+            "TotalScore": 59.490221000000005,
+            "state_score_percentile": 29,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "36003",
+    "FRSID": "110002095027",
+    "FacilityID": "14895BBRPRANDOV",
+    "FacilityNumber": 117594,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.129586,
+    "Longitude": -77.917406,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 58,
+            "us_pounds_pct": 31,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 61,
+            "us_pounds_pct": 32,
+            "us_score_pct": 18
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 52,
+            "us_pounds_pct": 34,
+            "us_score_pct": 17
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 51,
+            "us_pounds_pct": 25,
+            "us_score_pct": 15
+        },
+        "naicscode": "332313",
+        "name": "Plate Work Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ALSTOM POWER INC AIR PREHEATER CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "125377692",
+    "ParentName": "ALSTOM INC",
+    "PreferredLat": 42.13194,
+    "PreferredLong": 77.91667,
+    "PublicContactName": "GREGORY C. MUSCATO",
+    "PublicContactPhone": "5855962757",
+    "RCRANumber": "NYD981555535",
+    "RadialDistance": 2704461,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 14,
+            "us_count": 136,
+            "us_pounds_pct": 25,
+            "us_score_pct": 24
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 14,
+            "us_count": 135,
+            "us_pounds_pct": 28,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 121,
+            "us_pounds_pct": 27,
+            "us_score_pct": 24
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 123,
+            "us_pounds_pct": 23,
+            "us_score_pct": 21
+        },
+        "name": "Fabricated plate work (boiler shops)",
+        "siccode": "3443"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 16.764,
+    "StackHeightSource": "New York",
+    "StackVelocity": 7.2,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "3020 TRUAX RD",
+    "SubmitLat": 42.13194,
+    "SubmitLong": 77.91667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1822,
+    "Y": 2798,
+    "ZIP9": "14895",
+    "ZIPCode": "14895"
+}

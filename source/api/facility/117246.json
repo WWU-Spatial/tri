@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NIAGARA FALLS",
+    "County": "NY,NIAGARA",
+    "DUNS": "784518706",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 32424.537256,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207103209",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 3.33677,
+                    "SubmissionNumber": 827082,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 3.33677,
+            "state_score_percentile": 19,
+            "us_score_percentile": 13
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207918311",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 2.56098,
+                    "SubmissionNumber": 901785,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 2.56098,
+            "state_score_percentile": 19,
+            "us_score_percentile": 12
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208423210",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.0,
+                    "Score": 2.52889,
+                    "SubmissionNumber": 944859,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 2.52889,
+            "state_score_percentile": 18,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36063",
+    "FRSID": "110019281356",
+    "FacilityID": "14302TRBCH2CLLE",
+    "FacilityNumber": 117246,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.121791,
+    "Longitude": -79.037359,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 12,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 28,
+            "us_pounds_pct": 8,
+            "us_score_pct": 32
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 9,
+            "us_score_pct": 33
+        },
+        "naicscode": "327910",
+        "name": "Abrasive Product Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3279",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "TREIBACHER SCHLEIFMITTEL NA INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM MARTINEZ",
+    "PublicContactPhone": "7162861234",
+    "RCRANumber": "",
+    "RadialDistance": 2725438,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 28,
+            "us_pounds_pct": 12,
+            "us_score_pct": 35
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 9,
+            "us_score_pct": 37
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 26,
+            "us_pounds_pct": 9,
+            "us_score_pct": 34
+        },
+        "name": "Abrasive products",
+        "siccode": "3291"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "329",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 2.9083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2000 COLLEGE AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1686,
+    "Y": 2912,
+    "ZIP9": "14302",
+    "ZIPCode": "14302"
+}

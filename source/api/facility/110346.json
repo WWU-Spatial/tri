@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CAGUAS",
+    "County": "PR,CAGUAS",
+    "DUNS": "174050377",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25681.253502,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305204017851",
+                    "MaxOnsite": "03",
+                    "Pounds": 109.0,
+                    "Score": 0.026608,
+                    "SubmissionNumber": 555293,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 109.0,
+            "TotalScore": 0.026608,
+            "state_score_percentile": 28,
+            "us_score_percentile": 28
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1306204784108",
+                    "MaxOnsite": "03",
+                    "Pounds": 64.8,
+                    "Score": 1.04493,
+                    "SubmissionNumber": 624492,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 64.8,
+            "TotalScore": 1.04493,
+            "state_score_percentile": 23,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "72025",
+    "FRSID": "110025330684",
+    "FacilityID": "00726MVPHRSTATE",
+    "FacilityNumber": 110346,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.2072,
+    "Longitude": -66.0519,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 27,
+            "state_pounds_pct": 18,
+            "state_score_pct": 7,
+            "us_count": 143,
+            "us_pounds_pct": 18,
+            "us_score_pct": 8
+        },
+        "2006": {
+            "state_count": 27,
+            "state_pounds_pct": 18,
+            "state_score_pct": 25,
+            "us_count": 138,
+            "us_pounds_pct": 15,
+            "us_score_pct": 35
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MOVA PHARMACEUTICAL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JUAN RIVERA",
+    "PublicContactPhone": "7877468500",
+    "RCRANumber": "NA",
+    "RadialDistance": 31074,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 26,
+            "state_pounds_pct": 19,
+            "state_score_pct": 7,
+            "us_count": 129,
+            "us_pounds_pct": 20,
+            "us_score_pct": 9
+        },
+        "2006": {
+            "state_count": 25,
+            "state_pounds_pct": 20,
+            "state_score_pct": 24,
+            "us_count": 121,
+            "us_pounds_pct": 16,
+            "us_score_pct": 35
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "STATE RD 1 KM 34.3 VILLA BLANCA INDUSTRIAL PARK",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 26,
+    "Y": 28,
+    "ZIP9": "00726",
+    "ZIPCode": "00726"
+}

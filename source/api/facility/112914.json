@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AUGUSTA",
+    "County": "ME,KENNEBEC",
+    "DUNS": "962580080",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 86651.04117,
+    "DistanceToReach": 86.673852,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396100086673",
+                    "MaxOnsite": "04",
+                    "Pounds": 17550.0,
+                    "Score": 727.725,
+                    "SubmissionNumber": 1755641,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 17550.0,
+            "TotalScore": 727.725,
+            "state_score_percentile": 55,
+            "us_score_percentile": 61
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140109570",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.23,
+                    "Score": 2.96552,
+                    "SubmissionNumber": 9823,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140109582",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.468771,
+                    "SubmissionNumber": 9824,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140109606",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.004,
+                    "Score": 0.0,
+                    "SubmissionNumber": 9826,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 250.23399999999998,
+            "TotalScore": 3.434291,
+            "state_score_percentile": 26,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "23011",
+    "FRSID": "110001134415",
+    "FacilityID": "04330STTLRMAPLE",
+    "FacilityNumber": 112914,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.32267,
+    "Longitude": -69.76875,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 10,
+            "us_pounds_pct": 50,
+            "us_score_pct": 60
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "naicscode": "322120",
+        "name": ""
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 1,
+    "NPDESPermit": "ME0002224",
+    "Name": "AMERICAN TISSUE MILLS OF MAINE L.L.C.",
+    "NearComID": 3325492,
+    "NearReach": "01030003000039",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "019683408",
+    "ParentName": "AMERICAN TISSUE CORP",
+    "PreferredLat": 44.32667,
+    "PreferredLong": 69.76667,
+    "PublicContactName": "ROBERT JACKSON",
+    "PublicContactPhone": "2076229900",
+    "RCRANumber": "MED985731272",
+    "RadialDistance": 3361538,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 14,
+            "state_pounds_pct": 7,
+            "state_score_pct": 50,
+            "us_count": 184,
+            "us_pounds_pct": 19,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 15,
+            "state_pounds_pct": 20,
+            "state_score_pct": 13,
+            "us_count": 194,
+            "us_pounds_pct": 11,
+            "us_score_pct": 15
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 1.0881,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 20.1168,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.5098,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "54 MAPLE ST.",
+    "SubmitLat": 44.32667,
+    "SubmitLong": 69.76667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2543,
+    "Y": 3280,
+    "ZIP9": "043320889",
+    "ZIPCode": "04332"
+}

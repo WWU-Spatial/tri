@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORTLAND",
+    "County": "ME,CUMBERLAND",
+    "DUNS": "805442712",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4053.13763,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105001933",
+                    "MaxOnsite": "03",
+                    "Pounds": 6097.0,
+                    "Score": 37.0875,
+                    "SubmissionNumber": 1790703,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6097.0,
+            "TotalScore": 37.0875,
+            "state_score_percentile": 36,
+            "us_score_percentile": 45
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115001531",
+                    "MaxOnsite": "03",
+                    "Pounds": 11882.0,
+                    "Score": 72.125,
+                    "SubmissionNumber": 1875447,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11882.0,
+            "TotalScore": 72.125,
+            "state_score_percentile": 47,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "23005",
+    "FRSID": "110000763022",
+    "FacilityID": "04103DRNGC135WA",
+    "FacilityNumber": 112852,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.679226,
+    "Longitude": -70.286831,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 58,
+            "us_score_pct": 72
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 62,
+            "us_score_pct": 79
+        },
+        "naicscode": "311520",
+        "name": "Ice Cream and Frozen Dessert Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "ME102075",
+    "Name": "DEERING ICE CREAM CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "FIELDBROOK FARMS",
+    "PreferredLat": 43.67909,
+    "PreferredLong": 70.2873,
+    "PublicContactName": "JOSEPH F. DANE",
+    "PublicContactPhone": "2077722827",
+    "RCRANumber": "ME102075",
+    "RadialDistance": 3285713,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 55,
+            "us_score_pct": 62
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 64,
+            "us_score_pct": 79
+        },
+        "name": "Ice cream and frozen desserts",
+        "siccode": "2024"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "135 WALTON ST.",
+    "SubmitLat": 43.66944,
+    "SubmitLong": 70.26111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2518,
+    "Y": 3180,
+    "ZIP9": "04103",
+    "ZIPCode": "04103"
+}

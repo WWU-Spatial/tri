@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATHENS",
+    "County": "NY,GREENE",
+    "DUNS": "014113237",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52282.334096,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150494502",
+                    "MaxOnsite": "01",
+                    "Pounds": 17.490000000000002,
+                    "Score": 3.51795,
+                    "SubmissionNumber": 138374,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 17.490000000000002,
+            "TotalScore": 3.51795,
+            "state_score_percentile": 18,
+            "us_score_percentile": 16
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200509685",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.29,
+                    "Score": 0.713228,
+                    "SubmissionNumber": 238994,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 3.29,
+            "TotalScore": 0.713228,
+            "state_score_percentile": 11,
+            "us_score_percentile": 8
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201679139",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.71,
+                    "Score": 0.355549,
+                    "SubmissionNumber": 343869,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.71,
+            "TotalScore": 0.355549,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "36039",
+    "FRSID": "110006532877",
+    "FacilityID": "12015WRMTHHOWAR",
+    "FacilityNumber": 116260,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.280089,
+    "Longitude": -73.83202,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 223,
+            "us_pounds_pct": 11,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 212,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 209,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "naicscode": "331511",
+        "name": "Iron Foundries"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NYR00B040",
+    "Name": "WORMUTH BROTHERS FOUNDRY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.27972,
+    "PreferredLong": 73.83333,
+    "PublicContactName": "GLENN D. MUZZY",
+    "PublicContactPhone": "5189451700",
+    "RCRANumber": "NYD981494644",
+    "RadialDistance": 2962600,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 220,
+            "us_pounds_pct": 11,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 206,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 206,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "name": "Gray and ductile iron foundries",
+        "siccode": "3321"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "332",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.0859,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.3257,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.5562,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "HOWARD HALL RD",
+    "SubmitLat": 42.28,
+    "SubmitLong": 73.83333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2222,
+    "Y": 2905,
+    "ZIP9": "12015",
+    "ZIPCode": "12015"
+}

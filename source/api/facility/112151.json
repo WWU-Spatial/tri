@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORTSMOUTH",
+    "County": "RI,NEWPORT",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20370.209024,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1396100350836",
+                    "MaxOnsite": "04",
+                    "Pounds": 182.0,
+                    "Score": 0.018307,
+                    "SubmissionNumber": 1777991,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100350848",
+                    "MaxOnsite": "02",
+                    "Pounds": 3835.0,
+                    "Score": 0.099824,
+                    "SubmissionNumber": 1777992,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100350851",
+                    "MaxOnsite": "01",
+                    "Pounds": 1946.0,
+                    "Score": 2.36399,
+                    "SubmissionNumber": 1777993,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1396100350863",
+                    "MaxOnsite": "02",
+                    "Pounds": 2878.0,
+                    "Score": 0.468185,
+                    "SubmissionNumber": 1777994,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8841.0,
+            "TotalScore": 2.950306,
+            "state_score_percentile": 59,
+            "us_score_percentile": 49
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1397110446453",
+                    "MaxOnsite": "02",
+                    "Pounds": 750.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1862780,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1397110446465",
+                    "MaxOnsite": "04",
+                    "Pounds": 735.0,
+                    "Score": 0.073945,
+                    "SubmissionNumber": 1862781,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1485.0,
+            "TotalScore": 0.073945,
+            "state_score_percentile": 44,
+            "us_score_percentile": 31
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1398120585930",
+                    "MaxOnsite": "04",
+                    "Pounds": 1276.0,
+                    "Score": 0.128396,
+                    "SubmissionNumber": 1945378,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1276.0,
+            "TotalScore": 0.128396,
+            "state_score_percentile": 41,
+            "us_score_percentile": 30
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1399130132739",
+                    "MaxOnsite": "04",
+                    "Pounds": 589.0,
+                    "Score": 0.059278,
+                    "SubmissionNumber": 2001621,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 589.0,
+            "TotalScore": 0.059278,
+            "state_score_percentile": 39,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "44005",
+    "FRSID": "110000312554",
+    "FacilityID": "02871 TPNC225AL",
+    "FacilityNumber": 112151,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.58791,
+    "Longitude": -71.283026,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 175,
+            "us_pounds_pct": 23,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 175,
+            "us_pounds_pct": 5,
+            "us_score_pct": 6
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 176,
+            "us_pounds_pct": 2,
+            "us_score_pct": 6
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 181,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "naicscode": "336612",
+        "name": "Boat Building"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3366",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TPI COMPOSITES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.59083,
+    "PreferredLong": 71.26972,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "RID987475472",
+    "RadialDistance": 3084745,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 185,
+            "us_pounds_pct": 23,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 185,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 184,
+            "us_pounds_pct": 2,
+            "us_score_pct": 6
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 193,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "name": "Boat building and repairing",
+        "siccode": "3732"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "373",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.7864,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.2357,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "225 ALEXANDER RD.",
+    "SubmitLat": 41.59083,
+    "SubmitLong": 71.26972,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2497,
+    "Y": 2876,
+    "ZIP9": "02871",
+    "ZIPCode": "02871"
+}

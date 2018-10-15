@@ -1,0 +1,919 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DERRY",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "798778395",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 63633.248827,
+    "DistanceToReach": 633.36677,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396100319654",
+                    "MaxOnsite": "03",
+                    "Pounds": 340.0,
+                    "Score": 580.5872,
+                    "SubmissionNumber": 1775408,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "109864",
+                    "Chemical": "2-Methoxyethanol",
+                    "ChemicalNumber": 370,
+                    "DCN": "1396100319666",
+                    "MaxOnsite": "02",
+                    "Pounds": 2350.0,
+                    "Score": 17.07998,
+                    "SubmissionNumber": 1775409,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396100319678",
+                    "MaxOnsite": "03",
+                    "Pounds": 570.0,
+                    "Score": 0.188109,
+                    "SubmissionNumber": 1775410,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100319680",
+                    "MaxOnsite": "04",
+                    "Pounds": 740.0,
+                    "Score": 7.6891300000000005,
+                    "SubmissionNumber": 1775411,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100319704",
+                    "MaxOnsite": "02",
+                    "Pounds": 770.0,
+                    "Score": 0.025857,
+                    "SubmissionNumber": 1775413,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100319716",
+                    "MaxOnsite": "03",
+                    "Pounds": 2480.0,
+                    "Score": 17.99391,
+                    "SubmissionNumber": 1775414,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100319728",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 13.804586,
+                    "SubmissionNumber": 1775415,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396100319730",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 2.901638,
+                    "SubmissionNumber": 1775416,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100319742",
+                    "MaxOnsite": "04",
+                    "Pounds": 37100.0,
+                    "Score": 50.05794,
+                    "SubmissionNumber": 1775417,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396100319755",
+                    "MaxOnsite": "03",
+                    "Pounds": 5400.0,
+                    "Score": 780.1769999999999,
+                    "SubmissionNumber": 1775418,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 50009.0,
+            "TotalScore": 1470.50535,
+            "state_score_percentile": 86,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1397110402260",
+                    "MaxOnsite": "03",
+                    "Pounds": 367.0,
+                    "Score": 632.5260000000001,
+                    "SubmissionNumber": 1859090,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110402284",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 13.868482,
+                    "SubmissionNumber": 1859091,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397110402308",
+                    "MaxOnsite": "03",
+                    "Pounds": 690.0,
+                    "Score": 0.22832,
+                    "SubmissionNumber": 1859093,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110402322",
+                    "MaxOnsite": "04",
+                    "Pounds": 670.0,
+                    "Score": 6.905151,
+                    "SubmissionNumber": 1859094,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110402346",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.033492999999999995,
+                    "SubmissionNumber": 1859095,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1397110402361",
+                    "MaxOnsite": "03",
+                    "Pounds": 5100.0,
+                    "Score": 738.971,
+                    "SubmissionNumber": 1859097,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110402373",
+                    "MaxOnsite": "04",
+                    "Pounds": 44000.0,
+                    "Score": 60.126400000000004,
+                    "SubmissionNumber": 1859098,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397110402385",
+                    "MaxOnsite": "03",
+                    "Pounds": 9300.0,
+                    "Score": 60.69727,
+                    "SubmissionNumber": 1859099,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "109864",
+                    "Chemical": "2-Methoxyethanol",
+                    "ChemicalNumber": 370,
+                    "DCN": "1397115318659",
+                    "MaxOnsite": "02",
+                    "Pounds": 1510.0,
+                    "Score": 10.684280000000001,
+                    "SubmissionNumber": 1893456,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1397115318661",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1893457,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115318697",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 2.91207,
+                    "SubmissionNumber": 1893459,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 63151.0,
+            "TotalScore": 1526.9524660000004,
+            "state_score_percentile": 89,
+            "us_score_percentile": 81
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1398120368562",
+                    "MaxOnsite": "03",
+                    "Pounds": 382.0,
+                    "Score": 660.7807,
+                    "SubmissionNumber": 1928678,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398120368600",
+                    "MaxOnsite": "03",
+                    "Pounds": 597.0,
+                    "Score": 0.198302,
+                    "SubmissionNumber": 1928680,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120368612",
+                    "MaxOnsite": "04",
+                    "Pounds": 952.0,
+                    "Score": 9.90092,
+                    "SubmissionNumber": 1928681,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120368636",
+                    "MaxOnsite": "03",
+                    "Pounds": 1054.0,
+                    "Score": 0.035448,
+                    "SubmissionNumber": 1928682,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120368663",
+                    "MaxOnsite": "04",
+                    "Pounds": 41923.0,
+                    "Score": 56.19082,
+                    "SubmissionNumber": 1928684,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120664432",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 4.246052,
+                    "SubmissionNumber": 1950553,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120664444",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 13.932378,
+                    "SubmissionNumber": 1950554,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1398120664457",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1950555,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398120664469",
+                    "MaxOnsite": "03",
+                    "Pounds": 4114.0,
+                    "Score": 614.126,
+                    "SubmissionNumber": 1950556,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120664471",
+                    "MaxOnsite": "03",
+                    "Pounds": 7496.0,
+                    "Score": 53.1493,
+                    "SubmissionNumber": 1950557,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 57279.0,
+            "TotalScore": 1412.5599200000001,
+            "state_score_percentile": 87,
+            "us_score_percentile": 79
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1399130347659",
+                    "MaxOnsite": "03",
+                    "Pounds": 531.0,
+                    "Score": 922.466,
+                    "SubmissionNumber": 2019683,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130347661",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 8.01512,
+                    "SubmissionNumber": 2019684,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130347673",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 13.996374,
+                    "SubmissionNumber": 2019685,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1399130347697",
+                    "MaxOnsite": "03",
+                    "Pounds": 435.0,
+                    "Score": 0.145004,
+                    "SubmissionNumber": 2019687,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130347709",
+                    "MaxOnsite": "04",
+                    "Pounds": 1580.0,
+                    "Score": 16.504170000000002,
+                    "SubmissionNumber": 2019688,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1399130347711",
+                    "MaxOnsite": "03",
+                    "Pounds": 1475.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2019689,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130347723",
+                    "MaxOnsite": "03",
+                    "Pounds": 644.0,
+                    "Score": 0.021748999999999998,
+                    "SubmissionNumber": 2019690,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1399130347735",
+                    "MaxOnsite": "03",
+                    "Pounds": 670.0,
+                    "Score": 103.2248,
+                    "SubmissionNumber": 2019691,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130347747",
+                    "MaxOnsite": "04",
+                    "Pounds": 42178.0,
+                    "Score": 56.77448,
+                    "SubmissionNumber": 2019692,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130347750",
+                    "MaxOnsite": "03",
+                    "Pounds": 2188.0,
+                    "Score": 16.25723,
+                    "SubmissionNumber": 2019693,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 49966.0,
+            "TotalScore": 1137.404927,
+            "state_score_percentile": 83,
+            "us_score_percentile": 78
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1300140552896",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 20.11508,
+                    "SubmissionNumber": 44499,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300140552908",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 8.035540000000001,
+                    "SubmissionNumber": 44500,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140552910",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 14.060269,
+                    "SubmissionNumber": 44501,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140552934",
+                    "MaxOnsite": "04",
+                    "Pounds": 510.0,
+                    "Score": 5.7156400000000005,
+                    "SubmissionNumber": 44503,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1300140552946",
+                    "MaxOnsite": "02",
+                    "Pounds": 320.0,
+                    "Score": 48.9084,
+                    "SubmissionNumber": 44504,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140552959",
+                    "MaxOnsite": "04",
+                    "Pounds": 28300.0,
+                    "Score": 39.02997,
+                    "SubmissionNumber": 44505,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300140552961",
+                    "MaxOnsite": "03",
+                    "Pounds": 1750.0,
+                    "Score": 11.81877,
+                    "SubmissionNumber": 44506,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 31155.0,
+            "TotalScore": 147.683669,
+            "state_score_percentile": 86,
+            "us_score_percentile": 74
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150593907",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 1.33582,
+                    "SubmissionNumber": 147272,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1301150593919",
+                    "MaxOnsite": "05",
+                    "Pounds": 17.0,
+                    "Score": 1.038922,
+                    "SubmissionNumber": 147273,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150593933",
+                    "MaxOnsite": "04",
+                    "Pounds": 204.0,
+                    "Score": 2.180607,
+                    "SubmissionNumber": 147275,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1301150593945",
+                    "MaxOnsite": "02",
+                    "Pounds": 1620.0,
+                    "Score": 211.3218,
+                    "SubmissionNumber": 147276,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150593958",
+                    "MaxOnsite": "04",
+                    "Pounds": 9450.0,
+                    "Score": 12.404967,
+                    "SubmissionNumber": 147277,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150593972",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 1.944329,
+                    "SubmissionNumber": 147279,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11543.0,
+            "TotalScore": 230.226445,
+            "state_score_percentile": 78,
+            "us_score_percentile": 64
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1302200711998",
+                    "MaxOnsite": "03",
+                    "Pounds": 1180.0,
+                    "Score": 8.53305,
+                    "SubmissionNumber": 257586,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200712002",
+                    "MaxOnsite": "04",
+                    "Pounds": 6160.0,
+                    "Score": 8.082352,
+                    "SubmissionNumber": 257587,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1302200712014",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 1.892541,
+                    "SubmissionNumber": 257588,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200712026",
+                    "MaxOnsite": "05",
+                    "Pounds": 12.0,
+                    "Score": 0.7655780000000001,
+                    "SubmissionNumber": 257589,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200712038",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.7,
+                    "Score": 1.13509,
+                    "SubmissionNumber": 257590,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200712053",
+                    "MaxOnsite": "04",
+                    "Pounds": 140.0,
+                    "Score": 1.503155,
+                    "SubmissionNumber": 257592,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1302200712065",
+                    "MaxOnsite": "02",
+                    "Pounds": 1030.0,
+                    "Score": 135.23296,
+                    "SubmissionNumber": 257593,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 8773.7,
+            "TotalScore": 157.144726,
+            "state_score_percentile": 76,
+            "us_score_percentile": 61
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110000313312",
+    "FacilityID": "03038HDCCRRT28M",
+    "FacilityNumber": 112416,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.896476,
+    "Longitude": -71.329508,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 156,
+            "us_pounds_pct": 98,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 172,
+            "us_pounds_pct": 99,
+            "us_score_pct": 86
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 158,
+            "us_pounds_pct": 98,
+            "us_score_pct": 84
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 145,
+            "us_pounds_pct": 99,
+            "us_score_pct": 84
+        },
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 142,
+            "us_pounds_pct": 92,
+            "us_score_pct": 71
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 77,
+            "us_count": 202,
+            "us_pounds_pct": 92,
+            "us_score_pct": 84
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 71,
+            "us_count": 162,
+            "us_pounds_pct": 91,
+            "us_score_pct": 86
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "SANMINA-SCI CORP. HADCO CORP. A SUBSIDIARY",
+    "NearComID": 6744134,
+    "NearReach": "01070006000394",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "798778395",
+    "ParentName": "SANMINA-SCI CORP",
+    "PreferredLat": 42.89639,
+    "PreferredLong": 71.33,
+    "PublicContactName": "MICHAEL MATHEWS",
+    "PublicContactPhone": "6038962417",
+    "RCRANumber": "NHD046312559",
+    "RadialDistance": 3166128,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 168,
+            "us_pounds_pct": 97,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 181,
+            "us_pounds_pct": 98,
+            "us_score_pct": 86
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 165,
+            "us_pounds_pct": 97,
+            "us_score_pct": 85
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 151,
+            "us_pounds_pct": 98,
+            "us_score_pct": 84
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 150,
+            "us_pounds_pct": 92,
+            "us_score_pct": 70
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 90,
+            "us_count": 236,
+            "us_pounds_pct": 93,
+            "us_score_pct": 86
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 197,
+            "us_pounds_pct": 92,
+            "us_score_pct": 88
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.5128,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.9849,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.5844,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NH",
+    "Street": "7 MANCHESTER RD. 2  TREASURE LN.",
+    "SubmitLat": 42.89639,
+    "SubmitLong": 71.33,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2446,
+    "Y": 3049,
+    "ZIP9": "030383031",
+    "ZIPCode": "03038"
+}

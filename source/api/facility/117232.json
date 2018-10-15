@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10137.81101,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398125268019",
+                    "MaxOnsite": "03",
+                    "Pounds": 125.0,
+                    "Score": 5.32184,
+                    "SubmissionNumber": 1979630,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 125.0,
+            "TotalScore": 5.32184,
+            "state_score_percentile": 14,
+            "us_score_percentile": 12
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1399135165936",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.195059,
+                    "SubmissionNumber": 2067589,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399135166027",
+                    "MaxOnsite": "03",
+                    "Pounds": 125.0,
+                    "Score": 5.26397,
+                    "SubmissionNumber": 2067596,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 130.0,
+            "TotalScore": 5.459028999999999,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1300145168985",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.192915,
+                    "SubmissionNumber": 85575,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300145168997",
+                    "MaxOnsite": "",
+                    "Pounds": 79.0,
+                    "Score": 3.29025,
+                    "SubmissionNumber": 85576,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 84.0,
+            "TotalScore": 3.483165,
+            "state_score_percentile": 19,
+            "us_score_percentile": 14
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1301155004690",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.19027,
+                    "SubmissionNumber": 172446,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301155004702",
+                    "MaxOnsite": "",
+                    "Pounds": 85.0,
+                    "Score": 3.4916,
+                    "SubmissionNumber": 172447,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 90.0,
+            "TotalScore": 3.68187,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1302201050034",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.187626,
+                    "SubmissionNumber": 282515,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.187626,
+            "state_score_percentile": 13,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110009464864",
+    "FacilityID": "14240GCFNC105DO",
+    "FacilityNumber": 117232,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.87213,
+    "Longitude": -78.825774,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 27,
+            "state_score_pct": 16,
+            "us_count": 522,
+            "us_pounds_pct": 25,
+            "us_score_pct": 19
+        },
+        "1999": {
+            "state_count": 16,
+            "state_pounds_pct": 31,
+            "state_score_pct": 25,
+            "us_count": 506,
+            "us_pounds_pct": 26,
+            "us_score_pct": 19
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 36,
+            "state_score_pct": 36,
+            "us_count": 508,
+            "us_pounds_pct": 25,
+            "us_score_pct": 16
+        },
+        "2001": {
+            "state_count": 17,
+            "state_pounds_pct": 23,
+            "state_score_pct": 23,
+            "us_count": 523,
+            "us_pounds_pct": 30,
+            "us_score_pct": 18
+        },
+        "2002": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 9,
+            "us_count": 506,
+            "us_pounds_pct": 10,
+            "us_score_pct": 6
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GOLDEN TITANIUM INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.875,
+    "PreferredLong": 78.83056,
+    "PublicContactName": "GARY GREENFIELD",
+    "PublicContactPhone": "7168239900",
+    "RCRANumber": "NYD002104024",
+    "RadialDistance": 2715479,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 30,
+            "state_score_pct": 25,
+            "us_count": 546,
+            "us_pounds_pct": 25,
+            "us_score_pct": 19
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 27,
+            "state_score_pct": 22,
+            "us_count": 534,
+            "us_pounds_pct": 26,
+            "us_score_pct": 19
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 27,
+            "state_score_pct": 36,
+            "us_count": 537,
+            "us_pounds_pct": 25,
+            "us_score_pct": 16
+        },
+        "2001": {
+            "state_count": 21,
+            "state_pounds_pct": 23,
+            "state_score_pct": 19,
+            "us_count": 553,
+            "us_pounds_pct": 29,
+            "us_score_pct": 18
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 533,
+            "us_pounds_pct": 10,
+            "us_score_pct": 6
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.581,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.2272,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "105 DOROTHY ST",
+    "SubmitLat": 42.875,
+    "SubmitLong": 78.83056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1713,
+    "Y": 2882,
+    "ZIP9": "14206",
+    "ZIPCode": "14206"
+}

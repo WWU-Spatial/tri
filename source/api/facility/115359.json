@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PRINCETON",
+    "County": "NJ,MERCER",
+    "DUNS": "004349009",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 62246.184189,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110081294",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.009935,
+                    "SubmissionNumber": 1831056,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.009935,
+            "state_score_percentile": 14,
+            "us_score_percentile": 15
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120433002",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.01291,
+                    "SubmissionNumber": 1933827,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.01291,
+            "state_score_percentile": 14,
+            "us_score_percentile": 15
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140132806",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.010278,
+                    "SubmissionNumber": 11952,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "40487421",
+                    "Chemical": "Pendimethalin",
+                    "ChemicalNumber": 446,
+                    "DCN": "1300140132818",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.2,
+                    "Score": 0.000106,
+                    "SubmissionNumber": 11953,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.2,
+            "TotalScore": 0.010384000000000001,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110000582227",
+    "FacilityID": "08543MRCNCQUAKE",
+    "FacilityNumber": 115359,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.286666,
+    "Longitude": -74.664166,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 144,
+            "us_pounds_pct": 10,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 135,
+            "us_pounds_pct": 10,
+            "us_score_pct": 2
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 134,
+            "us_pounds_pct": 18,
+            "us_score_pct": 4
+        },
+        "naicscode": "325320",
+        "name": "Pesticide and Other Agricultural Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3253",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0005541",
+    "Name": "BASF AGRO RESEARCH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "071014385",
+    "ParentName": "BASF CORP",
+    "PreferredLat": 40.29444,
+    "PreferredLong": 74.67222,
+    "PublicContactName": "STEPHEN RUPPRECHT",
+    "PublicContactPhone": "6097162000",
+    "RCRANumber": "NJD002349009",
+    "RadialDistance": 2770332,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 149,
+            "us_pounds_pct": 12,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 141,
+            "us_pounds_pct": 11,
+            "us_score_pct": 2
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 139,
+            "us_pounds_pct": 20,
+            "us_score_pct": 4
+        },
+        "name": "Pesticides and agricultural chemicals, n.e.c.",
+        "siccode": "2879"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "287",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6218,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9825,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "QUAKERBRIDGE & CLARKSVILLE RD.",
+    "SubmitLat": 40.29444,
+    "SubmitLong": 74.67222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2201,
+    "Y": 2617,
+    "ZIP9": "085430400",
+    "ZIPCode": "08543"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WOODBRIDGE",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "106532443",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19772.97563,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100037062",
+                    "MaxOnsite": "04",
+                    "Pounds": 17000.0,
+                    "Score": 165.03,
+                    "SubmissionNumber": 1751336,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17000.0,
+            "TotalScore": 165.03,
+            "state_score_percentile": 75,
+            "us_score_percentile": 61
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1397110363746",
+                    "MaxOnsite": "04",
+                    "Pounds": 12600.0,
+                    "Score": 0.247109,
+                    "SubmissionNumber": 1855762,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12600.0,
+            "TotalScore": 0.247109,
+            "state_score_percentile": 70,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1398125260315",
+                    "MaxOnsite": "04",
+                    "Pounds": 13000.0,
+                    "Score": 0.257513,
+                    "SubmissionNumber": 1979317,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13000.0,
+            "TotalScore": 0.257513,
+            "state_score_percentile": 70,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000498293",
+    "FacilityID": "07095HGNDZ1AMBO",
+    "FacilityNumber": 114480,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.541911,
+    "Longitude": -74.274609,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 77,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 65,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 71,
+            "us_score_pct": 18
+        },
+        "naicscode": "311520",
+        "name": "Ice Cream and Frozen Dessert Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0003328",
+    "Name": "HAAGEN-DAZS CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "DIAGEO",
+    "PreferredLat": 40.54167,
+    "PreferredLong": 74.27639,
+    "PublicContactName": "BEN EUPHOSIN",
+    "PublicContactPhone": "6123305438",
+    "RCRANumber": "NJD119211605",
+    "RadialDistance": 2813714,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 72,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 70,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 72,
+            "us_score_pct": 19
+        },
+        "name": "Ice cream and frozen desserts",
+        "siccode": "2024"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1 AMBOY AVE.",
+    "SubmitLat": 40.54278,
+    "SubmitLong": 74.27639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2233,
+    "Y": 2661,
+    "ZIP9": "07095",
+    "ZIPCode": "07095"
+}

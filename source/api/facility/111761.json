@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EASTON",
+    "County": "MA,BRISTOL",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39260.512745,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203821374",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.15,
+                    "Score": 0.096738,
+                    "SubmissionNumber": 537526,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.15,
+            "TotalScore": 0.096738,
+            "state_score_percentile": 11,
+            "us_score_percentile": 4
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204337859",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.19,
+                    "Score": 0.122699,
+                    "SubmissionNumber": 583142,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.19,
+            "TotalScore": 0.122699,
+            "state_score_percentile": 8,
+            "us_score_percentile": 4
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205298615",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.11,
+                    "Score": 0.071131,
+                    "SubmissionNumber": 668179,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.11,
+            "TotalScore": 0.071131,
+            "state_score_percentile": 7,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110015784329",
+    "FacilityID": "02334BRSND87EAS",
+    "FacilityNumber": 111761,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.025277,
+    "Longitude": -71.154166,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 34,
+            "state_score_pct": 44,
+            "us_count": 280,
+            "us_pounds_pct": 67,
+            "us_score_pct": 66
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 36,
+            "state_score_pct": 46,
+            "us_count": 278,
+            "us_pounds_pct": 67,
+            "us_score_pct": 62
+        },
+        "2007": {
+            "state_count": 20,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 259,
+            "us_pounds_pct": 62,
+            "us_score_pct": 55
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BORO SAND & STONE EASTON",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "BORO SAND & STONE CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS WALSH",
+    "PublicContactPhone": "5086992911",
+    "RCRANumber": "NA",
+    "RadialDistance": 3121170,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 34,
+            "state_score_pct": 44,
+            "us_count": 292,
+            "us_pounds_pct": 64,
+            "us_score_pct": 64
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 36,
+            "state_score_pct": 46,
+            "us_count": 286,
+            "us_pounds_pct": 65,
+            "us_score_pct": 60
+        },
+        "2007": {
+            "state_count": 20,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 266,
+            "us_pounds_pct": 60,
+            "us_score_pct": 54
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "87 EASTMAN ST",
+    "SubmitLat": 42.02528,
+    "SubmitLong": 71.15417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2494,
+    "Y": 2937,
+    "ZIP9": "02334",
+    "ZIPCode": "02334"
+}

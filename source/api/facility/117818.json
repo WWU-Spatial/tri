@@ -1,0 +1,312 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "007913981",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10795.811,
+    "DistanceToReach": 46.137042,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100229259",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.17067,
+                    "SubmissionNumber": 1767999,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.17067,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110038914",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.169876,
+                    "SubmissionNumber": 1827302,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.169876,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120075179",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.169083,
+                    "SubmissionNumber": 1905796,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.169083,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130580196",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.168289,
+                    "SubmissionNumber": 2039150,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.168289,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300145072551",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.062103,
+                    "SubmissionNumber": 80326,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300145072575",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.167495,
+                    "SubmissionNumber": 80328,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.229598,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1301150085518",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.061718,
+                    "SubmissionNumber": 101959,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150085520",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.166457,
+                    "SubmissionNumber": 101960,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.228175,
+            "state_score_percentile": 13,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110001210706",
+    "FacilityID": "15202PTTSB1HERR",
+    "FacilityNumber": 117818,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.50791,
+    "Longitude": -80.08965,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 31,
+            "state_pounds_pct": 4,
+            "state_score_pct": 3,
+            "us_count": 561,
+            "us_pounds_pct": 4,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 30,
+            "state_pounds_pct": 8,
+            "state_score_pct": 6,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 26,
+            "state_pounds_pct": 13,
+            "state_score_pct": 15,
+            "us_count": 522,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 25,
+            "state_pounds_pct": 20,
+            "state_score_pct": 24,
+            "us_count": 506,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 26,
+            "state_pounds_pct": 28,
+            "state_score_pct": 30,
+            "us_count": 508,
+            "us_pounds_pct": 13,
+            "us_score_pct": 5
+        },
+        "2001": {
+            "state_count": 24,
+            "state_pounds_pct": 18,
+            "state_score_pct": 16,
+            "us_count": 523,
+            "us_pounds_pct": 16,
+            "us_score_pct": 5
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "PITTSBURGH INDL. PLATING",
+    "NearComID": 3820625,
+    "NearReach": "05030101001272",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "007913981",
+    "ParentName": "JOHN MANEELY CO",
+    "PreferredLat": 40.5,
+    "PreferredLong": 80.5,
+    "PublicContactName": "ARTHUR HALL",
+    "PublicContactPhone": "7243426851",
+    "RCRANumber": "PAD087569620",
+    "RadialDistance": 2448615,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 32,
+            "state_pounds_pct": 4,
+            "state_score_pct": 3,
+            "us_count": 575,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 32,
+            "state_pounds_pct": 4,
+            "state_score_pct": 3,
+            "us_count": 565,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 8,
+            "state_score_pct": 10,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 31,
+            "state_pounds_pct": 14,
+            "state_score_pct": 19,
+            "us_count": 534,
+            "us_pounds_pct": 5,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 31,
+            "state_pounds_pct": 27,
+            "state_score_pct": 25,
+            "us_count": 537,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2001": {
+            "state_count": 27,
+            "state_pounds_pct": 20,
+            "state_score_pct": 11,
+            "us_count": 553,
+            "us_pounds_pct": 16,
+            "us_score_pct": 6
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1 HERRON AVE.",
+    "SubmitLat": 40.5,
+    "SubmitLong": 80.5,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1643,
+    "Y": 2538,
+    "ZIP9": "15202",
+    "ZIPCode": "15202"
+}

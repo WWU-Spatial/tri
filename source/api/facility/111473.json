@@ -1,0 +1,170 @@
+{
+    "AssignedComID": 6125235,
+    "AssignedReach": "01090004033220",
+    "City": "FOXBORO",
+    "County": "MA,NORFOLK",
+    "DUNS": "001013994",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 37284.250268,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396100049218",
+                    "MaxOnsite": "03",
+                    "Pounds": 52372.0,
+                    "Score": 8.468,
+                    "SubmissionNumber": 1752357,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 52372.0,
+            "TotalScore": 8.468,
+            "state_score_percentile": 91,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115291142",
+                    "MaxOnsite": "03",
+                    "Pounds": 13395.0,
+                    "Score": 2.18352,
+                    "SubmissionNumber": 1891710,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13395.0,
+            "TotalScore": 2.18352,
+            "state_score_percentile": 69,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110000310565",
+    "FacilityID": "02035FXBRC33COM",
+    "FacilityNumber": 111473,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.073155,
+    "Longitude": -71.25172,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 88,
+            "us_score_pct": 33
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 75,
+            "us_score_pct": 12
+        },
+        "naicscode": "334514",
+        "name": "Totalizing Fluid Meter and Counting Device Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 100,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 91,
+            "us_score_pct": 25
+        },
+        "naicscode": "334513",
+        "name": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "INVENSYS SYSTEMS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "154209639",
+    "ParentName": "INVENSYS PLC",
+    "PreferredLat": 42.054,
+    "PreferredLong": 71.2423,
+    "PublicContactName": "KEITH BIRCH",
+    "PublicContactPhone": "5085493907",
+    "RCRANumber": "MAD001013994",
+    "RadialDistance": 3117641,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 90,
+            "us_score_pct": 72
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 66,
+            "us_score_pct": 22
+        },
+        "name": "Measuring and controlling devices, n.e.c.",
+        "siccode": "3829"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "382",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.2192,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 30.48,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 14.5531,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "38 NEPONSET AVE",
+    "SubmitLat": 42.12361,
+    "SubmitLong": 71.41833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2483,
+    "Y": 2941,
+    "ZIP9": "020352099",
+    "ZIPCode": "02035"
+}

@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST AURORA",
+    "County": "NY,ERIE",
+    "DUNS": "002103166",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18613.732093,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100097385",
+                    "MaxOnsite": "03",
+                    "Pounds": 2860.0,
+                    "Score": 0.087222,
+                    "SubmissionNumber": 1756582,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100097397",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 6869.56,
+                    "SubmissionNumber": 1756583,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2865.0,
+            "TotalScore": 6869.6472220000005,
+            "state_score_percentile": 45,
+            "us_score_percentile": 37
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397110040641",
+                    "MaxOnsite": "03",
+                    "Pounds": 490.0,
+                    "Score": 0.014979000000000001,
+                    "SubmissionNumber": 1827458,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110040654",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 4129.94,
+                    "SubmissionNumber": 1827459,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 493.0,
+            "TotalScore": 4129.954978999999,
+            "state_score_percentile": 25,
+            "us_score_percentile": 20
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120092539",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 4138.15,
+                    "SubmissionNumber": 1907219,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120092541",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 321.28,
+                    "SubmissionNumber": 1907220,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 4459.429999999999,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130088180",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 2764.24,
+                    "SubmissionNumber": 1997814,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 2764.24,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140195900",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 4154.56,
+                    "SubmissionNumber": 17708,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 4154.56,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110007023595",
+    "FacilityID": "14052MGNC SENEC",
+    "FacilityNumber": 117005,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.77908,
+    "Longitude": -78.64284,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 27,
+            "us_score_pct": 72
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 75
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 75
+        },
+        "naicscode": "332912",
+        "name": "Fluid Power Valve and Hose Fitting Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MOOG INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002103166",
+    "ParentName": "MOOG INC",
+    "PreferredLat": 42.8,
+    "PreferredLong": 78.65,
+    "PublicContactName": "ANN LUHR",
+    "PublicContactPhone": "7166875584",
+    "RCRANumber": "NYD002103166",
+    "RadialDistance": 2717493,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 58,
+            "us_score_pct": 64
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 57,
+            "us_score_pct": 71
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 15,
+            "us_score_pct": 69
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 71
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 71
+        },
+        "name": "Fluid power valves and hose fittings",
+        "siccode": "3492"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 5.4864,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.15,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "SENECA ST",
+    "SubmitLat": 42.8,
+    "SubmitLong": 78.65,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1734,
+    "Y": 2872,
+    "ZIP9": "14052",
+    "ZIPCode": "14052"
+}

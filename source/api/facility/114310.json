@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PASSAIC",
+    "County": "NJ,PASSAIC",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18085.14771,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1396100370434",
+                    "MaxOnsite": "03",
+                    "Pounds": 485.0,
+                    "Score": 2.507603,
+                    "SubmissionNumber": 1779488,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 485.0,
+            "TotalScore": 2.507603,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1397110121718",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 1.30509,
+                    "SubmissionNumber": 1834741,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 1.30509,
+            "state_score_percentile": 14,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110015649191",
+    "FacilityID": "07055NTRST35EIG",
+    "FacilityNumber": 114310,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.856875,
+    "Longitude": -74.109758,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 40,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 27,
+            "us_score_pct": 13
+        },
+        "naicscode": "332710",
+        "name": "Machine Shops"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "INTER-STATE DYEING & FINISHING, CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.85333,
+    "PreferredLong": 74.11056,
+    "PublicContactName": "MR. JOHN GASAROWSKI",
+    "PublicContactPhone": "9734738370",
+    "RCRANumber": "",
+    "RadialDistance": 2845994,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 43,
+            "us_pounds_pct": 18,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 40,
+            "us_pounds_pct": 8,
+            "us_score_pct": 35
+        },
+        "name": "Finishers of textiles, n.e.c.",
+        "siccode": "2269"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "226",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6797,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4303,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "35 8TH ST.",
+    "SubmitLat": 40.85861,
+    "SubmitLong": 74.11056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2240,
+    "Y": 2707,
+    "ZIP9": "07055",
+    "ZIPCode": "07055"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CORNWALL BRIDGE",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59496.412162,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207421823",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0024,
+                    "Score": 0.018586,
+                    "SubmissionNumber": 855781,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0024,
+            "TotalScore": 0.018586,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208314120",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0018,
+                    "Score": 0.014294,
+                    "SubmissionNumber": 935456,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0018,
+            "TotalScore": 0.014294,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110020515263",
+    "FacilityID": "06754SCSCNRIVER",
+    "FacilityNumber": 113884,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.81113,
+    "Longitude": -73.38317,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 4,
+            "us_pounds_pct": 25,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 4,
+            "us_pounds_pct": 25,
+            "us_score_pct": 25
+        },
+        "naicscode": "454311",
+        "name": "Heating Oil Dealers"
+    },
+    "NAICSCode3Digit": "454",
+    "NAICSCode4Digit": "4543",
+    "NAICSCodeSame3Digit": "454",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SCASCO INC -  CORNWALL PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS ENERGY SERVICES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NA",
+    "RadialDistance": 2958861,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 445,
+            "us_pounds_pct": 0,
+            "us_score_pct": 2
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 456,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "RIVER RD",
+    "SubmitLat": 41.8175,
+    "SubmitLong": 73.3725,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2282,
+    "Y": 2853,
+    "ZIP9": "06754",
+    "ZIPCode": "06754"
+}

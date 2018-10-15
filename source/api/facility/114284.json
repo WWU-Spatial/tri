@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH BERGEN",
+    "County": "NJ,HUDSON",
+    "DUNS": "039101514",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17677.602914,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1396105355984",
+                    "MaxOnsite": "04",
+                    "Pounds": 1227.0,
+                    "Score": 0.38442299999999996,
+                    "SubmissionNumber": 1814167,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1227.0,
+            "TotalScore": 0.38442299999999996,
+            "state_score_percentile": 38,
+            "us_score_percentile": 30
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1397110097375",
+                    "MaxOnsite": "03",
+                    "Pounds": 589.0,
+                    "Score": 0.1844,
+                    "SubmissionNumber": 1832530,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 589.0,
+            "TotalScore": 0.1844,
+            "state_score_percentile": 28,
+            "us_score_percentile": 23
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1398120495712",
+                    "MaxOnsite": "04",
+                    "Pounds": 1225.0,
+                    "Score": 0.39083,
+                    "SubmissionNumber": 1938451,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1225.0,
+            "TotalScore": 0.39083,
+            "state_score_percentile": 34,
+            "us_score_percentile": 29
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110000318601",
+    "FacilityID": "07047WRGRC21338",
+    "FacilityNumber": 114284,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.811223,
+    "Longitude": -74.016843,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 320,
+            "us_pounds_pct": 50,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 14,
+            "us_count": 313,
+            "us_pounds_pct": 36,
+            "us_score_pct": 13
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 12,
+            "us_count": 332,
+            "us_pounds_pct": 47,
+            "us_score_pct": 17
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "WR GRACE & CO - CONN GRACE CONSTRUCTION PRODUCTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001409150",
+    "ParentName": "W R GRACE & CO",
+    "PreferredLat": 40.81111,
+    "PreferredLong": 74.01944,
+    "PublicContactName": "BRIAN O'CONNELL",
+    "PublicContactPhone": "6174984594",
+    "RCRANumber": "NJD039101514",
+    "RadialDistance": 2849110,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 72,
+            "state_score_pct": 33,
+            "us_count": 338,
+            "us_pounds_pct": 50,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 13,
+            "state_pounds_pct": 53,
+            "state_score_pct": 23,
+            "us_count": 315,
+            "us_pounds_pct": 33,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 18,
+            "us_count": 319,
+            "us_pounds_pct": 45,
+            "us_score_pct": 17
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "2133 85TH ST",
+    "SubmitLat": 40.81111,
+    "SubmitLong": 74.01944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2250,
+    "Y": 2703,
+    "ZIP9": "07047",
+    "ZIPCode": "07047"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CANTON",
+    "County": "MA,NORFOLK",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26365.202771,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1308207038276",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.4,
+                    "Score": 0.080741,
+                    "SubmissionNumber": 823300,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.4,
+            "TotalScore": 0.080741,
+            "state_score_percentile": 27,
+            "us_score_percentile": 15
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1309207807126",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.7,
+                    "Score": 0.084889,
+                    "SubmissionNumber": 891895,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.7,
+            "TotalScore": 0.084889,
+            "state_score_percentile": 25,
+            "us_score_percentile": 16
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1310208335481",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.3,
+                    "Score": 0.063784,
+                    "SubmissionNumber": 937501,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.3,
+            "TotalScore": 0.063784,
+            "state_score_percentile": 22,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110001948420",
+    "FacilityID": "02021NTRPL330PI",
+    "FacilityNumber": 111463,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.14118,
+    "Longitude": -71.13137,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 71,
+            "us_pounds_pct": 16,
+            "us_score_pct": 8
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 73,
+            "us_pounds_pct": 15,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 68,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "naicscode": "325612",
+        "name": "Polish and Other Sanitation Good Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "DYNASOL INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.14139,
+    "PreferredLong": 71.13139,
+    "PublicContactName": "DOUGLAS ANDLER",
+    "PublicContactPhone": "7818218888",
+    "RCRANumber": "MAD041699919",
+    "RadialDistance": 3130101,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 11,
+            "us_count": 478,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 6,
+            "us_count": 458,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 12,
+            "us_count": 448,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "330 PINE ST",
+    "SubmitLat": 42.14139,
+    "SubmitLong": 71.13139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2492,
+    "Y": 2953,
+    "ZIP9": "02021",
+    "ZIPCode": "02021"
+}

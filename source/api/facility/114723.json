@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RIVERDALE",
+    "County": "NJ,MORRIS",
+    "DUNS": "054881800",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33801.334385,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105347862",
+                    "MaxOnsite": "03",
+                    "Pounds": 16619.0,
+                    "Score": 14.1681,
+                    "SubmissionNumber": 1813502,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16619.0,
+            "TotalScore": 14.1681,
+            "state_score_percentile": 75,
+            "us_score_percentile": 60
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110092158",
+                    "MaxOnsite": "03",
+                    "Pounds": 19462.0,
+                    "Score": 16.734,
+                    "SubmissionNumber": 1832057,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19462.0,
+            "TotalScore": 16.734,
+            "state_score_percentile": 77,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110000319968",
+    "FacilityID": "07457FLTRC1NORT",
+    "FacilityNumber": 114723,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.98743,
+    "Longitude": -74.29862,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 100
+        },
+        "naicscode": "333411",
+        "name": "Air Purification Equipment Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 138,
+            "us_pounds_pct": 84,
+            "us_score_pct": 41
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 145,
+            "us_pounds_pct": 88,
+            "us_score_pct": 46
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3334",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CAMFIL FARR INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ARMANDO BRUNETTI",
+    "PublicContactPhone": "9739079332",
+    "RCRANumber": "NJR000015305",
+    "RadialDistance": 2842366,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 81,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 80,
+            "us_score_pct": 52
+        },
+        "name": "Industrial and commercial fans and blowers and air purification equipment",
+        "siccode": "3564"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1 N CORPORATE DR",
+    "SubmitLat": 40.99111,
+    "SubmitLong": 74.29972,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2217,
+    "Y": 2720,
+    "ZIP9": "07457",
+    "ZIPCode": "07457"
+}

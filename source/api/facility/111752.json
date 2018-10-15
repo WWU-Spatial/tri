@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AVON",
+    "County": "MA,NORFOLK",
+    "DUNS": "058767641",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25859.299245,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110346715",
+                    "MaxOnsite": "02",
+                    "Pounds": 14000.0,
+                    "Score": 5.43185,
+                    "SubmissionNumber": 1854293,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14000.0,
+            "TotalScore": 5.43185,
+            "state_score_percentile": 70,
+            "us_score_percentile": 58
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1308207079498",
+                    "MaxOnsite": "02",
+                    "Pounds": 15129.0,
+                    "Score": 14671.7,
+                    "SubmissionNumber": 825924,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15129.0,
+            "TotalScore": 14671.7,
+            "state_score_percentile": 93,
+            "us_score_percentile": 75
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110001952762",
+    "FacilityID": "02322CMNGC230BO",
+    "FacilityNumber": 111752,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.13512,
+    "Longitude": -71.05961,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 57,
+            "us_score_pct": 49
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 121,
+            "us_pounds_pct": 80,
+            "us_score_pct": 98
+        },
+        "naicscode": "326299",
+        "name": "All Other Rubber Product Manufacturing"
+    },
+    "NAICS2": {
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 71,
+            "us_count": 515,
+            "us_pounds_pct": 47,
+            "us_score_pct": 61
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 456,
+            "us_pounds_pct": 59,
+            "us_score_pct": 97
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3262",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CUMING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LOU WATKINS",
+    "PublicContactPhone": "5085802660",
+    "RCRANumber": "MAR000016618",
+    "RadialDistance": 3134553,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 657,
+            "us_pounds_pct": 49,
+            "us_score_pct": 62
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 470,
+            "us_pounds_pct": 64,
+            "us_score_pct": 97
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "225 BODWELL ST",
+    "SubmitLat": 42.1625,
+    "SubmitLong": 71.07556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2499,
+    "Y": 2955,
+    "ZIP9": "02322",
+    "ZIPCode": "02322"
+}

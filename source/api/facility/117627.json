@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BEAVER FALLS",
+    "County": "PA,BEAVER",
+    "DUNS": "187894373",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31497.424438,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1398120687607",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 2.20938,
+                    "SubmissionNumber": 1951875,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398120687619",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 3.6637,
+                    "SubmissionNumber": 1951876,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 5.87308,
+            "state_score_percentile": 19,
+            "us_score_percentile": 16
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1307205903139",
+                    "MaxOnsite": "02",
+                    "Pounds": 341.0,
+                    "Score": 2.88094,
+                    "SubmissionNumber": 721212,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 341.0,
+            "TotalScore": 2.88094,
+            "state_score_percentile": 36,
+            "us_score_percentile": 36
+        }
+    },
+    "FIPS": "42007",
+    "FRSID": "110000602303",
+    "FacilityID": "15010NVRTR24THS",
+    "FacilityNumber": 117627,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.770621,
+    "Longitude": -80.328118,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 99,
+            "us_pounds_pct": 25,
+            "us_score_pct": 23
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 95,
+            "us_pounds_pct": 43,
+            "us_score_pct": 26
+        },
+        "naicscode": "562211",
+        "name": "Hazardous Waste Treatment and Disposal"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5622",
+    "NAICSCodeSame3Digit": "562",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIEMENS WATER TECHNOLOGIES CORP BEAVER FALLS FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROY PROVINS",
+    "PublicContactPhone": "4127496549",
+    "RCRANumber": "PAD980707087",
+    "RadialDistance": 2457079,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 107,
+            "us_pounds_pct": 26,
+            "us_score_pct": 25
+        },
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 28,
+            "us_count": 112,
+            "us_pounds_pct": 53,
+            "us_score_pct": 20
+        },
+        "name": "Refuse systems",
+        "siccode": "4953"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "495",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.3353,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "24TH ST EXTENSION & 31ST ST",
+    "SubmitLat": 40.77056,
+    "SubmitLong": 80.32833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1612,
+    "Y": 2569,
+    "ZIP9": "15010",
+    "ZIPCode": "15010"
+}

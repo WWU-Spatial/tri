@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELMWOOD PARK",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24025.452966,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1397115255251",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 157.42430000000002,
+                    "SubmissionNumber": 1889368,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 157.42430000000002,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1398125049472",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 158.40879999999999,
+                    "SubmissionNumber": 1969950,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 158.40879999999999,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000319860",
+    "FacilityID": "07407FNTXN418FA",
+    "FacilityNumber": 114678,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.912301,
+    "Longitude": -74.112917,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 78,
+            "us_pounds_pct": 16,
+            "us_score_pct": 38
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 76,
+            "us_pounds_pct": 21,
+            "us_score_pct": 40
+        },
+        "naicscode": "325613",
+        "name": "Surface Active Agent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0003573",
+    "Name": "FINETEX INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.90833,
+    "PreferredLong": 74.10833,
+    "PublicContactName": "J ROGER PORTER",
+    "PublicContactPhone": "2017974686",
+    "RCRANumber": "NJN008005589",
+    "RadialDistance": 2849541,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 18,
+            "us_score_pct": 38
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 86,
+            "us_pounds_pct": 20,
+            "us_score_pct": 38
+        },
+        "name": "Surface active agents, finishing agents, sulfonated oils, and assistants",
+        "siccode": "2843"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "418 FALMOUTH AVE",
+    "SubmitLat": 40.90833,
+    "SubmitLong": 74.10833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2715,
+    "ZIP9": "07407",
+    "ZIPCode": "07407"
+}

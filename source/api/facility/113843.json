@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERBURY",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 53772.147065,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203971268",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.179,
+                    "Score": 28.768,
+                    "SubmissionNumber": 551165,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.179,
+            "TotalScore": 28.768,
+            "state_score_percentile": 8,
+            "us_score_percentile": 4
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208444430",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.03,
+                    "Score": 0.0,
+                    "SubmissionNumber": 946882,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208444442",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.14,
+                    "Score": 22.7022,
+                    "SubmissionNumber": 946883,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.17,
+            "TotalScore": 22.7022,
+            "state_score_percentile": 11,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110007241626",
+    "FacilityID": "06708GNDST566SL",
+    "FacilityNumber": 113843,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.530676,
+    "Longitude": -73.043323,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 196,
+            "us_pounds_pct": 23,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 77,
+            "us_count": 219,
+            "us_pounds_pct": 15,
+            "us_score_pct": 33
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "O&G INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018838136",
+    "ParentName": "O&G INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "VIRGINIA RYAN",
+    "PublicContactPhone": "8604964832",
+    "RCRANumber": "CTD980191589",
+    "RadialDistance": 2962259,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 199,
+            "us_pounds_pct": 23,
+            "us_score_pct": 47
+        },
+        "2010": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 77,
+            "us_count": 211,
+            "us_pounds_pct": 15,
+            "us_score_pct": 34
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "566 S LEONARD ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2324,
+    "Y": 2823,
+    "ZIP9": "06708",
+    "ZIPCode": "06708"
+}

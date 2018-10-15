@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FRANKLIN",
+    "County": "MA,NORFOLK",
+    "DUNS": "256195058",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35933.566388,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306205402098",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1629.32,
+                    "SubmissionNumber": 653535,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1629.32,
+            "state_score_percentile": 19,
+            "us_score_percentile": 8
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1307205402086",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1634.19,
+                    "SubmissionNumber": 677738,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1634.19,
+            "state_score_percentile": 17,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110006531823",
+    "FacilityID": "02038SMTCM19CNS",
+    "FacilityNumber": 111485,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.055385,
+    "Longitude": -71.399012,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 157,
+            "us_pounds_pct": 8,
+            "us_score_pct": 65
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 149,
+            "us_pounds_pct": 7,
+            "us_score_pct": 64
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SMTC MANUFACTURING CORP OF MASSACHUSETTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "256195058",
+    "ParentName": "SMTC CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DAVID PRICE",
+    "PublicContactPhone": "5085205800",
+    "RCRANumber": "MAR000500058",
+    "RadialDistance": 3106585,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 229,
+            "us_pounds_pct": 5,
+            "us_score_pct": 67
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 212,
+            "us_pounds_pct": 5,
+            "us_score_pct": 66
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5373,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1409,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.3069,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "109 CONSTITUTION BLVD",
+    "SubmitLat": 42.05694,
+    "SubmitLong": 71.39472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2469,
+    "Y": 2935,
+    "ZIP9": "02038",
+    "ZIPCode": "02038"
+}

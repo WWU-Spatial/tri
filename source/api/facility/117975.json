@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GARRETT",
+    "County": "PA,SOMERSET",
+    "DUNS": "016089138",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 124168.737228,
+    "DistanceToReach": 474.35033,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206313090",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.018,
+                    "Score": 0.001089,
+                    "SubmissionNumber": 756170,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1308206313102",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00062,
+                    "Score": 2.5e-05,
+                    "SubmissionNumber": 756171,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.018619999999999998,
+            "TotalScore": 0.001114,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207640451",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.021,
+                    "Score": 0.00126,
+                    "SubmissionNumber": 876365,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207640463",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00073,
+                    "Score": 2.9e-05,
+                    "SubmissionNumber": 876366,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.021730000000000003,
+            "TotalScore": 0.001289,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110039019246",
+    "FacilityID": "1554WBLLCK1425P",
+    "FacilityNumber": 117975,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.876046,
+    "Longitude": -79.003511,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 30,
+            "us_pounds_pct": 6,
+            "us_score_pct": 20
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 33,
+            "us_pounds_pct": 9,
+            "us_score_pct": 15
+        },
+        "naicscode": "212111",
+        "name": "Bituminous Coal and Lignite Surface Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "",
+    "Name": "PBS COALS - BLUE LICK #2 STRIP",
+    "NearComID": 3807549,
+    "NearReach": "05020006001248",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "PBS COALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KIM BETCHER",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "",
+    "RadialDistance": 2461732,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 33,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 35,
+            "us_pounds_pct": 8,
+            "us_score_pct": 14
+        },
+        "name": "Bituminous coal and lignite surface mining",
+        "siccode": "1221"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1425 PINE HILL RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1769,
+    "Y": 2471,
+    "ZIP9": "15542",
+    "ZIPCode": "15542"
+}

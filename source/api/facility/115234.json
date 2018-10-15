@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WILLIAMSTOWN",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "608567756",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31499.767405,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110256385",
+                    "MaxOnsite": "03",
+                    "Pounds": 40190.0,
+                    "Score": 76.264714,
+                    "SubmissionNumber": 1846265,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40190.0,
+            "TotalScore": 76.264714,
+            "state_score_percentile": 85,
+            "us_score_percentile": 75
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120381595",
+                    "MaxOnsite": "03",
+                    "Pounds": 10937.0,
+                    "Score": 24.165399999999998,
+                    "SubmissionNumber": 1929763,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398120381607",
+                    "MaxOnsite": "03",
+                    "Pounds": 17215.0,
+                    "Score": 1.298454,
+                    "SubmissionNumber": 1929764,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 28152.0,
+            "TotalScore": 25.463853999999998,
+            "state_score_percentile": 82,
+            "us_score_percentile": 69
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399130117361",
+                    "MaxOnsite": "03",
+                    "Pounds": 15814.0,
+                    "Score": 1.1931500000000002,
+                    "SubmissionNumber": 2000336,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15814.0,
+            "TotalScore": 1.1931500000000002,
+            "state_score_percentile": 72,
+            "us_score_percentile": 62
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1300140309434",
+                    "MaxOnsite": "03",
+                    "Pounds": 17738.0,
+                    "Score": 1.1891619999999998,
+                    "SubmissionNumber": 27810,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17738.0,
+            "TotalScore": 1.1891619999999998,
+            "state_score_percentile": 79,
+            "us_score_percentile": 66
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1301150606883",
+                    "MaxOnsite": "03",
+                    "Pounds": 10108.0,
+                    "Score": 0.679205,
+                    "SubmissionNumber": 148434,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10108.0,
+            "TotalScore": 0.679205,
+            "state_score_percentile": 75,
+            "us_score_percentile": 62
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110007141921",
+    "FacilityID": "08094CCRTNNEWBR",
+    "FacilityNumber": 115234,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.68713,
+    "Longitude": -74.98333,
+    "Method": "ADDRESS MATCHING-NEAREST INTERSECTION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 96,
+            "us_score_pct": 39
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 87,
+            "us_score_pct": 29
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 51,
+            "us_pounds_pct": 74,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 55,
+            "us_pounds_pct": 83,
+            "us_score_pct": 5
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 80,
+            "us_score_pct": 7
+        },
+        "naicscode": "332313",
+        "name": "Plate Work Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0116092",
+    "Name": "WASTEQUIP MANUFACTURING ACCURATE INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "608567756",
+    "ParentName": "WASTEQUIP MFG",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "FELECIA HARRIS",
+    "PublicContactPhone": "3613587022",
+    "RCRANumber": "NJD980777684",
+    "RadialDistance": 2708478,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 83,
+            "us_score_pct": 54
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 85,
+            "us_score_pct": 45
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 40,
+            "us_pounds_pct": 80,
+            "us_score_pct": 27
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 86,
+            "us_score_pct": 25
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 81,
+            "us_score_pct": 30
+        },
+        "name": "General industrial machinery and equipment, n.e.c.",
+        "siccode": "3569"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9449,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.5519,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.0033,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "NEW BROOKLYN RD. & FILBERT ST.",
+    "SubmitLat": 39.68667,
+    "SubmitLong": 74.98056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2187,
+    "Y": 2529,
+    "ZIP9": "08094",
+    "ZIPCode": "08094"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "001211523",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 15242.49051,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1300140822608",
+                    "MaxOnsite": "04",
+                    "Pounds": 45484.0,
+                    "Score": 996307.0,
+                    "SubmissionNumber": 63279,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 45484.0,
+            "TotalScore": 996307.0,
+            "state_score_percentile": 86,
+            "us_score_percentile": 79
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1301150203800",
+                    "MaxOnsite": "03",
+                    "Pounds": 16727.0,
+                    "Score": 368147.0,
+                    "SubmissionNumber": 112719,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16727.0,
+            "TotalScore": 368147.0,
+            "state_score_percentile": 77,
+            "us_score_percentile": 69
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1302200385868",
+                    "MaxOnsite": "03",
+                    "Pounds": 19782.0,
+                    "Score": 437453.0,
+                    "SubmissionNumber": 227459,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19782.0,
+            "TotalScore": 437453.0,
+            "state_score_percentile": 81,
+            "us_score_percentile": 72
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110000323249",
+    "FacilityID": "11201BNFRM201WA",
+    "FacilityNumber": 115906,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.703097,
+    "Longitude": -73.986109,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 103,
+            "us_pounds_pct": 92,
+            "us_score_pct": 99
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 100,
+            "us_count": 114,
+            "us_pounds_pct": 78,
+            "us_score_pct": 96
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 105,
+            "us_pounds_pct": 88,
+            "us_score_pct": 98
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BEN FORMAN & SONS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.7,
+    "PreferredLong": 73.96667,
+    "PublicContactName": "CLIFFORD CHISWICK",
+    "PublicContactPhone": "7185221100",
+    "RCRANumber": "NYD001211523",
+    "RadialDistance": 2843908,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 133,
+            "us_pounds_pct": 90,
+            "us_score_pct": 98
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 133,
+            "us_pounds_pct": 75,
+            "us_score_pct": 95
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 116,
+            "us_pounds_pct": 84,
+            "us_score_pct": 96
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.24,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.633,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "201 WATER ST",
+    "SubmitLat": 40.70278,
+    "SubmitLong": 73.98611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2257,
+    "Y": 2689,
+    "ZIP9": "11201",
+    "ZIPCode": "11201"
+}

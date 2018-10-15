@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GUAYNABO",
+    "County": "PR,GUAYNABO",
+    "DUNS": "090002874",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14248.588085,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305203265424",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.016,
+                    "Score": 1.8e-05,
+                    "SubmissionNumber": 485691,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1305203265436",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.018,
+                    "Score": 0.000144,
+                    "SubmissionNumber": 485692,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.034,
+            "TotalScore": 0.000162,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1306204256503",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.716,
+                    "Score": 0.001424,
+                    "SubmissionNumber": 575529,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.716,
+            "TotalScore": 0.001424,
+            "state_score_percentile": 0,
+            "us_score_percentile": 6
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1307206088003",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.612,
+                    "Score": 0.001215,
+                    "SubmissionNumber": 736425,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.612,
+            "TotalScore": 0.001215,
+            "state_score_percentile": 0,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "72061",
+    "FRSID": "110000580595",
+    "FacilityID": "00657FRTCHPARQU",
+    "FacilityNumber": 110248,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.358006,
+    "Longitude": -66.109611,
+    "Method": "ZIP CODE-CENTROID",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 94,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 95,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FORTO CHEMICAL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 18.36,
+    "PreferredLong": 66.11,
+    "PublicContactName": "JOHN L. ASTOR",
+    "PublicContactPhone": "7877207481",
+    "RCRANumber": "PRR000012815",
+    "RadialDistance": 42318,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 79,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "name": "Soap and other detergents, except specialty cleaners",
+        "siccode": "2841"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "PARQUE DE LOS NINOS ST",
+    "SubmitLat": 18.36,
+    "SubmitLong": 66.11,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 18,
+    "Y": 49,
+    "ZIP9": "00970",
+    "ZIPCode": "00970"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "METHUEN",
+    "County": "MA,ESSEX",
+    "DUNS": "800077141",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 41343.797698,
+    "DistanceToReach": 844.462481,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396105212601",
+                    "MaxOnsite": "03",
+                    "Pounds": 56.0,
+                    "Score": 1.01206,
+                    "SubmissionNumber": 1804737,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105212613",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.098587,
+                    "SubmissionNumber": 1804738,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 57.0,
+            "TotalScore": 1.110647,
+            "state_score_percentile": 11,
+            "us_score_percentile": 11
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115153936",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.099205,
+                    "SubmissionNumber": 1884374,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397115153948",
+                    "MaxOnsite": "03",
+                    "Pounds": 64.0,
+                    "Score": 1.1639,
+                    "SubmissionNumber": 1884375,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 65.0,
+            "TotalScore": 1.263105,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000762862",
+    "FacilityID": "01844WNGLB126ME",
+    "FacilityNumber": 111244,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.731112,
+    "Longitude": -71.136861,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 36,
+            "us_count": 156,
+            "us_pounds_pct": 12,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 30,
+            "us_count": 172,
+            "us_pounds_pct": 19,
+            "us_score_pct": 20
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 1,
+    "NPDESPermit": "MAR05A103",
+    "Name": "TRI-STAR TECHNOLOGY CO INC",
+    "NearComID": 6746014,
+    "NearReach": "01070006000363",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.73167,
+    "PreferredLong": 71.14,
+    "PublicContactName": "JAMES M. MARTIN",
+    "PublicContactPhone": "9787945117",
+    "RCRANumber": "MAD000844571",
+    "RadialDistance": 3167891,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 30,
+            "us_count": 168,
+            "us_pounds_pct": 11,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 22,
+            "us_count": 181,
+            "us_pounds_pct": 17,
+            "us_score_pct": 19
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "126 MERRIMACK ST.",
+    "SubmitLat": 42.73167,
+    "SubmitLong": 71.14,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2470,
+    "Y": 3032,
+    "ZIP9": "018446116",
+    "ZIPCode": "01844"
+}

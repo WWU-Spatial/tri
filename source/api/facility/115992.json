@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "001302959",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23218.109039,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396105254926",
+                    "MaxOnsite": "03",
+                    "Pounds": 36530.0,
+                    "Score": 34.058,
+                    "SubmissionNumber": 1807308,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105254938",
+                    "MaxOnsite": "03",
+                    "Pounds": 15017.0,
+                    "Score": 8.26442,
+                    "SubmissionNumber": 1807309,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105254940",
+                    "MaxOnsite": "04",
+                    "Pounds": 124658.0,
+                    "Score": 69.1815,
+                    "SubmissionNumber": 1807310,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 176205.0,
+            "TotalScore": 111.50392,
+            "state_score_percentile": 93,
+            "us_score_percentile": 91
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115085274",
+                    "MaxOnsite": "",
+                    "Pounds": 58207.0,
+                    "Score": 32.5444,
+                    "SubmissionNumber": 1880923,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115085286",
+                    "MaxOnsite": "03",
+                    "Pounds": 13378.0,
+                    "Score": 7.41729,
+                    "SubmissionNumber": 1880924,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 71585.0,
+            "TotalScore": 39.961690000000004,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110000763530",
+    "FacilityID": "11236GLNMR807BA",
+    "FacilityNumber": 115992,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.653333,
+    "Longitude": -73.89845,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 73,
+            "us_score_pct": 81
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 83,
+            "us_pounds_pct": 63,
+            "us_score_pct": 75
+        },
+        "naicscode": "323111",
+        "name": "Commercial Gravure Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GLENMORE PLASTIC INDUSTRIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.65278,
+    "PreferredLong": 73.89167,
+    "PublicContactName": "HAROLD LEBWOHL",
+    "PublicContactPhone": "7186497800",
+    "RCRANumber": "NYD001302959",
+    "RadialDistance": 2846482,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 100,
+            "us_score_pct": 75
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "name": "Housefurnishings, except curtains and draperies",
+        "siccode": "2392"
+    },
+    "SICCode2Digit": "23",
+    "SICCode3Digit": "239",
+    "SICCodeSame2Digit": "23",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5621,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.5046,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 13.5592,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "807 BANK ST",
+    "SubmitLat": 40.65278,
+    "SubmitLong": 73.89167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2267,
+    "Y": 2685,
+    "ZIP9": "112362299",
+    "ZIPCode": "11236"
+}

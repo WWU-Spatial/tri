@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BELLINGHAM",
+    "County": "MA,NORFOLK",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39739.890698,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115265199",
+                    "MaxOnsite": "03",
+                    "Pounds": 11700.0,
+                    "Score": 0.427572,
+                    "SubmissionNumber": 1889964,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11700.0,
+            "TotalScore": 0.427572,
+            "state_score_percentile": 63,
+            "us_score_percentile": 54
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125031551",
+                    "MaxOnsite": "02",
+                    "Pounds": 6488.0,
+                    "Score": 0.238861,
+                    "SubmissionNumber": 1969071,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6488.0,
+            "TotalScore": 0.238861,
+            "state_score_percentile": 57,
+            "us_score_percentile": 47
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135152662",
+                    "MaxOnsite": "02",
+                    "Pounds": 3334.0,
+                    "Score": 0.123645,
+                    "SubmissionNumber": 2066769,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3334.0,
+            "TotalScore": 0.123645,
+            "state_score_percentile": 50,
+            "us_score_percentile": 40
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110000310477",
+    "FacilityID": "02019CNSLD5WILL",
+    "FacilityNumber": 111448,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.087508,
+    "Longitude": -71.496364,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 85,
+            "us_score_pct": 28
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 85,
+            "us_score_pct": 14
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 66,
+            "us_score_pct": 16
+        },
+        "naicscode": "334111",
+        "name": "Electronic Computer Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3341",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CONSOLIDATED COATING CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN F. MATTSON",
+    "PublicContactPhone": "5089664800",
+    "RCRANumber": "MAD985269182",
+    "RadialDistance": 3102118,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 22,
+            "us_count": 388,
+            "us_pounds_pct": 50,
+            "us_score_pct": 7
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 22,
+            "us_count": 391,
+            "us_pounds_pct": 46,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 22,
+            "us_count": 399,
+            "us_pounds_pct": 40,
+            "us_score_pct": 4
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.8392,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "5 WILLIAM WAY",
+    "SubmitLat": 42.58611,
+    "SubmitLong": 71.49806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2458,
+    "Y": 2937,
+    "ZIP9": "02019",
+    "ZIPCode": "02019"
+}

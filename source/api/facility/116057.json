@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FREEPORT",
+    "County": "NY,NASSAU",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 50729.777484,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100283946",
+                    "MaxOnsite": "04",
+                    "Pounds": 5586.0,
+                    "Score": 0.887356,
+                    "SubmissionNumber": 1772587,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5586.0,
+            "TotalScore": 0.887356,
+            "state_score_percentile": 53,
+            "us_score_percentile": 44
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397115127918",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 501.089,
+                    "SubmissionNumber": 1883132,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115127932",
+                    "MaxOnsite": "04",
+                    "Pounds": 5588.0,
+                    "Score": 0.8921239999999999,
+                    "SubmissionNumber": 1883134,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5591.0,
+            "TotalScore": 501.981124,
+            "state_score_percentile": 54,
+            "us_score_percentile": 44
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120323237",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 503.589,
+                    "SubmissionNumber": 1925661,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120323249",
+                    "MaxOnsite": "04",
+                    "Pounds": 3691.0,
+                    "Score": 0.592185,
+                    "SubmissionNumber": 1925662,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3694.0,
+            "TotalScore": 504.18118499999997,
+            "state_score_percentile": 49,
+            "us_score_percentile": 40
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399130166390",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 506.089,
+                    "SubmissionNumber": 2004456,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130166402",
+                    "MaxOnsite": "03",
+                    "Pounds": 4767.0,
+                    "Score": 0.7685449999999999,
+                    "SubmissionNumber": 2004457,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4770.0,
+            "TotalScore": 506.857545,
+            "state_score_percentile": 53,
+            "us_score_percentile": 44
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300145093542",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 169.53,
+                    "SubmissionNumber": 81471,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 169.53,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000323686",
+    "FacilityID": "11520LRNLN151AL",
+    "FacilityNumber": 116057,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.650945,
+    "Longitude": -73.568528,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 75,
+            "state_score_pct": 6,
+            "us_count": 561,
+            "us_pounds_pct": 66,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 73,
+            "state_score_pct": 53,
+            "us_count": 546,
+            "us_pounds_pct": 68,
+            "us_score_pct": 47
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 72,
+            "state_score_pct": 72,
+            "us_count": 522,
+            "us_pounds_pct": 68,
+            "us_score_pct": 47
+        },
+        "1999": {
+            "state_count": 16,
+            "state_pounds_pct": 87,
+            "state_score_pct": 81,
+            "us_count": 506,
+            "us_pounds_pct": 72,
+            "us_score_pct": 47
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 68,
+            "us_count": 508,
+            "us_pounds_pct": 0,
+            "us_score_pct": 41
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SHIPLEY CO. L.L.C.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002292043",
+    "ParentName": "ROHM & HAAS CO",
+    "PreferredLat": 40.65,
+    "PreferredLong": 73.56667,
+    "PublicContactName": "JOSEPH GREIL",
+    "PublicContactPhone": "5168688800",
+    "RCRANumber": "NYD986886208",
+    "RadialDistance": 2868642,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 44,
+            "us_count": 338,
+            "us_pounds_pct": 68,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 83,
+            "us_count": 315,
+            "us_pounds_pct": 70,
+            "us_score_pct": 63
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 85,
+            "us_count": 319,
+            "us_pounds_pct": 61,
+            "us_score_pct": 62
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 100,
+            "us_count": 310,
+            "us_pounds_pct": 65,
+            "us_score_pct": 64
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 100,
+            "us_count": 317,
+            "us_pounds_pct": 0,
+            "us_score_pct": 57
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "151 ALBANY AVE.",
+    "SubmitLat": 40.65,
+    "SubmitLong": 73.56667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2301,
+    "Y": 2692,
+    "ZIP9": "11520",
+    "ZIPCode": "11520"
+}

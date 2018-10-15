@@ -1,0 +1,342 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOLVAY",
+    "County": "NY,ONONDAGA",
+    "DUNS": "001165679",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10900.902433,
+    "DistanceToReach": 376.769427,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305207956297",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.103307,
+                    "SubmissionNumber": 566447,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.103307,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306207956285",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.103246,
+                    "SubmissionNumber": 656737,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.103246,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307207956309",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.2,
+                    "Score": 0.20637,
+                    "SubmissionNumber": 744654,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.20637,
+            "state_score_percentile": 5,
+            "us_score_percentile": 4
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207956261",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.103124,
+                    "SubmissionNumber": 830087,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.103124,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207956273",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.103063,
+                    "SubmissionNumber": 904400,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.103063,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208741569",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.103002,
+                    "SubmissionNumber": 975059,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.103002,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110002094206",
+    "FacilityID": "13209FRZRJ3000M",
+    "FacilityNumber": 116693,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.062111,
+    "Longitude": -76.228336,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 198,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 198,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 194,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 191,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 178,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 168,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "naicscode": "331511",
+        "name": "Iron Foundries"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "FRAZER & JONES CO",
+    "NearComID": 21974429,
+    "NearReach": "04140201001108",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001165679",
+    "ParentName": "THE EASTERN CO",
+    "PreferredLat": 43.0625,
+    "PreferredLong": 76.21667,
+    "PublicContactName": "MARK NOVAKOWSKI",
+    "PublicContactPhone": "3154686251",
+    "RCRANumber": "NYD002225597",
+    "RadialDistance": 2875469,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 16
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 16
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 20,
+            "us_score_pct": 20
+        },
+        "name": "Malleable iron foundries",
+        "siccode": "3322"
+    },
+    "SIC2": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 193,
+            "us_pounds_pct": 1,
+            "us_score_pct": 0
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 192,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 186,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 184,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 173,
+            "us_pounds_pct": 2,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "name": "Gray and ductile iron foundries",
+        "siccode": "3321"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "332",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 1.7683,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3000 MILTON AVE",
+    "SubmitLat": 43.0625,
+    "SubmitLong": 76.21667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1963,
+    "Y": 2958,
+    "ZIP9": "13209",
+    "ZIPCode": "13209"
+}

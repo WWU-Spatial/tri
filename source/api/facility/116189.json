@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RONKONKOMA",
+    "County": "NY,SUFFOLK",
+    "DUNS": "080441665",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 90112.542926,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150551428",
+                    "MaxOnsite": "02",
+                    "Pounds": 30.0,
+                    "Score": 50.058,
+                    "SubmissionNumber": 143392,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 50.058,
+            "state_score_percentile": 20,
+            "us_score_percentile": 18
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200032934",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 13.24381,
+                    "SubmissionNumber": 195201,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 13.24381,
+            "state_score_percentile": 15,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110006449897",
+    "FacilityID": "11779TLLBS2005O",
+    "FacilityNumber": 116189,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.783162,
+    "Longitude": -73.102305,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 82,
+            "us_score_pct": 82
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 66,
+            "us_score_pct": 72
+        },
+        "naicscode": "334290",
+        "name": "Other Communications Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3342",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TELLABS OPERATIONS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "074410333",
+    "ParentName": "TELLABS, INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DON VARSICO",
+    "PublicContactPhone": "6307982077",
+    "RCRANumber": "NYR000078790",
+    "RadialDistance": 2908999,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 81,
+            "us_score_pct": 86
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 70,
+            "us_score_pct": 77
+        },
+        "name": "Communications equipment, n.e.c.",
+        "siccode": "3669"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "366",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.8638,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2005 ORVILLE DR. N.",
+    "SubmitLat": 40.78694,
+    "SubmitLong": 73.12528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2343,
+    "Y": 2722,
+    "ZIP9": "11779",
+    "ZIPCode": "11779"
+}

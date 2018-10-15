@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "005995022",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13840.443125,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1396105005565",
+                    "MaxOnsite": "05",
+                    "Pounds": 3447.0,
+                    "Score": 18.0986,
+                    "SubmissionNumber": 1790962,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3447.0,
+            "TotalScore": 18.0986,
+            "state_score_percentile": 47,
+            "us_score_percentile": 39
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1398125014744",
+                    "MaxOnsite": "04",
+                    "Pounds": 1438.0,
+                    "Score": 7.68395,
+                    "SubmissionNumber": 1968238,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1438.0,
+            "TotalScore": 7.68395,
+            "state_score_percentile": 39,
+            "us_score_percentile": 31
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1399135000469",
+                    "MaxOnsite": "05",
+                    "Pounds": 3773.0,
+                    "Score": 20.3364,
+                    "SubmissionNumber": 2058303,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3773.0,
+            "TotalScore": 20.3364,
+            "state_score_percentile": 50,
+            "us_score_percentile": 42
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110000323515",
+    "FacilityID": "11232NTRDY8039T",
+    "FacilityNumber": 115983,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.656753,
+    "Longitude": -74.012981,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 37,
+            "us_count": 230,
+            "us_pounds_pct": 39,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 14,
+            "us_count": 229,
+            "us_pounds_pct": 37,
+            "us_score_pct": 34
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 14,
+            "us_count": 236,
+            "us_pounds_pct": 48,
+            "us_score_pct": 39
+        },
+        "naicscode": "336399",
+        "name": "All Other Motor Vehicle Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3363",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "INTERDYNAMICS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.65639,
+    "PreferredLong": 74.01361,
+    "PublicContactName": "ROBERT A. LO PINTO P.E.",
+    "PublicContactPhone": "5167912300",
+    "RCRANumber": "NY0000110486",
+    "RadialDistance": 2839000,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 15,
+            "state_pounds_pct": 66,
+            "state_score_pct": 46,
+            "us_count": 543,
+            "us_pounds_pct": 41,
+            "us_score_pct": 36
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 25,
+            "us_count": 520,
+            "us_pounds_pct": 39,
+            "us_score_pct": 28
+        },
+        "1999": {
+            "state_count": 14,
+            "state_pounds_pct": 71,
+            "state_score_pct": 42,
+            "us_count": 512,
+            "us_pounds_pct": 51,
+            "us_score_pct": 33
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "80 39TH ST.",
+    "SubmitLat": 40.65639,
+    "SubmitLong": 74.01361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2256,
+    "Y": 2683,
+    "ZIP9": "11232",
+    "ZIPCode": "11232"
+}

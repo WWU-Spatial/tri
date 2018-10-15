@@ -1,0 +1,292 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUMACAO",
+    "County": "PR,HUMACAO",
+    "DUNS": "090034703",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 41088.268232,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300140676976",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.6,
+                    "Score": 0.085208,
+                    "SubmissionNumber": 51977,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.6,
+            "TotalScore": 0.085208,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150330316",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.141658,
+                    "SubmissionNumber": 123999,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.141658,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1304202533206",
+                    "MaxOnsite": "04",
+                    "Pounds": 2225.0,
+                    "Score": 0.127994,
+                    "SubmissionNumber": 420138,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2225.0,
+            "TotalScore": 0.127994,
+            "state_score_percentile": 53,
+            "us_score_percentile": 50
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307207080932",
+                    "MaxOnsite": "01",
+                    "Pounds": 12.2,
+                    "Score": 133.523,
+                    "SubmissionNumber": 743110,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12.2,
+            "TotalScore": 133.523,
+            "state_score_percentile": 16,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "72069",
+    "FRSID": "110007342795",
+    "FacilityID": "00791PRPYBPR03K",
+    "FacilityNumber": 110439,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 18.10111,
+    "Longitude": -65.82833,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 13,
+            "state_score_pct": 36,
+            "us_count": 623,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 45,
+            "us_count": 630,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 27,
+            "us_count": 620,
+            "us_pounds_pct": 11,
+            "us_score_pct": 0
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 33,
+            "us_count": 633,
+            "us_pounds_pct": 5,
+            "us_score_pct": 31
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICS2": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 15,
+            "state_score_pct": 40,
+            "us_count": 32,
+            "us_pounds_pct": 17,
+            "us_score_pct": 15
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 30,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 27,
+            "us_pounds_pct": 22,
+            "us_score_pct": 11
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 30,
+            "us_count": 29,
+            "us_pounds_pct": 6,
+            "us_score_pct": 27
+        },
+        "naicscode": "221121",
+        "name": "Electric Bulk Power Transmission and Control"
+    },
+    "NAICS3": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 15,
+            "state_score_pct": 40,
+            "us_count": 36,
+            "us_pounds_pct": 20,
+            "us_score_pct": 22
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 32,
+            "us_pounds_pct": 18,
+            "us_score_pct": 21
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 28,
+            "us_pounds_pct": 25,
+            "us_score_pct": 14
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 30,
+            "us_count": 26,
+            "us_pounds_pct": 3,
+            "us_score_pct": 30
+        },
+        "naicscode": "221122",
+        "name": "Electric Power Distribution"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PREPA-YABUCOA GAS TURBINES POW ER PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "090034703",
+    "ParentName": "PUERTO RICO ELECTRIC POWER AUTHORITY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CARLOS MONROIG",
+    "PublicContactPhone": "7875214692",
+    "RCRANumber": "NA",
+    "RadialDistance": 46025,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 13,
+            "state_score_pct": 36,
+            "us_count": 631,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 45,
+            "us_count": 638,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 27,
+            "us_count": 618,
+            "us_pounds_pct": 13,
+            "us_score_pct": 1
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 33,
+            "us_count": 607,
+            "us_pounds_pct": 5,
+            "us_score_pct": 30
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "PR",
+    "Street": "PR-03 KM 865",
+    "SubmitLat": 18.10111,
+    "SubmitLong": 65.82833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 55,
+    "Y": 14,
+    "ZIP9": "00791",
+    "ZIPCode": "00791"
+}

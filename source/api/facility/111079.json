@@ -1,0 +1,172 @@
+{
+    "AssignedComID": 6773125,
+    "AssignedReach": "01070005001032",
+    "City": "HUDSON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "001003474",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 44596.068045,
+    "DistanceToReach": 459.767502,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200606541",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.45,
+                    "Score": 0.414329,
+                    "SubmissionNumber": 247945,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200606554",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.03,
+                    "Score": 0.034205,
+                    "SubmissionNumber": 247946,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.48,
+            "TotalScore": 0.448534,
+            "state_score_percentile": 20,
+            "us_score_percentile": 9
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201753237",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.14,
+                    "Score": 0.159836,
+                    "SubmissionNumber": 350756,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1303201753249",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.466143,
+                    "SubmissionNumber": 350757,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.14,
+            "TotalScore": 0.625979,
+            "state_score_percentile": 26,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000309489",
+    "FacilityID": "01749HDSNL81APS",
+    "FacilityNumber": 111079,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.39531,
+    "Longitude": -71.57496,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 171,
+            "us_pounds_pct": 9,
+            "us_score_pct": 12
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 173,
+            "us_pounds_pct": 14,
+            "us_score_pct": 13
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "HUDSON LOCK LLC",
+    "NearComID": 6772259,
+    "NearReach": "01070005000499",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.39472,
+    "PreferredLong": 71.57528,
+    "PublicContactName": "ROBERT SYLVIA",
+    "PublicContactPhone": "9787631302",
+    "RCRANumber": "MAD001003474",
+    "RadialDistance": 3116924,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 8,
+            "us_score_pct": 10
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 13,
+            "us_score_pct": 13
+        },
+        "name": "Hardware, n.e.c.",
+        "siccode": "3429"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "342",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5935,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.2372,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.235,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "81 APSLEY ST",
+    "SubmitLat": 42.39472,
+    "SubmitLong": 71.57528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2440,
+    "Y": 2976,
+    "ZIP9": "01749",
+    "ZIPCode": "01749"
+}

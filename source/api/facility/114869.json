@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LODI",
+    "County": "NJ,BERGEN",
+    "DUNS": "001104736",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 21873.542487,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1309207988825",
+                    "MaxOnsite": "04",
+                    "Pounds": 19000.0,
+                    "Score": 0.620991,
+                    "SubmissionNumber": 906958,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19000.0,
+            "TotalScore": 0.620991,
+            "state_score_percentile": 91,
+            "us_score_percentile": 80
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1310208155945",
+                    "MaxOnsite": "04",
+                    "Pounds": 15000.0,
+                    "Score": 0.490921,
+                    "SubmissionNumber": 920377,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15000.0,
+            "TotalScore": 0.490921,
+            "state_score_percentile": 91,
+            "us_score_percentile": 76
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110009835483",
+    "FacilityID": "07644MCCNF11GRE",
+    "FacilityNumber": 114869,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.88339,
+    "Longitude": -74.07252,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 86,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 72,
+            "us_score_pct": 18
+        },
+        "naicscode": "311412",
+        "name": "Frozen Specialty Food Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3114",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "MCCAIN FOODS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001104736",
+    "ParentName": "MCCAIN FOODS USA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TROY JEMISON",
+    "PublicContactPhone": "2013680600",
+    "RCRANumber": "NJD081895526",
+    "RadialDistance": 2850268,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 88,
+            "us_score_pct": 20
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 72,
+            "us_score_pct": 18
+        },
+        "name": "Frozen specialties, n.e.c.",
+        "siccode": "2038"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "203",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.035,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "11 GREGG ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2243,
+    "Y": 2712,
+    "ZIP9": "07644",
+    "ZIPCode": "07644"
+}

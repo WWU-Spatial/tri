@@ -1,0 +1,139 @@
+{
+    "AssignedComID": 25076280,
+    "AssignedReach": "01100005003511",
+    "City": "STRATFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "007348295",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 88784.536682,
+    "DistanceToReach": 691.203348,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140108871",
+                    "MaxOnsite": "05",
+                    "Pounds": 238.0,
+                    "Score": 22624.2,
+                    "SubmissionNumber": 9758,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 238.0,
+            "TotalScore": 22624.2,
+            "state_score_percentile": 21,
+            "us_score_percentile": 17
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000610973",
+    "FacilityID": "06497DRSSR250EA",
+    "FacilityNumber": 113690,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.20327,
+    "Longitude": -73.11795,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 54,
+            "us_score_pct": 81
+        },
+        "naicscode": "334513",
+        "name": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+    },
+    "NAICS2": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 37,
+            "us_score_pct": 100
+        },
+        "naicscode": "334519",
+        "name": "Other Measuring and Controlling Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "ASHCROFT INC",
+    "NearComID": 25076280,
+    "NearReach": "01100005003511",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NAGANO KEIKI CO LTD",
+    "PreferredLat": 41.20472,
+    "PreferredLong": 73.11333,
+    "PublicContactName": "WILLIAM RIDOLFI",
+    "PublicContactPhone": "2033850568",
+    "RCRANumber": "CTD001840974",
+    "RadialDistance": 2935494,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 55,
+            "us_score_pct": 88
+        },
+        "name": "Industrial instruments for measurement, display, and control of process variables; and related products",
+        "siccode": "3823"
+    },
+    "SIC2": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 45,
+            "us_score_pct": 100
+        },
+        "name": "Measuring and controlling devices, n.e.c.",
+        "siccode": "3829"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "382",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.8016,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.096,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "250 E MAIN ST",
+    "SubmitLat": 41.20472,
+    "SubmitLong": 73.11333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2328,
+    "Y": 2778,
+    "ZIP9": "06614",
+    "ZIPCode": "06614"
+}

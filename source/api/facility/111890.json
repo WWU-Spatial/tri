@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FALL RIVER",
+    "County": "MA,BRISTOL",
+    "DUNS": "054033030",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27176.278683,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203514233",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.007506,
+                    "SubmissionNumber": 509120,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.007506,
+            "state_score_percentile": 29,
+            "us_score_percentile": 13
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206754855",
+                    "MaxOnsite": "03",
+                    "Pounds": 539.0,
+                    "Score": 0.800255,
+                    "SubmissionNumber": 797681,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 539.0,
+            "TotalScore": 0.800255,
+            "state_score_percentile": 55,
+            "us_score_percentile": 42
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207860964",
+                    "MaxOnsite": "03",
+                    "Pounds": 472.0,
+                    "Score": 0.698199,
+                    "SubmissionNumber": 896918,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 472.0,
+            "TotalScore": 0.698199,
+            "state_score_percentile": 53,
+            "us_score_percentile": 42
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208805958",
+                    "MaxOnsite": "03",
+                    "Pounds": 444.0,
+                    "Score": 0.654353,
+                    "SubmissionNumber": 981182,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 444.0,
+            "TotalScore": 0.654353,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000496035",
+    "FacilityID": "02720RBBNS1200A",
+    "FacilityNumber": 111890,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.746025,
+    "Longitude": -71.105706,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 101,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 100,
+            "us_pounds_pct": 41,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 98,
+            "us_pounds_pct": 41,
+            "us_score_pct": 29
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 96,
+            "us_pounds_pct": 40,
+            "us_score_pct": 28
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROBBINS MANUFACTURING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ROBBINS MANUFACTURING CO",
+    "PreferredLat": 41.75472,
+    "PreferredLong": 71.11083,
+    "PublicContactName": "PETE SHUMAN",
+    "PublicContactPhone": "5086752555",
+    "RCRANumber": "MAD982189748",
+    "RadialDistance": 3106805,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 8,
+            "us_score_pct": 9
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 57,
+            "us_score_pct": 28
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 52,
+            "us_score_pct": 30
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 52,
+            "us_score_pct": 30
+        },
+        "name": "Bolts, nuts, screws, rivets, and washers",
+        "siccode": "3452"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "345",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "1200 AIRPORT RD",
+    "SubmitLat": 41.75472,
+    "SubmitLong": 71.11083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2509,
+    "Y": 2901,
+    "ZIP9": "02720",
+    "ZIPCode": "02720"
+}

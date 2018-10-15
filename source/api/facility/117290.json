@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHURCHVILLE",
+    "County": "NY,MONROE",
+    "DUNS": "002216125",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 71776.040827,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105109538",
+                    "MaxOnsite": "01",
+                    "Pounds": 21839.0,
+                    "Score": 0.326033,
+                    "SubmissionNumber": 1798006,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105109540",
+                    "MaxOnsite": "01",
+                    "Pounds": 20331.0,
+                    "Score": 0.298435,
+                    "SubmissionNumber": 1798007,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 42170.0,
+            "TotalScore": 0.624468,
+            "state_score_percentile": 82,
+            "us_score_percentile": 75
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115058036",
+                    "MaxOnsite": "02",
+                    "Pounds": 13257.0,
+                    "Score": 0.19861,
+                    "SubmissionNumber": 1878896,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115058048",
+                    "MaxOnsite": "02",
+                    "Pounds": 10611.0,
+                    "Score": 0.156305,
+                    "SubmissionNumber": 1878897,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23868.0,
+            "TotalScore": 0.354915,
+            "state_score_percentile": 77,
+            "us_score_percentile": 67
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000763674",
+    "FacilityID": "14428LSTRC32EAS",
+    "FacilityNumber": 117290,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.104638,
+    "Longitude": -77.881284,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 113,
+            "us_pounds_pct": 78,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 42,
+            "us_count": 102,
+            "us_pounds_pct": 66,
+            "us_score_pct": 18
+        },
+        "naicscode": "339999",
+        "name": "All Other Miscellaneous Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0109282",
+    "Name": "LUSTER-COATE METALLIZING CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.10667,
+    "PreferredLong": 77.88167,
+    "PublicContactName": "JOHN BEAMAN",
+    "PublicContactPhone": "7162931000",
+    "RCRANumber": "NYD002216125",
+    "RadialDistance": 2785891,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 37,
+            "us_count": 119,
+            "us_pounds_pct": 80,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 37,
+            "us_count": 110,
+            "us_pounds_pct": 66,
+            "us_score_pct": 21
+        },
+        "name": "Manufacturing industries, n.e.c.",
+        "siccode": "3999"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "399",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.967,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "32 E. BUFFALO ST.",
+    "SubmitLat": 43.10667,
+    "SubmitLong": 77.88167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1800,
+    "Y": 2931,
+    "ZIP9": "144280390",
+    "ZIPCode": "14428"
+}

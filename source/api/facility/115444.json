@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGEWATER",
+    "County": "NJ,SOMERSET",
+    "DUNS": "002173276",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36783.663997,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105025151",
+                    "MaxOnsite": "01",
+                    "Pounds": 77.0,
+                    "Score": 1.42171,
+                    "SubmissionNumber": 1792331,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1396105025163",
+                    "MaxOnsite": "03",
+                    "Pounds": 350.0,
+                    "Score": 1320.432,
+                    "SubmissionNumber": 1792332,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "79107",
+                    "Chemical": "Acrylic acid",
+                    "ChemicalNumber": 11,
+                    "DCN": "1396105025175",
+                    "MaxOnsite": "04",
+                    "Pounds": 130.0,
+                    "Score": 45.894099999999995,
+                    "SubmissionNumber": 1792333,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 557.0,
+            "TotalScore": 1367.74781,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "79107",
+                    "Chemical": "Acrylic acid",
+                    "ChemicalNumber": 11,
+                    "DCN": "1399135003972",
+                    "MaxOnsite": "04",
+                    "Pounds": 48.0,
+                    "Score": 17.43824,
+                    "SubmissionNumber": 2058517,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 48.0,
+            "TotalScore": 17.43824,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110011578266",
+    "FacilityID": "08807MRCNCEASTM",
+    "FacilityNumber": 115444,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.55556,
+    "Longitude": -74.55945,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 59,
+            "us_pounds_pct": 11,
+            "us_score_pct": 74
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 54,
+            "us_pounds_pct": 7,
+            "us_score_pct": 51
+        },
+        "naicscode": "325411",
+        "name": "Medicinal and Botanical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0002313",
+    "Name": "AMERICAN CYANAMID CO LEDERLE LABORATORIES DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001317130",
+    "ParentName": "AMERICAN HOME PRODUCTS CORP",
+    "PreferredLat": 40.55806,
+    "PreferredLong": 74.5575,
+    "PublicContactName": "CHARLES NEAL",
+    "PublicContactPhone": "7325602000",
+    "RCRANumber": "NJD002173276",
+    "RadialDistance": 2795570,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 66,
+            "us_count": 74,
+            "us_pounds_pct": 8,
+            "us_score_pct": 72
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 69,
+            "us_pounds_pct": 2,
+            "us_score_pct": 46
+        },
+        "name": "Medicinal chemicals and botanical products",
+        "siccode": "2833"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 3.048,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.572,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "E. MAIN ST.",
+    "SubmitLat": 40.55806,
+    "SubmitLong": 74.5575,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2204,
+    "Y": 2656,
+    "ZIP9": "08807",
+    "ZIPCode": "08807"
+}

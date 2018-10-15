@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STOUGHTON",
+    "County": "MA,NORFOLK",
+    "DUNS": "001064708",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25791.665051,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115245540",
+                    "MaxOnsite": "03",
+                    "Pounds": 9500.0,
+                    "Score": 3.52836,
+                    "SubmissionNumber": 1888913,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9500.0,
+            "TotalScore": 3.52836,
+            "state_score_percentile": 58,
+            "us_score_percentile": 50
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120007974",
+                    "MaxOnsite": "03",
+                    "Pounds": 5640.0,
+                    "Score": 2.1016,
+                    "SubmissionNumber": 1900159,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5640.0,
+            "TotalScore": 2.1016,
+            "state_score_percentile": 55,
+            "us_score_percentile": 45
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140697780",
+                    "MaxOnsite": "02",
+                    "Pounds": 1782.0,
+                    "Score": 0.668356,
+                    "SubmissionNumber": 53050,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1782.0,
+            "TotalScore": 0.668356,
+            "state_score_percentile": 50,
+            "us_score_percentile": 37
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110000499238",
+    "FacilityID": "02072STDMN1063T",
+    "FacilityNumber": 111546,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.137121,
+    "Longitude": -71.076338,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 115,
+            "us_pounds_pct": 47,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 116,
+            "us_pounds_pct": 50,
+            "us_score_pct": 22
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 103,
+            "us_pounds_pct": 47,
+            "us_score_pct": 13
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STD MANUFACTURING INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "FRANK FEDOROWICZ",
+    "PublicContactPhone": "7818284400",
+    "RCRANumber": "MAD001064708",
+    "RadialDistance": 3133552,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 56,
+            "us_pounds_pct": 39,
+            "us_score_pct": 32
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 56,
+            "us_pounds_pct": 46,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 60,
+            "us_count": 50,
+            "us_pounds_pct": 40,
+            "us_score_pct": 20
+        },
+        "name": "Surgical and medical instruments and apparatus",
+        "siccode": "3841"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.0914,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 4.572,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.0315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "1063 TURNPIKE ST",
+    "SubmitLat": 42.13556,
+    "SubmitLong": 71.07583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2498,
+    "Y": 2954,
+    "ZIP9": "02072",
+    "ZIPCode": "02072"
+}

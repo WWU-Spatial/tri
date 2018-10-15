@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSFIELD",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58091.08519,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1308206257077",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.020636,
+                    "SubmissionNumber": 751114,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.020636,
+            "state_score_percentile": 16,
+            "us_score_percentile": 8
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1309207168182",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.002387,
+                    "SubmissionNumber": 833275,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.002387,
+            "state_score_percentile": 19,
+            "us_score_percentile": 12
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1310208079398",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.002369,
+                    "SubmissionNumber": 913669,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.002369,
+            "state_score_percentile": 19,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110031000994",
+    "FacilityID": "01201CNNLL545ME",
+    "FacilityNumber": 110697,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.46089,
+    "Longitude": -73.20823,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 479,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 433,
+            "us_pounds_pct": 3,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 443,
+            "us_pounds_pct": 3,
+            "us_score_pct": 0
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "O'CONNELL OIL CO MERRILL ROAD FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "O'CONNELL OIL ASSOCIATES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JAMES SOBON",
+    "PublicContactPhone": "4135866800",
+    "RCRANumber": "NA",
+    "RadialDistance": 3015027,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 488,
+            "us_pounds_pct": 3,
+            "us_score_pct": 2
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 445,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 456,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "545 MERRILL RD",
+    "SubmitLat": 42.46083,
+    "SubmitLong": 73.20583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2278,
+    "Y": 2944,
+    "ZIP9": "01202",
+    "ZIPCode": "01202"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STOYSTOWN",
+    "County": "PA,SOMERSET",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 117649.969188,
+    "DistanceToReach": 301.658747,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207661392",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.36,
+                    "Score": 0.045576,
+                    "SubmissionNumber": 878383,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207661404",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.013,
+                    "Score": 0.001097,
+                    "SubmissionNumber": 878384,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.373,
+            "TotalScore": 0.046673,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208773515",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.14,
+                    "Score": 0.017605,
+                    "SubmissionNumber": 978138,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1310208773527",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.005,
+                    "Score": 0.000419,
+                    "SubmissionNumber": 978139,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.14500000000000002,
+            "TotalScore": 0.018024,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110042000143",
+    "FacilityID": "1556WPBSCLFFTWP",
+    "FacilityNumber": 117983,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "ZIP",
+    "LatLongTable": "ESRI_2008",
+    "Latitude": 40.09086,
+    "Longitude": -78.93667,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 33,
+            "us_pounds_pct": 42,
+            "us_score_pct": 51
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 31,
+            "us_pounds_pct": 25,
+            "us_score_pct": 29
+        },
+        "naicscode": "212111",
+        "name": "Bituminous Coal and Lignite Surface Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "",
+    "Name": "PBS COALS - JOB 248 (TRENT/ZUBEK MINE)",
+    "NearComID": 4753494,
+    "NearReach": "05010007001096",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "SEVERSTAL NA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KIM BETCHER",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "",
+    "RadialDistance": 2482588,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 35,
+            "us_pounds_pct": 40,
+            "us_score_pct": 48
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 33,
+            "us_pounds_pct": 24,
+            "us_score_pct": 27
+        },
+        "name": "Bituminous coal and lignite surface mining",
+        "siccode": "1221"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "OFF TWP RD 695 (TRENT RD)",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1771,
+    "Y": 2502,
+    "ZIP9": "15563",
+    "ZIPCode": "15563"
+}

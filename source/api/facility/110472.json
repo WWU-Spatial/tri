@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SAN JUAN",
+    "County": "PR,SAN JUAN",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12752.197651,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1396105386609",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 2351.14,
+                    "SubmissionNumber": 1816658,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 2351.14,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1397115001568",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 2357.38,
+                    "SubmissionNumber": 1875449,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 2357.38,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "72127",
+    "FRSID": "110012536176",
+    "FacilityID": "00926CHMTXCARR1",
+    "FacilityNumber": 110472,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.326665,
+    "Longitude": -66.045481,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 345,
+            "us_pounds_pct": 18,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 335,
+            "us_pounds_pct": 17,
+            "us_score_pct": 65
+        },
+        "naicscode": "325188",
+        "name": "All Other Basic Inorganic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CHEMTREX CARIBBEAN INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "HOWARD FERRER",
+    "PublicContactPhone": "7877602844",
+    "RCRANumber": "",
+    "RadialDistance": 42137,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 459,
+            "us_pounds_pct": 21,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 453,
+            "us_pounds_pct": 20,
+            "us_score_pct": 68
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "STATE RD 176 KM 95 CAM LAS, PIEDRAS",
+    "SubmitLat": 18.32917,
+    "SubmitLong": 66.04806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 27,
+    "Y": 45,
+    "ZIP9": "00926",
+    "ZIPCode": "00926"
+}

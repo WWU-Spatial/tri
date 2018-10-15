@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "OAKMONT",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "159724491",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31533.991844,
+    "DistanceToReach": 295.741021,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105193890",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 977.832,
+                    "SubmissionNumber": 1803557,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105359424",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 29387.5,
+                    "SubmissionNumber": 1814467,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 30365.332,
+            "state_score_percentile": 9,
+            "us_score_percentile": 8
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397115082695",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 29340.7,
+                    "SubmissionNumber": 1880695,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397115082707",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 976.2719999999999,
+                    "SubmissionNumber": 1880696,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 30316.972,
+            "state_score_percentile": 9,
+            "us_score_percentile": 7
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398125109999",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 29293.800000000003,
+                    "SubmissionNumber": 1972850,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398125110054",
+                    "MaxOnsite": "",
+                    "Pounds": 10.0,
+                    "Score": 974.7139999999999,
+                    "SubmissionNumber": 1972852,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 30268.514000000003,
+            "state_score_percentile": 9,
+            "us_score_percentile": 7
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399135111425",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 29247.0,
+                    "SubmissionNumber": 2064692,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399135111540",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 973.154,
+                    "SubmissionNumber": 2064700,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 30220.154,
+            "state_score_percentile": 10,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000329378",
+    "FacilityID": "15139DGWTR300CO",
+    "FacilityNumber": 117783,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.51407,
+    "Longitude": -79.84422,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 45,
+            "state_score_pct": 66,
+            "us_count": 53,
+            "us_pounds_pct": 27,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 41,
+            "state_score_pct": 58,
+            "us_count": 57,
+            "us_pounds_pct": 26,
+            "us_score_pct": 68
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 38,
+            "state_score_pct": 44,
+            "us_count": 56,
+            "us_pounds_pct": 20,
+            "us_score_pct": 66
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 58,
+            "us_pounds_pct": 22,
+            "us_score_pct": 62
+        },
+        "naicscode": "332111",
+        "name": "Iron and Steel Forging"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 5,
+    "NPDESPermit": "PAD000160",
+    "Name": "EDGEWATER STEEL LTD",
+    "NearComID": 11049758,
+    "NearReach": "05010009000078",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.51278,
+    "PreferredLong": 79.845,
+    "PublicContactName": "TED LOHEYDE",
+    "PublicContactPhone": "4125177200",
+    "RCRANumber": "PAD074966789",
+    "RadialDistance": 2463120,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 56,
+            "state_score_pct": 75,
+            "us_count": 52,
+            "us_pounds_pct": 24,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 56,
+            "us_pounds_pct": 26,
+            "us_score_pct": 67
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 58,
+            "state_score_pct": 66,
+            "us_count": 56,
+            "us_pounds_pct": 22,
+            "us_score_pct": 67
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 57,
+            "us_count": 58,
+            "us_pounds_pct": 24,
+            "us_score_pct": 62
+        },
+        "name": "Iron and steel forgings",
+        "siccode": "3462"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9078,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "300 COLLEGE AVE",
+    "SubmitLat": 40.51278,
+    "SubmitLong": 79.845,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1668,
+    "Y": 2543,
+    "ZIP9": "15139",
+    "ZIPCode": "15139"
+}

@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PATERSON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23750.852307,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155067756",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.25,
+                    "Score": 1.84534,
+                    "SubmissionNumber": 176555,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.25,
+            "TotalScore": 1.84534,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200985063",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1875,
+                    "Score": 1.37815,
+                    "SubmissionNumber": 279156,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1875,
+            "TotalScore": 1.37815,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110012708953",
+    "FacilityID": "07505LLDMN35DAL",
+    "FacilityNumber": 114766,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.913736,
+    "Longitude": -74.168844,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 202,
+            "us_pounds_pct": 11,
+            "us_score_pct": 36
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 162,
+            "us_pounds_pct": 8,
+            "us_score_pct": 32
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "ALLIED MANJUFACTURING INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WALTER C. TRUPPE",
+    "PublicContactPhone": "9732796600",
+    "RCRANumber": "",
+    "RadialDistance": 2845924,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 236,
+            "us_pounds_pct": 12,
+            "us_score_pct": 37
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 197,
+            "us_pounds_pct": 10,
+            "us_score_pct": 35
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 70,
+            "us_pounds_pct": 1,
+            "us_score_pct": 4
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 65,
+            "us_pounds_pct": 3,
+            "us_score_pct": 6
+        },
+        "name": "Storage batteries",
+        "siccode": "3691"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5128,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.9849,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.5844,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "35 DALE AVE.",
+    "SubmitLat": 40.9125,
+    "SubmitLong": 74.16944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2232,
+    "Y": 2713,
+    "ZIP9": "07505",
+    "ZIPCode": "07505"
+}

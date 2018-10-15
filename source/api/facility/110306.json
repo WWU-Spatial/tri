@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MANATI",
+    "County": "PR,MANATI",
+    "DUNS": "091005041",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52429.742319,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105181871",
+                    "MaxOnsite": "03",
+                    "Pounds": 7230.0,
+                    "Score": 0.530756,
+                    "SubmissionNumber": 1802688,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 7230.0,
+            "TotalScore": 0.530756,
+            "state_score_percentile": 61,
+            "us_score_percentile": 46
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115224913",
+                    "MaxOnsite": "03",
+                    "Pounds": 14064.0,
+                    "Score": 1.04767,
+                    "SubmissionNumber": 1887554,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 14064.0,
+            "TotalScore": 1.04767,
+            "state_score_percentile": 70,
+            "us_score_percentile": 58
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125116828",
+                    "MaxOnsite": "",
+                    "Pounds": 10026.0,
+                    "Score": 0.761903,
+                    "SubmissionNumber": 1973137,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125116855",
+                    "MaxOnsite": "",
+                    "Pounds": 24681.0,
+                    "Score": 1.86527,
+                    "SubmissionNumber": 1973138,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 34707.0,
+            "TotalScore": 2.627173,
+            "state_score_percentile": 76,
+            "us_score_percentile": 73
+        }
+    },
+    "FIPS": "72091",
+    "FRSID": "110000747540",
+    "FacilityID": "00701GHBSSPOBOX",
+    "FacilityNumber": 110306,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.428264,
+    "Longitude": -66.497315,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 37
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 35,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 73,
+            "us_score_pct": 93
+        },
+        "naicscode": "316213",
+        "name": "Men's Footwear (except Athletic) Manufacturing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3162",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "G. H. BASS CARIBBEAN INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "PHILLIPS-VAN HUSEN CORP",
+    "PreferredLat": 18.43528,
+    "PreferredLong": 66.4775,
+    "PublicContactName": "RAUL RIVERA",
+    "PublicContactPhone": "7877244565",
+    "RCRANumber": "PRD091005041",
+    "RadialDistance": 54141,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 37
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 35,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 78,
+            "us_score_pct": 92
+        },
+        "name": "Men's footwear, except athletic",
+        "siccode": "3143"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "314",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.9827,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "STATE RD. #2 KM. 49.3",
+    "SubmitLat": 18.43528,
+    "SubmitLong": 66.48694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -32,
+    "Y": 59,
+    "ZIP9": "00674",
+    "ZIPCode": "00674"
+}

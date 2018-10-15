@@ -1,0 +1,292 @@
+{
+    "AssignedComID": 6251364,
+    "AssignedReach": "02030103000001",
+    "City": "SOUTH KEARNY",
+    "County": "NJ,HUDSON",
+    "DUNS": "011239167",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6749.961457,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1398120042977",
+                    "MaxOnsite": "05",
+                    "Pounds": 4.0,
+                    "Score": 76.4714,
+                    "SubmissionNumber": 1903175,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 76.4714,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1301150026553",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 97.0497,
+                    "SubmissionNumber": 96559,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 97.0497,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1302200837298",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 97.076,
+                    "SubmissionNumber": 268606,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 97.076,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1303201241611",
+                    "MaxOnsite": "06",
+                    "Pounds": 10.0,
+                    "Score": 189.1092,
+                    "SubmissionNumber": 304002,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 189.1092,
+            "state_score_percentile": 15,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110000318362",
+    "FacilityID": "07032KHNCH86HAC",
+    "FacilityNumber": 114209,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.733333,
+    "Longitude": -74.1,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 15,
+            "state_pounds_pct": 13,
+            "state_score_pct": 40,
+            "us_count": 331,
+            "us_pounds_pct": 3,
+            "us_score_pct": 38
+        },
+        "2001": {
+            "state_count": 16,
+            "state_pounds_pct": 9,
+            "state_score_pct": 62,
+            "us_count": 345,
+            "us_pounds_pct": 5,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 9,
+            "state_score_pct": 62,
+            "us_count": 340,
+            "us_pounds_pct": 6,
+            "us_score_pct": 43
+        },
+        "2003": {
+            "state_count": 13,
+            "state_pounds_pct": 11,
+            "state_score_pct": 69,
+            "us_count": 333,
+            "us_pounds_pct": 9,
+            "us_score_pct": 48
+        },
+        "naicscode": "325188",
+        "name": "All Other Basic Inorganic Chemical Manufacturing"
+    },
+    "NAICS2": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 3,
+            "us_score_pct": 15
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 8,
+            "us_score_pct": 28
+        },
+        "naicscode": "325181",
+        "name": "Alkalies and Chlorine Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KUEHNE CHEMICAL CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "011239167",
+    "ParentName": "KUEHNE CHEMICAL CO INC",
+    "PreferredLat": 40.73333,
+    "PreferredLong": 74.1,
+    "PublicContactName": "ANTONIO C. DIAS",
+    "PublicContactPhone": "9735890700",
+    "RCRANumber": "NJD986607661",
+    "RadialDistance": 2838303,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 17,
+            "us_score_pct": 41
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 14,
+            "us_score_pct": 26
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 21,
+            "us_score_pct": 30
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 20,
+            "us_score_pct": 37
+        },
+        "name": "Alkalies and chlorine",
+        "siccode": "2812"
+    },
+    "SIC2": {
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 9,
+            "state_score_pct": 38,
+            "us_count": 454,
+            "us_pounds_pct": 4,
+            "us_score_pct": 38
+        },
+        "2001": {
+            "state_count": 21,
+            "state_pounds_pct": 9,
+            "state_score_pct": 57,
+            "us_count": 460,
+            "us_pounds_pct": 5,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 20,
+            "state_pounds_pct": 12,
+            "state_score_pct": 60,
+            "us_count": 451,
+            "us_pounds_pct": 6,
+            "us_score_pct": 44
+        },
+        "2003": {
+            "state_count": 15,
+            "state_pounds_pct": 10,
+            "state_score_pct": 66,
+            "us_count": 441,
+            "us_pounds_pct": 8,
+            "us_score_pct": 49
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "84 N HACKENSACK AVE",
+    "SubmitLat": 40.73389,
+    "SubmitLong": 74.1,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2245,
+    "Y": 2691,
+    "ZIP9": "07032",
+    "ZIPCode": "07032"
+}

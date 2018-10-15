@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BURLINGTON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "121005839",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21035.613351,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105142513",
+                    "MaxOnsite": "03",
+                    "Pounds": 25.0,
+                    "Score": 0.058603,
+                    "SubmissionNumber": 1800078,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 0.058603,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115293654",
+                    "MaxOnsite": "02",
+                    "Pounds": 25.0,
+                    "Score": 0.058775,
+                    "SubmissionNumber": 1891931,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 0.058775,
+            "state_score_percentile": 7,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000762577",
+    "FacilityID": "01803SMCNC1011N",
+    "FacilityNumber": 111159,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.490255,
+    "Longitude": -71.227661,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 138,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 22,
+            "us_count": 145,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "SEMICON COMPONENTS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "047063896",
+    "ParentName": "SEMICON INC",
+    "PreferredLat": 42.48972,
+    "PreferredLong": 71.22833,
+    "PublicContactName": "RICHARD C. ALLARD",
+    "PublicContactPhone": "7812729015",
+    "RCRANumber": "MAD047063896",
+    "RadialDistance": 3146166,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 136,
+            "us_pounds_pct": 6,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 22,
+            "us_count": 142,
+            "us_pounds_pct": 7,
+            "us_score_pct": 5
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "10 N. AVE.",
+    "SubmitLat": 42.48972,
+    "SubmitLong": 71.22833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2470,
+    "Y": 2998,
+    "ZIP9": "01803",
+    "ZIPCode": "01803"
+}

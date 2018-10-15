@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PENN YAN",
+    "County": "NY,YATES",
+    "DUNS": "002225100",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 90856.045182,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1396100145162",
+                    "MaxOnsite": "03",
+                    "Pounds": 3935.0,
+                    "Score": 0.401366,
+                    "SubmissionNumber": 1760663,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3935.0,
+            "TotalScore": 0.401366,
+            "state_score_percentile": 48,
+            "us_score_percentile": 40
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1397110336195",
+                    "MaxOnsite": "03",
+                    "Pounds": 3811.0,
+                    "Score": 0.390053,
+                    "SubmissionNumber": 1853291,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3811.0,
+            "TotalScore": 0.390053,
+            "state_score_percentile": 50,
+            "us_score_percentile": 40
+        }
+    },
+    "FIPS": "36123",
+    "FRSID": "110000763834",
+    "FacilityID": "14527GLDSPTHREE",
+    "FacilityNumber": 117350,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.674461,
+    "Longitude": -77.055496,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 42,
+            "us_pounds_pct": 69,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 43,
+            "us_pounds_pct": 65,
+            "us_score_pct": 9
+        },
+        "naicscode": "333911",
+        "name": "Pump and Pumping Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3339",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GOULDS PUMPS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001216845",
+    "ParentName": "ITT INDUSTRIES INC",
+    "PreferredLat": 42.6722,
+    "PreferredLong": 77.05478,
+    "PublicContactName": "RICK DODGE",
+    "PublicContactPhone": "3155387232",
+    "RCRANumber": "NYD982720773",
+    "RadialDistance": 2797300,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 41,
+            "state_score_pct": 41,
+            "us_count": 657,
+            "us_pounds_pct": 25,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 36,
+            "us_count": 657,
+            "us_pounds_pct": 25,
+            "us_score_pct": 20
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3 POWELL LN.",
+    "SubmitLat": 42.5025,
+    "SubmitLong": 77.06667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1893,
+    "Y": 2888,
+    "ZIP9": "14527",
+    "ZIPCode": "14527"
+}

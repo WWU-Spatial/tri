@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PONCE",
+    "County": "PR,PONCE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 77018.371695,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100266574",
+                    "MaxOnsite": "03",
+                    "Pounds": 703.0,
+                    "Score": 0.070468,
+                    "SubmissionNumber": 1771138,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 703.0,
+            "TotalScore": 0.070468,
+            "state_score_percentile": 34,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110480148",
+                    "MaxOnsite": "03",
+                    "Pounds": 703.0,
+                    "Score": 0.070494,
+                    "SubmissionNumber": 1864677,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 703.0,
+            "TotalScore": 0.070494,
+            "state_score_percentile": 29,
+            "us_score_percentile": 24
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203623412",
+                    "MaxOnsite": "02",
+                    "Pounds": 38.0,
+                    "Score": 75.7628,
+                    "SubmissionNumber": 519203,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 38.0,
+            "TotalScore": 75.7628,
+            "state_score_percentile": 24,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "72113",
+    "FRSID": "110000580817",
+    "FacilityID": "00732CHCKPSABAN",
+    "FacilityNumber": 110357,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.01395,
+    "Longitude": -66.58124,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 32,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 15
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 57,
+            "us_score_pct": 80
+        },
+        "naicscode": "334419",
+        "name": "Other Electronic Component Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHECKPOINT CARIBBEAN LTD",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "061844015",
+    "ParentName": "CHECKPOINT SYSTEMS INC",
+    "PreferredLat": 18.01,
+    "PreferredLong": 66.57444,
+    "PublicContactName": "CARLOS MIRO",
+    "PublicContactPhone": "7878447340",
+    "RCRANumber": "PRD091126037",
+    "RadialDistance": 35112,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 99,
+            "us_pounds_pct": 32,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 88,
+            "us_pounds_pct": 31,
+            "us_score_pct": 9
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 162,
+            "us_pounds_pct": 69,
+            "us_score_pct": 87
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 119,
+            "us_pounds_pct": 22,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 110,
+            "us_pounds_pct": 20,
+            "us_score_pct": 10
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 92,
+            "us_pounds_pct": 15,
+            "us_score_pct": 69
+        },
+        "name": "Manufacturing industries, n.e.c.",
+        "siccode": "3999"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "SABANETAS INDUSTRIAL PARK LOT 28",
+    "SubmitLat": 18.01,
+    "SubmitLong": 66.57444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -43,
+    "Y": 2,
+    "ZIP9": "00732",
+    "ZIPCode": "00732"
+}

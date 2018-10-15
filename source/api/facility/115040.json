@@ -1,0 +1,161 @@
+{
+    "AssignedComID": 6250762,
+    "AssignedReach": "02030103000166",
+    "City": "EAST HANOVER",
+    "County": "NJ,MORRIS",
+    "DUNS": "002160208",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19748.141857,
+    "DistanceToReach": 522.958383,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304202668873",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.025958,
+                    "SubmissionNumber": 432754,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.025958,
+            "state_score_percentile": 11,
+            "us_score_percentile": 12
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1310208597171",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.02869,
+                    "SubmissionNumber": 961264,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "78922",
+                    "Chemical": "sec-Butyl alcohol",
+                    "ChemicalNumber": 85,
+                    "DCN": "1310208597183",
+                    "MaxOnsite": "04",
+                    "Pounds": 18.0,
+                    "Score": 0.027358,
+                    "SubmissionNumber": 961265,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 19.0,
+            "TotalScore": 0.056048,
+            "state_score_percentile": 26,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110000320858",
+    "FacilityID": "07936RYLLBMERRY",
+    "FacilityNumber": 115040,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.818461,
+    "Longitude": -74.341901,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 51,
+            "us_pounds_pct": 18,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 27,
+            "us_score_pct": 25
+        },
+        "naicscode": "324191",
+        "name": "Petroleum Lubricating Oil and Grease Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "CHEMTURA CORP (DBA ANDEROL INC)",
+    "NearComID": 6250762,
+    "NearReach": "02030103000166",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "CHEMTURA CORP",
+    "PreferredLat": 40.81667,
+    "PreferredLong": 74.34444,
+    "PublicContactName": "JOSEPH CARROLL",
+    "PublicContactPhone": "9738877410",
+    "RCRANumber": "NJD002160208",
+    "RadialDistance": 2827950,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 65,
+            "us_pounds_pct": 14,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 22,
+            "us_score_pct": 20
+        },
+        "name": "Lubricating oils and greases",
+        "siccode": "2992"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "299",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1382,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "215 MERRY LN",
+    "SubmitLat": 40.81833,
+    "SubmitLong": 74.34472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2218,
+    "Y": 2697,
+    "ZIP9": "07936",
+    "ZIPCode": "07936"
+}

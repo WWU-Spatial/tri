@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "COLLEGE POINT",
+    "County": "NY,QUEENS",
+    "DUNS": "001381839",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28425.577184,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105092478",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 11.2737,
+                    "SubmissionNumber": 1796774,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 11.2737,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115048973",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 11.4113,
+                    "SubmissionNumber": 1878493,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 11.4113,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125271876",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 3.4647,
+                    "SubmissionNumber": 1979819,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 3.4647,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "36081",
+    "FRSID": "110000323588",
+    "FacilityID": "11356TLNTC11914",
+    "FacilityNumber": 116015,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.784794,
+    "Longitude": -73.848453,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 23,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 20,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 13,
+            "us_score_pct": 39
+        },
+        "naicscode": "331422",
+        "name": "Copper Wire (except Mechanical) Drawing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ATLANTIC WIRE & CABLE CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.78444,
+    "PreferredLong": 73.84861,
+    "PublicContactName": "JEFFREY ROSENBERG",
+    "PublicContactPhone": "7183534242",
+    "RCRANumber": "NA",
+    "RadialDistance": 2858619,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 110,
+            "us_pounds_pct": 13,
+            "us_score_pct": 47
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 111,
+            "us_pounds_pct": 12,
+            "us_score_pct": 48
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 112,
+            "us_pounds_pct": 8,
+            "us_score_pct": 28
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "119-14 14TH RD",
+    "SubmitLat": 40.78444,
+    "SubmitLong": 73.84861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2268,
+    "Y": 2704,
+    "ZIP9": "11356",
+    "ZIPCode": "11356"
+}

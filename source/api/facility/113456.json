@@ -1,0 +1,354 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WAUREGAN",
+    "County": "CT,WINDHAM",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39159.514373,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1306206731655",
+                    "MaxOnsite": "04",
+                    "Pounds": 122.0,
+                    "Score": 0.290917,
+                    "SubmissionNumber": 655512,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306206731667",
+                    "MaxOnsite": "04",
+                    "Pounds": 89.0,
+                    "Score": 0.001317,
+                    "SubmissionNumber": 655513,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 211.0,
+            "TotalScore": 0.292234,
+            "state_score_percentile": 42,
+            "us_score_percentile": 31
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1307206731756",
+                    "MaxOnsite": "04",
+                    "Pounds": 1086.0,
+                    "Score": 2.59597,
+                    "SubmissionNumber": 742201,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307206731768",
+                    "MaxOnsite": "04",
+                    "Pounds": 1070.0,
+                    "Score": 0.015866,
+                    "SubmissionNumber": 742202,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2156.0,
+            "TotalScore": 2.611836,
+            "state_score_percentile": 65,
+            "us_score_percentile": 52
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1308207097573",
+                    "MaxOnsite": "04",
+                    "Pounds": 1099.0,
+                    "Score": 2.63345,
+                    "SubmissionNumber": 826815,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308207097585",
+                    "MaxOnsite": "04",
+                    "Pounds": 1310.0,
+                    "Score": 0.019471,
+                    "SubmissionNumber": 826816,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2409.0,
+            "TotalScore": 2.6529209999999996,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1309207710359",
+                    "MaxOnsite": "04",
+                    "Pounds": 4882.0,
+                    "Score": 11.7268,
+                    "SubmissionNumber": 882829,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207710361",
+                    "MaxOnsite": "04",
+                    "Pounds": 2187.0,
+                    "Score": 0.032583,
+                    "SubmissionNumber": 882830,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7069.0,
+            "TotalScore": 11.759383000000001,
+            "state_score_percentile": 81,
+            "us_score_percentile": 69
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1310208666913",
+                    "MaxOnsite": "04",
+                    "Pounds": 5133.0,
+                    "Score": 12.3596,
+                    "SubmissionNumber": 967914,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208666925",
+                    "MaxOnsite": "04",
+                    "Pounds": 2096.0,
+                    "Score": 0.031301,
+                    "SubmissionNumber": 967915,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7229.0,
+            "TotalScore": 12.390901,
+            "state_score_percentile": 83,
+            "us_score_percentile": 68
+        }
+    },
+    "FIPS": "09015",
+    "FRSID": "110031020142",
+    "FacilityID": "06374BRKWD275PU",
+    "FacilityNumber": 113456,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.740034,
+    "Longitude": -71.905167,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 30,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 45,
+            "us_score_pct": 31
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 57,
+            "us_score_pct": 36
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 64,
+            "us_score_pct": 47
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 64,
+            "us_score_pct": 41
+        },
+        "naicscode": "313311",
+        "name": "Broadwoven Fabric Finishing Mills"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 66,
+            "us_pounds_pct": 7,
+            "us_score_pct": 30
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 64,
+            "us_pounds_pct": 21,
+            "us_score_pct": 45
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 61,
+            "us_pounds_pct": 27,
+            "us_score_pct": 49
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 54,
+            "us_pounds_pct": 59,
+            "us_score_pct": 70
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 51,
+            "us_pounds_pct": 54,
+            "us_score_pct": 56
+        },
+        "naicscode": "313320",
+        "name": "Fabric Coating Mills"
+    },
+    "NAICS3": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 25,
+            "us_pounds_pct": 44,
+            "us_score_pct": 8
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 25,
+            "us_pounds_pct": 72,
+            "us_score_pct": 36
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 70,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 87,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 86,
+            "us_score_pct": 54
+        },
+        "naicscode": "323122",
+        "name": "Prepress Services"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BROOKWOOD LAMINATING INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "360752448",
+    "ParentName": "BROOKWOOD COS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRIAN DAHL",
+    "PublicContactPhone": "8607745001",
+    "RCRANumber": "CTR000506246",
+    "RadialDistance": 3052172,
+    "ReachSource": "",
+    "Region": "1",
+    "SICCode2Digit": "",
+    "SICCode3Digit": "",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "CT",
+    "Street": "275 PUTNAM RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2430,
+    "Y": 2880,
+    "ZIP9": "06387",
+    "ZIPCode": "06387"
+}

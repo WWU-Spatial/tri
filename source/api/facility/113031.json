@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STRATTON",
+    "County": "ME,FRANKLIN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 166158.583534,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150757351",
+                    "MaxOnsite": "01",
+                    "Pounds": 4.7,
+                    "Score": 0.07859,
+                    "SubmissionNumber": 161477,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 4.7,
+            "TotalScore": 0.07859,
+            "state_score_percentile": 11,
+            "us_score_percentile": 8
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200117859",
+                    "MaxOnsite": "01",
+                    "Pounds": 4.7,
+                    "Score": 0.077587,
+                    "SubmissionNumber": 202588,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 4.7,
+            "TotalScore": 0.077587,
+            "state_score_percentile": 19,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "23007",
+    "FRSID": "110013899406",
+    "FacilityID": "04982STRTTRTE16",
+    "FacilityNumber": 113031,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 45.143129,
+    "Longitude": -70.429938,
+    "Method": "GPS - UNSPECIFIED",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 146,
+            "us_pounds_pct": 22,
+            "us_score_pct": 13
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 157,
+            "us_pounds_pct": 28,
+            "us_score_pct": 10
+        },
+        "naicscode": "321113",
+        "name": "Sawmills"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3211",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STRATTON LUMBER INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LUKE BROCHU",
+    "PublicContactPhone": "2072464500",
+    "RCRANumber": "NA",
+    "RadialDistance": 3375644,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 198,
+            "us_pounds_pct": 25,
+            "us_score_pct": 14
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 200,
+            "us_pounds_pct": 28,
+            "us_score_pct": 14
+        },
+        "name": "Sawmills and planing mills, general",
+        "siccode": "2421"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "242",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.8015,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 16.3815,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.0245,
+    "StackVelocitySource": "Fac Spec",
+    "State": "ME",
+    "Street": "RTE. 16 & 27",
+    "SubmitLat": 45.14278,
+    "SubmitLong": 70.43083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2451,
+    "Y": 3371,
+    "ZIP9": "04982",
+    "ZIPCode": "04982"
+}

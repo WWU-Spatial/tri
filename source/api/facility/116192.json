@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SHOREHAM",
+    "County": "NY,SUFFOLK",
+    "DUNS": "023130891",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 108999.32779,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200883849",
+                    "MaxOnsite": "02",
+                    "Pounds": 133.0,
+                    "Score": 1287.41,
+                    "SubmissionNumber": 272032,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1302200883852",
+                    "MaxOnsite": "01",
+                    "Pounds": 62000.0,
+                    "Score": 2478.74,
+                    "SubmissionNumber": 272033,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 62133.0,
+            "TotalScore": 3766.1499999999996,
+            "state_score_percentile": 90,
+            "us_score_percentile": 85
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201587767",
+                    "MaxOnsite": "02",
+                    "Pounds": 159.0,
+                    "Score": 1547.01,
+                    "SubmissionNumber": 335594,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1303201587779",
+                    "MaxOnsite": "01",
+                    "Pounds": 74000.0,
+                    "Score": 2971.75,
+                    "SubmissionNumber": 335595,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201587781",
+                    "MaxOnsite": "01",
+                    "Pounds": 116.0,
+                    "Score": 23.9891,
+                    "SubmissionNumber": 335596,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 74275.0,
+            "TotalScore": 4542.7491,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110007994723",
+    "FacilityID": "11786KYSPNNORTH",
+    "FacilityNumber": 116192,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.961778,
+    "Longitude": -72.866528,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 34,
+            "state_pounds_pct": 50,
+            "state_score_pct": 55,
+            "us_count": 624,
+            "us_pounds_pct": 29,
+            "us_score_pct": 65
+        },
+        "2003": {
+            "state_count": 36,
+            "state_pounds_pct": 50,
+            "state_score_pct": 61,
+            "us_count": 633,
+            "us_pounds_pct": 32,
+            "us_score_pct": 66
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0225282",
+    "Name": "KEYSPAN WADING RIVER GT FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "844749010",
+    "ParentName": "KEYSPAN ENERGY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANDREA STAUB",
+    "PublicContactPhone": "5165455317",
+    "RCRANumber": "NYD982743452",
+    "RadialDistance": 2936656,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2002": {
+            "state_count": 32,
+            "state_pounds_pct": 50,
+            "state_score_pct": 56,
+            "us_count": 623,
+            "us_pounds_pct": 30,
+            "us_score_pct": 65
+        },
+        "2003": {
+            "state_count": 35,
+            "state_pounds_pct": 51,
+            "state_score_pct": 62,
+            "us_count": 632,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 3.4909,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.4684,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 18.8211,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "N COUNTRY RD",
+    "SubmitLat": 40.95667,
+    "SubmitLong": 72.8775,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2361,
+    "Y": 2751,
+    "ZIP9": "11786",
+    "ZIPCode": "11786"
+}

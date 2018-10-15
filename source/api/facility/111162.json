@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BURLINGTON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18931.098274,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200783506",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.272883,
+                    "SubmissionNumber": 264227,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.272883,
+            "state_score_percentile": 9,
+            "us_score_percentile": 2
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201764127",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.42,
+                    "Score": 0.528054,
+                    "SubmissionNumber": 351620,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.42,
+            "TotalScore": 0.528054,
+            "state_score_percentile": 14,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110010426075",
+    "FacilityID": "01803WKFLDWHEEL",
+    "FacilityNumber": 111162,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.47667,
+    "Longitude": -71.20961,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 20,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 95,
+            "us_pounds_pct": 56,
+            "us_score_pct": 64
+        },
+        "2003": {
+            "state_count": 23,
+            "state_pounds_pct": 82,
+            "state_score_pct": 69,
+            "us_count": 124,
+            "us_pounds_pct": 71,
+            "us_score_pct": 65
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AGGREGATE INDUSTRIES NORTHEAST REGION INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "622258929",
+    "ParentName": "AGGREGATE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LISA KELLEY",
+    "PublicContactPhone": "7819417200",
+    "RCRANumber": "NA",
+    "RadialDistance": 3146483,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 20,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 100,
+            "us_pounds_pct": 55,
+            "us_score_pct": 61
+        },
+        "2003": {
+            "state_count": 23,
+            "state_pounds_pct": 82,
+            "state_score_pct": 69,
+            "us_count": 130,
+            "us_pounds_pct": 68,
+            "us_score_pct": 63
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.1524,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 1.524,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.192,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "14 WHEELER RD",
+    "SubmitLat": 42.47639,
+    "SubmitLong": 71.21528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2472,
+    "Y": 2996,
+    "ZIP9": "01803",
+    "ZIPCode": "01803"
+}

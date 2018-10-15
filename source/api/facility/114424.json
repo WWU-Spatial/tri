@@ -1,0 +1,277 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH PLAINFIELD",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "068682020",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25727.423624,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "26471625",
+                    "Chemical": "Toluenediisocyanate",
+                    "ChemicalNumber": 552,
+                    "DCN": "1396105038778",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 20.4513,
+                    "SubmissionNumber": 1793190,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1396105038780",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 67.9872,
+                    "SubmissionNumber": 1793191,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105038792",
+                    "MaxOnsite": "04",
+                    "Pounds": 1290.0,
+                    "Score": 1.6283860000000001,
+                    "SubmissionNumber": 1793192,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1293.0,
+            "TotalScore": 90.06688600000001,
+            "state_score_percentile": 39,
+            "us_score_percentile": 30
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110172830",
+                    "MaxOnsite": "04",
+                    "Pounds": 112740.0,
+                    "Score": 137.167,
+                    "SubmissionNumber": 1839026,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 112740.0,
+            "TotalScore": 137.167,
+            "state_score_percentile": 94,
+            "us_score_percentile": 87
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120748304",
+                    "MaxOnsite": "04",
+                    "Pounds": 44780.0,
+                    "Score": 56.9178,
+                    "SubmissionNumber": 1956640,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 44780.0,
+            "TotalScore": 56.9178,
+            "state_score_percentile": 87,
+            "us_score_percentile": 76
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399130688878",
+                    "MaxOnsite": "04",
+                    "Pounds": 17649.0,
+                    "Score": 22.14341,
+                    "SubmissionNumber": 2047771,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 17649.0,
+            "TotalScore": 22.14341,
+            "state_score_percentile": 75,
+            "us_score_percentile": 63
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140007840",
+                    "MaxOnsite": "04",
+                    "Pounds": 11246.0,
+                    "Score": 14.016,
+                    "SubmissionNumber": 718,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 11246.0,
+            "TotalScore": 14.016,
+            "state_score_percentile": 72,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000319058",
+    "FacilityID": "07080KRNFM1253N",
+    "FacilityNumber": 114424,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.58032,
+    "Longitude": -74.428193,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 40,
+            "us_pounds_pct": 7,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 65,
+            "us_score_pct": 47
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 57,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 33,
+            "us_score_pct": 26
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 22,
+            "us_score_pct": 22
+        },
+        "naicscode": "326100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PERRY TECHNOLOGY CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005107537",
+    "ParentName": "PERRY CHEMICAL & MANUFACTURING CO INC",
+    "PreferredLat": 40.58,
+    "PreferredLong": 74.42778,
+    "PublicContactName": "PAUL CHISHOLM",
+    "PublicContactPhone": "7654743404",
+    "RCRANumber": "NJD986592004",
+    "RadialDistance": 2806016,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 264,
+            "us_pounds_pct": 17,
+            "us_score_pct": 45
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 232,
+            "us_pounds_pct": 70,
+            "us_score_pct": 44
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 12,
+            "us_count": 213,
+            "us_pounds_pct": 56,
+            "us_score_pct": 31
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 12,
+            "us_count": 210,
+            "us_pounds_pct": 48,
+            "us_score_pct": 21
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 16,
+            "us_count": 206,
+            "us_pounds_pct": 48,
+            "us_score_pct": 19
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1253 NEW MARKET AVE",
+    "SubmitLat": 40.58,
+    "SubmitLong": 74.42778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2216,
+    "Y": 2662,
+    "ZIP9": "07080",
+    "ZIPCode": "07080"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "002127985",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13767.983295,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105038398",
+                    "MaxOnsite": "03",
+                    "Pounds": 13100.0,
+                    "Score": 1.5931229999999998,
+                    "SubmissionNumber": 1793166,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 13100.0,
+            "TotalScore": 1.5931229999999998,
+            "state_score_percentile": 67,
+            "us_score_percentile": 56
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115030254",
+                    "MaxOnsite": "03",
+                    "Pounds": 8900.0,
+                    "Score": 1.09277,
+                    "SubmissionNumber": 1877299,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 8900.0,
+            "TotalScore": 1.09277,
+            "state_score_percentile": 60,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000823299",
+    "FacilityID": "14213SLNGR1050N",
+    "FacilityNumber": 117170,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.912203,
+    "Longitude": -78.899801,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 92,
+            "us_pounds_pct": 41,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 96,
+            "us_pounds_pct": 29,
+            "us_score_pct": 14
+        },
+        "naicscode": "323110",
+        "name": "Commercial Lithographic Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "MIKEN COMPANIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.91278,
+    "PreferredLong": 78.9,
+    "PublicContactName": "RALPH LESKIW",
+    "PublicContactPhone": "7166686311",
+    "RCRANumber": "NYD002107951",
+    "RadialDistance": 2714916,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 90,
+            "us_pounds_pct": 47,
+            "us_score_pct": 22
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 42,
+            "us_count": 92,
+            "us_pounds_pct": 31,
+            "us_score_pct": 20
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "New York",
+    "StackVelocity": 9.35,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "1050 NIAGARA ST.",
+    "SubmitLat": 42.91278,
+    "SubmitLong": 78.9,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1705,
+    "Y": 2886,
+    "ZIP9": "14213",
+    "ZIPCode": "14213"
+}

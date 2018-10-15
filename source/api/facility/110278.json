@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LUQUILLO",
+    "County": "PR,LUQUILLO",
+    "DUNS": "090426180",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31853.431052,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100265038",
+                    "MaxOnsite": "04",
+                    "Pounds": 257.0,
+                    "Score": 0.511878,
+                    "SubmissionNumber": 1771006,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 257.0,
+            "TotalScore": 0.511878,
+            "state_score_percentile": 25,
+            "us_score_percentile": 18
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115144584",
+                    "MaxOnsite": "04",
+                    "Pounds": 256.0,
+                    "Score": 0.514091,
+                    "SubmissionNumber": 1883869,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 256.0,
+            "TotalScore": 0.514091,
+            "state_score_percentile": 22,
+            "us_score_percentile": 17
+        }
+    },
+    "FIPS": "72089",
+    "FRSID": "110000580666",
+    "FacilityID": "00673GBNSLROAD9",
+    "FacilityNumber": 110278,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.358333,
+    "Longitude": -65.708333,
+    "Method": "GPS CODE (PSEUDO RANGE) STANDARD POSITION (SA ON)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 35,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 34,
+            "us_score_pct": 10
+        },
+        "naicscode": "332117",
+        "name": "Powder Metallurgy Part Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "METALOR ELECTROTECHNICS (PUERTO RICO) LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "061775912",
+    "ParentName": "METALOR",
+    "PreferredLat": 18.375,
+    "PreferredLong": 65.715,
+    "PublicContactName": "FRED NINCKE",
+    "PublicContactPhone": "7243254028",
+    "RCRANumber": "PRD090426180",
+    "RadialDistance": 69692,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 350,
+            "us_pounds_pct": 23,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 325,
+            "us_pounds_pct": 19,
+            "us_score_pct": 8
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "RD 992 KM 03 BOX 1005",
+    "SubmitLat": 18.35833,
+    "SubmitLong": 65.70833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 71,
+    "Y": 49,
+    "ZIP9": "00773",
+    "ZIPCode": "00773"
+}

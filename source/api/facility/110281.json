@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LUQUILLO",
+    "County": "PR,LUQUILLO",
+    "DUNS": "174050823",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30436.704086,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140559333",
+                    "MaxOnsite": "04",
+                    "Pounds": 23.0,
+                    "Score": 0.11923,
+                    "SubmissionNumber": 44998,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23.0,
+            "TotalScore": 0.11923,
+            "state_score_percentile": 19,
+            "us_score_percentile": 11
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150433326",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.051503,
+                    "SubmissionNumber": 133072,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.051503,
+            "state_score_percentile": 19,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "72089",
+    "FRSID": "110007805312",
+    "FacilityID": "00673SYLTRROAD9",
+    "FacilityNumber": 110281,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.369302,
+    "Longitude": -65.719246,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 31,
+            "us_score_pct": 13
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 34,
+            "us_score_pct": 3
+        },
+        "naicscode": "335110",
+        "name": "Electric Lamp Bulb and Part Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3351",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "PRR00A357",
+    "Name": "OSRAM SYLVANIA PUERTO RICO CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "OSRAM GMBH MUNICH GERMANY",
+    "PreferredLat": 18.37361,
+    "PreferredLong": 65.72083,
+    "PublicContactName": "MARIA S. OLMEDO",
+    "PublicContactPhone": "7878892580",
+    "RCRANumber": "PRD000706432",
+    "RadialDistance": 69452,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 34,
+            "us_score_pct": 17
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 37,
+            "us_score_pct": 3
+        },
+        "name": "Electric lampbulbs and tubes",
+        "siccode": "3641"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "364",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9032,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "RD. 992 KM 0.5 INDUSTRIAL PARK",
+    "SubmitLat": 18.37361,
+    "SubmitLong": 65.72083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 69,
+    "Y": 51,
+    "ZIP9": "007730599",
+    "ZIPCode": "00773"
+}

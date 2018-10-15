@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHEEKTOWAGA",
+    "County": "NY,ERIE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7692.402255,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300145146674",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.007875,
+                    "SubmissionNumber": 84295,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.007875,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200500977",
+                    "MaxOnsite": "02",
+                    "Pounds": 8020.0,
+                    "Score": 32.54476,
+                    "SubmissionNumber": 238181,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8020.0,
+            "TotalScore": 32.54476,
+            "state_score_percentile": 67,
+            "us_score_percentile": 60
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201615996",
+                    "MaxOnsite": "03",
+                    "Pounds": 8009.0,
+                    "Score": 32.20847,
+                    "SubmissionNumber": 338189,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1303201616000",
+                    "MaxOnsite": "03",
+                    "Pounds": 200.0,
+                    "Score": 40.649100000000004,
+                    "SubmissionNumber": 338190,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 8209.0,
+            "TotalScore": 72.85757000000001,
+            "state_score_percentile": 68,
+            "us_score_percentile": 61
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110002094750",
+    "FacilityID": "14227CMCRT210FR",
+    "FacilityNumber": 117222,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.867926,
+    "Longitude": -78.765236,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 142,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 66,
+            "us_count": 162,
+            "us_pounds_pct": 89,
+            "us_score_pct": 74
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 138,
+            "us_pounds_pct": 91,
+            "us_score_pct": 81
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "EXCEL PRECISION INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.8683,
+    "PreferredLong": 78.74727,
+    "PublicContactName": "DAVID LASKY",
+    "PublicContactPhone": "7166683804",
+    "RCRANumber": "NYD049838568",
+    "RadialDistance": 2718362,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 399,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2002": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 40,
+            "us_count": 387,
+            "us_pounds_pct": 60,
+            "us_score_pct": 45
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 44,
+            "us_count": 364,
+            "us_pounds_pct": 62,
+            "us_score_pct": 56
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "210 FRENCH RD",
+    "SubmitLat": 43.0,
+    "SubmitLong": 79.0,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1719,
+    "Y": 2882,
+    "ZIP9": "14227",
+    "ZIPCode": "14227"
+}

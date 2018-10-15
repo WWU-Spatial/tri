@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WORCESTER",
+    "County": "MA,WORCESTER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65691.488084,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105381065",
+                    "MaxOnsite": "04",
+                    "Pounds": 20855.0,
+                    "Score": 40603.6,
+                    "SubmissionNumber": 1816249,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20855.0,
+            "TotalScore": 40603.6,
+            "state_score_percentile": 77,
+            "us_score_percentile": 64
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1397115231781",
+                    "MaxOnsite": "04",
+                    "Pounds": 7394.0,
+                    "Score": 144.216,
+                    "SubmissionNumber": 1887917,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115231805",
+                    "MaxOnsite": "04",
+                    "Pounds": 43826.0,
+                    "Score": 85480.4,
+                    "SubmissionNumber": 1887918,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 51220.0,
+            "TotalScore": 85624.616,
+            "state_score_percentile": 91,
+            "us_score_percentile": 78
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398125323131",
+                    "MaxOnsite": "04",
+                    "Pounds": 838.0,
+                    "Score": 1637.41,
+                    "SubmissionNumber": 1982509,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 838.0,
+            "TotalScore": 1637.41,
+            "state_score_percentile": 33,
+            "us_score_percentile": 26
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399135111110",
+                    "MaxOnsite": "04",
+                    "Pounds": 628.0,
+                    "Score": 1229.28,
+                    "SubmissionNumber": 2064669,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 628.0,
+            "TotalScore": 1229.28,
+            "state_score_percentile": 31,
+            "us_score_percentile": 25
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300145113332",
+                    "MaxOnsite": "04",
+                    "Pounds": 825.0,
+                    "Score": 1617.79,
+                    "SubmissionNumber": 82470,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 825.0,
+            "TotalScore": 1617.79,
+            "state_score_percentile": 41,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000495973",
+    "FacilityID": "01603CNCRD115ST",
+    "FacilityNumber": 110972,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.23871,
+    "Longitude": -71.84492,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 78,
+            "us_score_pct": 84
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 92,
+            "us_score_pct": 90
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 43,
+            "us_score_pct": 67
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 68,
+            "us_pounds_pct": 47,
+            "us_score_pct": 55
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 49,
+            "us_score_pct": 67
+        },
+        "naicscode": "332618",
+        "name": "Other Fabricated Wire Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3326",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CONCORD WIRE CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.2375,
+    "PreferredLong": 71.84639,
+    "PublicContactName": "PAUL MOUNTAIN",
+    "PublicContactPhone": "5087564643",
+    "RCRANumber": "MAD069919462",
+    "RadialDistance": 3088746,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 81,
+            "us_pounds_pct": 77,
+            "us_score_pct": 95
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 90,
+            "us_score_pct": 96
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 35,
+            "us_score_pct": 82
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 37,
+            "us_score_pct": 78
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 43,
+            "us_score_pct": 80
+        },
+        "name": "Steel wiredrawing and steel nails and spikes",
+        "siccode": "3315"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.24,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 1.8288,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "115 STAFFORD ST",
+    "SubmitLat": 42.2375,
+    "SubmitLong": 71.84639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2419,
+    "Y": 2948,
+    "ZIP9": "01603",
+    "ZIPCode": "01603"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "001198639",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25817.697656,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120750132",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.114266,
+                    "SubmissionNumber": 1956805,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.114266,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140838424",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.115799,
+                    "SubmissionNumber": 64638,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.115799,
+            "state_score_percentile": 6,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110002012143",
+    "FacilityID": "02703RBBNS400ON",
+    "FacilityNumber": 111864,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.933645,
+    "Longitude": -71.275772,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 38
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 10,
+            "us_pounds_pct": 20,
+            "us_score_pct": 30
+        },
+        "naicscode": "339911",
+        "name": "Jewelry (except Costume) Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROBBINS CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "090269247",
+    "ParentName": "CORPORATE GIFTS",
+    "PreferredLat": 41.93454,
+    "PreferredLong": 71.2756,
+    "PublicContactName": "JOHN CAMARA",
+    "PublicContactPhone": "5082222900",
+    "RCRANumber": "MAD001198639",
+    "RadialDistance": 3107107,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 41
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 37
+        },
+        "name": "Jewelry, precious metal",
+        "siccode": "3911"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "391",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5637,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1744,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.2817,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "400 O'NEIL BLVD",
+    "SubmitLat": 41.25278,
+    "SubmitLong": 72.27083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2485,
+    "Y": 2922,
+    "ZIP9": "02703",
+    "ZIPCode": "02703"
+}

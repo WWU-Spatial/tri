@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CUMBERLAND",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "001211473",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29855.742355,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1309207923614",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.078179,
+                    "SubmissionNumber": 902116,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.078179,
+            "state_score_percentile": 22,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1310208573624",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.078273,
+                    "SubmissionNumber": 959093,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.078273,
+            "state_score_percentile": 18,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110009450502",
+    "FacilityID": "02864TFFNY300MA",
+    "FacilityNumber": 112129,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 42.00089,
+    "Longitude": -71.46065,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 35,
+            "us_score_pct": 42
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 21,
+            "us_score_pct": 42
+        },
+        "naicscode": "339911",
+        "name": "Jewelry (except Costume) Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TIFFANY & CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001211473",
+    "ParentName": "TIFFANY & CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL KANE",
+    "PublicContactPhone": "4012880170",
+    "RCRANumber": "RIR000501171",
+    "RadialDistance": 3098933,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 50,
+            "us_score_pct": 40
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 30,
+            "us_score_pct": 40
+        },
+        "name": "Jewelry, precious metal",
+        "siccode": "3911"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "391",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5344,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "300 MAPLE RIDGE DR",
+    "SubmitLat": 41.43333,
+    "SubmitLong": 71.5,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2465,
+    "Y": 2926,
+    "ZIP9": "028648707",
+    "ZIPCode": "02864"
+}

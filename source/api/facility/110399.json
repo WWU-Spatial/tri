@@ -1,0 +1,224 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TOA BAJA",
+    "County": "PR,TOA BAJA",
+    "DUNS": "004155818",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26736.977505,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105028841",
+                    "MaxOnsite": "04",
+                    "Pounds": 324.0,
+                    "Score": 2.79566,
+                    "SubmissionNumber": 1792556,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105028854",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.048938,
+                    "SubmissionNumber": 1792557,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1074.0,
+            "TotalScore": 2.844598,
+            "state_score_percentile": 39,
+            "us_score_percentile": 29
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115231375",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.04933,
+                    "SubmissionNumber": 1887880,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.04933,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125200461",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.049723,
+                    "SubmissionNumber": 1976869,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.049723,
+            "state_score_percentile": 24,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "72137",
+    "FRSID": "110000580880",
+    "FacilityID": "00759NTRRPRD854",
+    "FacilityNumber": 110399,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.446423,
+    "Longitude": -66.253241,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 561,
+            "us_pounds_pct": 49,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 546,
+            "us_pounds_pct": 46,
+            "us_score_pct": 0
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 522,
+            "us_pounds_pct": 51,
+            "us_score_pct": 1
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "PRR05A634",
+    "Name": "CUTLER-HAMMER DE PUERTO RICO CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004155818",
+    "ParentName": "EATON CORP",
+    "PreferredLat": 18.43417,
+    "PreferredLong": 66.25167,
+    "PublicContactName": "LUIS PIZARRO",
+    "PublicContactPhone": "7878813640",
+    "RCRANumber": "PRD000708305",
+    "RadialDistance": 49413,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 575,
+            "us_pounds_pct": 49,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 565,
+            "us_pounds_pct": 46,
+            "us_score_pct": 1
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 546,
+            "us_pounds_pct": 50,
+            "us_score_pct": 1
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 28,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 28,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 29,
+            "us_score_pct": 6
+        },
+        "name": "Power, distribution, and specialty transformers",
+        "siccode": "3612"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.5806,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.2743,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.5032,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "RD. 854 KM 3.5",
+    "SubmitLat": 18.43417,
+    "SubmitLong": 66.25167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 0,
+    "Y": 61,
+    "ZIP9": "00949",
+    "ZIPCode": "00949"
+}

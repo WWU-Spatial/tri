@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "068296839",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19465.327964,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150135919",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 55106.5,
+                    "SubmissionNumber": 106453,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "106503",
+                    "Chemical": "p-Phenylenediamine",
+                    "ChemicalNumber": 456,
+                    "DCN": "1301150135921",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.022445,
+                    "SubmissionNumber": 106454,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 55106.522445,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110000323392",
+    "FacilityID": "11222JSHLW420MO",
+    "FacilityNumber": 115952,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.71878,
+    "Longitude": -73.93724,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 7,
+            "us_score_pct": 94
+        },
+        "naicscode": "325132",
+        "name": "Synthetic Organic Dye and Pigment Manufacturing"
+    },
+    "NAICS2": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 5,
+            "us_score_pct": 96
+        },
+        "naicscode": "325613",
+        "name": "Surface Active Agent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JOSH LOWENSTEIN & SONS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.71889,
+    "PreferredLong": 73.93611,
+    "PublicContactName": "KAY C. STERN",
+    "PublicContactPhone": "7183885410",
+    "RCRANumber": "NYD068296839",
+    "RadialDistance": 2848241,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 35,
+            "state_score_pct": 100,
+            "us_count": 322,
+            "us_pounds_pct": 9,
+            "us_score_pct": 97
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 6,
+            "us_score_pct": 78
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "420 MORGAN AVE",
+    "SubmitLat": 40.71889,
+    "SubmitLong": 73.93611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2261,
+    "Y": 2693,
+    "ZIP9": "11222",
+    "ZIPCode": "11222"
+}

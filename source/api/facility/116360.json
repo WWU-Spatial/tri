@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERFORD",
+    "County": "NY,SARATOGA",
+    "DUNS": "063785083",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13854.949407,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1398120242336",
+                    "MaxOnsite": "03",
+                    "Pounds": 167.0,
+                    "Score": 2.254375,
+                    "SubmissionNumber": 1919497,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398120242375",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.000655,
+                    "SubmissionNumber": 1919501,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 170.0,
+            "TotalScore": 2.25503,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399130086756",
+                    "MaxOnsite": "03",
+                    "Pounds": 124.0,
+                    "Score": 1.6692559999999999,
+                    "SubmissionNumber": 1997697,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 124.0,
+            "TotalScore": 1.6692559999999999,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36091",
+    "FRSID": "110010612809",
+    "FacilityID": "12188HNRYC430HU",
+    "FacilityNumber": 116360,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.827858,
+    "Longitude": -73.667294,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 27,
+            "us_score_pct": 22
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 24,
+            "us_score_pct": 8
+        },
+        "naicscode": "324122",
+        "name": "Asphalt Shingle and Coating Materials Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NYR00A504",
+    "Name": "HENRY CO. MONSEY DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "058012022",
+    "ParentName": "HENRY CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN K. KINAST",
+    "PublicContactPhone": "6109338888",
+    "RCRANumber": "NYR00A504",
+    "RadialDistance": 3011952,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 26,
+            "us_score_pct": 17
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 24,
+            "us_score_pct": 10
+        },
+        "name": "Asphalt felts and coatings",
+        "siccode": "2952"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "430 HUDSON RIVER RD.",
+    "SubmitLat": 42.06667,
+    "SubmitLong": 73.75,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2221,
+    "Y": 2982,
+    "ZIP9": "12188",
+    "ZIPCode": "12188"
+}

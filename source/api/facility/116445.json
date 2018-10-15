@@ -1,0 +1,343 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MAYBROOK",
+    "County": "NY,ORANGE",
+    "DUNS": "057022303",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 89400.176633,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201515095",
+                    "MaxOnsite": "01",
+                    "Pounds": 29.51,
+                    "Score": 617.43007,
+                    "SubmissionNumber": 329037,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 29.51,
+            "TotalScore": 617.43007,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202587046",
+                    "MaxOnsite": "01",
+                    "Pounds": 15.3,
+                    "Score": 320.59646000000004,
+                    "SubmissionNumber": 425150,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.3,
+            "TotalScore": 320.59646000000004,
+            "state_score_percentile": 22,
+            "us_score_percentile": 19
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203383599",
+                    "MaxOnsite": "01",
+                    "Pounds": 18.88,
+                    "Score": 396.02891999999997,
+                    "SubmissionNumber": 496843,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 18.88,
+            "TotalScore": 396.02891999999997,
+            "state_score_percentile": 25,
+            "us_score_percentile": 20
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204429498",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.8979999999999997,
+                    "Score": 61.047940000000004,
+                    "SubmissionNumber": 591714,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.8979999999999997,
+            "TotalScore": 61.047940000000004,
+            "state_score_percentile": 14,
+            "us_score_percentile": 11
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205329269",
+                    "MaxOnsite": "01",
+                    "Pounds": 13.182,
+                    "Score": 277.21895,
+                    "SubmissionNumber": 670954,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 13.182,
+            "TotalScore": 277.21895,
+            "state_score_percentile": 25,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "36071",
+    "FRSID": "110015784828",
+    "FacilityID": "12543CLLNNNECLY",
+    "FacilityNumber": 116445,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.503909,
+    "Longitude": -74.209184,
+    "Method": "INTERPOLATION-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 90,
+            "us_count": 140,
+            "us_pounds_pct": 72,
+            "us_score_pct": 78
+        },
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 75,
+            "us_count": 153,
+            "us_pounds_pct": 69,
+            "us_score_pct": 71
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 76,
+            "state_score_pct": 84,
+            "us_count": 196,
+            "us_pounds_pct": 72,
+            "us_score_pct": 78
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 46,
+            "us_count": 192,
+            "us_pounds_pct": 60,
+            "us_score_pct": 58
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 71,
+            "state_score_pct": 78,
+            "us_count": 221,
+            "us_pounds_pct": 65,
+            "us_score_pct": 66
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICS2": {
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 44,
+            "us_score_pct": 83
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 40,
+            "us_pounds_pct": 40,
+            "us_score_pct": 77
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 39,
+            "us_pounds_pct": 35,
+            "us_score_pct": 79
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 41,
+            "us_pounds_pct": 26,
+            "us_score_pct": 70
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 40,
+            "us_pounds_pct": 35,
+            "us_score_pct": 80
+        },
+        "naicscode": "212312",
+        "name": "Crushed and Broken Limestone Mining and Quarrying"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CALLANAN INDUSTRIES INC MAYBROOK MATERIALS DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE MATERIALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CHARLES A. STOKES",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "NA",
+    "RadialDistance": 2883914,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 90,
+            "us_count": 149,
+            "us_pounds_pct": 72,
+            "us_score_pct": 75
+        },
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 75,
+            "us_count": 159,
+            "us_pounds_pct": 69,
+            "us_score_pct": 71
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 76,
+            "state_score_pct": 84,
+            "us_count": 199,
+            "us_pounds_pct": 72,
+            "us_score_pct": 77
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 46,
+            "us_count": 198,
+            "us_pounds_pct": 59,
+            "us_score_pct": 59
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 71,
+            "state_score_pct": 78,
+            "us_count": 218,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SIC2": {
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 48,
+            "us_score_pct": 86
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 41,
+            "us_score_pct": 80
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 31,
+            "us_pounds_pct": 38,
+            "us_score_pct": 83
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 33,
+            "us_pounds_pct": 27,
+            "us_score_pct": 66
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 32,
+            "us_pounds_pct": 40,
+            "us_score_pct": 81
+        },
+        "name": "",
+        "siccode": "1422"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "NEELYTOWN ROAD, PO BOX 505",
+    "SubmitLat": 41.50583,
+    "SubmitLong": 74.21139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2209,
+    "Y": 2792,
+    "ZIP9": "12543",
+    "ZIPCode": "12543"
+}

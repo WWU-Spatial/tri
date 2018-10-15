@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 7712962,
+    "AssignedReach": "01100005001842",
+    "City": "WATERTOWN",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "060022944",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 49212.445135,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105035582",
+                    "MaxOnsite": "04",
+                    "Pounds": 62484.0,
+                    "Score": 38.769800000000004,
+                    "SubmissionNumber": 1792950,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 62484.0,
+            "TotalScore": 38.769800000000004,
+            "state_score_percentile": 90,
+            "us_score_percentile": 80
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115021089",
+                    "MaxOnsite": "04",
+                    "Pounds": 19304.0,
+                    "Score": 12.0193,
+                    "SubmissionNumber": 1876804,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19304.0,
+            "TotalScore": 12.0193,
+            "state_score_percentile": 73,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110000772307",
+    "FacilityID": "06796GTPRD18PAR",
+    "FacilityNumber": 113955,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.607027,
+    "Longitude": -73.084976,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 119,
+            "us_pounds_pct": 91,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 50,
+            "us_count": 115,
+            "us_pounds_pct": 69,
+            "us_score_pct": 30
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "SP0000920",
+    "Name": "OSRAM SYLVANIA PRODUCTS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001495928",
+    "ParentName": "OSRAM SYLVANIA INC",
+    "PreferredLat": 41.60722,
+    "PreferredLong": 73.08472,
+    "PublicContactName": "PAUL N. FORTIER",
+    "PublicContactPhone": "8602745435",
+    "RCRANumber": "CTD060022944",
+    "RadialDistance": 2964615,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 36,
+            "us_count": 163,
+            "us_pounds_pct": 90,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 20,
+            "us_count": 153,
+            "us_pounds_pct": 68,
+            "us_score_pct": 24
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9078,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "18 PARK RD.",
+    "SubmitLat": 41.60722,
+    "SubmitLong": 73.08472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2318,
+    "Y": 2833,
+    "ZIP9": "06795",
+    "ZIPCode": "06795"
+}

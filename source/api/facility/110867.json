@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHARLTON",
+    "County": "MA,WORCESTER",
+    "DUNS": "075801766",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58560.964992,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150282960",
+                    "MaxOnsite": "04",
+                    "Pounds": 49300.0,
+                    "Score": 16.5158,
+                    "SubmissionNumber": 119850,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 49300.0,
+            "TotalScore": 16.5158,
+            "state_score_percentile": 95,
+            "us_score_percentile": 82
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200392658",
+                    "MaxOnsite": "04",
+                    "Pounds": 149600.0,
+                    "Score": 47.35178,
+                    "SubmissionNumber": 228053,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 149600.0,
+            "TotalScore": 47.35178,
+            "state_score_percentile": 98,
+            "us_score_percentile": 91
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201609183",
+                    "MaxOnsite": "04",
+                    "Pounds": 28070.0,
+                    "Score": 9.66251,
+                    "SubmissionNumber": 337605,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 28070.0,
+            "TotalScore": 9.66251,
+            "state_score_percentile": 91,
+            "us_score_percentile": 77
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205585969",
+                    "MaxOnsite": "04",
+                    "Pounds": 30710.0,
+                    "Score": 9.35753,
+                    "SubmissionNumber": 694823,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 30710.0,
+            "TotalScore": 9.35753,
+            "state_score_percentile": 95,
+            "us_score_percentile": 81
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110002028635",
+    "FacilityID": "01507MLLNN10SHE",
+    "FacilityNumber": 110867,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.109128,
+    "Longitude": -72.014395,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 18,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 630,
+            "us_pounds_pct": 26,
+            "us_score_pct": 14
+        },
+        "2002": {
+            "state_count": 18,
+            "state_pounds_pct": 72,
+            "state_score_pct": 44,
+            "us_count": 624,
+            "us_pounds_pct": 44,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 14,
+            "state_pounds_pct": 35,
+            "state_score_pct": 21,
+            "us_count": 633,
+            "us_pounds_pct": 22,
+            "us_score_pct": 12
+        },
+        "2007": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 37,
+            "us_count": 633,
+            "us_pounds_pct": 25,
+            "us_score_pct": 16
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MILLENNIUM POWER PARTNERS L.P.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK WINNE",
+    "PublicContactPhone": "5082480311",
+    "RCRANumber": "NA",
+    "RadialDistance": 3068971,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 25,
+            "us_count": 638,
+            "us_pounds_pct": 27,
+            "us_score_pct": 16
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 68,
+            "state_score_pct": 37,
+            "us_count": 623,
+            "us_pounds_pct": 45,
+            "us_score_pct": 21
+        },
+        "2003": {
+            "state_count": 12,
+            "state_pounds_pct": 25,
+            "state_score_pct": 8,
+            "us_count": 632,
+            "us_pounds_pct": 23,
+            "us_score_pct": 14
+        },
+        "2007": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 33,
+            "us_count": 607,
+            "us_pounds_pct": 24,
+            "us_score_pct": 16
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 3.4832,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 19.7403,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 18.8794,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "10 SHERWOOD LN",
+    "SubmitLat": 42.11222,
+    "SubmitLong": 72.01472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2407,
+    "Y": 2926,
+    "ZIP9": "01507",
+    "ZIPCode": "01507"
+}

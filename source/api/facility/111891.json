@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FALL RIVER",
+    "County": "MA,BRISTOL",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26570.024554,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1305203827706",
+                    "MaxOnsite": "03",
+                    "Pounds": 6009.0,
+                    "Score": 0.811782,
+                    "SubmissionNumber": 538100,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 6009.0,
+            "TotalScore": 0.811782,
+            "state_score_percentile": 80,
+            "us_score_percentile": 60
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1306204776316",
+                    "MaxOnsite": "03",
+                    "Pounds": 13225.0,
+                    "Score": 1.780047,
+                    "SubmissionNumber": 623779,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 13225.0,
+            "TotalScore": 1.780047,
+            "state_score_percentile": 88,
+            "us_score_percentile": 70
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1307205796030",
+                    "MaxOnsite": "03",
+                    "Pounds": 8234.0,
+                    "Score": 1.104184,
+                    "SubmissionNumber": 712853,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8234.0,
+            "TotalScore": 1.104184,
+            "state_score_percentile": 85,
+            "us_score_percentile": 65
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1308206539557",
+                    "MaxOnsite": "05",
+                    "Pounds": 7759.0,
+                    "Score": 1.036631,
+                    "SubmissionNumber": 777605,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7759.0,
+            "TotalScore": 1.036631,
+            "state_score_percentile": 85,
+            "us_score_percentile": 67
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1309207777246",
+                    "MaxOnsite": "04",
+                    "Pounds": 5104.0,
+                    "Score": 0.679377,
+                    "SubmissionNumber": 889070,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5104.0,
+            "TotalScore": 0.679377,
+            "state_score_percentile": 82,
+            "us_score_percentile": 65
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1310208802811",
+                    "MaxOnsite": "04",
+                    "Pounds": 4347.0,
+                    "Score": 0.5764560000000001,
+                    "SubmissionNumber": 980881,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4347.0,
+            "TotalScore": 0.5764560000000001,
+            "state_score_percentile": 78,
+            "us_score_percentile": 63
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110025330782",
+    "FacilityID": "02720SWMXL846AI",
+    "FacilityNumber": 111891,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.74739,
+    "Longitude": -71.11313,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 78,
+            "us_pounds_pct": 33,
+            "us_score_pct": 30
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 77,
+            "us_pounds_pct": 48,
+            "us_score_pct": 36
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 79,
+            "us_pounds_pct": 40,
+            "us_score_pct": 35
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 75,
+            "us_pounds_pct": 44,
+            "us_score_pct": 33
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 70,
+            "us_pounds_pct": 34,
+            "us_score_pct": 35
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 66,
+            "us_pounds_pct": 27,
+            "us_score_pct": 28
+        },
+        "naicscode": "326130",
+        "name": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SWIMEX INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK E. PEARSON",
+    "PublicContactPhone": "5086750594",
+    "RCRANumber": "MA5000004663",
+    "RadialDistance": 3106384,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 69,
+            "us_pounds_pct": 33,
+            "us_score_pct": 26
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 52,
+            "us_score_pct": 34
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 42,
+            "us_score_pct": 33
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 45,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 34,
+            "us_score_pct": 31
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 28,
+            "us_score_pct": 25
+        },
+        "name": "Laminated plastics plate, sheet, and profile shapes",
+        "siccode": "3083"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "846 AIRPORT RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2508,
+    "Y": 2901,
+    "ZIP9": "027204735",
+    "ZIPCode": "02720"
+}

@@ -1,0 +1,1535 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "002108629",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13724.138164,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100138320",
+                    "MaxOnsite": "04",
+                    "Pounds": 510.0,
+                    "Score": 0.037125,
+                    "SubmissionNumber": 1760045,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1396100138332",
+                    "MaxOnsite": "04",
+                    "Pounds": 110.0,
+                    "Score": 0.10186,
+                    "SubmissionNumber": 1760046,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100138344",
+                    "MaxOnsite": "05",
+                    "Pounds": 2620.0,
+                    "Score": 0.15790900000000002,
+                    "SubmissionNumber": 1760047,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100138357",
+                    "MaxOnsite": "04",
+                    "Pounds": 7100.0,
+                    "Score": 0.486638,
+                    "SubmissionNumber": 1760048,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396100138369",
+                    "MaxOnsite": "05",
+                    "Pounds": 12100.0,
+                    "Score": 6.64479,
+                    "SubmissionNumber": 1760049,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396100138371",
+                    "MaxOnsite": "05",
+                    "Pounds": 420.0,
+                    "Score": 0.039081,
+                    "SubmissionNumber": 1760050,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100138383",
+                    "MaxOnsite": "05",
+                    "Pounds": 22000.0,
+                    "Score": 1.407442,
+                    "SubmissionNumber": 1760051,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1396100138395",
+                    "MaxOnsite": "05",
+                    "Pounds": 12200.0,
+                    "Score": 5.52403,
+                    "SubmissionNumber": 1760052,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1396100138407",
+                    "MaxOnsite": "05",
+                    "Pounds": 150.0,
+                    "Score": 0.00843,
+                    "SubmissionNumber": 1760053,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 57210.0,
+            "TotalScore": 14.407305000000001,
+            "state_score_percentile": 86,
+            "us_score_percentile": 79
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110189180",
+                    "MaxOnsite": "05",
+                    "Pounds": 33800.0,
+                    "Score": 1.988867,
+                    "SubmissionNumber": 1840434,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110189192",
+                    "MaxOnsite": "04",
+                    "Pounds": 20300.0,
+                    "Score": 1.205401,
+                    "SubmissionNumber": 1840435,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110189204",
+                    "MaxOnsite": "04",
+                    "Pounds": 5400.0,
+                    "Score": 2.754748,
+                    "SubmissionNumber": 1840436,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1397110189216",
+                    "MaxOnsite": "04",
+                    "Pounds": 18400.0,
+                    "Score": 7.744400000000001,
+                    "SubmissionNumber": 1840437,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397110189228",
+                    "MaxOnsite": "04",
+                    "Pounds": 4000.0,
+                    "Score": 0.238368,
+                    "SubmissionNumber": 1840438,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 81900.0,
+            "TotalScore": 13.931784,
+            "state_score_percentile": 90,
+            "us_score_percentile": 84
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120212752",
+                    "MaxOnsite": "05",
+                    "Pounds": 4660.0,
+                    "Score": 2.301486,
+                    "SubmissionNumber": 1917225,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398120212764",
+                    "MaxOnsite": "04",
+                    "Pounds": 4220.0,
+                    "Score": 0.242753,
+                    "SubmissionNumber": 1917226,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120212776",
+                    "MaxOnsite": "05",
+                    "Pounds": 19400.0,
+                    "Score": 1.103895,
+                    "SubmissionNumber": 1917227,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1398120212788",
+                    "MaxOnsite": "04",
+                    "Pounds": 8560.0,
+                    "Score": 3.486044,
+                    "SubmissionNumber": 1917228,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398120212790",
+                    "MaxOnsite": "03",
+                    "Pounds": 560.0,
+                    "Score": 0.053902,
+                    "SubmissionNumber": 1917229,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 37400.0,
+            "TotalScore": 7.18808,
+            "state_score_percentile": 81,
+            "us_score_percentile": 74
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399130408065",
+                    "MaxOnsite": "05",
+                    "Pounds": 4020.0,
+                    "Score": 2.797609,
+                    "SubmissionNumber": 2024821,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399130408077",
+                    "MaxOnsite": "04",
+                    "Pounds": 4000.0,
+                    "Score": 0.22260300000000002,
+                    "SubmissionNumber": 2024822,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399130408089",
+                    "MaxOnsite": "03",
+                    "Pounds": 200.0,
+                    "Score": 0.018581,
+                    "SubmissionNumber": 2024823,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130408091",
+                    "MaxOnsite": "05",
+                    "Pounds": 17790.0,
+                    "Score": 0.98053,
+                    "SubmissionNumber": 2024824,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130408103",
+                    "MaxOnsite": "04",
+                    "Pounds": 7780.0,
+                    "Score": 3.0653119999999996,
+                    "SubmissionNumber": 2024825,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1399130408115",
+                    "MaxOnsite": "03",
+                    "Pounds": 210.0,
+                    "Score": 0.009551,
+                    "SubmissionNumber": 2024826,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 34000.0,
+            "TotalScore": 7.094186,
+            "state_score_percentile": 81,
+            "us_score_percentile": 73
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140468024",
+                    "MaxOnsite": "05",
+                    "Pounds": 4000.0,
+                    "Score": 2.039913,
+                    "SubmissionNumber": 38733,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300140468036",
+                    "MaxOnsite": "04",
+                    "Pounds": 7500.0,
+                    "Score": 0.445238,
+                    "SubmissionNumber": 38734,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1300140468048",
+                    "MaxOnsite": "03",
+                    "Pounds": 240.0,
+                    "Score": 0.023778,
+                    "SubmissionNumber": 38735,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140468051",
+                    "MaxOnsite": "05",
+                    "Pounds": 17300.0,
+                    "Score": 1.016702,
+                    "SubmissionNumber": 38736,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1300140468063",
+                    "MaxOnsite": "04",
+                    "Pounds": 9000.0,
+                    "Score": 3.7771800000000004,
+                    "SubmissionNumber": 38737,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 38040.0,
+            "TotalScore": 7.302811,
+            "state_score_percentile": 84,
+            "us_score_percentile": 76
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1301150226684",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.05527,
+                    "SubmissionNumber": 114844,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1301150226696",
+                    "MaxOnsite": "04",
+                    "Pounds": 12100.0,
+                    "Score": 4.784341,
+                    "SubmissionNumber": 114845,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150226708",
+                    "MaxOnsite": "05",
+                    "Pounds": 21800.0,
+                    "Score": 1.206838,
+                    "SubmissionNumber": 114846,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301150226710",
+                    "MaxOnsite": "05",
+                    "Pounds": 17450.0,
+                    "Score": 8.3805,
+                    "SubmissionNumber": 114847,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 51850.0,
+            "TotalScore": 14.426949,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1302200272983",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.0269,
+                    "SubmissionNumber": 216937,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1302200272995",
+                    "MaxOnsite": "06",
+                    "Pounds": 20200.0,
+                    "Score": 9.57944,
+                    "SubmissionNumber": 216938,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1302200273009",
+                    "MaxOnsite": "04",
+                    "Pounds": 9200.0,
+                    "Score": 0.507648,
+                    "SubmissionNumber": 216939,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1302200273035",
+                    "MaxOnsite": "04",
+                    "Pounds": 13900.0,
+                    "Score": 5.434239,
+                    "SubmissionNumber": 216942,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200273047",
+                    "MaxOnsite": "05",
+                    "Pounds": 25100.0,
+                    "Score": 1.3719949999999999,
+                    "SubmissionNumber": 216943,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 68900.0,
+            "TotalScore": 16.920222,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1303201344532",
+                    "MaxOnsite": "03",
+                    "Pounds": 1100.0,
+                    "Score": 0.049071000000000004,
+                    "SubmissionNumber": 313560,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1303201344544",
+                    "MaxOnsite": "06",
+                    "Pounds": 16000.0,
+                    "Score": 7.4997300000000005,
+                    "SubmissionNumber": 313561,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303201344557",
+                    "MaxOnsite": "04",
+                    "Pounds": 8000.0,
+                    "Score": 0.43656599999999995,
+                    "SubmissionNumber": 313562,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1303201344583",
+                    "MaxOnsite": "04",
+                    "Pounds": 11000.0,
+                    "Score": 4.246834,
+                    "SubmissionNumber": 313565,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201344595",
+                    "MaxOnsite": "05",
+                    "Pounds": 19000.0,
+                    "Score": 1.026152,
+                    "SubmissionNumber": 313566,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 55100.0,
+            "TotalScore": 13.258353,
+            "state_score_percentile": 89,
+            "us_score_percentile": 84
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304203007885",
+                    "MaxOnsite": "06",
+                    "Pounds": 25800.0,
+                    "Score": 1.376797,
+                    "SubmissionNumber": 462687,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1304203007923",
+                    "MaxOnsite": "04",
+                    "Pounds": 14800.0,
+                    "Score": 5.647398,
+                    "SubmissionNumber": 462690,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1304203007974",
+                    "MaxOnsite": "06",
+                    "Pounds": 17600.0,
+                    "Score": 8.15799,
+                    "SubmissionNumber": 462695,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1304203008014",
+                    "MaxOnsite": "05",
+                    "Pounds": 1550.0,
+                    "Score": 0.068189,
+                    "SubmissionNumber": 462699,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 59750.0,
+            "TotalScore": 15.250374,
+            "state_score_percentile": 90,
+            "us_score_percentile": 85
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1305203187430",
+                    "MaxOnsite": "03",
+                    "Pounds": 1100.0,
+                    "Score": 0.047657,
+                    "SubmissionNumber": 478617,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1305203187442",
+                    "MaxOnsite": "05",
+                    "Pounds": 17800.0,
+                    "Score": 8.14401,
+                    "SubmissionNumber": 478618,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305203187455",
+                    "MaxOnsite": "04",
+                    "Pounds": 9800.0,
+                    "Score": 3.694208,
+                    "SubmissionNumber": 478619,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203187467",
+                    "MaxOnsite": "05",
+                    "Pounds": 21900.0,
+                    "Score": 1.153964,
+                    "SubmissionNumber": 478620,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 50600.0,
+            "TotalScore": 13.039838999999999,
+            "state_score_percentile": 89,
+            "us_score_percentile": 84
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204409546",
+                    "MaxOnsite": "05",
+                    "Pounds": 20800.0,
+                    "Score": 1.082458,
+                    "SubmissionNumber": 589891,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1306204409559",
+                    "MaxOnsite": "04",
+                    "Pounds": 1330.0,
+                    "Score": 0.057079,
+                    "SubmissionNumber": 589892,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1306204409561",
+                    "MaxOnsite": "05",
+                    "Pounds": 17300.0,
+                    "Score": 7.80517,
+                    "SubmissionNumber": 589893,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1306204409573",
+                    "MaxOnsite": "04",
+                    "Pounds": 8700.0,
+                    "Score": 3.240427,
+                    "SubmissionNumber": 589894,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1306204409585",
+                    "MaxOnsite": "03",
+                    "Pounds": 330.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 589895,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 48460.0,
+            "TotalScore": 12.185134000000001,
+            "state_score_percentile": 89,
+            "us_score_percentile": 84
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1307205606039",
+                    "MaxOnsite": "04",
+                    "Pounds": 1560.0,
+                    "Score": 0.066246,
+                    "SubmissionNumber": 696637,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1307205606041",
+                    "MaxOnsite": "05",
+                    "Pounds": 16100.0,
+                    "Score": 7.17553,
+                    "SubmissionNumber": 696638,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1307205606054",
+                    "MaxOnsite": "04",
+                    "Pounds": 6800.0,
+                    "Score": 2.499841,
+                    "SubmissionNumber": 696639,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1307205606066",
+                    "MaxOnsite": "03",
+                    "Pounds": 220.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 696640,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205606078",
+                    "MaxOnsite": "05",
+                    "Pounds": 16300.0,
+                    "Score": 0.836335,
+                    "SubmissionNumber": 696641,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 40980.0,
+            "TotalScore": 10.577952,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1308206833954",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 0.041865,
+                    "SubmissionNumber": 805028,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1308206833966",
+                    "MaxOnsite": "05",
+                    "Pounds": 13300.0,
+                    "Score": 5.846802,
+                    "SubmissionNumber": 805029,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1308206833978",
+                    "MaxOnsite": "03",
+                    "Pounds": 100.0,
+                    "Score": 0.00892,
+                    "SubmissionNumber": 805030,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1308206833980",
+                    "MaxOnsite": "04",
+                    "Pounds": 4300.0,
+                    "Score": 1.553014,
+                    "SubmissionNumber": 805031,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206833992",
+                    "MaxOnsite": "05",
+                    "Pounds": 9400.0,
+                    "Score": 0.47552700000000003,
+                    "SubmissionNumber": 805032,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 28100.0,
+            "TotalScore": 7.926128,
+            "state_score_percentile": 88,
+            "us_score_percentile": 81
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1309207449341",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 0.041317,
+                    "SubmissionNumber": 858341,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1309207449354",
+                    "MaxOnsite": "05",
+                    "Pounds": 13300.0,
+                    "Score": 5.770711,
+                    "SubmissionNumber": 858342,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1309207449366",
+                    "MaxOnsite": "03",
+                    "Pounds": 100.0,
+                    "Score": 0.008801,
+                    "SubmissionNumber": 858343,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1309207449378",
+                    "MaxOnsite": "04",
+                    "Pounds": 4300.0,
+                    "Score": 1.532712,
+                    "SubmissionNumber": 858344,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207449380",
+                    "MaxOnsite": "05",
+                    "Pounds": 8750.0,
+                    "Score": 0.434776,
+                    "SubmissionNumber": 858345,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 27450.0,
+            "TotalScore": 7.788317000000001,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1310208533214",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.024204,
+                    "SubmissionNumber": 955266,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1310208533226",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 0.25579999999999997,
+                    "SubmissionNumber": 955267,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1310208533238",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.049073,
+                    "SubmissionNumber": 955268,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1310208533240",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.209795,
+                    "SubmissionNumber": 955269,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208533253",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 0.029338999999999997,
+                    "SubmissionNumber": 955270,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2500.0,
+            "TotalScore": 0.568211,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000327343",
+    "FacilityID": "14240PRCST710OH",
+    "FacilityNumber": 117235,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.8577,
+    "Longitude": -78.866631,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 42,
+            "us_count": 202,
+            "us_pounds_pct": 91,
+            "us_score_pct": 56
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 188,
+            "us_pounds_pct": 94,
+            "us_score_pct": 57
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 28,
+            "us_count": 185,
+            "us_pounds_pct": 89,
+            "us_score_pct": 48
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 42,
+            "us_count": 181,
+            "us_pounds_pct": 90,
+            "us_score_pct": 50
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 42,
+            "us_count": 179,
+            "us_pounds_pct": 91,
+            "us_score_pct": 50
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 42,
+            "us_count": 174,
+            "us_pounds_pct": 95,
+            "us_score_pct": 58
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 165,
+            "us_pounds_pct": 95,
+            "us_score_pct": 60
+        },
+        "2003": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 42,
+            "us_count": 162,
+            "us_pounds_pct": 94,
+            "us_score_pct": 56
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 155,
+            "us_pounds_pct": 94,
+            "us_score_pct": 54
+        },
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 157,
+            "us_pounds_pct": 94,
+            "us_score_pct": 53
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 95,
+            "us_score_pct": 54
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 146,
+            "us_pounds_pct": 95,
+            "us_score_pct": 53
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 155,
+            "us_pounds_pct": 95,
+            "us_score_pct": 54
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 96,
+            "us_score_pct": 53
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 146,
+            "us_pounds_pct": 58,
+            "us_score_pct": 31
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 96,
+            "state_score_pct": 53,
+            "us_count": 634,
+            "us_pounds_pct": 92,
+            "us_score_pct": 45
+        },
+        "1997": {
+            "state_count": 22,
+            "state_pounds_pct": 95,
+            "state_score_pct": 50,
+            "us_count": 600,
+            "us_pounds_pct": 95,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 39,
+            "us_count": 608,
+            "us_pounds_pct": 90,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 19,
+            "state_pounds_pct": 94,
+            "state_score_pct": 36,
+            "us_count": 596,
+            "us_pounds_pct": 90,
+            "us_score_pct": 37
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 94,
+            "state_score_pct": 47,
+            "us_count": 573,
+            "us_pounds_pct": 91,
+            "us_score_pct": 38
+        },
+        "2001": {
+            "state_count": 18,
+            "state_pounds_pct": 94,
+            "state_score_pct": 44,
+            "us_count": 558,
+            "us_pounds_pct": 95,
+            "us_score_pct": 46
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 94,
+            "state_score_pct": 52,
+            "us_count": 539,
+            "us_pounds_pct": 96,
+            "us_score_pct": 47
+        },
+        "2003": {
+            "state_count": 16,
+            "state_pounds_pct": 93,
+            "state_score_pct": 56,
+            "us_count": 549,
+            "us_pounds_pct": 95,
+            "us_score_pct": 45
+        },
+        "2004": {
+            "state_count": 16,
+            "state_pounds_pct": 93,
+            "state_score_pct": 43,
+            "us_count": 526,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 92,
+            "state_score_pct": 42,
+            "us_count": 518,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 93,
+            "state_score_pct": 46,
+            "us_count": 488,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 466,
+            "us_pounds_pct": 97,
+            "us_score_pct": 46
+        },
+        "2008": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 460,
+            "us_pounds_pct": 95,
+            "us_score_pct": 44
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 430,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 36,
+            "us_count": 419,
+            "us_pounds_pct": 56,
+            "us_score_pct": 16
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HENKEL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "051441731",
+    "ParentName": "HENKEL CORP",
+    "PreferredLat": 42.8581,
+    "PreferredLong": 78.8661,
+    "PublicContactName": "BRYANT WINTERHOLER",
+    "PublicContactPhone": "6038632794",
+    "RCRANumber": "NYD002108629",
+    "RadialDistance": 2712083,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 218,
+            "us_pounds_pct": 89,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 201,
+            "us_pounds_pct": 92,
+            "us_score_pct": 57
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 20,
+            "us_count": 200,
+            "us_pounds_pct": 87,
+            "us_score_pct": 49
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 196,
+            "us_pounds_pct": 88,
+            "us_score_pct": 51
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 192,
+            "us_pounds_pct": 88,
+            "us_score_pct": 47
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 40,
+            "us_count": 189,
+            "us_pounds_pct": 91,
+            "us_score_pct": 58
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 176,
+            "us_pounds_pct": 92,
+            "us_score_pct": 60
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 40,
+            "us_count": 173,
+            "us_pounds_pct": 91,
+            "us_score_pct": 56
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 165,
+            "us_pounds_pct": 92,
+            "us_score_pct": 55
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 168,
+            "us_pounds_pct": 92,
+            "us_score_pct": 52
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 160,
+            "us_pounds_pct": 93,
+            "us_score_pct": 51
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 94,
+            "us_score_pct": 50
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 160,
+            "us_pounds_pct": 93,
+            "us_score_pct": 53
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 156,
+            "us_pounds_pct": 94,
+            "us_score_pct": 51
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 147,
+            "us_pounds_pct": 56,
+            "us_score_pct": 27
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 96,
+            "state_score_pct": 53,
+            "us_count": 613,
+            "us_pounds_pct": 92,
+            "us_score_pct": 45
+        },
+        "1997": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 52,
+            "us_count": 579,
+            "us_pounds_pct": 95,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 24,
+            "state_pounds_pct": 95,
+            "state_score_pct": 41,
+            "us_count": 580,
+            "us_pounds_pct": 90,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 20,
+            "state_pounds_pct": 95,
+            "state_score_pct": 40,
+            "us_count": 563,
+            "us_pounds_pct": 90,
+            "us_score_pct": 37
+        },
+        "2000": {
+            "state_count": 20,
+            "state_pounds_pct": 95,
+            "state_score_pct": 50,
+            "us_count": 539,
+            "us_pounds_pct": 91,
+            "us_score_pct": 36
+        },
+        "2001": {
+            "state_count": 19,
+            "state_pounds_pct": 94,
+            "state_score_pct": 47,
+            "us_count": 520,
+            "us_pounds_pct": 95,
+            "us_score_pct": 46
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 94,
+            "state_score_pct": 52,
+            "us_count": 502,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2003": {
+            "state_count": 16,
+            "state_pounds_pct": 93,
+            "state_score_pct": 56,
+            "us_count": 503,
+            "us_pounds_pct": 95,
+            "us_score_pct": 45
+        },
+        "2004": {
+            "state_count": 16,
+            "state_pounds_pct": 93,
+            "state_score_pct": 43,
+            "us_count": 483,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 92,
+            "state_score_pct": 42,
+            "us_count": 475,
+            "us_pounds_pct": 96,
+            "us_score_pct": 46
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 93,
+            "state_score_pct": 46,
+            "us_count": 439,
+            "us_pounds_pct": 95,
+            "us_score_pct": 45
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 411,
+            "us_pounds_pct": 97,
+            "us_score_pct": 45
+        },
+        "2008": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 406,
+            "us_pounds_pct": 95,
+            "us_score_pct": 43
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 372,
+            "us_pounds_pct": 95,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 36,
+            "us_count": 357,
+            "us_pounds_pct": 53,
+            "us_score_pct": 14
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.381,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1744,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 16.4592,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "710 OHIO ST",
+    "SubmitLat": 42.91694,
+    "SubmitLong": 78.90278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1709,
+    "Y": 2879,
+    "ZIP9": "14203",
+    "ZIPCode": "14203"
+}

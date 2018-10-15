@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BAY SHORE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "075776914",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 74721.047412,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105422683",
+                    "MaxOnsite": "03",
+                    "Pounds": 23764.0,
+                    "Score": 50707.0,
+                    "SubmissionNumber": 1818601,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105442483",
+                    "MaxOnsite": "03",
+                    "Pounds": 25000.0,
+                    "Score": 75036.8,
+                    "SubmissionNumber": 1819975,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 48764.0,
+            "TotalScore": 125743.8,
+            "state_score_percentile": 85,
+            "us_score_percentile": 77
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115304661",
+                    "MaxOnsite": "03",
+                    "Pounds": 20633.0,
+                    "Score": 44467.6,
+                    "SubmissionNumber": 1892586,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1397115330110",
+                    "MaxOnsite": "03",
+                    "Pounds": 19000.0,
+                    "Score": 57599.1,
+                    "SubmissionNumber": 1894291,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 39633.0,
+            "TotalScore": 102066.7,
+            "state_score_percentile": 83,
+            "us_score_percentile": 75
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398125121792",
+                    "MaxOnsite": "03",
+                    "Pounds": 28140.0,
+                    "Score": 61248.6,
+                    "SubmissionNumber": 1973359,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1398125354377",
+                    "MaxOnsite": "03",
+                    "Pounds": 16000.0,
+                    "Score": 48985.4,
+                    "SubmissionNumber": 1984506,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 44140.0,
+            "TotalScore": 110234.0,
+            "state_score_percentile": 82,
+            "us_score_percentile": 76
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1399135180887",
+                    "MaxOnsite": "04",
+                    "Pounds": 29000.0,
+                    "Score": 63740.9,
+                    "SubmissionNumber": 2068482,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29000.0,
+            "TotalScore": 63740.9,
+            "state_score_percentile": 80,
+            "us_score_percentile": 71
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1300145032936",
+                    "MaxOnsite": "04",
+                    "Pounds": 23000.0,
+                    "Score": 51045.2,
+                    "SubmissionNumber": 78041,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23000.0,
+            "TotalScore": 51045.2,
+            "state_score_percentile": 80,
+            "us_score_percentile": 70
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000323846",
+    "FacilityID": "11706MMNFC275FE",
+    "FacilityNumber": 116117,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.763899,
+    "Longitude": -73.283625,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 93,
+            "us_score_pct": 93
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 90,
+            "us_score_pct": 94
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 93,
+            "us_score_pct": 91
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 81,
+            "us_score_pct": 86
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 85,
+            "us_score_pct": 82
+        },
+        "naicscode": "332996",
+        "name": "Fabricated Pipe and Pipe Fitting Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "A & M MFG. CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.7625,
+    "PreferredLong": 73.29167,
+    "PublicContactName": "MICHAEL J. PINTO",
+    "PublicContactPhone": "6312420918",
+    "RCRANumber": "NYD075776914",
+    "RadialDistance": 2895401,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 91,
+            "us_score_pct": 95
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 88,
+            "us_score_pct": 94
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 89,
+            "us_score_pct": 89
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 79,
+            "us_score_pct": 83
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 82,
+            "us_score_pct": 82
+        },
+        "name": "Fabricated pipe and pipe fittings",
+        "siccode": "3498"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "275 FELDMAN CT.",
+    "SubmitLat": 40.7625,
+    "SubmitLong": 73.29167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2326,
+    "Y": 2715,
+    "ZIP9": "11706",
+    "ZIPCode": "11706"
+}

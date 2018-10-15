@@ -1,0 +1,332 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "POMONA",
+    "County": "NJ,ATLANTIC",
+    "DUNS": "002325074",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 70726.568478,
+    "DistanceToReach": 906.01634,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396100140223",
+                    "MaxOnsite": "05",
+                    "Pounds": 1905.0,
+                    "Score": 476.17412,
+                    "SubmissionNumber": 1760218,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396100140235",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.355443,
+                    "SubmissionNumber": 1760219,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2160.0,
+            "TotalScore": 476.529563,
+            "state_score_percentile": 44,
+            "us_score_percentile": 35
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110284369",
+                    "MaxOnsite": "05",
+                    "Pounds": 1705.0,
+                    "Score": 434.76113,
+                    "SubmissionNumber": 1848761,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110284371",
+                    "MaxOnsite": "04",
+                    "Pounds": 195.0,
+                    "Score": 0.277654,
+                    "SubmissionNumber": 1848762,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1900.0,
+            "TotalScore": 435.03878399999996,
+            "state_score_percentile": 41,
+            "us_score_percentile": 33
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120408164",
+                    "MaxOnsite": "04",
+                    "Pounds": 1305.0,
+                    "Score": 339.37814,
+                    "SubmissionNumber": 1931925,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120408188",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.369745,
+                    "SubmissionNumber": 1931927,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1560.0,
+            "TotalScore": 339.747885,
+            "state_score_percentile": 39,
+            "us_score_percentile": 32
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202872356",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.17698,
+                    "SubmissionNumber": 451055,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.17698,
+            "state_score_percentile": 35,
+            "us_score_percentile": 31
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203938446",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 0.008675,
+                    "SubmissionNumber": 548161,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12.0,
+            "TotalScore": 0.008675,
+            "state_score_percentile": 18,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "34001",
+    "FRSID": "110000582156",
+    "FacilityID": "08240LNXCHTILTO",
+    "FacilityNumber": 115292,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.48845,
+    "Longitude": -74.60099,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 1,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 197,
+            "us_pounds_pct": 38,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 185,
+            "us_pounds_pct": 38,
+            "us_score_pct": 49
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 192,
+            "us_pounds_pct": 41,
+            "us_score_pct": 52
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 167,
+            "us_pounds_pct": 42,
+            "us_score_pct": 11
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 165,
+            "us_pounds_pct": 24,
+            "us_score_pct": 3
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0070343",
+    "Name": "LENOX INC (DBA GORHAM)",
+    "NearComID": 9457315,
+    "NearReach": "02040301006598",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "798781837",
+    "ParentName": "LENOX GROUP INC",
+    "PreferredLat": 39.48833,
+    "PreferredLong": 74.60139,
+    "PublicContactName": "JEFF LUMA",
+    "PublicContactPhone": "6099658376",
+    "RCRANumber": "NJD002325074",
+    "RadialDistance": 2721738,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 72,
+            "us_score_pct": 72
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 70,
+            "us_score_pct": 70
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 77,
+            "us_score_pct": 77
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 28
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 14
+        },
+        "name": "Silverware, plated ware, and stainless steel ware",
+        "siccode": "3914"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 80,
+            "us_score_pct": 80
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 100,
+            "us_score_pct": 80
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 70,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 20
+        },
+        "name": "Vitreous china table and kitchen articles",
+        "siccode": "3262"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "391",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5344,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "TILTON RD",
+    "SubmitLat": 39.48833,
+    "SubmitLong": 74.60139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2233,
+    "Y": 2511,
+    "ZIP9": "08240",
+    "ZIPCode": "08240"
+}

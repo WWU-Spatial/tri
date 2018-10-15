@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STAMFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "008338030",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64571.215136,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1396105422707",
+                    "MaxOnsite": "04",
+                    "Pounds": 1922.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1818603,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1922.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 39,
+            "us_score_percentile": 34
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1397115304774",
+                    "MaxOnsite": "04",
+                    "Pounds": 1922.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1892590,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1922.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 42,
+            "us_score_percentile": 33
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1398125128948",
+                    "MaxOnsite": "04",
+                    "Pounds": 1922.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1973700,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1922.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 41,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000317728",
+    "FacilityID": "06904CRCNC300ST",
+    "FacilityNumber": 114029,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.053857,
+    "Longitude": -73.557395,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 72,
+            "us_pounds_pct": 27,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 60,
+            "us_pounds_pct": 30,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 62,
+            "us_pounds_pct": 37,
+            "us_score_pct": 4
+        },
+        "naicscode": "339112",
+        "name": "Surgical and Medical Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GYRUS ACMI",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RAISA SHIKHMAN",
+    "PublicContactPhone": "2033288650",
+    "RCRANumber": "CTD001561364",
+    "RadialDistance": 2896113,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 66,
+            "us_pounds_pct": 25,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 56,
+            "us_pounds_pct": 26,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 56,
+            "us_pounds_pct": 33,
+            "us_score_pct": 5
+        },
+        "name": "Surgical and medical instruments and apparatus",
+        "siccode": "3841"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "300 STILLWATER AVE",
+    "SubmitLat": 41.05583,
+    "SubmitLong": 73.56333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2289,
+    "Y": 2747,
+    "ZIP9": "06902",
+    "ZIPCode": "06902"
+}

@@ -1,0 +1,733 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MAYAGUEZ",
+    "County": "PR,MAYAGUEZ",
+    "DUNS": "090034703",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 123310.324076,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399130359843",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.234673,
+                    "SubmissionNumber": 2020777,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130359856",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.00212,
+                    "SubmissionNumber": 2020778,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 0.236793,
+            "state_score_percentile": 21,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300140676988",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.4,
+                    "Score": 0.02898,
+                    "SubmissionNumber": 51978,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.4,
+            "TotalScore": 0.02898,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150329086",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.020528,
+                    "SubmissionNumber": 123953,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.020528,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200292136",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.020356,
+                    "SubmissionNumber": 218716,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.020356,
+            "state_score_percentile": 2,
+            "us_score_percentile": 5
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1303201428859",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.73,
+                    "Score": 0.014734,
+                    "SubmissionNumber": 321347,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1303201428861",
+                    "MaxOnsite": "05",
+                    "Pounds": 1637.0,
+                    "Score": 0.013622,
+                    "SubmissionNumber": 321348,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1637.73,
+            "TotalScore": 0.028356,
+            "state_score_percentile": 42,
+            "us_score_percentile": 45
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1304202529463",
+                    "MaxOnsite": "05",
+                    "Pounds": 10262.0,
+                    "Score": 0.084663,
+                    "SubmissionNumber": 419786,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10262.0,
+            "TotalScore": 0.084663,
+            "state_score_percentile": 69,
+            "us_score_percentile": 65
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305203382320",
+                    "MaxOnsite": "05",
+                    "Pounds": 2273.0,
+                    "Score": 0.01859,
+                    "SubmissionNumber": 496719,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203382344",
+                    "MaxOnsite": "02",
+                    "Pounds": 51.0,
+                    "Score": 91.7374,
+                    "SubmissionNumber": 496721,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2324.0,
+            "TotalScore": 91.75599,
+            "state_score_percentile": 55,
+            "us_score_percentile": 51
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204453676",
+                    "MaxOnsite": "02",
+                    "Pounds": 17.5,
+                    "Score": 31.1844,
+                    "SubmissionNumber": 594010,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17.5,
+            "TotalScore": 31.1844,
+            "state_score_percentile": 19,
+            "us_score_percentile": 20
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307207080957",
+                    "MaxOnsite": "02",
+                    "Pounds": 26.3,
+                    "Score": 46.4238,
+                    "SubmissionNumber": 743112,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 26.3,
+            "TotalScore": 46.4238,
+            "state_score_percentile": 21,
+            "us_score_percentile": 23
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206509440",
+                    "MaxOnsite": "02",
+                    "Pounds": 43.4,
+                    "Score": 75.8787,
+                    "SubmissionNumber": 774746,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 43.4,
+            "TotalScore": 75.8787,
+            "state_score_percentile": 25,
+            "us_score_percentile": 26
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309208755658",
+                    "MaxOnsite": "02",
+                    "Pounds": 81.7,
+                    "Score": 141.468,
+                    "SubmissionNumber": 910951,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 81.7,
+            "TotalScore": 141.468,
+            "state_score_percentile": 27,
+            "us_score_percentile": 31
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208407433",
+                    "MaxOnsite": "02",
+                    "Pounds": 51.2,
+                    "Score": 87.7951,
+                    "SubmissionNumber": 943358,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 51.2,
+            "TotalScore": 87.7951,
+            "state_score_percentile": 28,
+            "us_score_percentile": 28
+        }
+    },
+    "FIPS": "72097",
+    "FRSID": "110000580675",
+    "FacilityID": "00680MYGZGMALEC",
+    "FacilityNumber": 110288,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.247972,
+    "Longitude": -67.152727,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 562,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 9,
+            "us_count": 623,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 9,
+            "us_count": 630,
+            "us_pounds_pct": 2,
+            "us_score_pct": 0
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 624,
+            "us_pounds_pct": 1,
+            "us_score_pct": 0
+        },
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 20,
+            "us_count": 633,
+            "us_pounds_pct": 12,
+            "us_score_pct": 1
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 18,
+            "us_count": 620,
+            "us_pounds_pct": 15,
+            "us_score_pct": 0
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 30,
+            "us_count": 621,
+            "us_pounds_pct": 11,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 22,
+            "us_count": 610,
+            "us_pounds_pct": 5,
+            "us_score_pct": 19
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 633,
+            "us_pounds_pct": 7,
+            "us_score_pct": 22
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 27,
+            "us_count": 622,
+            "us_pounds_pct": 6,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 614,
+            "us_pounds_pct": 8,
+            "us_score_pct": 36
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 602,
+            "us_pounds_pct": 7,
+            "us_score_pct": 31
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICS2": {
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 22,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 10,
+            "us_count": 32,
+            "us_pounds_pct": 28,
+            "us_score_pct": 3
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 10,
+            "us_count": 30,
+            "us_pounds_pct": 20,
+            "us_score_pct": 3
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 26,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 27,
+            "us_pounds_pct": 29,
+            "us_score_pct": 7
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 22,
+            "us_count": 27,
+            "us_pounds_pct": 25,
+            "us_score_pct": 7
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 28,
+            "us_pounds_pct": 25,
+            "us_score_pct": 28
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 21,
+            "state_score_pct": 14,
+            "us_count": 26,
+            "us_pounds_pct": 9,
+            "us_score_pct": 15
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 10,
+            "us_count": 29,
+            "us_pounds_pct": 17,
+            "us_score_pct": 13
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 22,
+            "us_count": 29,
+            "us_pounds_pct": 20,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 28,
+            "us_pounds_pct": 17,
+            "us_score_pct": 35
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 25,
+            "us_pounds_pct": 16,
+            "us_score_pct": 24
+        },
+        "naicscode": "221121",
+        "name": "Electric Bulk Power Transmission and Control"
+    },
+    "NAICS3": {
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 24,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 10,
+            "us_count": 36,
+            "us_pounds_pct": 30,
+            "us_score_pct": 13
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 10,
+            "us_count": 32,
+            "us_pounds_pct": 18,
+            "us_score_pct": 9
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 26,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 30,
+            "us_pounds_pct": 26,
+            "us_score_pct": 13
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 22,
+            "us_count": 28,
+            "us_pounds_pct": 32,
+            "us_score_pct": 10
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 26,
+            "us_pounds_pct": 15,
+            "us_score_pct": 30
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 21,
+            "state_score_pct": 14,
+            "us_count": 23,
+            "us_pounds_pct": 10,
+            "us_score_pct": 17
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 10,
+            "us_count": 26,
+            "us_pounds_pct": 19,
+            "us_score_pct": 19
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 22,
+            "us_count": 24,
+            "us_pounds_pct": 16,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 22,
+            "us_pounds_pct": 9,
+            "us_score_pct": 40
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 21,
+            "us_pounds_pct": 14,
+            "us_score_pct": 28
+        },
+        "naicscode": "221122",
+        "name": "Electric Power Distribution"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MAYAGUEZ GAS TURBINES POWER PL ANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "090034703",
+    "ParentName": "PUERTO RICO ELECTRIC POWER AUTHORITY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CARLOS MONROIG",
+    "PublicContactPhone": "7875214691",
+    "RCRANumber": "PRD987379856",
+    "RadialDistance": 99399,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 558,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 9,
+            "us_count": 631,
+            "us_pounds_pct": 5,
+            "us_score_pct": 2
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 9,
+            "us_count": 638,
+            "us_pounds_pct": 4,
+            "us_score_pct": 1
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 623,
+            "us_pounds_pct": 2,
+            "us_score_pct": 0
+        },
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 20,
+            "us_count": 632,
+            "us_pounds_pct": 14,
+            "us_score_pct": 1
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 18,
+            "us_count": 618,
+            "us_pounds_pct": 17,
+            "us_score_pct": 1
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 30,
+            "us_count": 612,
+            "us_pounds_pct": 12,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 22,
+            "us_count": 588,
+            "us_pounds_pct": 6,
+            "us_score_pct": 20
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 607,
+            "us_pounds_pct": 7,
+            "us_score_pct": 21
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 27,
+            "us_count": 596,
+            "us_pounds_pct": 7,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 585,
+            "us_pounds_pct": 9,
+            "us_score_pct": 35
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 578,
+            "us_pounds_pct": 7,
+            "us_score_pct": 30
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 3.7369,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 76.1878,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 17.0141,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "MALECON AVE",
+    "SubmitLat": 18.22306,
+    "SubmitLong": 67.16778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -118,
+    "Y": 34,
+    "ZIP9": "00680",
+    "ZIPCode": "00680"
+}

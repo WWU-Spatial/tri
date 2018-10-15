@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PAULSBORO",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "012434056",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 8028.282199,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1396100050689",
+                    "MaxOnsite": "04",
+                    "Pounds": 34.0,
+                    "Score": 2.8127199999999997,
+                    "SubmissionNumber": 1752495,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 34.0,
+            "TotalScore": 2.8127199999999997,
+            "state_score_percentile": 9,
+            "us_score_percentile": 10
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1399130680337",
+                    "MaxOnsite": "04",
+                    "Pounds": 21.0,
+                    "Score": 21.723399999999998,
+                    "SubmissionNumber": 2047071,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 21.0,
+            "TotalScore": 21.723399999999998,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1300140305107",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 1.07202,
+                    "SubmissionNumber": 27415,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.07202,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110000321161",
+    "FacilityID": "08066NLCCH1927N",
+    "FacilityNumber": 115181,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.818116,
+    "Longitude": -75.208605,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 33,
+            "us_count": 320,
+            "us_pounds_pct": 12,
+            "us_score_pct": 29
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 28,
+            "us_count": 335,
+            "us_pounds_pct": 9,
+            "us_score_pct": 45
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 33,
+            "us_count": 343,
+            "us_pounds_pct": 0,
+            "us_score_pct": 23
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0117013",
+    "Name": "ONDEO NALCO CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "LEO HOLDING CO",
+    "PreferredLat": 39.83495,
+    "PreferredLong": 75.22179,
+    "PublicContactName": "R.C. VON DULLEN",
+    "PublicContactPhone": "6303051555",
+    "RCRANumber": "NJT000035998",
+    "RadialDistance": 2701949,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 338,
+            "us_pounds_pct": 11,
+            "us_score_pct": 31
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 50,
+            "us_count": 310,
+            "us_pounds_pct": 9,
+            "us_score_pct": 45
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 40,
+            "us_count": 317,
+            "us_pounds_pct": 0,
+            "us_score_pct": 23
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1927 NOLTE DR.",
+    "SubmitLat": 39.81861,
+    "SubmitLong": 75.205,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2160,
+    "Y": 2542,
+    "ZIP9": "08066",
+    "ZIPCode": "08066"
+}

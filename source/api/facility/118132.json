@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RIDGWAY",
+    "County": "PA,ELK",
+    "DUNS": "003005766",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 140666.549804,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130678992",
+                    "MaxOnsite": "03",
+                    "Pounds": 37787.0,
+                    "Score": 28.2742,
+                    "SubmissionNumber": 2047000,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 37787.0,
+            "TotalScore": 28.2742,
+            "state_score_percentile": 78,
+            "us_score_percentile": 75
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140612161",
+                    "MaxOnsite": "03",
+                    "Pounds": 31660.0,
+                    "Score": 23.5734,
+                    "SubmissionNumber": 48146,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 31660.0,
+            "TotalScore": 23.5734,
+            "state_score_percentile": 77,
+            "us_score_percentile": 74
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150756284",
+                    "MaxOnsite": "03",
+                    "Pounds": 37191.0,
+                    "Score": 27.2113,
+                    "SubmissionNumber": 161379,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 37191.0,
+            "TotalScore": 27.2113,
+            "state_score_percentile": 81,
+            "us_score_percentile": 79
+        }
+    },
+    "FIPS": "42047",
+    "FRSID": "110010979940",
+    "FacilityID": "15853CRLSLGILLI",
+    "FacilityNumber": 118132,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.41848,
+    "Longitude": -78.73874,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 37,
+            "us_pounds_pct": 91,
+            "us_score_pct": 35
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 72,
+            "us_pounds_pct": 97,
+            "us_score_pct": 33
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 80,
+            "us_pounds_pct": 98,
+            "us_score_pct": 36
+        },
+        "naicscode": "324122",
+        "name": "Asphalt Shingle and Coating Materials Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CARLISLE MOTION CONTROL INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003005766",
+    "ParentName": "CARLISLE COMPANIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PATRICK REILLY",
+    "PublicContactPhone": "5408984444",
+    "RCRANumber": "PAD002124253",
+    "RadialDistance": 2600115,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 22,
+            "us_count": 512,
+            "us_pounds_pct": 80,
+            "us_score_pct": 36
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 498,
+            "us_pounds_pct": 81,
+            "us_score_pct": 35
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 532,
+            "us_pounds_pct": 87,
+            "us_score_pct": 40
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "GILLIS AVE.",
+    "SubmitLat": 41.42,
+    "SubmitLong": 78.73833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1758,
+    "Y": 2686,
+    "ZIP9": "15853",
+    "ZIPCode": "15853"
+}

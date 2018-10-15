@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHEEKTOWAGA",
+    "County": "NY,ERIE",
+    "DUNS": "002107182",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5575.39752,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1399130314937",
+                    "MaxOnsite": "03",
+                    "Pounds": 19317.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2016859,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130314949",
+                    "MaxOnsite": "03",
+                    "Pounds": 17910.0,
+                    "Score": 1.37311,
+                    "SubmissionNumber": 2016860,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 37227.0,
+            "TotalScore": 1.37311,
+            "state_score_percentile": 82,
+            "us_score_percentile": 75
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200723272",
+                    "MaxOnsite": "04",
+                    "Pounds": 14491.0,
+                    "Score": 1.08431,
+                    "SubmissionNumber": 258657,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14491.0,
+            "TotalScore": 1.08431,
+            "state_score_percentile": 77,
+            "us_score_percentile": 68
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201644729",
+                    "MaxOnsite": "04",
+                    "Pounds": 2228.0,
+                    "Score": 0.165213,
+                    "SubmissionNumber": 340763,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2228.0,
+            "TotalScore": 0.165213,
+            "state_score_percentile": 56,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000839004",
+    "FacilityID": "14227DNRCR145GR",
+    "FacilityNumber": 117225,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.895538,
+    "Longitude": -78.778575,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 125,
+            "us_pounds_pct": 51,
+            "us_score_pct": 32
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 95,
+            "us_pounds_pct": 41,
+            "us_score_pct": 23
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 87,
+            "us_pounds_pct": 27,
+            "us_score_pct": 6
+        },
+        "naicscode": "337122",
+        "name": "Nonupholstered Wood Household Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DINAIRE LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.89583,
+    "PreferredLong": 78.77917,
+    "PublicContactName": "KEVIN SCHMITT",
+    "PublicContactPhone": "7168941201",
+    "RCRANumber": "NYD986867778",
+    "RadialDistance": 2719971,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 162,
+            "us_pounds_pct": 58,
+            "us_score_pct": 33
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 108,
+            "us_pounds_pct": 42,
+            "us_score_pct": 25
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 96,
+            "us_pounds_pct": 27,
+            "us_score_pct": 8
+        },
+        "name": "Wood household furniture, except upholstered",
+        "siccode": "2511"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.716,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.192,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "145 GRUNER RD",
+    "SubmitLat": 42.89472,
+    "SubmitLong": 78.77806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1717,
+    "Y": 2886,
+    "ZIP9": "14227",
+    "ZIPCode": "14227"
+}

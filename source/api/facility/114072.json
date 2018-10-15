@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FAIRFIELD",
+    "County": "NJ,ESSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21846.594397,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201099759",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.0,
+                    "Score": 9.7133,
+                    "SubmissionNumber": 290907,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 9.7133,
+            "state_score_percentile": 7,
+            "us_score_percentile": 9
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202129211",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 6.48,
+                    "SubmissionNumber": 383554,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 6.48,
+            "state_score_percentile": 8,
+            "us_score_percentile": 9
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203143399",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.0,
+                    "Score": 10.03674,
+                    "SubmissionNumber": 475335,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 10.03674,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110012708917",
+    "FacilityID": "07004HTTMR20NEW",
+    "FacilityNumber": 114072,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.87923,
+    "Longitude": -74.273729,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 25,
+            "us_score_pct": 41
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 18,
+            "us_score_pct": 36
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "naicscode": "334512",
+        "name": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HEAT-TIMER CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN GOBEE",
+    "PublicContactPhone": "9735754004",
+    "RCRANumber": "NA",
+    "RadialDistance": 2836616,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 50
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 23,
+            "us_score_pct": 46
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 36,
+            "us_score_pct": 72
+        },
+        "name": "Automatic controls for regulating residential and commercial environments and appliances",
+        "siccode": "3822"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "382",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.096,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "20 NEW DUTCH LN",
+    "SubmitLat": 40.87944,
+    "SubmitLong": 74.27389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2223,
+    "Y": 2706,
+    "ZIP9": "07004",
+    "ZIPCode": "07004"
+}

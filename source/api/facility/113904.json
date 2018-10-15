@@ -1,0 +1,275 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "OAKVILLE",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "054873229",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 50776.771054,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105122042",
+                    "MaxOnsite": "04",
+                    "Pounds": 11750.0,
+                    "Score": 0.768669,
+                    "SubmissionNumber": 1798814,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105122055",
+                    "MaxOnsite": "04",
+                    "Pounds": 13750.0,
+                    "Score": 0.901386,
+                    "SubmissionNumber": 1798815,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25500.0,
+            "TotalScore": 1.670055,
+            "state_score_percentile": 76,
+            "us_score_percentile": 67
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115231072",
+                    "MaxOnsite": "04",
+                    "Pounds": 11805.0,
+                    "Score": 0.688977,
+                    "SubmissionNumber": 1887865,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115231084",
+                    "MaxOnsite": "04",
+                    "Pounds": 10105.0,
+                    "Score": 0.577644,
+                    "SubmissionNumber": 1887866,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21910.0,
+            "TotalScore": 1.266621,
+            "state_score_percentile": 76,
+            "us_score_percentile": 66
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398120284524",
+                    "MaxOnsite": "04",
+                    "Pounds": 10805.0,
+                    "Score": 0.632845,
+                    "SubmissionNumber": 1922718,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120284536",
+                    "MaxOnsite": "04",
+                    "Pounds": 12805.0,
+                    "Score": 0.734326,
+                    "SubmissionNumber": 1922719,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120284548",
+                    "MaxOnsite": "04",
+                    "Pounds": 482.0,
+                    "Score": 0.036345,
+                    "SubmissionNumber": 1922720,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 24092.0,
+            "TotalScore": 1.403516,
+            "state_score_percentile": 76,
+            "us_score_percentile": 67
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399130594649",
+                    "MaxOnsite": "04",
+                    "Pounds": 2900.0,
+                    "Score": 0.204757,
+                    "SubmissionNumber": 2040351,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130594652",
+                    "MaxOnsite": "04",
+                    "Pounds": 560.0,
+                    "Score": 0.065902,
+                    "SubmissionNumber": 2040352,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3460.0,
+            "TotalScore": 0.270659,
+            "state_score_percentile": 47,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110000317390",
+    "FacilityID": "06779WBTCH27MAI",
+    "FacilityNumber": 113904,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.58672,
+    "Longitude": -73.082707,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 80,
+            "state_score_pct": 20,
+            "us_count": 79,
+            "us_pounds_pct": 79,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 22,
+            "us_count": 76,
+            "us_pounds_pct": 82,
+            "us_score_pct": 7
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 22,
+            "us_count": 73,
+            "us_pounds_pct": 83,
+            "us_score_pct": 9
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 11,
+            "us_count": 77,
+            "us_pounds_pct": 71,
+            "us_score_pct": 5
+        },
+        "naicscode": "336412",
+        "name": "Aircraft Engine and Engine Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HONEYWELL INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "139691877",
+    "ParentName": "HONEYWELL INTERNATIONAL INC",
+    "PreferredLat": 41.58667,
+    "PreferredLong": 73.08306,
+    "PublicContactName": "KEVIN J. BLAIR",
+    "PublicContactPhone": "5706216073",
+    "RCRANumber": "CTD054873229",
+    "RadialDistance": 2963402,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 22,
+            "us_count": 402,
+            "us_pounds_pct": 70,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 12,
+            "us_count": 388,
+            "us_pounds_pct": 66,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 12,
+            "us_count": 391,
+            "us_pounds_pct": 71,
+            "us_score_pct": 16
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 12,
+            "us_count": 399,
+            "us_pounds_pct": 41,
+            "us_score_pct": 6
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.7635,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 22.86,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "27 MAIN ST.",
+    "SubmitLat": 41.58667,
+    "SubmitLong": 73.08306,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2319,
+    "Y": 2830,
+    "ZIP9": "06779",
+    "ZIPCode": "06779"
+}

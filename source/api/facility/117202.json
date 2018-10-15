@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST SENECA",
+    "County": "NY,ERIE",
+    "DUNS": "108612367",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9397.096308,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205453804",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.054532,
+                    "SubmissionNumber": 682587,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.054532,
+            "state_score_percentile": 13,
+            "us_score_percentile": 10
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206870774",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.054156,
+                    "SubmissionNumber": 808478,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.054156,
+            "state_score_percentile": 17,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110025330915",
+    "FacilityID": "14224PSTTF33NAM",
+    "FacilityNumber": 117202,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.848477,
+    "Longitude": -78.729273,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 38,
+            "us_pounds_pct": 18,
+            "us_score_pct": 23
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 42,
+            "us_pounds_pct": 16,
+            "us_score_pct": 26
+        },
+        "naicscode": "311513",
+        "name": "Cheese Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UPSTATE NIAGARA COOPERATIVE INC CULTURE FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004868055",
+    "ParentName": "UPSTATE NIAGARA COOPERATIVE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DANIEL DUNN",
+    "PublicContactPhone": "7165397000",
+    "RCRANumber": "NA",
+    "RadialDistance": 2718655,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 37,
+            "us_pounds_pct": 18,
+            "us_score_pct": 24
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 41,
+            "us_pounds_pct": 17,
+            "us_score_pct": 26
+        },
+        "name": "Natural, processed, and imitation cheese",
+        "siccode": "2022"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3300 N AMERICA DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1723,
+    "Y": 2880,
+    "ZIP9": "14224",
+    "ZIPCode": "14224"
+}

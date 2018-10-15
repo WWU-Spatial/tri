@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLYOKE",
+    "County": "MA,HAMPDEN",
+    "DUNS": "087451373",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29114.753152,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105211369",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.167838,
+                    "SubmissionNumber": 1804660,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1396105211371",
+                    "MaxOnsite": "06",
+                    "Pounds": 4194.0,
+                    "Score": 3.2496509999999996,
+                    "SubmissionNumber": 1804661,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4199.0,
+            "TotalScore": 3.4174889999999998,
+            "state_score_percentile": 48,
+            "us_score_percentile": 41
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1397115093647",
+                    "MaxOnsite": "05",
+                    "Pounds": 1000.0,
+                    "Score": 247.1986,
+                    "SubmissionNumber": 1881264,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1397115093650",
+                    "MaxOnsite": "06",
+                    "Pounds": 3900.0,
+                    "Score": 3.00029,
+                    "SubmissionNumber": 1881265,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4900.0,
+            "TotalScore": 250.19889,
+            "state_score_percentile": 49,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000762700",
+    "FacilityID": "01040MBLCH3HANO",
+    "FacilityNumber": 110570,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.190427,
+    "Longitude": -72.617268,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 26,
+            "us_count": 504,
+            "us_pounds_pct": 26,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 490,
+            "us_pounds_pct": 29,
+            "us_score_pct": 41
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "BASF CORP HOLYOKE PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "071014385",
+    "ParentName": "BASF CORP",
+    "PreferredLat": 42.19,
+    "PreferredLong": 72.615,
+    "PublicContactName": "DOUGLAS R. APGAR",
+    "PublicContactPhone": "8154231234",
+    "RCRANumber": "MAD087451373",
+    "RadialDistance": 3034682,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 21,
+            "state_pounds_pct": 47,
+            "state_score_pct": 38,
+            "us_count": 530,
+            "us_pounds_pct": 27,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 21,
+            "state_pounds_pct": 52,
+            "state_score_pct": 66,
+            "us_count": 524,
+            "us_pounds_pct": 28,
+            "us_score_pct": 39
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "3 HANOVER ST.",
+    "SubmitLat": 42.19,
+    "SubmitLong": 72.615,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2345,
+    "Y": 2922,
+    "ZIP9": "010405411",
+    "ZIPCode": "01040"
+}

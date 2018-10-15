@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STIRLING",
+    "County": "NJ,SOMERSET",
+    "DUNS": "840552061",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27300.579178,
+    "DistanceToReach": 420.03767,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1396100077609",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.000916,
+                    "SubmissionNumber": 1754823,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.000916,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1399135169581",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.237076,
+                    "SubmissionNumber": 2067811,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 0.237076,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110007702021",
+    "FacilityID": "07980GLSFLSTIRL",
+    "FacilityNumber": 115054,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.67726,
+    "Longitude": -74.48962,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 522,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 537,
+            "us_pounds_pct": 9,
+            "us_score_pct": 16
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0029963",
+    "Name": "GLASFLEX",
+    "NearComID": 6250862,
+    "NearReach": "02030103000816",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001161827",
+    "ParentName": "UNIROYAL TECH CORP",
+    "PreferredLat": 40.66528,
+    "PreferredLong": 74.48333,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NJD001314806",
+    "RadialDistance": 2808509,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 657,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 681,
+            "us_pounds_pct": 9,
+            "us_score_pct": 16
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.2964,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "219-223 STIRLING RD.",
+    "SubmitLat": 40.66528,
+    "SubmitLong": 74.48333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2207,
+    "Y": 2674,
+    "ZIP9": "07980",
+    "ZIPCode": "07980"
+}

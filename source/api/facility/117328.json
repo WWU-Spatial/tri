@@ -1,0 +1,246 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LYONS",
+    "County": "NY,WAYNE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 69998.300263,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206861458",
+                    "MaxOnsite": "02",
+                    "Pounds": 20.15,
+                    "Score": 0.0,
+                    "SubmissionNumber": 807603,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206861460",
+                    "MaxOnsite": "03",
+                    "Pounds": 235.38,
+                    "Score": 3371.1,
+                    "SubmissionNumber": 807604,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.53,
+            "TotalScore": 3371.1,
+            "state_score_percentile": 43,
+            "us_score_percentile": 36
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207670872",
+                    "MaxOnsite": "02",
+                    "Pounds": 35.410000000000004,
+                    "Score": 0.0,
+                    "SubmissionNumber": 879242,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207670884",
+                    "MaxOnsite": "03",
+                    "Pounds": 413.23,
+                    "Score": 6006.41,
+                    "SubmissionNumber": 879243,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 448.64000000000004,
+            "TotalScore": 6006.41,
+            "state_score_percentile": 50,
+            "us_score_percentile": 42
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208299180",
+                    "MaxOnsite": "02",
+                    "Pounds": 41.269999999999996,
+                    "Score": 0.0,
+                    "SubmissionNumber": 934016,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208299192",
+                    "MaxOnsite": "03",
+                    "Pounds": 481.43,
+                    "Score": 6689.5,
+                    "SubmissionNumber": 934017,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 522.7,
+            "TotalScore": 6689.5,
+            "state_score_percentile": 51,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "36117",
+    "FRSID": "110006701514",
+    "FacilityID": "1448WMDLND3CLER",
+    "FacilityNumber": 117328,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.052583,
+    "Longitude": -76.975,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 219,
+            "us_pounds_pct": 81,
+            "us_score_pct": 78
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 220,
+            "us_pounds_pct": 86,
+            "us_score_pct": 83
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 94,
+            "state_score_pct": 100,
+            "us_count": 219,
+            "us_pounds_pct": 86,
+            "us_score_pct": 86
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICS2": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "237310",
+        "name": "Highway, Street, and Bridge Construction"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "MIDLAND ASPHALT MATERIALS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "BARRETT INDUSTRIES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BILL HAYNES",
+    "PublicContactPhone": "3155752578",
+    "RCRANumber": "NYD000284612",
+    "RadialDistance": 2832049,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 213,
+            "us_pounds_pct": 81,
+            "us_score_pct": 79
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 87,
+            "us_score_pct": 83
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 94,
+            "state_score_pct": 100,
+            "us_count": 211,
+            "us_pounds_pct": 87,
+            "us_score_pct": 87
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "300 COLE RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1890,
+    "Y": 2941,
+    "ZIP9": "14489",
+    "ZIPCode": "14489"
+}

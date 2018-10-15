@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WAYNESBURG",
+    "County": "PA,GREENE",
+    "DUNS": "293092011",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67027.307143,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301201928203",
+                    "MaxOnsite": "02",
+                    "Pounds": 22980.0,
+                    "Score": 162.0474,
+                    "SubmissionNumber": 189936,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 22980.0,
+            "TotalScore": 162.0474,
+            "state_score_percentile": 76,
+            "us_score_percentile": 74
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1302201928330",
+                    "MaxOnsite": "02",
+                    "Pounds": 42000.0,
+                    "Score": 277.6541,
+                    "SubmissionNumber": 284302,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 42000.0,
+            "TotalScore": 277.6541,
+            "state_score_percentile": 84,
+            "us_score_percentile": 81
+        }
+    },
+    "FIPS": "42059",
+    "FRSID": "110020059201",
+    "FacilityID": "15370KYWFM317ER",
+    "FacilityNumber": 117923,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.89923,
+    "Longitude": -80.14622,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 22,
+            "state_pounds_pct": 72,
+            "state_score_pct": 100,
+            "us_count": 528,
+            "us_pounds_pct": 60,
+            "us_score_pct": 87
+        },
+        "2002": {
+            "state_count": 21,
+            "state_pounds_pct": 90,
+            "state_score_pct": 100,
+            "us_count": 521,
+            "us_pounds_pct": 76,
+            "us_score_pct": 89
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KYOWA OF AMERICA CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "KYOWA OF AMERICA CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JIM PORTER",
+    "PublicContactPhone": "7246274700",
+    "RCRANumber": "NA",
+    "RadialDistance": 2395484,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2001": {
+            "state_count": 32,
+            "state_pounds_pct": 71,
+            "state_score_pct": 93,
+            "us_count": 668,
+            "us_pounds_pct": 63,
+            "us_score_pct": 88
+        },
+        "2002": {
+            "state_count": 33,
+            "state_pounds_pct": 81,
+            "state_score_pct": 93,
+            "us_count": 663,
+            "us_pounds_pct": 79,
+            "us_score_pct": 89
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "317 E ROY FURMAN HWY",
+    "SubmitLat": 39.89972,
+    "SubmitLong": 80.14028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1651,
+    "Y": 2454,
+    "ZIP9": "15370",
+    "ZIPCode": "15370"
+}

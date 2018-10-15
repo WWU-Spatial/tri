@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLUMSTED",
+    "County": "NJ,OCEAN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 68242.165427,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1305204018384",
+                    "MaxOnsite": "03",
+                    "Pounds": 3400.0,
+                    "Score": 0.28452,
+                    "SubmissionNumber": 555341,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 3400.0,
+            "TotalScore": 0.28452,
+            "state_score_percentile": 67,
+            "us_score_percentile": 54
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1306204656728",
+                    "MaxOnsite": "03",
+                    "Pounds": 2734.0,
+                    "Score": 0.234258,
+                    "SubmissionNumber": 612612,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2734.0,
+            "TotalScore": 0.234258,
+            "state_score_percentile": 63,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "34029",
+    "FRSID": "110025330826",
+    "FacilityID": "08533PNCLLPLUMS",
+    "FacilityNumber": 115354,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.08176,
+    "Longitude": -74.49165,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 505,
+            "us_pounds_pct": 21,
+            "us_score_pct": 15
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 40,
+            "us_count": 492,
+            "us_pounds_pct": 20,
+            "us_score_pct": 13
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PENCELL PLASTICS CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WAYNE RUOTOLO",
+    "PublicContactPhone": "6097583201",
+    "RCRANumber": "NA",
+    "RadialDistance": 2768270,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 42,
+            "us_count": 610,
+            "us_pounds_pct": 23,
+            "us_score_pct": 15
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 42,
+            "us_count": 569,
+            "us_pounds_pct": 22,
+            "us_score_pct": 12
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "PLUMSTED INDUSTRIAL PARK RT 537",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2225,
+    "Y": 2594,
+    "ZIP9": "08533",
+    "ZIPCode": "08533"
+}

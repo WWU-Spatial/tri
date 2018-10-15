@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LIVERPOOL",
+    "County": "NY,ONONDAGA",
+    "DUNS": "047250444",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5530.957467,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1396100121084",
+                    "MaxOnsite": "03",
+                    "Pounds": 40.0,
+                    "Score": 0.512735,
+                    "SubmissionNumber": 1758615,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 40.0,
+            "TotalScore": 0.512735,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1397110291679",
+                    "MaxOnsite": "03",
+                    "Pounds": 134.0,
+                    "Score": 1.082436,
+                    "SubmissionNumber": 1849429,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 134.0,
+            "TotalScore": 1.082436,
+            "state_score_percentile": 14,
+            "us_score_percentile": 12
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1398120228768",
+                    "MaxOnsite": "03",
+                    "Pounds": 123.0,
+                    "Score": 0.985965,
+                    "SubmissionNumber": 1918456,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 123.0,
+            "TotalScore": 0.985965,
+            "state_score_percentile": 13,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110041966183",
+    "FacilityID": "13088FSTK 7120H",
+    "FacilityNumber": 116627,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.115228,
+    "Longitude": -76.185144,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 33,
+            "us_pounds_pct": 21,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 30,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 34,
+            "us_pounds_pct": 29,
+            "us_score_pct": 11
+        },
+        "naicscode": "333999",
+        "name": "All Other Miscellaneous General Purpose Machinery Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3339",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "OSMONICS SYRACUSE FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "047250444",
+    "ParentName": "OSMONICS INC",
+    "PreferredLat": 43.11611,
+    "PreferredLong": 76.185,
+    "PublicContactName": "GREH HILTON",
+    "PublicContactPhone": "3154536100",
+    "RCRANumber": "NYD982179210",
+    "RadialDistance": 2882123,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 35,
+            "us_pounds_pct": 30,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 37,
+            "us_pounds_pct": 32,
+            "us_score_pct": 18
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 42,
+            "us_pounds_pct": 38,
+            "us_score_pct": 11
+        },
+        "name": "General industrial machinery and equipment, n.e.c.",
+        "siccode": "3569"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "7120 HENRY CLAY BLVD.",
+    "SubmitLat": 43.125,
+    "SubmitLong": 76.20833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1966,
+    "Y": 2966,
+    "ZIP9": "130885344",
+    "ZIPCode": "13088"
+}

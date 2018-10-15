@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GUAYANILLA",
+    "County": "PR,GUAYANILLA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 93463.212722,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105294019",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.00656,
+                    "SubmissionNumber": 1809599,
+                    "Use": ""
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105294021",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.006,
+                    "SubmissionNumber": 1809600,
+                    "Use": ""
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.01256,
+            "state_score_percentile": 9,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115151805",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.00605,
+                    "SubmissionNumber": 1884180,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.00605,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125144028",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.00244,
+                    "SubmissionNumber": 1974261,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.00244,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "72059",
+    "FRSID": "110000580586",
+    "FacilityID": "00656VSSLLBARRI",
+    "FacilityNumber": 110246,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 17.98913,
+    "Longitude": -66.75212,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 22,
+            "us_count": 634,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 10,
+            "us_count": 600,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 608,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ARMSTRONG HOLDING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 17.99111,
+    "PreferredLong": 66.7525,
+    "PublicContactName": "RAMON M GUZMAN",
+    "PublicContactPhone": "7877549070",
+    "RCRANumber": "NA",
+    "RadialDistance": 53192,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 613,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 579,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 580,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "BARRIO MANGAS",
+    "SubmitLat": 17.99111,
+    "SubmitLong": 66.7525,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -66,
+    "Y": -1,
+    "ZIP9": "00656",
+    "ZIPCode": "00656"
+}

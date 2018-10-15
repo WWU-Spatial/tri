@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "004394276",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25788.286471,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105243000",
+                    "MaxOnsite": "04",
+                    "Pounds": 50558.0,
+                    "Score": 292.454,
+                    "SubmissionNumber": 1806687,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 50558.0,
+            "TotalScore": 292.454,
+            "state_score_percentile": 82,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115034629",
+                    "MaxOnsite": "04",
+                    "Pounds": 50558.0,
+                    "Score": 289.749,
+                    "SubmissionNumber": 1877674,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 50558.0,
+            "TotalScore": 289.749,
+            "state_score_percentile": 82,
+            "us_score_percentile": 78
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120127699",
+                    "MaxOnsite": "04",
+                    "Pounds": 37639.0,
+                    "Score": 213.696,
+                    "SubmissionNumber": 1910089,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 37639.0,
+            "TotalScore": 213.696,
+            "state_score_percentile": 78,
+            "us_score_percentile": 74
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110039009408",
+    "FacilityID": "15206NBSCB6425P",
+    "FacilityNumber": 117828,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.457266,
+    "Longitude": -79.917114,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 61,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 56,
+            "us_score_pct": 81
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 35,
+            "us_score_pct": 70
+        },
+        "naicscode": "311821",
+        "name": "Cookie and Cracker Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3118",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "NABISCO BISCUIT CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "101241107",
+    "ParentName": "NABISCO INC",
+    "PreferredLat": 40.45694,
+    "PreferredLong": 79.91611,
+    "PublicContactName": "HENRY SANDBACH",
+    "PublicContactPhone": "2016827098",
+    "RCRANumber": "PAD004394276",
+    "RadialDistance": 2454288,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 60,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 55,
+            "us_score_pct": 75
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 35,
+            "us_score_pct": 70
+        },
+        "name": "Cookies and crackers",
+        "siccode": "2052"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "205",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.7986,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 18.8976,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.9144,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PA",
+    "Street": "6425 PENN AVE.",
+    "SubmitLat": 40.45694,
+    "SubmitLong": 79.91611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1662,
+    "Y": 2534,
+    "ZIP9": "15206",
+    "ZIPCode": "15206"
+}

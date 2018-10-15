@@ -1,0 +1,190 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTBURY",
+    "County": "NY,NASSAU",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 51467.364667,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105306880",
+                    "MaxOnsite": "03",
+                    "Pounds": 154145.0,
+                    "Score": 27.470679999999998,
+                    "SubmissionNumber": 1810434,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 154145.0,
+            "TotalScore": 27.470679999999998,
+            "state_score_percentile": 93,
+            "us_score_percentile": 90
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115085488",
+                    "MaxOnsite": "03",
+                    "Pounds": 56650.0,
+                    "Score": 9.647400000000001,
+                    "SubmissionNumber": 1880942,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 56650.0,
+            "TotalScore": 9.647400000000001,
+            "state_score_percentile": 86,
+            "us_score_percentile": 80
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000763424",
+    "FacilityID": "11590TSHCN30NYA",
+    "FacilityNumber": 116094,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.755746,
+    "Longitude": -73.560253,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 45,
+            "us_count": 150,
+            "us_pounds_pct": 83,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 139,
+            "us_pounds_pct": 71,
+            "us_score_pct": 50
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "TISHCON CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.75944,
+    "PreferredLong": 73.55944,
+    "PublicContactName": "YOUSSEF ELBAZ",
+    "PublicContactPhone": "5163333050",
+    "RCRANumber": "NYD986964849",
+    "RadialDistance": 2876110,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 84,
+            "state_score_pct": 53,
+            "us_count": 146,
+            "us_pounds_pct": 86,
+            "us_score_pct": 58
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 83,
+            "state_score_pct": 41,
+            "us_count": 136,
+            "us_pounds_pct": 75,
+            "us_score_pct": 47
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 89,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 78,
+            "us_score_pct": 41
+        },
+        "name": "Food preparations, n.e.c.",
+        "siccode": "2099"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 119,
+            "us_pounds_pct": 95,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 87,
+            "us_count": 110,
+            "us_pounds_pct": 85,
+            "us_score_pct": 45
+        },
+        "name": "Manufacturing industries, n.e.c.",
+        "siccode": "3999"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "30 NEW YORK AVE.",
+    "SubmitLat": 40.75944,
+    "SubmitLong": 73.55944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2298,
+    "Y": 2707,
+    "ZIP9": "11590",
+    "ZIPCode": "11590"
+}

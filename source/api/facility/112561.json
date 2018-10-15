@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ALEXANDRIA",
+    "County": "NH,GRAFTON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 118484.163276,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207652215",
+                    "MaxOnsite": "04",
+                    "Pounds": 725.0,
+                    "Score": 0.026725,
+                    "SubmissionNumber": 877519,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 725.0,
+            "TotalScore": 0.026725,
+            "state_score_percentile": 65,
+            "us_score_percentile": 46
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208653016",
+                    "MaxOnsite": "04",
+                    "Pounds": 585.0,
+                    "Score": 0.021845,
+                    "SubmissionNumber": 966601,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 585.0,
+            "TotalScore": 0.021845,
+            "state_score_percentile": 63,
+            "us_score_percentile": 44
+        }
+    },
+    "FIPS": "33009",
+    "FRSID": "110041999923",
+    "FacilityID": "0322WNDCKL151SM",
+    "FacilityNumber": 112561,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.561819,
+    "Longitude": -71.784522,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 11,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 20,
+            "us_score_pct": 4
+        },
+        "naicscode": "221119",
+        "name": "Other Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "INDECK ALEXANDRIA ENERGY CENTER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "INDECK ENERGY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRYAN COUTU",
+    "PublicContactPhone": "6037446355",
+    "RCRANumber": "",
+    "RadialDistance": 3181848,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 12
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 12
+        },
+        "name": "Combination utilities, n.e.c.",
+        "siccode": "4939"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "493",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NH",
+    "Street": "151 SMITH RIVER RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2379,
+    "Y": 3126,
+    "ZIP9": "03222",
+    "ZIPCode": "03222"
+}

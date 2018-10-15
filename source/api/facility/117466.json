@@ -1,0 +1,263 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "135811883",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 85405.243567,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105042055",
+                    "MaxOnsite": "04",
+                    "Pounds": 58.0,
+                    "Score": 5.12558,
+                    "SubmissionNumber": 1793427,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105042067",
+                    "MaxOnsite": "04",
+                    "Pounds": 85.0,
+                    "Score": 4751.02,
+                    "SubmissionNumber": 1793428,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 143.0,
+            "TotalScore": 4756.14558,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110061862",
+                    "MaxOnsite": "04",
+                    "Pounds": 85.0,
+                    "Score": 4785.49,
+                    "SubmissionNumber": 1829340,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110061874",
+                    "MaxOnsite": "05",
+                    "Pounds": 58.0,
+                    "Score": 5.1632,
+                    "SubmissionNumber": 1829341,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 143.0,
+            "TotalScore": 4790.6532,
+            "state_score_percentile": 15,
+            "us_score_percentile": 12
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125016624",
+                    "MaxOnsite": "04",
+                    "Pounds": 43.0,
+                    "Score": 3.85577,
+                    "SubmissionNumber": 1968347,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 43.0,
+            "TotalScore": 3.85577,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000328137",
+    "FacilityID": "14692BSCHL465PA",
+    "FacilityNumber": 117466,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.102157,
+    "Longitude": -77.707559,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 75,
+            "us_count": 561,
+            "us_pounds_pct": 21,
+            "us_score_pct": 61
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 546,
+            "us_pounds_pct": 23,
+            "us_score_pct": 61
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 522,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0001317",
+    "Name": "BAUSCH & LOMB INC FRAME CENTER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.105,
+    "PreferredLong": 77.7164,
+    "PublicContactName": "HOLLY ECHOLS",
+    "PublicContactPhone": "7163388064",
+    "RCRANumber": "NYD002207744",
+    "RadialDistance": 2795217,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 72,
+            "us_count": 575,
+            "us_pounds_pct": 22,
+            "us_score_pct": 62
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 23,
+            "state_score_pct": 70,
+            "us_count": 565,
+            "us_pounds_pct": 23,
+            "us_score_pct": 61
+        },
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 25,
+            "state_score_pct": 20,
+            "us_count": 546,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 12,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 77
+        },
+        "name": "Optical instruments and lenses",
+        "siccode": "3827"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 5,
+            "us_score_pct": 94
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 7,
+            "us_score_pct": 94
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 5,
+            "us_score_pct": 72
+        },
+        "name": "Ophthalmic goods",
+        "siccode": "3851"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "465 PAUL RD",
+    "SubmitLat": 43.10278,
+    "SubmitLong": 77.725,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1817,
+    "Y": 2934,
+    "ZIP9": "14624",
+    "ZIPCode": "14624"
+}

@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "POLAND",
+    "County": "ME,ANDROSCOGGIN",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 41565.255521,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207845672",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.019538,
+                    "SubmissionNumber": 895475,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207845684",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.6999999999999997,
+                    "Score": 23.686660000000003,
+                    "SubmissionNumber": 895476,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.8,
+            "TotalScore": 23.706198000000004,
+            "state_score_percentile": 21,
+            "us_score_percentile": 12
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208682373",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.7,
+                    "Score": 6.4338940000000004,
+                    "SubmissionNumber": 969403,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.7,
+            "TotalScore": 6.4338940000000004,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "23001",
+    "FRSID": "110008437557",
+    "FacilityID": "0427WPKNDS164SP",
+    "FacilityNumber": 112906,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.023226,
+    "Longitude": -70.351555,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 220,
+            "us_pounds_pct": 54,
+            "us_score_pct": 36
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 219,
+            "us_pounds_pct": 32,
+            "us_score_pct": 19
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC - POLAND",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN KORIS",
+    "PublicContactPhone": "2078542561",
+    "RCRANumber": "MED985466267",
+    "RadialDistance": 3304338,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 210,
+            "us_pounds_pct": 54,
+            "us_score_pct": 37
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 211,
+            "us_pounds_pct": 32,
+            "us_score_pct": 20
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "164 SPRINGWATER RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2499,
+    "Y": 3224,
+    "ZIP9": "04274",
+    "ZIPCode": "04274"
+}

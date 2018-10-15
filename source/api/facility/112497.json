@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NASHUA",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "007182335",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 56156.787502,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155170145",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.52,
+                    "Score": 0.77024,
+                    "SubmissionNumber": 182848,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.52,
+            "TotalScore": 0.77024,
+            "state_score_percentile": 12,
+            "us_score_percentile": 3
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200962381",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.42,
+                    "Score": 0.621926,
+                    "SubmissionNumber": 277783,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200962557",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.42,
+                    "Score": 40.9574,
+                    "SubmissionNumber": 277795,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.84,
+            "TotalScore": 41.579326,
+            "state_score_percentile": 17,
+            "us_score_percentile": 4
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201971645",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.37,
+                    "Score": 0.54772,
+                    "SubmissionNumber": 369223,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.37,
+            "TotalScore": 0.54772,
+            "state_score_percentile": 14,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110000885579",
+    "FacilityID": "03061SNDRS95CAN",
+    "FacilityNumber": 112497,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.76387,
+    "Longitude": -71.45782,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 72,
+            "us_pounds_pct": 15,
+            "us_score_pct": 26
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 25,
+            "us_score_pct": 68
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 72,
+            "us_pounds_pct": 15,
+            "us_score_pct": 27
+        },
+        "naicscode": "334419",
+        "name": "Other Electronic Component Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BAE SYSTEMS INFORMATION & ELECTRONIC SYSTEMS INTEGRATION",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005149120",
+    "ParentName": "BAE SYSTEMS IESI INC",
+    "PreferredLat": 42.76333,
+    "PreferredLong": 71.45889,
+    "PublicContactName": "MARYELLEN TANSEY",
+    "PublicContactPhone": "6038852817",
+    "RCRANumber": "NHD980732093",
+    "RadialDistance": 3148942,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 23,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 23,
+            "us_score_pct": 70
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 23,
+            "us_score_pct": 26
+        },
+        "name": "Electrical machinery, equipment, and supplies, n.e.c.",
+        "siccode": "3699"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "369",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.7113,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.0802,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.9448,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NH",
+    "Street": "95 CANAL ST",
+    "SubmitLat": 42.76333,
+    "SubmitLong": 71.4575,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2438,
+    "Y": 3028,
+    "ZIP9": "03061",
+    "ZIPCode": "03061"
+}

@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AVON",
+    "County": "MA,NORFOLK",
+    "DUNS": "047060215",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26374.397927,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105099790",
+                    "MaxOnsite": "02",
+                    "Pounds": 14310.0,
+                    "Score": 0.692261,
+                    "SubmissionNumber": 1797312,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14310.0,
+            "TotalScore": 0.692261,
+            "state_score_percentile": 68,
+            "us_score_percentile": 57
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115006405",
+                    "MaxOnsite": "02",
+                    "Pounds": 12987.0,
+                    "Score": 0.629005,
+                    "SubmissionNumber": 1875735,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12987.0,
+            "TotalScore": 0.629005,
+            "state_score_percentile": 67,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125294633",
+                    "MaxOnsite": "02",
+                    "Pounds": 9809.0,
+                    "Score": 0.475659,
+                    "SubmissionNumber": 1981017,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9809.0,
+            "TotalScore": 0.475659,
+            "state_score_percentile": 62,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110000311314",
+    "FacilityID": "02322VNTPN58EMA",
+    "FacilityNumber": 111757,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.129693,
+    "Longitude": -71.039144,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 23,
+            "state_score_pct": 23,
+            "us_count": 75,
+            "us_pounds_pct": 33,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 25,
+            "us_count": 73,
+            "us_pounds_pct": 30,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 73,
+            "us_pounds_pct": 24,
+            "us_score_pct": 17
+        },
+        "naicscode": "313320",
+        "name": "Fabric Coating Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "AVON TAPE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.13,
+    "PreferredLong": 71.03917,
+    "PublicContactName": "STEPHEN SHUMAN",
+    "PublicContactPhone": "5085848273",
+    "RCRANumber": "MA5000001065",
+    "RadialDistance": 3135589,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 21,
+            "us_count": 77,
+            "us_pounds_pct": 33,
+            "us_score_pct": 14
+        },
+        "1997": {
+            "state_count": 13,
+            "state_pounds_pct": 38,
+            "state_score_pct": 23,
+            "us_count": 74,
+            "us_pounds_pct": 32,
+            "us_score_pct": 14
+        },
+        "1998": {
+            "state_count": 13,
+            "state_pounds_pct": 30,
+            "state_score_pct": 23,
+            "us_count": 74,
+            "us_pounds_pct": 27,
+            "us_score_pct": 17
+        },
+        "name": "Coated fabrics, not rubberized",
+        "siccode": "2295"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 25,
+            "us_count": 121,
+            "us_pounds_pct": 29,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 41,
+            "us_count": 118,
+            "us_pounds_pct": 32,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 116,
+            "us_pounds_pct": 24,
+            "us_score_pct": 16
+        },
+        "name": "Coated and laminated paper, n.e.c.",
+        "siccode": "2672"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "229",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5791,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 15.24,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "58 E MAIN ST",
+    "SubmitLat": 42.13,
+    "SubmitLong": 71.03917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2501,
+    "Y": 2954,
+    "ZIP9": "02322",
+    "ZIPCode": "02322"
+}

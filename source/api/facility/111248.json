@@ -1,0 +1,255 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH ANDOVER",
+    "County": "MA,ESSEX",
+    "DUNS": "002292043",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 32955.002652,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204973857",
+                    "MaxOnsite": "02",
+                    "Pounds": 1474.0,
+                    "Score": 0.043559,
+                    "SubmissionNumber": 641547,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1474.0,
+            "TotalScore": 0.043559,
+            "state_score_percentile": 63,
+            "us_score_percentile": 47
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205295936",
+                    "MaxOnsite": "02",
+                    "Pounds": 853.0,
+                    "Score": 0.025306,
+                    "SubmissionNumber": 667935,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 853.0,
+            "TotalScore": 0.025306,
+            "state_score_percentile": 57,
+            "us_score_percentile": 44
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206364388",
+                    "MaxOnsite": "02",
+                    "Pounds": 789.0,
+                    "Score": 0.023498,
+                    "SubmissionNumber": 760898,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 789.0,
+            "TotalScore": 0.023498,
+            "state_score_percentile": 58,
+            "us_score_percentile": 45
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207348703",
+                    "MaxOnsite": "02",
+                    "Pounds": 720.0,
+                    "Score": 0.021527,
+                    "SubmissionNumber": 849045,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 720.0,
+            "TotalScore": 0.021527,
+            "state_score_percentile": 59,
+            "us_score_percentile": 46
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208444671",
+                    "MaxOnsite": "03",
+                    "Pounds": 625.0,
+                    "Score": 0.018758,
+                    "SubmissionNumber": 946906,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 625.0,
+            "TotalScore": 0.018758,
+            "state_score_percentile": 54,
+            "us_score_percentile": 44
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000794926",
+    "FacilityID": "01845RHMHS6WILL",
+    "FacilityNumber": 111248,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.65833,
+    "Longitude": -71.108306,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 336,
+            "us_pounds_pct": 40,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 33,
+            "us_count": 325,
+            "us_pounds_pct": 33,
+            "us_score_pct": 4
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 20,
+            "us_count": 332,
+            "us_pounds_pct": 34,
+            "us_score_pct": 3
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 33,
+            "us_count": 330,
+            "us_pounds_pct": 34,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 320,
+            "us_pounds_pct": 32,
+            "us_score_pct": 3
+        },
+        "naicscode": "325188",
+        "name": "All Other Basic Inorganic Chemical Manufacturing"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 487,
+            "us_pounds_pct": 23,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 496,
+            "us_pounds_pct": 17,
+            "us_score_pct": 6
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 12,
+            "us_count": 506,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 498,
+            "us_pounds_pct": 16,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 500,
+            "us_pounds_pct": 15,
+            "us_score_pct": 4
+        },
+        "naicscode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROHM & HAAS ELECTRONIC MATERIALS LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002292043",
+    "ParentName": "THE DOW CHEMICAL CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RANDY GOYETTE",
+    "PublicContactPhone": "9786891507",
+    "RCRANumber": "MA5000000836",
+    "RadialDistance": 3165025,
+    "ReachSource": "",
+    "Region": "1",
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "MA",
+    "Street": "60 WILLOW ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2476,
+    "Y": 3023,
+    "ZIP9": "01845",
+    "ZIPCode": "01845"
+}

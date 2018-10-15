@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EDISON",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "835693813",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26389.513045,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100232901",
+                    "MaxOnsite": "04",
+                    "Pounds": 1151.0,
+                    "Score": 33.305080000000004,
+                    "SubmissionNumber": 1768279,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396100232913",
+                    "MaxOnsite": "05",
+                    "Pounds": 20.0,
+                    "Score": 0.031471,
+                    "SubmissionNumber": 1768280,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1171.0,
+            "TotalScore": 33.33655100000001,
+            "state_score_percentile": 37,
+            "us_score_percentile": 30
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397110037191",
+                    "MaxOnsite": "05",
+                    "Pounds": 20.0,
+                    "Score": 0.031792,
+                    "SubmissionNumber": 1827134,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 0.031792,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398120494051",
+                    "MaxOnsite": "05",
+                    "Pounds": 14.0,
+                    "Score": 0.022477999999999998,
+                    "SubmissionNumber": 1938306,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 14.0,
+            "TotalScore": 0.022477999999999998,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000322099",
+    "FacilityID": "08837JMHBRRARIT",
+    "FacilityNumber": 115525,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.512883,
+    "Longitude": -74.359629,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 77,
+            "us_count": 92,
+            "us_pounds_pct": 38,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 84,
+            "us_pounds_pct": 11,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 78,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "naicscode": "325910",
+        "name": "Printing Ink Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "HERITAGE INKS INTERNATIONAL SUN CHEMICAL CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "835693813",
+    "ParentName": "HERITAGE INKS INTERNATIONAL",
+    "PreferredLat": 40.5594,
+    "PreferredLong": 74.33733,
+    "PublicContactName": "ADAM MEISTER",
+    "PublicContactPhone": "7085620550",
+    "RCRANumber": "NJD000632414",
+    "RadialDistance": 2806052,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 87,
+            "us_count": 94,
+            "us_pounds_pct": 39,
+            "us_score_pct": 80
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 84,
+            "us_pounds_pct": 11,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 79,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "name": "Printing ink",
+        "siccode": "2893"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "100 PERSHING AVE. RARITAN CENTER",
+    "SubmitLat": 40.49583,
+    "SubmitLong": 74.33028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2225,
+    "Y": 2655,
+    "ZIP9": "08837",
+    "ZIPCode": "08837"
+}

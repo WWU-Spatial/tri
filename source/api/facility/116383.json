@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 21972402,
+    "AssignedReach": "04140203000040",
+    "City": "ALBANY",
+    "County": "NY,ALBANY",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6708.027667,
+    "DistanceToReach": 3819.180848,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1396100296007",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 311.43429,
+                    "SubmissionNumber": 1773497,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 311.43429,
+            "state_score_percentile": 21,
+            "us_score_percentile": 17
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1397110461391",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 310.65049,
+                    "SubmissionNumber": 1864105,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 310.65049,
+            "state_score_percentile": 19,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110019401583",
+    "FacilityID": "12205MRCRY26RAI",
+    "FacilityNumber": 116383,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.68971,
+    "Longitude": -73.80416,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 44,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 37,
+            "us_score_pct": 48
+        },
+        "naicscode": "331000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3310",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 2,
+    "NPDESPermit": "NYR00B145",
+    "Name": "MERCURY REFINING CO INC",
+    "NearComID": 22744231,
+    "NearReach": "02020004000726",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "MERCURY REFINING CO INC",
+    "PreferredLat": 42.69056,
+    "PreferredLong": 73.81278,
+    "PublicContactName": "DAVID B COHEN",
+    "PublicContactPhone": "5184590846",
+    "RCRANumber": "NYD048148175",
+    "RadialDistance": 2993508,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 41,
+            "us_count": 198,
+            "us_pounds_pct": 23,
+            "us_score_pct": 48
+        },
+        "1997": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 45,
+            "us_count": 192,
+            "us_pounds_pct": 20,
+            "us_score_pct": 50
+        },
+        "name": "Secondary smelting and refining of nonferrous metals",
+        "siccode": "3341"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "334",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 4.8768,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.05,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "26 RAILROAD AVE",
+    "SubmitLat": 42.69056,
+    "SubmitLong": 73.81278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2212,
+    "Y": 2961,
+    "ZIP9": "12205",
+    "ZIPCode": "12205"
+}

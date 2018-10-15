@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GLOVERSVILLE",
+    "County": "NY,FULTON",
+    "DUNS": "052982725",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 56362.725034,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1396105106951",
+                    "MaxOnsite": "03",
+                    "Pounds": 3000.0,
+                    "Score": 0.129189,
+                    "SubmissionNumber": 1797780,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 3000.0,
+            "TotalScore": 0.129189,
+            "state_score_percentile": 45,
+            "us_score_percentile": 38
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1397110339177",
+                    "MaxOnsite": "03",
+                    "Pounds": 2700.0,
+                    "Score": 0.114995,
+                    "SubmissionNumber": 1853582,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2700.0,
+            "TotalScore": 0.114995,
+            "state_score_percentile": 47,
+            "us_score_percentile": 37
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1398120556651",
+                    "MaxOnsite": "03",
+                    "Pounds": 2697.0,
+                    "Score": 0.113594,
+                    "SubmissionNumber": 1943168,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2697.0,
+            "TotalScore": 0.113594,
+            "state_score_percentile": 46,
+            "us_score_percentile": 37
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1399130429804",
+                    "MaxOnsite": "03",
+                    "Pounds": 3416.0,
+                    "Score": 0.142265,
+                    "SubmissionNumber": 2026685,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 3416.0,
+            "TotalScore": 0.142265,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1300140333586",
+                    "MaxOnsite": "03",
+                    "Pounds": 2875.0,
+                    "Score": 0.118377,
+                    "SubmissionNumber": 29499,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 2875.0,
+            "TotalScore": 0.118377,
+            "state_score_percentile": 49,
+            "us_score_percentile": 42
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1301150752374",
+                    "MaxOnsite": "03",
+                    "Pounds": 2247.0,
+                    "Score": 0.092787,
+                    "SubmissionNumber": 161031,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 2247.0,
+            "TotalScore": 0.092787,
+            "state_score_percentile": 51,
+            "us_score_percentile": 45
+        }
+    },
+    "FIPS": "36035",
+    "FRSID": "110019306972",
+    "FacilityID": "12078CLNLT810WI",
+    "FacilityNumber": 116278,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.058418,
+    "Longitude": -74.349748,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 49,
+            "us_pounds_pct": 28,
+            "us_score_pct": 10
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 46,
+            "us_pounds_pct": 28,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 43,
+            "us_pounds_pct": 27,
+            "us_score_pct": 11
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 40,
+            "us_pounds_pct": 35,
+            "us_score_pct": 7
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 33,
+            "us_score_pct": 14
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 37,
+            "us_pounds_pct": 27,
+            "us_score_pct": 10
+        },
+        "naicscode": "316110",
+        "name": "Leather and Hide Tanning and Finishing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3161",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COLONIAL TANNING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.05857,
+    "PreferredLong": 74.35021,
+    "PublicContactName": "MATTHEW J SMRTIC",
+    "PublicContactPhone": "5187257190",
+    "RCRANumber": "NYD052982725",
+    "RadialDistance": 2986662,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 51,
+            "us_pounds_pct": 27,
+            "us_score_pct": 9
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 48,
+            "us_pounds_pct": 27,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 45,
+            "us_pounds_pct": 26,
+            "us_score_pct": 11
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 33,
+            "us_score_pct": 7
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 13
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 39,
+            "us_pounds_pct": 25,
+            "us_score_pct": 10
+        },
+        "name": "Leather tanning and finishing",
+        "siccode": "3111"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "311",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.8016,
+    "StackHeightSource": "New York",
+    "StackVelocity": 5.04,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "8 - 10 WILSON ST",
+    "SubmitLat": 43.05861,
+    "SubmitLong": 74.35028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2147,
+    "Y": 2998,
+    "ZIP9": "12078",
+    "ZIPCode": "12078"
+}

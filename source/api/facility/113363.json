@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "144921780",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30360.431388,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309208019568",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 1632.9499999999998,
+                    "SubmissionNumber": 908206,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 1632.9499999999998,
+            "state_score_percentile": 29,
+            "us_score_percentile": 19
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208386007",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 1634.133,
+                    "SubmissionNumber": 942426,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 1634.133,
+            "state_score_percentile": 29,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110030384858",
+    "FacilityID": "06111CVLTL275RI",
+    "FacilityNumber": 113363,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.661757,
+    "Longitude": -72.727031,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 50,
+            "us_pounds_pct": 27,
+            "us_score_pct": 66
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 49,
+            "us_pounds_pct": 25,
+            "us_score_pct": 61
+        },
+        "naicscode": "332710",
+        "name": "Machine Shops"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "EDAC TECHNOLOGIES CORP AERO DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "144921780",
+    "ParentName": "EDAC TECHNOLOGIES CORP",
+    "PreferredLat": 41.66028,
+    "PreferredLong": 72.73,
+    "PublicContactName": "AJ GOVAIN",
+    "PublicContactPhone": "8606672603",
+    "RCRANumber": "CTR000007278",
+    "RadialDistance": 2992018,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 15,
+            "state_score_pct": 30,
+            "us_count": 83,
+            "us_pounds_pct": 19,
+            "us_score_pct": 45
+        },
+        "2010": {
+            "state_count": 12,
+            "state_pounds_pct": 12,
+            "state_score_pct": 25,
+            "us_count": 81,
+            "us_pounds_pct": 16,
+            "us_score_pct": 44
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "275 RICHARD ST",
+    "SubmitLat": 41.66028,
+    "SubmitLong": 72.73,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2351,
+    "Y": 2849,
+    "ZIP9": "06111",
+    "ZIPCode": "06111"
+}

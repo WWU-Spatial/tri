@@ -1,0 +1,218 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERSET",
+    "County": "PA,SOMERSET",
+    "DUNS": "016089138",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 111165.701814,
+    "DistanceToReach": 557.408338,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206312997",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.042,
+                    "Score": 0.021284,
+                    "SubmissionNumber": 756160,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1308206313001",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0015,
+                    "Score": 0.000507,
+                    "SubmissionNumber": 756161,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.043500000000000004,
+            "TotalScore": 0.021791,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207640400",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.15,
+                    "Score": 0.076206,
+                    "SubmissionNumber": 876360,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207640412",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0053,
+                    "Score": 0.001795,
+                    "SubmissionNumber": 876361,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1553,
+            "TotalScore": 0.078001,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208683615",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.14,
+                    "Score": 0.071304,
+                    "SubmissionNumber": 969523,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1310208683627",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.005,
+                    "Score": 0.001698,
+                    "SubmissionNumber": 969524,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.14500000000000002,
+            "TotalScore": 0.07300200000000001,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110039019237",
+    "FacilityID": "1550WKMBRL1256V",
+    "FacilityNumber": 117959,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.992824,
+    "Longitude": -79.087215,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 7
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 26
+        },
+        "naicscode": "212112",
+        "name": "Bituminous Coal Underground Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "",
+    "Name": "ROX COAL - KIMBERLY RUN MINE",
+    "NearComID": 3806931,
+    "NearReach": "05020006000271",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "ROX COAL INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KIM BETCHER",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "",
+    "RadialDistance": 2465808,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 7
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 26
+        },
+        "name": "Bituminous coal and lignite underground mining",
+        "siccode": "1222"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1256 VILLAGE RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1758,
+    "Y": 2485,
+    "ZIP9": "15501",
+    "ZIPCode": "15501"
+}

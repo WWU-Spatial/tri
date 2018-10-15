@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ANDOVER",
+    "County": "MA,ESSEX",
+    "DUNS": "060102985",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35492.615623,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301203042306",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.8,
+                    "Score": 0.990777,
+                    "SubmissionNumber": 191226,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.8,
+            "TotalScore": 0.990777,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302203001779",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.8,
+                    "Score": 0.994385,
+                    "SubmissionNumber": 286247,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.8,
+            "TotalScore": 0.994385,
+            "state_score_percentile": 13,
+            "us_score_percentile": 4
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202541734",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.252,
+                    "SubmissionNumber": 420890,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.252,
+            "state_score_percentile": 17,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110003438995",
+    "FacilityID": "01810NDVRC3BRIC",
+    "FacilityNumber": 111172,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.675251,
+    "Longitude": -71.146541,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 20,
+            "us_count": 154,
+            "us_pounds_pct": 3,
+            "us_score_pct": 16
+        },
+        "2002": {
+            "state_count": 15,
+            "state_pounds_pct": 20,
+            "state_score_pct": 33,
+            "us_count": 137,
+            "us_pounds_pct": 4,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 21,
+            "state_score_pct": 50,
+            "us_count": 123,
+            "us_pounds_pct": 8,
+            "us_score_pct": 20
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ANDOVER CONTROLS CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "EDWARD HOWLETT",
+    "PublicContactPhone": "9789759471",
+    "RCRANumber": "MAD060102985",
+    "RadialDistance": 3163600,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 14,
+            "state_pounds_pct": 7,
+            "state_score_pct": 21,
+            "us_count": 157,
+            "us_pounds_pct": 5,
+            "us_score_pct": 18
+        },
+        "2002": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 25,
+            "us_count": 139,
+            "us_pounds_pct": 5,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 41,
+            "us_count": 124,
+            "us_pounds_pct": 8,
+            "us_score_pct": 20
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "300 BRICKSTONE SQUARE",
+    "SubmitLat": 42.67528,
+    "SubmitLong": 71.14583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2471,
+    "Y": 3024,
+    "ZIP9": "01810",
+    "ZIPCode": "01810"
+}

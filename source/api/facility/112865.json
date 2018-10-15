@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AUBURN",
+    "County": "ME,ANDROSCOGGIN",
+    "DUNS": "048813414",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 46624.882253,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396100423641",
+                    "MaxOnsite": "03",
+                    "Pounds": 44356.0,
+                    "Score": 9.75187,
+                    "SubmissionNumber": 1783481,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 44356.0,
+            "TotalScore": 9.75187,
+            "state_score_percentile": 69,
+            "us_score_percentile": 76
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110488564",
+                    "MaxOnsite": "03",
+                    "Pounds": 17383.0,
+                    "Score": 3.852713,
+                    "SubmissionNumber": 1865319,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110488905",
+                    "MaxOnsite": "02",
+                    "Pounds": 11631.0,
+                    "Score": 0.303519,
+                    "SubmissionNumber": 1865342,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1397110488917",
+                    "MaxOnsite": "02",
+                    "Pounds": 10496.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1865343,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 39510.0,
+            "TotalScore": 4.156232,
+            "state_score_percentile": 71,
+            "us_score_percentile": 75
+        }
+    },
+    "FIPS": "23001",
+    "FRSID": "110000314400",
+    "FacilityID": "04210BTTMS1891H",
+    "FacilityNumber": 112865,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.068162,
+    "Longitude": -70.269025,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 522,
+            "us_pounds_pct": 74,
+            "us_score_pct": 67
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 515,
+            "us_pounds_pct": 72,
+            "us_score_pct": 55
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BOTTOMS USA INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 44.06833,
+    "PreferredLong": 70.27,
+    "PublicContactName": "SCOTT DICK",
+    "PublicContactPhone": "2077862981",
+    "RCRANumber": "NA",
+    "RadialDistance": 3312617,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 657,
+            "us_pounds_pct": 76,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 657,
+            "us_pounds_pct": 74,
+            "us_score_pct": 57
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "1891 HOTEL RD",
+    "SubmitLat": 44.06833,
+    "SubmitLong": 70.27,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2505,
+    "Y": 3233,
+    "ZIP9": "04210",
+    "ZIPCode": "04210"
+}

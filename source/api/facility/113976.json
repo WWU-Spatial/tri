@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 7717364,
+    "AssignedReach": "01100005001956",
+    "City": "DANBURY",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "799825281",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 90384.300706,
+    "DistanceToReach": 1041.825708,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150427793",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.03,
+                    "Score": 0.02523,
+                    "SubmissionNumber": 132594,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.03,
+            "TotalScore": 0.02523,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200219273",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.03,
+                    "Score": 0.025319,
+                    "SubmissionNumber": 211879,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.03,
+            "TotalScore": 0.025319,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110001403357",
+    "FacilityID": "06810HGHSD100WO",
+    "FacilityNumber": 113976,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.372052,
+    "Longitude": -73.47133,
+    "Method": "ADDRESS MATCHING-STREET CENTERLINE",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 20,
+            "us_score_pct": 40
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 20,
+            "us_score_pct": 40
+        },
+        "naicscode": "333314",
+        "name": "Optical Instrument and Lens Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3333",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": 1,
+    "NPDESPermit": "SP0000006",
+    "Name": "GOODRICH CORP.",
+    "NearComID": 7717282,
+    "NearReach": "01100005000420",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004467452",
+    "ParentName": "GOODRICH CORP",
+    "PreferredLat": 41.37,
+    "PreferredLong": 73.47167,
+    "PublicContactName": "ROBERT MCINTIRE",
+    "PublicContactPhone": "2037975223",
+    "RCRANumber": "CTD043211903",
+    "RadialDistance": 2923219,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 18,
+            "us_score_pct": 36
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 18,
+            "us_score_pct": 36
+        },
+        "name": "Optical instruments and lenses",
+        "siccode": "3827"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "382",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 1.3837,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.5068,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.9017,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "100 WOOSTER HEIGHTS RD. MS/839",
+    "SubmitLat": 41.37,
+    "SubmitLong": 73.47167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2287,
+    "Y": 2792,
+    "ZIP9": "06810",
+    "ZIPCode": "06810"
+}

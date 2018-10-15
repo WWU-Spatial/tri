@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CONTOOCOOK",
+    "County": "NH,MERRIMACK",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 108671.575833,
+    "DistanceToReach": 34.497155,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105431136",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.051556,
+                    "SubmissionNumber": 1819166,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.051556,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115318166",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.052305,
+                    "SubmissionNumber": 1893428,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.052305,
+            "state_score_percentile": 21,
+            "us_score_percentile": 15
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125322370",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.053055,
+                    "SubmissionNumber": 1982467,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.053055,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "33013",
+    "FRSID": "110000496071",
+    "FacilityID": "03229PPRTC1966M",
+    "FacilityNumber": 112560,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.192392,
+    "Longitude": -71.747689,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 83,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "naicscode": "322130",
+        "name": "Paperboard Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 1,
+    "NPDESPermit": "NH0001511",
+    "Name": "PAPERTECH CORP.",
+    "NearComID": 6762034,
+    "NearReach": "01070003000160",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "614843522",
+    "ParentName": "CONITEK -SUNOCO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHELLE BOUCHARD",
+    "PublicContactPhone": "6037463500",
+    "RCRANumber": "NHD181799305",
+    "RadialDistance": 3158908,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "name": "Paperboard mills",
+        "siccode": "2631"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "263",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 1.2802,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 28.956,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7229,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "1966 MAPLE ST.",
+    "SubmitLat": 43.19167,
+    "SubmitLong": 71.74167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2395,
+    "Y": 3078,
+    "ZIP9": "03229",
+    "ZIPCode": "03229"
+}

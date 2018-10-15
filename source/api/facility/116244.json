@@ -1,0 +1,247 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AQUEBOGUE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "00044196",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 108693.731662,
+    "DistanceToReach": 1868.869688,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396105017180",
+                    "MaxOnsite": "04",
+                    "Pounds": 857.0,
+                    "Score": 845.2733,
+                    "SubmissionNumber": 1791722,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105017192",
+                    "MaxOnsite": "03",
+                    "Pounds": 25203.0,
+                    "Score": 3.490122,
+                    "SubmissionNumber": 1791723,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105017204",
+                    "MaxOnsite": "03",
+                    "Pounds": 537.0,
+                    "Score": 17.137102,
+                    "SubmissionNumber": 1791724,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105017216",
+                    "MaxOnsite": "03",
+                    "Pounds": 95.0,
+                    "Score": 38.2488,
+                    "SubmissionNumber": 1791725,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105017228",
+                    "MaxOnsite": "03",
+                    "Pounds": 4140.0,
+                    "Score": 15.808081000000001,
+                    "SubmissionNumber": 1791726,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 30832.0,
+            "TotalScore": 919.957405,
+            "state_score_percentile": 80,
+            "us_score_percentile": 71
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1397115055016",
+                    "MaxOnsite": "04",
+                    "Pounds": 512.0,
+                    "Score": 512.1139,
+                    "SubmissionNumber": 1878718,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115055028",
+                    "MaxOnsite": "03",
+                    "Pounds": 262.0,
+                    "Score": 8.430382999999999,
+                    "SubmissionNumber": 1878719,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115055030",
+                    "MaxOnsite": "03",
+                    "Pounds": 7070.0,
+                    "Score": 1.027346,
+                    "SubmissionNumber": 1878720,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115055042",
+                    "MaxOnsite": "",
+                    "Pounds": 42.0,
+                    "Score": 17.1252,
+                    "SubmissionNumber": 1878721,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7886.0,
+            "TotalScore": 538.6968289999999,
+            "state_score_percentile": 59,
+            "us_score_percentile": 48
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000774788",
+    "FacilityID": "11931KLLMRWESTL",
+    "FacilityNumber": 116244,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.955563,
+    "Longitude": -72.632653,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 156,
+            "us_pounds_pct": 94,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 83,
+            "us_count": 172,
+            "us_pounds_pct": 80,
+            "us_score_pct": 80
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0075957",
+    "Name": "AMP CIRCUITS",
+    "NearComID": 9496798,
+    "NearReach": "02030202000776",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003012549",
+    "ParentName": "AMP INC",
+    "PreferredLat": 40.94167,
+    "PreferredLong": 72.63333,
+    "PublicContactName": "FRANK FUGGINI",
+    "PublicContactPhone": "5167224100",
+    "RCRANumber": "NYD002044196",
+    "RadialDistance": 2952204,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 168,
+            "us_pounds_pct": 93,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 181,
+            "us_pounds_pct": 79,
+            "us_score_pct": 80
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 99,
+            "us_pounds_pct": 84,
+            "us_score_pct": 78
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 59,
+            "us_score_pct": 75
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "WEST LN.",
+    "SubmitLat": 40.94167,
+    "SubmitLong": 72.63333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2385,
+    "Y": 2756,
+    "ZIP9": "11931",
+    "ZIPCode": "11931"
+}

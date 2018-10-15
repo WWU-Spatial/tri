@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST GRANBY",
+    "County": "CT,HARTFORD",
+    "DUNS": "122211329",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 2129.325017,
+    "DistanceToReach": 136.993391,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "10028156",
+                    "Chemical": "Ozone",
+                    "ChemicalNumber": 441,
+                    "DCN": "1309207746482",
+                    "MaxOnsite": "02",
+                    "Pounds": 17500.0,
+                    "Score": 22.1487,
+                    "SubmissionNumber": 886225,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17500.0,
+            "TotalScore": 22.1487,
+            "state_score_percentile": 92,
+            "us_score_percentile": 79
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "10028156",
+                    "Chemical": "Ozone",
+                    "ChemicalNumber": 441,
+                    "DCN": "1310208339996",
+                    "MaxOnsite": "02",
+                    "Pounds": 14770.0,
+                    "Score": 18.7409,
+                    "SubmissionNumber": 937949,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 14770.0,
+            "TotalScore": 18.7409,
+            "state_score_percentile": 91,
+            "us_score_percentile": 76
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110043501699",
+    "FacilityID": "06026THRCKBRADL",
+    "FacilityNumber": 113185,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.93057,
+    "Longitude": -72.70855,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 37,
+            "us_pounds_pct": 100,
+            "us_score_pct": 75
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 36,
+            "us_pounds_pct": 94,
+            "us_score_pct": 83
+        },
+        "naicscode": "335929",
+        "name": "Other Communication and Energy Wire Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "RSCC WIRE & CABLE LLC",
+    "NearComID": 7699996,
+    "NearReach": "01080205000555",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "122211329",
+    "ParentName": "ROCKBESTOS SURPRENANT CABLE CORP",
+    "PreferredLat": 41.933,
+    "PreferredLong": 72.7083,
+    "PublicContactName": "LUKE THOMPSON",
+    "PublicContactPhone": "8606538451",
+    "RCRANumber": "CTD095529954",
+    "RadialDistance": 3011194,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 65,
+            "us_pounds_pct": 89,
+            "us_score_pct": 72
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 62,
+            "us_pounds_pct": 85,
+            "us_score_pct": 75
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "20 BRADLEY PARK RD",
+    "SubmitLat": 41.93028,
+    "SubmitLong": 72.70861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2344,
+    "Y": 2885,
+    "ZIP9": "06026",
+    "ZIPCode": "06026"
+}

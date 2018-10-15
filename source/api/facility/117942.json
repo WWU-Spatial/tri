@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOPWOOD",
+    "County": "PA,FAYETTE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 81574.088005,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206432686",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.224,
+                    "Score": 0.701572,
+                    "SubmissionNumber": 767425,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.224,
+            "TotalScore": 0.701572,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207265911",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.184,
+                    "Score": 1.23847,
+                    "SubmissionNumber": 841614,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.184,
+            "TotalScore": 1.23847,
+            "state_score_percentile": 13,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208135828",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.222,
+                    "Score": 1.24643,
+                    "SubmissionNumber": 918453,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.222,
+            "TotalScore": 1.24643,
+            "state_score_percentile": 11,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "42051",
+    "FRSID": "110000583173",
+    "FacilityID": "15445CSTLLSUMMI",
+    "FacilityNumber": 117942,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.87948,
+    "Longitude": -79.7035,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 159,
+            "us_pounds_pct": 9,
+            "us_score_pct": 52
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 128,
+            "us_pounds_pct": 21,
+            "us_score_pct": 64
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 131,
+            "us_pounds_pct": 22,
+            "us_score_pct": 61
+        },
+        "naicscode": "321113",
+        "name": "Sawmills"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3211",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COASTAL LUMBER CO - HOPWO OD SAWMILL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003191079",
+    "ParentName": "COASTAL LUMBER CO",
+    "PreferredLat": 39.875,
+    "PreferredLong": 79.70833,
+    "PublicContactName": "STEVE WAGNER",
+    "PublicContactPhone": "7244300480",
+    "RCRANumber": "PAD099522583",
+    "RadialDistance": 2419940,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 174,
+            "us_pounds_pct": 9,
+            "us_score_pct": 48
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 145,
+            "us_pounds_pct": 21,
+            "us_score_pct": 61
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 142,
+            "us_pounds_pct": 21,
+            "us_score_pct": 58
+        },
+        "name": "Sawmills and planing mills, general",
+        "siccode": "2421"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "242",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 13.1064,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.5278,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1152 NATIONAL PIKE",
+    "SubmitLat": 39.875,
+    "SubmitLong": 79.70833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1697,
+    "Y": 2459,
+    "ZIP9": "15445",
+    "ZIPCode": "15445"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERVLIET",
+    "County": "NY,ALBANY",
+    "DUNS": "083579995",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7640.760127,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1396100175025",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 5530.09,
+                    "SubmissionNumber": 1763343,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 5530.09,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1397110092145",
+                    "MaxOnsite": "05",
+                    "Pounds": 14000.0,
+                    "Score": 102525.0,
+                    "SubmissionNumber": 1832056,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 14000.0,
+            "TotalScore": 102525.0,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110019753168",
+    "FacilityID": "12189QCLRN25509",
+    "FacilityNumber": 116369,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.736523,
+    "Longitude": -73.708187,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 320,
+            "us_pounds_pct": 41,
+            "us_score_pct": 79
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 313,
+            "us_pounds_pct": 79,
+            "us_score_pct": 95
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AQUA CLEAR INDUSTRIES LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.73861,
+    "PreferredLong": 73.70917,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NYD987018835",
+    "RadialDistance": 3002861,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 88,
+            "us_count": 338,
+            "us_pounds_pct": 39,
+            "us_score_pct": 80
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 315,
+            "us_pounds_pct": 79,
+            "us_score_pct": 96
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2550 9TH AVE",
+    "SubmitLat": 42.73861,
+    "SubmitLong": 73.70917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2220,
+    "Y": 2969,
+    "ZIP9": "121890387",
+    "ZIPCode": "12189"
+}

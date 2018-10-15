@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NATICK",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "069343705",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27147.451862,
+    "DistanceToReach": 1832.007179,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105025858",
+                    "MaxOnsite": "03",
+                    "Pounds": 12300.0,
+                    "Score": 13976.0,
+                    "SubmissionNumber": 1792367,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12300.0,
+            "TotalScore": 13976.0,
+            "state_score_percentile": 64,
+            "us_score_percentile": 55
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303202089658",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.143731,
+                    "SubmissionNumber": 376868,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.143731,
+            "state_score_percentile": 25,
+            "us_score_percentile": 11
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1305204089813",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.144873,
+                    "SubmissionNumber": 560311,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.144873,
+            "state_score_percentile": 29,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000309595",
+    "FacilityID": "01760DRLCT61NOR",
+    "FacilityNumber": 111124,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 42.28636,
+    "Longitude": -71.34493,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 76,
+            "state_score_pct": 64,
+            "us_count": 561,
+            "us_pounds_pct": 77,
+            "us_score_pct": 67
+        },
+        "2003": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 497,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "2005": {
+            "state_count": 15,
+            "state_pounds_pct": 13,
+            "state_score_pct": 13,
+            "us_count": 479,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "DURALECTRA-CHN LLC",
+    "NearComID": 5867417,
+    "NearReach": "01090001000650",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "043400977",
+    "ParentName": "KATAHDIN INDUSTRIES",
+    "PreferredLat": 42.28333,
+    "PreferredLong": 71.35,
+    "PublicContactName": "MIKE SUNG",
+    "PublicContactPhone": "5086537900",
+    "RCRANumber": "MAD069343705",
+    "RadialDistance": 3125119,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 71,
+            "state_score_pct": 60,
+            "us_count": 575,
+            "us_pounds_pct": 76,
+            "us_score_pct": 68
+        },
+        "2003": {
+            "state_count": 20,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 516,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "2005": {
+            "state_count": 17,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 494,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "61 NORTH AVE",
+    "SubmitLat": 42.11972,
+    "SubmitLong": 71.34444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2466,
+    "Y": 2967,
+    "ZIP9": "01760",
+    "ZIPCode": "01760"
+}

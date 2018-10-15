@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CAGUAS",
+    "County": "PR,CAGUAS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17689.006138,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105047967",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 1.76636,
+                    "SubmissionNumber": 1793822,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105047979",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.036429,
+                    "SubmissionNumber": 1793823,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.802789,
+            "state_score_percentile": 29,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115151781",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 1.77545,
+                    "SubmissionNumber": 1884178,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115151793",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.109846,
+                    "SubmissionNumber": 1884179,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1.8852959999999999,
+            "state_score_percentile": 34,
+            "us_score_percentile": 28
+        }
+    },
+    "FIPS": "72025",
+    "FRSID": "110007822669",
+    "FacilityID": "00625RTTNSPR1KM",
+    "FacilityNumber": 110191,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.278939,
+    "Longitude": -66.042225,
+    "Method": "ADDRESS MATCHING-NEAREST INTERSECTION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 36
+        },
+        "naicscode": "337125",
+        "name": "Household Furniture (except Wood and Metal) Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "RATTAN INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "RATTAN SPECIALISTS INC",
+    "PreferredLat": 18.29472,
+    "PreferredLong": 66.04194,
+    "PublicContactName": "RAMON M. GUZMAN",
+    "PublicContactPhone": "7877549070",
+    "RCRANumber": "PRR000012260",
+    "RadialDistance": 37903,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 10,
+            "us_score_pct": 40
+        },
+        "name": "Household furniture, n.e.c.",
+        "siccode": "2519"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.8839,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.5278,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "PR RD. 1 MM. 29.8",
+    "SubmitLat": 18.29472,
+    "SubmitLong": 66.04194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 27,
+    "Y": 38,
+    "ZIP9": "00726",
+    "ZIPCode": "00726"
+}

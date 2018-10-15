@@ -1,0 +1,255 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ORISKANY",
+    "County": "NY,ONEIDA",
+    "DUNS": "043691708",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 60089.154253,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125012120",
+                    "MaxOnsite": "03",
+                    "Pounds": 1315.0,
+                    "Score": 5.55147,
+                    "SubmissionNumber": 1968072,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1315.0,
+            "TotalScore": 5.55147,
+            "state_score_percentile": 37,
+            "us_score_percentile": 30
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1399135216416",
+                    "MaxOnsite": "03",
+                    "Pounds": 1054.0,
+                    "Score": 0.221972,
+                    "SubmissionNumber": 2070708,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1054.0,
+            "TotalScore": 0.221972,
+            "state_score_percentile": 35,
+            "us_score_percentile": 30
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1300140057821",
+                    "MaxOnsite": "04",
+                    "Pounds": 1582.0,
+                    "Score": 0.37397899999999995,
+                    "SubmissionNumber": 5072,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1582.0,
+            "TotalScore": 0.37397899999999995,
+            "state_score_percentile": 43,
+            "us_score_percentile": 36
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1301150704599",
+                    "MaxOnsite": "04",
+                    "Pounds": 1676.0,
+                    "Score": 0.391938,
+                    "SubmissionNumber": 157038,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1676.0,
+            "TotalScore": 0.391938,
+            "state_score_percentile": 48,
+            "us_score_percentile": 43
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1304202290856",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 0.06941,
+                    "SubmissionNumber": 397784,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 0.06941,
+            "state_score_percentile": 39,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110000325826",
+    "FacilityID": "13424RNBSN165BA",
+    "FacilityNumber": 116773,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.15385,
+    "Longitude": -75.37769,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 13,
+            "us_score_pct": 48
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 6,
+            "us_score_pct": 10
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 9,
+            "us_score_pct": 20
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 16,
+            "us_score_pct": 18
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 86,
+            "us_pounds_pct": 17,
+            "us_score_pct": 6
+        },
+        "naicscode": "336211",
+        "name": "Motor Vehicle Body Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3362",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DAIMLER BUSES NORTH AMERICA",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "DAIMLER AG",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JILL K. CULBERTSON PHR",
+    "PublicContactPhone": "3152235235",
+    "RCRANumber": "NYD982274474",
+    "RadialDistance": 2932237,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 68,
+            "us_pounds_pct": 4,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 70,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 75,
+            "us_pounds_pct": 5,
+            "us_score_pct": 20
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 74,
+            "us_pounds_pct": 10,
+            "us_score_pct": 16
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 64,
+            "us_pounds_pct": 10,
+            "us_score_pct": 3
+        },
+        "name": "Truck and bus bodies",
+        "siccode": "3713"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "165 BASE RD",
+    "SubmitLat": 43.1525,
+    "SubmitLong": 75.37278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2044,
+    "Y": 2988,
+    "ZIP9": "13424",
+    "ZIPCode": "13424"
+}

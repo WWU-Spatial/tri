@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PATERSON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25101.978527,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1396105340487",
+                    "MaxOnsite": "03",
+                    "Pounds": 475.0,
+                    "Score": 2.922735,
+                    "SubmissionNumber": 1812870,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 475.0,
+            "TotalScore": 2.922735,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1397110316320",
+                    "MaxOnsite": "04",
+                    "Pounds": 755.0,
+                    "Score": 4.662009,
+                    "SubmissionNumber": 1851549,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1397110316332",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.001545,
+                    "SubmissionNumber": 1851550,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 760.0,
+            "TotalScore": 4.663554,
+            "state_score_percentile": 30,
+            "us_score_percentile": 26
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1398120100300",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 1.54987,
+                    "SubmissionNumber": 1907859,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1398120100312",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 0.077445,
+                    "SubmissionNumber": 1907860,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.627315,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110001528758",
+    "FacilityID": "07514TRDYN44045",
+    "FacilityNumber": 114801,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.925558,
+    "Longitude": -74.150589,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 5,
+            "us_pounds_pct": 20,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 5,
+            "us_pounds_pct": 20,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "naicscode": "313310",
+        "name": ""
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TRIO DYEING & FINISHING CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.925,
+    "PreferredLong": 74.15111,
+    "PublicContactName": "LOUIS TORDINI",
+    "PublicContactPhone": "9732795538",
+    "RCRANumber": "NA",
+    "RadialDistance": 2847939,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 43,
+            "us_pounds_pct": 16,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 40,
+            "us_pounds_pct": 15,
+            "us_score_pct": 52
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 32,
+            "us_pounds_pct": 6,
+            "us_score_pct": 46
+        },
+        "name": "Finishers of textiles, n.e.c.",
+        "siccode": "2269"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "226",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6797,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4303,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "440-450 E. 22ND ST.",
+    "SubmitLat": 40.925,
+    "SubmitLong": 74.15111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2233,
+    "Y": 2715,
+    "ZIP9": "075142412",
+    "ZIPCode": "07514"
+}

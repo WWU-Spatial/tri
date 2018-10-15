@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLYMOUTH",
+    "County": "MA,PLYMOUTH",
+    "DUNS": "191436245",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 53715.775807,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100182498",
+                    "MaxOnsite": "04",
+                    "Pounds": 1180.0,
+                    "Score": 0.02243,
+                    "SubmissionNumber": 1763984,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100182500",
+                    "MaxOnsite": "04",
+                    "Pounds": 1443.0,
+                    "Score": 0.028414000000000002,
+                    "SubmissionNumber": 1763985,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2623.0,
+            "TotalScore": 0.050844,
+            "state_score_percentile": 42,
+            "us_score_percentile": 36
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108930",
+                    "Chemical": "Cyclohexanol",
+                    "ChemicalNumber": 172,
+                    "DCN": "1397115093864",
+                    "MaxOnsite": "04",
+                    "Pounds": 2313.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1881284,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115093876",
+                    "MaxOnsite": "04",
+                    "Pounds": 897.0,
+                    "Score": 0.020193,
+                    "SubmissionNumber": 1881285,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115093888",
+                    "MaxOnsite": "04",
+                    "Pounds": 1194.0,
+                    "Score": 0.026932,
+                    "SubmissionNumber": 1881286,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4404.0,
+            "TotalScore": 0.047125,
+            "state_score_percentile": 47,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "25023",
+    "FRSID": "110000762648",
+    "FacilityID": "02360KNFSY40GRI",
+    "FacilityNumber": 111776,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.956056,
+    "Longitude": -70.689572,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 41,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 50,
+            "us_score_pct": 18
+        },
+        "naicscode": "334613",
+        "name": "Magnetic and Optical Recording Media Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3346",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "KAO INFOSYSTEMS CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "KAO CORP OF AMERICA",
+    "PreferredLat": 41.9575,
+    "PreferredLong": 70.68778,
+    "PublicContactName": "DONALD A. BOYNTON",
+    "PublicContactPhone": "5087475520",
+    "RCRANumber": "MAD985288414",
+    "RadialDistance": 3148387,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 35,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 41,
+            "us_score_pct": 17
+        },
+        "name": "Magnetic and optical recording media",
+        "siccode": "3695"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "369",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7904,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "40 GRISSOM RD.",
+    "SubmitLat": 41.95778,
+    "SubmitLong": 70.68778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2542,
+    "Y": 2941,
+    "ZIP9": "02360",
+    "ZIPCode": "02360"
+}

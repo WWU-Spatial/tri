@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BEDFORD",
+    "County": "MA,BRISTOL",
+    "DUNS": "080810252",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39443.596217,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399130693219",
+                    "MaxOnsite": "03",
+                    "Pounds": 14370.0,
+                    "Score": 3.294237,
+                    "SubmissionNumber": 2048159,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14370.0,
+            "TotalScore": 3.294237,
+            "state_score_percentile": 75,
+            "us_score_percentile": 60
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140842790",
+                    "MaxOnsite": "03",
+                    "Pounds": 10800.0,
+                    "Score": 2.487719,
+                    "SubmissionNumber": 65035,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10800.0,
+            "TotalScore": 2.487719,
+            "state_score_percentile": 74,
+            "us_score_percentile": 58
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301150753604",
+                    "MaxOnsite": "03",
+                    "Pounds": 19058.0,
+                    "Score": 4.390909000000001,
+                    "SubmissionNumber": 161136,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19058.0,
+            "TotalScore": 4.390909000000001,
+            "state_score_percentile": 87,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110002086956",
+    "FacilityID": "02745CPBRG64JVE",
+    "FacilityNumber": 111938,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.71974,
+    "Longitude": -70.95772,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 100,
+            "us_score_pct": 60
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 50
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "naicscode": "333313",
+        "name": "Office Machinery Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3333",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "C. P. BOURG INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "080810252",
+    "ParentName": "CP BOURG INC",
+    "PreferredLat": 41.71917,
+    "PreferredLong": 70.96306,
+    "PublicContactName": "PHILIPPE LAMBERT",
+    "PublicContactPhone": "5089982171",
+    "RCRANumber": "MAD080810252",
+    "RadialDistance": 3115290,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 71,
+            "us_score_pct": 42
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 33
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 66,
+            "us_score_pct": 33
+        },
+        "name": "Office machines, n.e.c.",
+        "siccode": "3579"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "357",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.3632,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0129,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "50 SAMUEL BARNET BLVD.",
+    "SubmitLat": 41.71944,
+    "SubmitLong": 70.95778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2524,
+    "Y": 2902,
+    "ZIP9": "027451285",
+    "ZIPCode": "02745"
+}

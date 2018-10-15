@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WAYNE",
+    "County": "NJ,PASSAIC",
+    "DUNS": "805636958",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26745.597609,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115280190",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.69902,
+                    "SubmissionNumber": 1890852,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115280202",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.072437,
+                    "SubmissionNumber": 1890853,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1397115280214",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 1715.1233000000002,
+                    "SubmissionNumber": 1890854,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1255.0,
+            "TotalScore": 1717.8947570000003,
+            "state_score_percentile": 35,
+            "us_score_percentile": 30
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1398120470543",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 3642.12,
+                    "SubmissionNumber": 1936558,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120470556",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.073021,
+                    "SubmissionNumber": 1936559,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120470568",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.7207,
+                    "SubmissionNumber": 1936560,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 3644.913721,
+            "state_score_percentile": 37,
+            "us_score_percentile": 31
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1399130302589",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 3671.1800000000003,
+                    "SubmissionNumber": 2015899,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130302603",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.073606,
+                    "SubmissionNumber": 2015901,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130302627",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.74239,
+                    "SubmissionNumber": 2015903,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 3673.995996,
+            "state_score_percentile": 39,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110000320019",
+    "FacilityID": "07470STPHN92NEW",
+    "FacilityNumber": 114739,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.927007,
+    "Longitude": -74.272703,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 85
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 57,
+            "us_score_pct": 85
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 60,
+            "us_score_pct": 86
+        },
+        "naicscode": "325413",
+        "name": "In-Vitro Diagnostic Substance Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RICHARD ALLAN SCIENTIFIC WAYNE FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005257340",
+    "ParentName": "RICHARD ALLAN SCIENTIFIC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DENNIS KESOLITZ",
+    "PublicContactPhone": "9733053686",
+    "RCRANumber": "NA",
+    "RadialDistance": 2839945,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 13,
+            "state_pounds_pct": 69,
+            "state_score_pct": 84,
+            "us_count": 315,
+            "us_pounds_pct": 47,
+            "us_score_pct": 72
+        },
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 81,
+            "us_count": 319,
+            "us_pounds_pct": 48,
+            "us_score_pct": 80
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 75,
+            "state_score_pct": 80,
+            "us_count": 310,
+            "us_pounds_pct": 50,
+            "us_score_pct": 80
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "92 NEWARK POMPTON TURNPIKE",
+    "SubmitLat": 56.20194,
+    "SubmitLong": 56.20333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2221,
+    "Y": 2713,
+    "ZIP9": "074706635",
+    "ZIPCode": "07470"
+}

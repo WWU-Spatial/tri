@@ -1,0 +1,277 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RANDOLPH",
+    "County": "VT,ORANGE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 72573.593525,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105033373",
+                    "MaxOnsite": "03",
+                    "Pounds": 26102.0,
+                    "Score": 0.164328,
+                    "SubmissionNumber": 1792833,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105033385",
+                    "MaxOnsite": "03",
+                    "Pounds": 12258.0,
+                    "Score": 0.077996,
+                    "SubmissionNumber": 1792834,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 38360.0,
+            "TotalScore": 0.24232399999999998,
+            "state_score_percentile": 90,
+            "us_score_percentile": 74
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115057186",
+                    "MaxOnsite": "03",
+                    "Pounds": 12353.0,
+                    "Score": 0.07727500000000001,
+                    "SubmissionNumber": 1878821,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12353.0,
+            "TotalScore": 0.07727500000000001,
+            "state_score_percentile": 66,
+            "us_score_percentile": 55
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125344960",
+                    "MaxOnsite": "03",
+                    "Pounds": 11200.0,
+                    "Score": 0.068861,
+                    "SubmissionNumber": 1983851,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11200.0,
+            "TotalScore": 0.068861,
+            "state_score_percentile": 71,
+            "us_score_percentile": 54
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135206718",
+                    "MaxOnsite": "03",
+                    "Pounds": 10477.0,
+                    "Score": 0.079607,
+                    "SubmissionNumber": 2069980,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399135206720",
+                    "MaxOnsite": "03",
+                    "Pounds": 18019.0,
+                    "Score": 0.10885600000000001,
+                    "SubmissionNumber": 2069981,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 28496.0,
+            "TotalScore": 0.188463,
+            "state_score_percentile": 95,
+            "us_score_percentile": 71
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300140009061",
+                    "MaxOnsite": "03",
+                    "Pounds": 10004.0,
+                    "Score": 0.059359999999999996,
+                    "SubmissionNumber": 826,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10004.0,
+            "TotalScore": 0.059359999999999996,
+            "state_score_percentile": 78,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "50017",
+    "FRSID": "110000498220",
+    "FacilityID": "05060THNLLHULLS",
+    "FacilityNumber": 113034,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.91869,
+    "Longitude": -72.6551,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 52,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 22,
+            "us_score_pct": 13
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 28,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 43,
+            "us_score_pct": 28
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 34,
+            "us_score_pct": 27
+        },
+        "naicscode": "321999",
+        "name": "All Other Miscellaneous Wood Product Manufacturing"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3219",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ETHAN ALLEN INC. RANDOLPH DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001213545",
+    "ParentName": "ETHAN ALLEN INC",
+    "PreferredLat": 43.90472,
+    "PreferredLong": 72.65556,
+    "PublicContactName": "PAUL KAMINSKI",
+    "PublicContactPhone": "2037438540",
+    "RCRANumber": "VTD001083468",
+    "RadialDistance": 3152727,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 220,
+            "us_pounds_pct": 25,
+            "us_score_pct": 10
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 184,
+            "us_pounds_pct": 13,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 167,
+            "us_pounds_pct": 9,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 162,
+            "us_pounds_pct": 46,
+            "us_score_pct": 17
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 10,
+            "us_score_pct": 9
+        },
+        "name": "Wood household furniture, except upholstered",
+        "siccode": "2511"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "50",
+    "StackDiameter": 0.7986,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.0952,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 2.731,
+    "StackVelocitySource": "Fac Spec",
+    "State": "VT",
+    "Street": "44 HULL ST.",
+    "SubmitLat": 43.90472,
+    "SubmitLong": 72.65556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2283,
+    "Y": 3152,
+    "ZIP9": "050601102",
+    "ZIPCode": "05060"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FARMINGTON",
+    "County": "ME,FRANKLIN",
+    "DUNS": "001079979",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 113339.84412,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100144827",
+                    "MaxOnsite": "03",
+                    "Pounds": 16375.0,
+                    "Score": 0.336262,
+                    "SubmissionNumber": 1760630,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16375.0,
+            "TotalScore": 0.336262,
+            "state_score_percentile": 52,
+            "us_score_percentile": 60
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115250983",
+                    "MaxOnsite": "03",
+                    "Pounds": 10097.0,
+                    "Score": 0.245929,
+                    "SubmissionNumber": 1889125,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10097.0,
+            "TotalScore": 0.245929,
+            "state_score_percentile": 46,
+            "us_score_percentile": 51
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120602382",
+                    "MaxOnsite": "03",
+                    "Pounds": 9685.0,
+                    "Score": 0.23219700000000001,
+                    "SubmissionNumber": 1946644,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9685.0,
+            "TotalScore": 0.23219700000000001,
+            "state_score_percentile": 44,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "23007",
+    "FRSID": "110000314730",
+    "FacilityID": "04938FRNKLHIGHS",
+    "FacilityNumber": 113011,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.662116,
+    "Longitude": -70.140826,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 33
+        },
+        "naicscode": "315999",
+        "name": "Other Apparel Accessories and Other Apparel Manufacturing"
+    },
+    "NAICSCode3Digit": "315",
+    "NAICSCode4Digit": "3159",
+    "NAICSCodeSame3Digit": "315",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FRANKLIN SHOE CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001079979",
+    "ParentName": "SHAER SHOE CORP",
+    "PreferredLat": 44.65694,
+    "PreferredLong": 70.13611,
+    "PublicContactName": "TIM DEAN",
+    "PublicContactPhone": "2077789871",
+    "RCRANumber": "MED150896389",
+    "RadialDistance": 3360648,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 83,
+            "us_score_pct": 16
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 100,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "Apparel and accessories, n.e.c.",
+        "siccode": "2389"
+    },
+    "SICCode2Digit": "23",
+    "SICCode3Digit": "238",
+    "SICCodeSame2Digit": "23",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.2601,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "HIGH ST.,  BOX 5010A",
+    "SubmitLat": 44.65694,
+    "SubmitLong": 70.13611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2495,
+    "Y": 3315,
+    "ZIP9": "04938",
+    "ZIPCode": "04938"
+}

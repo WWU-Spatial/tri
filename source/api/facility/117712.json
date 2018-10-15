@@ -1,0 +1,602 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW KENSINGTON",
+    "County": "PA,WESTMORELAND",
+    "DUNS": "148173503",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 48296.09815,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305206189021",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.040874,
+                    "SubmissionNumber": 565472,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.040874,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306206189019",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.040682,
+                    "SubmissionNumber": 655175,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.040682,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307206189007",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.04049,
+                    "SubmissionNumber": 741132,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.04049,
+            "state_score_percentile": 2,
+            "us_score_percentile": 3
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206292373",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.040299,
+                    "SubmissionNumber": 754298,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.040299,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207300676",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.040107,
+                    "SubmissionNumber": 844811,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.040107,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208112476",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.039915,
+                    "SubmissionNumber": 916281,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.039915,
+            "state_score_percentile": 2,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "42129",
+    "FRSID": "110012565839",
+    "FacilityID": "15068BCHRC621HU",
+    "FacilityNumber": 117712,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.52774,
+    "Longitude": -79.64647,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 27,
+            "us_pounds_pct": 12,
+            "us_score_pct": 18
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 29,
+            "us_pounds_pct": 15,
+            "us_score_pct": 17
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 29,
+            "us_pounds_pct": 15,
+            "us_score_pct": 20
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 27,
+            "us_pounds_pct": 12,
+            "us_score_pct": 14
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 17,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 22,
+            "us_pounds_pct": 18,
+            "us_score_pct": 18
+        },
+        "naicscode": "334513",
+        "name": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+    },
+    "NAICS2": {
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 14
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 6,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 23
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "naicscode": "334516",
+        "name": "Analytical Laboratory Instrument Manufacturing"
+    },
+    "NAICS3": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 21,
+            "us_score_pct": 10
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 26,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 17,
+            "us_pounds_pct": 29,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 19,
+            "us_pounds_pct": 31,
+            "us_score_pct": 31
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 18,
+            "us_pounds_pct": 25,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 15,
+            "us_score_pct": 25
+        },
+        "naicscode": "334519",
+        "name": "Other Measuring and Controlling Device Manufacturing"
+    },
+    "NAICS4": {
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 246,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 246,
+            "us_pounds_pct": 3,
+            "us_score_pct": 5
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 218,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 204,
+            "us_pounds_pct": 1,
+            "us_score_pct": 4
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 177,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 178,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "naicscode": "336399",
+        "name": "All Other Motor Vehicle Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BACHARACH INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "PNC EQUITY PARTNERS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BOB COURSON",
+    "PublicContactPhone": "7243345020",
+    "RCRANumber": "PAR000505628",
+    "RadialDistance": 2475606,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 21,
+            "us_pounds_pct": 16,
+            "us_score_pct": 14
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 18,
+            "us_score_pct": 12
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 14,
+            "us_score_pct": 16
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 10,
+            "us_score_pct": 8
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 15,
+            "us_score_pct": 15
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 10
+        },
+        "name": "Industrial instruments for measurement, display, and control of process variables; and related products",
+        "siccode": "3823"
+    },
+    "SIC2": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 3,
+            "us_score_pct": 3
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 25,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 4,
+            "us_score_pct": 8
+        },
+        "name": "Transportation equipment, n.e.c.",
+        "siccode": "3799"
+    },
+    "SIC3": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 23
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 22
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 22
+        },
+        "name": "Laboratory analytical instruments",
+        "siccode": "3826"
+    },
+    "SIC4": {
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 24,
+            "us_pounds_pct": 12,
+            "us_score_pct": 12
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 23,
+            "us_pounds_pct": 13,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 22,
+            "us_pounds_pct": 13,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 22,
+            "us_pounds_pct": 18,
+            "us_score_pct": 27
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 21,
+            "us_pounds_pct": 16,
+            "us_score_pct": 23
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 20,
+            "us_pounds_pct": 12,
+            "us_score_pct": 25
+        },
+        "name": "Measuring and controlling devices, n.e.c.",
+        "siccode": "3829"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "382",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.096,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "621 HUNT VALLEY CIR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1688,
+    "Y": 2548,
+    "ZIP9": "15068",
+    "ZIPCode": "15068"
+}

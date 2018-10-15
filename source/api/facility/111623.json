@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CAMBRIDGE",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "025322157",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3923.565767,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397115081287",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1.383337,
+                    "SubmissionNumber": 1880583,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.383337,
+            "state_score_percentile": 23,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1398125101117",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1.394895,
+                    "SubmissionNumber": 1972330,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.394895,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110015745023",
+    "FacilityID": "02142GNZYM107BI",
+    "FacilityNumber": 111623,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.365514,
+    "Longitude": -71.080747,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 10,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 9,
+            "us_score_pct": 27
+        },
+        "naicscode": "325411",
+        "name": "Medicinal and Botanical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GENZYME CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "025322157",
+    "ParentName": "GENZYME CORP",
+    "PreferredLat": 42.36556,
+    "PreferredLong": 71.07222,
+    "PublicContactName": "CAREN ARNSTEIN",
+    "PublicContactPhone": "5082527500",
+    "RCRANumber": "",
+    "RadialDistance": 3147890,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 5,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 73,
+            "us_pounds_pct": 6,
+            "us_score_pct": 20
+        },
+        "name": "Medicinal chemicals and botanical products",
+        "siccode": "2833"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "107 BINNEY ST.",
+    "SubmitLat": 42.36556,
+    "SubmitLong": 71.07222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2489,
+    "Y": 2985,
+    "ZIP9": "02142",
+    "ZIPCode": "02142"
+}

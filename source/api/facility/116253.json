@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "YAPHANK",
+    "County": "NY,SUFFOLK",
+    "DUNS": "176988066",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 103997.53831,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207615055",
+                    "MaxOnsite": "05",
+                    "Pounds": 40000.0,
+                    "Score": 10.1022,
+                    "SubmissionNumber": 873938,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40000.0,
+            "TotalScore": 10.1022,
+            "state_score_percentile": 92,
+            "us_score_percentile": 86
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208052567",
+                    "MaxOnsite": "05",
+                    "Pounds": 40967.0,
+                    "Score": 10.4017,
+                    "SubmissionNumber": 912526,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40967.0,
+            "TotalScore": 10.4017,
+            "state_score_percentile": 93,
+            "us_score_percentile": 86
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110042000063",
+    "FacilityID": "11980CTHNS5ZRNB",
+    "FacilityNumber": 116253,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.810992,
+    "Longitude": -72.940197,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 30,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 614,
+            "us_pounds_pct": 33,
+            "us_score_pct": 19
+        },
+        "2010": {
+            "state_count": 28,
+            "state_pounds_pct": 71,
+            "state_score_pct": 25,
+            "us_count": 602,
+            "us_pounds_pct": 32,
+            "us_score_pct": 16
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CAITHNESS LONG ISLAND ENERGY CENTER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS GRACE",
+    "PublicContactPhone": "9174724593",
+    "RCRANumber": "",
+    "RadialDistance": 2921866,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 29,
+            "state_pounds_pct": 58,
+            "state_score_pct": 24,
+            "us_count": 585,
+            "us_pounds_pct": 31,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 27,
+            "state_pounds_pct": 70,
+            "state_score_pct": 29,
+            "us_count": 578,
+            "us_pounds_pct": 31,
+            "us_score_pct": 16
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NY",
+    "Street": "50 ZORN BLVD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2359,
+    "Y": 2729,
+    "ZIP9": "11980",
+    "ZIPCode": "11980"
+}

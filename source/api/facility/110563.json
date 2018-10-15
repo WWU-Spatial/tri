@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLYOKE",
+    "County": "MA,HAMPDEN",
+    "DUNS": "041493735",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29020.187696,
+    "DistanceToReach": 378.402235,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105030237",
+                    "MaxOnsite": "03",
+                    "Pounds": 589.0,
+                    "Score": 0.060299,
+                    "SubmissionNumber": 1792623,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 589.0,
+            "TotalScore": 0.060299,
+            "state_score_percentile": 25,
+            "us_score_percentile": 24
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1304202784625",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 22.465,
+                    "SubmissionNumber": 443196,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 22.465,
+            "state_score_percentile": 17,
+            "us_score_percentile": 7
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1305203836313",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 22.3509,
+                    "SubmissionNumber": 538826,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 22.3509,
+            "state_score_percentile": 21,
+            "us_score_percentile": 8
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1306204888907",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 22.2368,
+                    "SubmissionNumber": 633879,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 22.2368,
+            "state_score_percentile": 19,
+            "us_score_percentile": 8
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1307205929235",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 22.1227,
+                    "SubmissionNumber": 723360,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 22.1227,
+            "state_score_percentile": 17,
+            "us_score_percentile": 8
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1308206442408",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 22.0086,
+                    "SubmissionNumber": 768350,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 22.0086,
+            "state_score_percentile": 16,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000308024",
+    "FacilityID": "01040CMCHN821MA",
+    "FacilityNumber": 110563,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.18993,
+    "Longitude": -72.619939,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 50,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 70
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 62
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 71
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 64
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 58
+        },
+        "naicscode": "333613",
+        "name": "Mechanical Power Transmission Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3336",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "US TSUBAKI INC - ROLLER CHAIN DIV",
+    "NearComID": 7698892,
+    "NearReach": "01080201001813",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "056627011",
+    "ParentName": "US TSUBAKI INC",
+    "PreferredLat": 42.19167,
+    "PreferredLong": 72.61667,
+    "PublicContactName": "CHARLES MONTY",
+    "PublicContactPhone": "4135361576",
+    "RCRANumber": "MAD041493735",
+    "RadialDistance": 3034474,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 60,
+            "us_score_pct": 20
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 64
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 52
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 12,
+            "us_score_pct": 56
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 12,
+            "us_score_pct": 50
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 42
+        },
+        "name": "Mechanical power transmission equipment, n.e.c.",
+        "siccode": "3568"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.62,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "821 MAIN ST",
+    "SubmitLat": 42.19167,
+    "SubmitLong": 72.60833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2344,
+    "Y": 2922,
+    "ZIP9": "01041",
+    "ZIPCode": "01041"
+}

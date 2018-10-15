@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST HANOVER",
+    "County": "NJ,MORRIS",
+    "DUNS": "094965662",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21181.033768,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1397115280125",
+                    "MaxOnsite": "04",
+                    "Pounds": 387.0,
+                    "Score": 0.286124,
+                    "SubmissionNumber": 1890846,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "75694",
+                    "Chemical": "CFC-11 (trichlorofluoromethane)",
+                    "ChemicalNumber": 106,
+                    "DCN": "1397115280137",
+                    "MaxOnsite": "04",
+                    "Pounds": 1651.0,
+                    "Score": 1.243052,
+                    "SubmissionNumber": 1890847,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 2038.0,
+            "TotalScore": 1.529176,
+            "state_score_percentile": 43,
+            "us_score_percentile": 34
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75694",
+                    "Chemical": "CFC-11 (trichlorofluoromethane)",
+                    "ChemicalNumber": 106,
+                    "DCN": "1398120098811",
+                    "MaxOnsite": "04",
+                    "Pounds": 1021.0,
+                    "Score": 0.772487,
+                    "SubmissionNumber": 1907744,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1398120098823",
+                    "MaxOnsite": "04",
+                    "Pounds": 834.0,
+                    "Score": 0.568114,
+                    "SubmissionNumber": 1907745,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120098835",
+                    "MaxOnsite": "04",
+                    "Pounds": 468.0,
+                    "Score": 0.382398,
+                    "SubmissionNumber": 1907746,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2323.0,
+            "TotalScore": 1.722999,
+            "state_score_percentile": 45,
+            "us_score_percentile": 35
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110000320867",
+    "FacilityID": "07936SDMKL17WES",
+    "FacilityNumber": 115041,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.817557,
+    "Longitude": -74.365091,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 27,
+            "state_score_pct": 11,
+            "us_count": 139,
+            "us_pounds_pct": 33,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 137,
+            "us_pounds_pct": 37,
+            "us_score_pct": 29
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0108430",
+    "Name": "SIDMAK LABORATORIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "094965662",
+    "ParentName": "SIDMAK LABORATORIES",
+    "PreferredLat": 40.81694,
+    "PreferredLong": 74.36417,
+    "PublicContactName": "CHRISTOPHER M. PETRONINO",
+    "PublicContactPhone": "9735994065",
+    "RCRANumber": "NJD981564107",
+    "RadialDistance": 2826350,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 33,
+            "state_score_pct": 11,
+            "us_count": 136,
+            "us_pounds_pct": 33,
+            "us_score_pct": 29
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 31,
+            "state_score_pct": 25,
+            "us_count": 135,
+            "us_pounds_pct": 38,
+            "us_score_pct": 29
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "17 WEST ST.",
+    "SubmitLat": 40.81667,
+    "SubmitLong": 74.36361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2215,
+    "Y": 2696,
+    "ZIP9": "07936",
+    "ZIPCode": "07936"
+}

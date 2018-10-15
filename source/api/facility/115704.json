@@ -1,0 +1,253 @@
+{
+    "AssignedComID": 26431905,
+    "AssignedReach": "02030102000259",
+    "City": "BRONX",
+    "County": "NY,BRONX",
+    "DUNS": "144135639",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24523.605591,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205918105",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.7,
+                    "Score": 803.971,
+                    "SubmissionNumber": 722449,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.7,
+            "TotalScore": 803.971,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1308206985956",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 24.2886,
+                    "SubmissionNumber": 818843,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206985970",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.7,
+                    "Score": 804.004,
+                    "SubmissionNumber": 818845,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.7,
+            "TotalScore": 828.2926,
+            "state_score_percentile": 18,
+            "us_score_percentile": 11
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1309207669565",
+                    "MaxOnsite": "05",
+                    "Pounds": 7.0,
+                    "Score": 86.3177,
+                    "SubmissionNumber": 879111,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207669577",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.8,
+                    "Score": 918.901,
+                    "SubmissionNumber": 879112,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 7.8,
+            "TotalScore": 1005.2186999999999,
+            "state_score_percentile": 25,
+            "us_score_percentile": 18
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1310208648410",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 24.6192,
+                    "SubmissionNumber": 966159,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208648422",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.8,
+                    "Score": 918.939,
+                    "SubmissionNumber": 966160,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.8,
+            "TotalScore": 943.5581999999999,
+            "state_score_percentile": 17,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36005",
+    "FRSID": "110012708686",
+    "FacilityID": "10454CSTLL939E1",
+    "FacilityNumber": 115704,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.800833,
+    "Longitude": -73.907861,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 35,
+            "state_pounds_pct": 2,
+            "state_score_pct": 60,
+            "us_count": 436,
+            "us_pounds_pct": 0,
+            "us_score_pct": 47
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 59,
+            "us_count": 479,
+            "us_pounds_pct": 3,
+            "us_score_pct": 51
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 71,
+            "us_count": 433,
+            "us_pounds_pct": 4,
+            "us_score_pct": 57
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 64,
+            "us_count": 443,
+            "us_pounds_pct": 3,
+            "us_score_pct": 55
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CASTLE OIL PORT MORRIS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "144135639",
+    "ParentName": "CASTLE OIL CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM CAREY",
+    "PublicContactPhone": "7185793450",
+    "RCRANumber": "NYD000799163",
+    "RadialDistance": 2855707,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 35,
+            "state_pounds_pct": 2,
+            "state_score_pct": 60,
+            "us_count": 446,
+            "us_pounds_pct": 0,
+            "us_score_pct": 47
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 59,
+            "us_count": 488,
+            "us_pounds_pct": 4,
+            "us_score_pct": 51
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 71,
+            "us_count": 445,
+            "us_pounds_pct": 6,
+            "us_score_pct": 57
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 64,
+            "us_count": 456,
+            "us_pounds_pct": 4,
+            "us_score_pct": 56
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "939 E 138TH ST",
+    "SubmitLat": 40.80111,
+    "SubmitLong": 73.9075,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2262,
+    "Y": 2704,
+    "ZIP9": "10454",
+    "ZIPCode": "10454"
+}

@@ -1,0 +1,400 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW IPSWICH",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "001082874",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 77806.621346,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306206141032",
+                    "MaxOnsite": "03",
+                    "Pounds": 19823.0,
+                    "Score": 0.120018,
+                    "SubmissionNumber": 654566,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19823.0,
+            "TotalScore": 0.120018,
+            "state_score_percentile": 90,
+            "us_score_percentile": 75
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307206141020",
+                    "MaxOnsite": "03",
+                    "Pounds": 55048.0,
+                    "Score": 0.33292,
+                    "SubmissionNumber": 739408,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 55048.0,
+            "TotalScore": 0.33292,
+            "state_score_percentile": 97,
+            "us_score_percentile": 86
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206926002",
+                    "MaxOnsite": "03",
+                    "Pounds": 1240.0,
+                    "Score": 0.007771,
+                    "SubmissionNumber": 813547,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1240.0,
+            "TotalScore": 0.007771,
+            "state_score_percentile": 72,
+            "us_score_percentile": 49
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207897188",
+                    "MaxOnsite": "03",
+                    "Pounds": 1110.0,
+                    "Score": 0.0074990000000000005,
+                    "SubmissionNumber": 900119,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1110.0,
+            "TotalScore": 0.0074990000000000005,
+            "state_score_percentile": 72,
+            "us_score_percentile": 50
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110001522184",
+    "FacilityID": "03071WRWCK31TUR",
+    "FacilityNumber": 112511,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.7505,
+    "Longitude": -71.82836,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 84,
+            "us_score_pct": 23
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 92,
+            "us_score_pct": 38
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 10,
+            "us_pounds_pct": 50,
+            "us_score_pct": 10
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 8,
+            "us_pounds_pct": 37,
+            "us_score_pct": 12
+        },
+        "naicscode": "313210",
+        "name": "Broadwoven Fabric Mills"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 100
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 66
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "naicscode": "313221",
+        "name": "Narrow Fabric Mills"
+    },
+    "NAICS3": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 73,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 81,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 47,
+            "us_score_pct": 10
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 41,
+            "us_score_pct": 11
+        },
+        "naicscode": "313311",
+        "name": "Broadwoven Fabric Finishing Mills"
+    },
+    "NAICS4": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 69,
+            "us_score_pct": 24
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 85,
+            "us_score_pct": 29
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 61,
+            "us_pounds_pct": 18,
+            "us_score_pct": 6
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 54,
+            "us_pounds_pct": 16,
+            "us_score_pct": 9
+        },
+        "naicscode": "313320",
+        "name": "Fabric Coating Mills"
+    },
+    "NAICS5": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 33
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "315992",
+        "name": "Glove and Mitten Manufacturing"
+    },
+    "NAICS6": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 33
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 33
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "naicscode": "315999",
+        "name": "Other Apparel Accessories and Other Apparel Manufacturing"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3132",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "WARWICK MILLS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "WARWICK HOLDING CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "M. MACADAM",
+    "PublicContactPhone": "6038781565",
+    "RCRANumber": "NHD986472975",
+    "RadialDistance": 3123853,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 71,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 83,
+            "us_score_pct": 41
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 11
+        },
+        "name": "Broadwoven fabric mills, manmade fiber and silk",
+        "siccode": "2221"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "222",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.621,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "301 TURNPIKE RD",
+    "SubmitLat": 42.75111,
+    "SubmitLong": 71.82694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2402,
+    "Y": 3017,
+    "ZIP9": "03071",
+    "ZIPCode": "03071"
+}

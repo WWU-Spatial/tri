@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WOBURN",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "172958944",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18171.589578,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303203134465",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.38,
+                    "Score": 0.490527,
+                    "SubmissionNumber": 380138,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.38,
+            "TotalScore": 0.490527,
+            "state_score_percentile": 13,
+            "us_score_percentile": 4
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304203097872",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.38,
+                    "Score": 0.491836,
+                    "SubmissionNumber": 468749,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.38,
+            "TotalScore": 0.491836,
+            "state_score_percentile": 13,
+            "us_score_percentile": 5
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203976156",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.38,
+                    "Score": 0.493145,
+                    "SubmissionNumber": 551596,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.38,
+            "TotalScore": 0.493145,
+            "state_score_percentile": 16,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110012709220",
+    "FacilityID": "01801MSSTC5COMM",
+    "FacilityNumber": 111140,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.5127,
+    "Longitude": -71.13362,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 50,
+            "us_count": 138,
+            "us_pounds_pct": 13,
+            "us_score_pct": 23
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 54,
+            "us_count": 141,
+            "us_pounds_pct": 9,
+            "us_score_pct": 21
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 62,
+            "us_count": 131,
+            "us_pounds_pct": 10,
+            "us_score_pct": 20
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MASSTECH EMS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM PANTELY",
+    "PublicContactPhone": "7819389393",
+    "RCRANumber": "MAC300001674",
+    "RadialDistance": 3153875,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 50,
+            "us_count": 171,
+            "us_pounds_pct": 15,
+            "us_score_pct": 23
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 54,
+            "us_count": 176,
+            "us_pounds_pct": 13,
+            "us_score_pct": 24
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 50,
+            "us_count": 168,
+            "us_pounds_pct": 13,
+            "us_score_pct": 23
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "5 COMMOMWEALTH AVE",
+    "SubmitLat": 42.50917,
+    "SubmitLong": 71.13111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2478,
+    "Y": 3003,
+    "ZIP9": "01801",
+    "ZIPCode": "01801"
+}

@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EDISON",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "799742564",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26563.013424,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1397115296170",
+                    "MaxOnsite": "03",
+                    "Pounds": 1856.0,
+                    "Score": 194.792,
+                    "SubmissionNumber": 1892105,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1856.0,
+            "TotalScore": 194.792,
+            "state_score_percentile": 41,
+            "us_score_percentile": 33
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1398125036929",
+                    "MaxOnsite": "03",
+                    "Pounds": 3126.0,
+                    "Score": 330.253,
+                    "SubmissionNumber": 1969315,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3126.0,
+            "TotalScore": 330.253,
+            "state_score_percentile": 50,
+            "us_score_percentile": 38
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399135006664",
+                    "MaxOnsite": "03",
+                    "Pounds": 4974.0,
+                    "Score": 528.944,
+                    "SubmissionNumber": 2058678,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4974.0,
+            "TotalScore": 528.944,
+            "state_score_percentile": 56,
+            "us_score_percentile": 45
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1300145022570",
+                    "MaxOnsite": "03",
+                    "Pounds": 7709.0,
+                    "Score": 825.142,
+                    "SubmissionNumber": 77377,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7709.0,
+            "TotalScore": 825.142,
+            "state_score_percentile": 67,
+            "us_score_percentile": 53
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1301150230718",
+                    "MaxOnsite": "03",
+                    "Pounds": 6508.0,
+                    "Score": 597.979,
+                    "SubmissionNumber": 115213,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6508.0,
+            "TotalScore": 597.979,
+            "state_score_percentile": 67,
+            "us_score_percentile": 56
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1302200041869",
+                    "MaxOnsite": "03",
+                    "Pounds": 2508.0,
+                    "Score": 231.199,
+                    "SubmissionNumber": 195959,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2508.0,
+            "TotalScore": 231.199,
+            "state_score_percentile": 56,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000321982",
+    "FacilityID": "08817SHRWD180TA",
+    "FacilityNumber": 115477,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.536294,
+    "Longitude": -74.396488,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 7,
+            "us_score_pct": 77
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 13,
+            "us_score_pct": 86
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 19,
+            "us_score_pct": 88
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 25,
+            "us_score_pct": 96
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 100,
+            "us_pounds_pct": 39,
+            "us_score_pct": 95
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 15,
+            "us_score_pct": 84
+        },
+        "naicscode": "323110",
+        "name": "Commercial Lithographic Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "INTERNATIONAL PAPER SHOREWOOD PACKAGING CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001316561",
+    "ParentName": "INTERNATIONAL PAPER CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "HELEN OWENS",
+    "PublicContactPhone": "7326503050",
+    "RCRANumber": "NJD986575215",
+    "RadialDistance": 2805160,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 92,
+            "us_pounds_pct": 8,
+            "us_score_pct": 78
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 15,
+            "us_score_pct": 90
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 22,
+            "us_score_pct": 92
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 85,
+            "us_pounds_pct": 27,
+            "us_score_pct": 97
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 98,
+            "us_pounds_pct": 41,
+            "us_score_pct": 95
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 94,
+            "us_pounds_pct": 19,
+            "us_score_pct": 85
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4825,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.1803,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "180 TALMADGE RD.",
+    "SubmitLat": 40.53611,
+    "SubmitLong": 74.39611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2221,
+    "Y": 2657,
+    "ZIP9": "08817",
+    "ZIPCode": "08817"
+}

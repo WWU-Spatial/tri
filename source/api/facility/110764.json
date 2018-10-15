@@ -1,0 +1,240 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FITCHBURG",
+    "County": "MA,WORCESTER",
+    "DUNS": "053449385",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67493.9467,
+    "DistanceToReach": 103.437438,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105282267",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 345.688,
+                    "SubmissionNumber": 1809034,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396105282281",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 7.03435,
+                    "SubmissionNumber": 1809036,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 352.72235,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110354192",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 963.8109999999999,
+                    "SubmissionNumber": 1854958,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110354204",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.830974,
+                    "SubmissionNumber": 1854959,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110354216",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 521.1302000000001,
+                    "SubmissionNumber": 1854960,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 1485.772174,
+            "state_score_percentile": 8,
+            "us_score_percentile": 9
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120028978",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 959.883,
+                    "SubmissionNumber": 1901975,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120028980",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.8274950000000001,
+                    "SubmissionNumber": 1901976,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120028992",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 519.0069,
+                    "SubmissionNumber": 1901977,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 1479.7173950000001,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000308667",
+    "FacilityID": "01420GNRLL166BO",
+    "FacilityNumber": 110764,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.582878,
+    "Longitude": -71.802744,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 18,
+            "us_score_pct": 50
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 40,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 39,
+            "us_score_pct": 60
+        },
+        "naicscode": "333611",
+        "name": "Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3336",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "GE CO. NAVY & SMALL STEAM TURBINE DEPARTMENT",
+    "NearComID": 6075713,
+    "NearReach": "01070004000087",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001367960",
+    "ParentName": "GE CO",
+    "PreferredLat": 42.5832,
+    "PreferredLong": 71.8019,
+    "PublicContactName": "ROBERT WAGNER",
+    "PublicContactPhone": "9783431283",
+    "RCRANumber": "MAD001439546",
+    "RadialDistance": 3114319,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 21,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 47,
+            "us_score_pct": 42
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 45,
+            "us_score_pct": 55
+        },
+        "name": "Steam, gas and hydraulic turbines, and turbine generator set units",
+        "siccode": "3511"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "351",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.8288,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 35.052,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 36.576,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "166 BOULDER DR.",
+    "SubmitLat": 42.58333,
+    "SubmitLong": 71.80194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2411,
+    "Y": 2995,
+    "ZIP9": "01420",
+    "ZIPCode": "01420"
+}

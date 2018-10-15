@@ -1,0 +1,229 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FARMINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "144921780",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 29395.627943,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1308207038264",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 21002.27,
+                    "SubmissionNumber": 823299,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308207046638",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 13280.86,
+                    "SubmissionNumber": 823932,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308207047313",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 1148.9479999999999,
+                    "SubmissionNumber": 823987,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 35432.078,
+            "state_score_percentile": 35,
+            "us_score_percentile": 25
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1309207903776",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 13325.880000000001,
+                    "SubmissionNumber": 900685,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309207903788",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 1152.843,
+                    "SubmissionNumber": 900686,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 14478.723000000002,
+            "state_score_percentile": 35,
+            "us_score_percentile": 24
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1310208386045",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 13370.9,
+                    "SubmissionNumber": 942430,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208386058",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 1156.738,
+                    "SubmissionNumber": 942431,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 14527.637999999999,
+            "state_score_percentile": 34,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110039496382",
+    "FacilityID": "06032DCTCH17918",
+    "FacilityNumber": 113190,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.703963,
+    "Longitude": -72.860623,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 64,
+            "state_score_pct": 71,
+            "us_count": 84,
+            "us_pounds_pct": 39,
+            "us_score_pct": 75
+        },
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 84,
+            "us_pounds_pct": 35,
+            "us_score_pct": 66
+        },
+        "2010": {
+            "state_count": 14,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 83,
+            "us_pounds_pct": 32,
+            "us_score_pct": 61
+        },
+        "naicscode": "336412",
+        "name": "Aircraft Engine and Engine Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "EDAC TECHNOLOGIES CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "144921780",
+    "ParentName": "EDAC TECHNOLOGIES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "A.J. GOVAIN",
+    "PublicContactPhone": "8606772884",
+    "RCRANumber": "",
+    "RadialDistance": 2985965,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 90,
+            "us_count": 81,
+            "us_pounds_pct": 37,
+            "us_score_pct": 76
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 46,
+            "state_score_pct": 61,
+            "us_count": 83,
+            "us_pounds_pct": 36,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 58,
+            "us_count": 81,
+            "us_pounds_pct": 34,
+            "us_score_pct": 65
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "1790 - 1806 NEW BRITAIN AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2337,
+    "Y": 2851,
+    "ZIP9": "06032",
+    "ZIPCode": "06032"
+}

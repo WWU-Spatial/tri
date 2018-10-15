@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FLUSHING",
+    "County": "NY,QUEENS",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 27966.231154,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308207007067",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 80.4415,
+                    "SubmissionNumber": 820720,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 80.4415,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207202678",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 80.4868,
+                    "SubmissionNumber": 835964,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 80.4868,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208262877",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 80.5322,
+                    "SubmissionNumber": 930539,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 80.5322,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "36081",
+    "FRSID": "110008088194",
+    "FacilityID": "11354FLSHN12131",
+    "FacilityNumber": 116008,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.769933,
+    "Longitude": -73.847938,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 83,
+            "us_count": 219,
+            "us_pounds_pct": 9,
+            "us_score_pct": 51
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 81,
+            "us_count": 220,
+            "us_pounds_pct": 11,
+            "us_score_pct": 48
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 82,
+            "us_count": 219,
+            "us_pounds_pct": 9,
+            "us_score_pct": 48
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FLUSHING ASPHALT LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JAMES A.  HORAN",
+    "PublicContactPhone": "7189618888",
+    "RCRANumber": "NYN008006892",
+    "RadialDistance": 2857660,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 83,
+            "us_count": 213,
+            "us_pounds_pct": 9,
+            "us_score_pct": 51
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 81,
+            "us_count": 210,
+            "us_pounds_pct": 10,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 82,
+            "us_count": 211,
+            "us_pounds_pct": 10,
+            "us_score_pct": 49
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "120-01 31ST AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2269,
+    "Y": 2702,
+    "ZIP9": "11354",
+    "ZIPCode": "11354"
+}

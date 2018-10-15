@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW HAVEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "001173426",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 72136.043351,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201193594",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 4.85429,
+                    "SubmissionNumber": 299593,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 4.85429,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202194938",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 4.87879,
+                    "SubmissionNumber": 389023,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 4.87879,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110001404285",
+    "FacilityID": "06508SMKNS259ES",
+    "FacilityNumber": 113711,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.306414,
+    "Longitude": -72.910072,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 3,
+            "us_score_pct": 26
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 90,
+            "us_pounds_pct": 2,
+            "us_score_pct": 22
+        },
+        "naicscode": "322130",
+        "name": "Paperboard Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIMKINS INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.28972,
+    "PreferredLong": 72.945,
+    "PublicContactName": "MR. WILLIAM DOUCETTE",
+    "PublicContactPhone": "2037877171",
+    "RCRANumber": "NA",
+    "RadialDistance": 2956261,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 98,
+            "us_pounds_pct": 3,
+            "us_score_pct": 26
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 99,
+            "us_pounds_pct": 2,
+            "us_score_pct": 24
+        },
+        "name": "Paperboard mills",
+        "siccode": "2631"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "263",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 1.5547,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 29.0005,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.3913,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "259 E ST",
+    "SubmitLat": 41.30611,
+    "SubmitLong": 72.91028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2345,
+    "Y": 2797,
+    "ZIP9": "06512",
+    "ZIPCode": "06512"
+}

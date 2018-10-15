@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STAMFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "001864024",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 63866.667948,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1396100045196",
+                    "MaxOnsite": "04",
+                    "Pounds": 11685.0,
+                    "Score": 116.29482,
+                    "SubmissionNumber": 1752009,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100045222",
+                    "MaxOnsite": "04",
+                    "Pounds": 2740.0,
+                    "Score": 0.42049600000000004,
+                    "SubmissionNumber": 1752012,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100045246",
+                    "MaxOnsite": "04",
+                    "Pounds": 2130.0,
+                    "Score": 0.253987,
+                    "SubmissionNumber": 1752013,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100045259",
+                    "MaxOnsite": "04",
+                    "Pounds": 8299.0,
+                    "Score": 51.405699999999996,
+                    "SubmissionNumber": 1752014,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "121448",
+                    "Chemical": "Triethylamine",
+                    "ChemicalNumber": 572,
+                    "DCN": "1396105313643",
+                    "MaxOnsite": "03",
+                    "Pounds": 121.0,
+                    "Score": 8.50249,
+                    "SubmissionNumber": 1810851,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 24975.0,
+            "TotalScore": 176.877493,
+            "state_score_percentile": 75,
+            "us_score_percentile": 67
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000749557",
+    "FacilityID": "06904MRCNC1937W",
+    "FacilityNumber": 114030,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.048868,
+    "Longitude": -73.562927,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "T",
+    "MultiplePrimarySIC": 1,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "naicscode": "541710",
+        "name": "Research and Development in the Physical, Engineering, and Life Sciences"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "541820",
+        "name": "Public Relations Agencies"
+    },
+    "NAICSCode3Digit": "541",
+    "NAICSCode4Digit": "5417",
+    "NAICSCodeSame3Digit": "541",
+    "NHDRegion": "",
+    "NPDESPermit": "CT0026247",
+    "Name": "CYTEC INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "809749948",
+    "ParentName": "CYTEC INDUSTRIES INC",
+    "PreferredLat": 41.04889,
+    "PreferredLong": 73.56083,
+    "PublicContactName": "GERALD R. BACKLUND",
+    "PublicContactPhone": "2033212431",
+    "RCRANumber": "CTD001864024",
+    "RadialDistance": 2895410,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 83,
+            "us_score_pct": 83
+        },
+        "name": "",
+        "siccode": "8731"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "",
+        "siccode": "8743"
+    },
+    "SICCode2Digit": "87",
+    "SICCode3Digit": "873",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "CT",
+    "Street": "1937 W. MAIN ST.",
+    "SubmitLat": 41.04889,
+    "SubmitLong": 73.56083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2288,
+    "Y": 2746,
+    "ZIP9": "06902",
+    "ZIPCode": "06902"
+}

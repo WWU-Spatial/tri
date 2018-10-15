@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "001311471",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20797.44145,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105227553",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 7195.88,
+                    "SubmissionNumber": 1805733,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105359222",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 23.18275,
+                    "SubmissionNumber": 1814454,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 7219.06275,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115297259",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 7247.11,
+                    "SubmissionNumber": 1892189,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115297261",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 23.35085,
+                    "SubmissionNumber": 1892190,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 7270.4608499999995,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125026740",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 23.51894,
+                    "SubmissionNumber": 1968854,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 23.51894,
+            "state_score_percentile": 26,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110009463972",
+    "FacilityID": "11210RSPCL812EA",
+    "FacilityNumber": 115927,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.635344,
+    "Longitude": -73.935439,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 30,
+            "state_score_pct": 92,
+            "us_count": 634,
+            "us_pounds_pct": 17,
+            "us_score_pct": 91
+        },
+        "1997": {
+            "state_count": 22,
+            "state_pounds_pct": 27,
+            "state_score_pct": 95,
+            "us_count": 600,
+            "us_pounds_pct": 16,
+            "us_score_pct": 92
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 34,
+            "state_score_pct": 69,
+            "us_count": 608,
+            "us_pounds_pct": 14,
+            "us_score_pct": 51
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "R & A COATINGS CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.63583,
+    "PreferredLong": 73.93611,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NYD001311471",
+    "RadialDistance": 2842790,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 30,
+            "state_score_pct": 92,
+            "us_count": 613,
+            "us_pounds_pct": 17,
+            "us_score_pct": 92
+        },
+        "1997": {
+            "state_count": 23,
+            "state_pounds_pct": 26,
+            "state_score_pct": 95,
+            "us_count": 579,
+            "us_pounds_pct": 16,
+            "us_score_pct": 93
+        },
+        "1998": {
+            "state_count": 24,
+            "state_pounds_pct": 33,
+            "state_score_pct": 70,
+            "us_count": 580,
+            "us_pounds_pct": 14,
+            "us_score_pct": 51
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "812 E. 43RD. ST.",
+    "SubmitLat": 40.63583,
+    "SubmitLong": 73.93611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2264,
+    "Y": 2682,
+    "ZIP9": "11210",
+    "ZIPCode": "11210"
+}

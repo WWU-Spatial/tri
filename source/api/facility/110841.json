@@ -1,0 +1,181 @@
+{
+    "AssignedComID": 6745192,
+    "AssignedReach": "01070006000702",
+    "City": "LITTLETON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "004074688",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43989.372631,
+    "DistanceToReach": 181.758799,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145171082",
+                    "MaxOnsite": "02",
+                    "Pounds": 6286.0,
+                    "Score": 150713.0,
+                    "SubmissionNumber": 85708,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6286.0,
+            "TotalScore": 150713.0,
+            "state_score_percentile": 64,
+            "us_score_percentile": 51
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207369289",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.2,
+                    "Score": 0.0,
+                    "SubmissionNumber": 850887,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207369291",
+                    "MaxOnsite": "03",
+                    "Pounds": 23.3,
+                    "Score": 577.891,
+                    "SubmissionNumber": 850888,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 26.5,
+            "TotalScore": 577.891,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110002045493",
+    "FacilityID": "01460VRYFNPOBOX",
+    "FacilityNumber": 110841,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.539536,
+    "Longitude": -71.515899,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 83,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 37,
+            "us_score_pct": 100
+        },
+        "naicscode": "311421",
+        "name": "Fruit and Vegetable Canning"
+    },
+    "NAICS2": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "naicscode": "312112",
+        "name": "Bottled Water Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3114",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "VERYFINE PRODUCTS INC",
+    "NearComID": 6745192,
+    "NearReach": "01070006000702",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUNNY DELIGHT BEVERAGE CO",
+    "PreferredLat": 42.5642,
+    "PreferredLong": 71.43311,
+    "PublicContactName": "DANIEL GRAY",
+    "PublicContactPhone": "9787423397",
+    "RCRANumber": "MAD980194518",
+    "RadialDistance": 3130307,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 62,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 24,
+            "us_score_pct": 63
+        },
+        "name": "Food preparations, n.e.c.",
+        "siccode": "2099"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "209",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.4008,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "20 HARVARD RD",
+    "SubmitLat": 42.53833,
+    "SubmitLong": 71.51611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2440,
+    "Y": 2997,
+    "ZIP9": "01460",
+    "ZIPCode": "01460"
+}

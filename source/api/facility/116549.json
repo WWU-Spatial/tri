@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORT HENRY",
+    "County": "NY,ESSEX",
+    "DUNS": "013410444",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52552.112303,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1398120225560",
+                    "MaxOnsite": "04",
+                    "Pounds": 777.0,
+                    "Score": 0.8496509999999999,
+                    "SubmissionNumber": 1918213,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 777.0,
+            "TotalScore": 0.8496509999999999,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1399135126567",
+                    "MaxOnsite": "04",
+                    "Pounds": 672.0,
+                    "Score": 0.733888,
+                    "SubmissionNumber": 2065435,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 672.0,
+            "TotalScore": 0.733888,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36031",
+    "FRSID": "110000823164",
+    "FacilityID": "12974GRFFTPOBOX",
+    "FacilityNumber": 116549,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.0491,
+    "Longitude": -73.45915,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 48,
+            "state_pounds_pct": 12,
+            "state_score_pct": 4,
+            "us_count": 524,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 45,
+            "state_pounds_pct": 13,
+            "state_score_pct": 2,
+            "us_count": 492,
+            "us_pounds_pct": 8,
+            "us_score_pct": 3
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GRIFFITH OIL CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "013410444",
+    "ParentName": "GRIFFITH OIL CO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RYAN T. MERKEY",
+    "PublicContactPhone": "7167832696",
+    "RCRANumber": "NA",
+    "RadialDistance": 3113522,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 48,
+            "state_pounds_pct": 12,
+            "state_score_pct": 4,
+            "us_count": 531,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 45,
+            "state_pounds_pct": 13,
+            "state_score_pct": 2,
+            "us_count": 502,
+            "us_pounds_pct": 8,
+            "us_score_pct": 3
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "P.O. BOX 227",
+    "SubmitLat": 44.05306,
+    "SubmitLong": 73.45778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2202,
+    "Y": 3151,
+    "ZIP9": "12974",
+    "ZIPCode": "12974"
+}

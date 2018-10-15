@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TINTON FALLS",
+    "County": "NJ,MONMOUTH",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 45513.050902,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307207576214",
+                    "MaxOnsite": "02",
+                    "Pounds": 6e-05,
+                    "Score": 7.9e-05,
+                    "SubmissionNumber": 744460,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6e-05,
+            "TotalScore": 7.9e-05,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207576226",
+                    "MaxOnsite": "02",
+                    "Pounds": 4e-05,
+                    "Score": 5.2e-05,
+                    "SubmissionNumber": 829540,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4e-05,
+            "TotalScore": 5.2e-05,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208153965",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.6e-05,
+                    "Score": 7.2e-05,
+                    "SubmissionNumber": 920187,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.6e-05,
+            "TotalScore": 7.2e-05,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "34025",
+    "FRSID": "110042000036",
+    "FacilityID": "0772WSRMYGCHARL",
+    "FacilityNumber": 114944,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.29566,
+    "Longitude": -74.08108,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 163,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 173,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 174,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "US ARMY GARRISON FORT MONMOUTH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOSEPH M. FALLON",
+    "PublicContactPhone": "7325326223",
+    "RCRANumber": "",
+    "RadialDistance": 2810385,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 154,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 167,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 168,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "NJ",
+    "Street": "2627 LABORATORY RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2260,
+    "Y": 2632,
+    "ZIP9": "07724",
+    "ZIPCode": "07724"
+}

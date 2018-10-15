@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TORRINGTON",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "188953186",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 39384.530453,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "584849",
+                    "Chemical": "Toluene-2,4-diisocyanate",
+                    "ChemicalNumber": 550,
+                    "DCN": "1308207100520",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 22.6406,
+                    "SubmissionNumber": 826932,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 22.6406,
+            "state_score_percentile": 17,
+            "us_score_percentile": 10
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "584849",
+                    "Chemical": "Toluene-2,4-diisocyanate",
+                    "ChemicalNumber": 550,
+                    "DCN": "1309207387604",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 22.6703,
+                    "SubmissionNumber": 852596,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 22.6703,
+            "state_score_percentile": 21,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110003004631",
+    "FacilityID": "0679WFRNKL153WA",
+    "FacilityNumber": 113956,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.801943,
+    "Longitude": -73.125214,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 85,
+            "us_pounds_pct": 21,
+            "us_score_pct": 57
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 84,
+            "us_pounds_pct": 17,
+            "us_score_pct": 55
+        },
+        "naicscode": "336413",
+        "name": "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "FRANKLIN PRODUCTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "188953186",
+    "ParentName": "FRANKLIN PRODUCTS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DOUGLAS DEL GROSSO",
+    "PublicContactPhone": "8604820266",
+    "RCRANumber": "CT5000000414",
+    "RadialDistance": 2975118,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 82,
+            "us_pounds_pct": 16,
+            "us_score_pct": 58
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 79,
+            "us_pounds_pct": 12,
+            "us_score_pct": 56
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "153 WATER ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2307,
+    "Y": 2858,
+    "ZIP9": "06790",
+    "ZIPCode": "06790"
+}

@@ -1,0 +1,181 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HINGHAM",
+    "County": "MA,PLYMOUTH",
+    "DUNS": "001006469",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23528.612352,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100157825",
+                    "MaxOnsite": "04",
+                    "Pounds": 150.0,
+                    "Score": 9.43435,
+                    "SubmissionNumber": 1761796,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100157837",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.000193,
+                    "SubmissionNumber": 1761797,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 155.0,
+            "TotalScore": 9.434543,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110287911",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 15.767,
+                    "SubmissionNumber": 1849100,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 15.767,
+            "state_score_percentile": 16,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "25023",
+    "FRSID": "110000310592",
+    "FacilityID": "02043MRRMN100IN",
+    "FacilityNumber": 111488,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.17432,
+    "Longitude": -70.91435,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 197,
+            "us_pounds_pct": 19,
+            "us_score_pct": 24
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 185,
+            "us_pounds_pct": 21,
+            "us_score_pct": 29
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0001821",
+    "Name": "PCC MERRIMAN",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "009027970",
+    "ParentName": "PCC SPECIALTY PRODS INC",
+    "PreferredLat": 42.17972,
+    "PreferredLong": 70.91833,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "MAD001006469",
+    "RadialDistance": 3146854,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 41,
+            "us_count": 350,
+            "us_pounds_pct": 16,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 27,
+            "us_count": 325,
+            "us_pounds_pct": 16,
+            "us_score_pct": 30
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "name": "Textile machinery",
+        "siccode": "3552"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "100 INDUSTRIAL PARK RD.",
+    "SubmitLat": 42.17972,
+    "SubmitLong": 70.91833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2512,
+    "Y": 2964,
+    "ZIP9": "02043",
+    "ZIPCode": "02043"
+}

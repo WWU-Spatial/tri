@@ -1,0 +1,940 @@
+{
+    "AssignedComID": 9494792,
+    "AssignedReach": "02030202000806",
+    "City": "NEW HAVEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "848793910",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 74430.33839,
+    "DistanceToReach": 1566.772417,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398120226129",
+                    "MaxOnsite": "02",
+                    "Pounds": 198000.0,
+                    "Score": 3868.84,
+                    "SubmissionNumber": 1918253,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398125322115",
+                    "MaxOnsite": "02",
+                    "Pounds": 1400.0,
+                    "Score": 7276.67,
+                    "SubmissionNumber": 1982449,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 199400.0,
+            "TotalScore": 11145.51,
+            "state_score_percentile": 97,
+            "us_score_percentile": 91
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140014022",
+                    "MaxOnsite": "04",
+                    "Pounds": 1073.0,
+                    "Score": 5619.22,
+                    "SubmissionNumber": 1255,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1300140014034",
+                    "MaxOnsite": "05",
+                    "Pounds": 3044.0,
+                    "Score": 2.39975,
+                    "SubmissionNumber": 1256,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140014046",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.3,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1257,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1300140014059",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.003051,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1258,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140014061",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.1,
+                    "Score": 29.972700000000003,
+                    "SubmissionNumber": 1259,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300140014073",
+                    "MaxOnsite": "01",
+                    "Pounds": 16.5,
+                    "Score": 1.11496,
+                    "SubmissionNumber": 1260,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 4135.903051,
+            "TotalScore": 5652.70741,
+            "state_score_percentile": 51,
+            "us_score_percentile": 46
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150243792",
+                    "MaxOnsite": "01",
+                    "Pounds": 13.51,
+                    "Score": 0.916589,
+                    "SubmissionNumber": 116383,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150243804",
+                    "MaxOnsite": "03",
+                    "Pounds": 9.1,
+                    "Score": 1.280688,
+                    "SubmissionNumber": 116384,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150243816",
+                    "MaxOnsite": "04",
+                    "Pounds": 504.0,
+                    "Score": 2650.03,
+                    "SubmissionNumber": 116385,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1301150243828",
+                    "MaxOnsite": "05",
+                    "Pounds": 190.0,
+                    "Score": 0.15039,
+                    "SubmissionNumber": 116386,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1301150243830",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.003227,
+                    "Score": 0.0,
+                    "SubmissionNumber": 116387,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150243842",
+                    "MaxOnsite": "05",
+                    "Pounds": 7.39,
+                    "Score": 57.385600000000004,
+                    "SubmissionNumber": 116388,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150243855",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.5,
+                    "Score": 0.0,
+                    "SubmissionNumber": 116389,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 724.503227,
+            "TotalScore": 2709.7632670000003,
+            "state_score_percentile": 43,
+            "us_score_percentile": 35
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200396923",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.2,
+                    "Score": 0.0,
+                    "SubmissionNumber": 228471,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1302200396935",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.002553,
+                    "Score": 0.0,
+                    "SubmissionNumber": 228472,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200396947",
+                    "MaxOnsite": "02",
+                    "Pounds": 7.2,
+                    "Score": 0.735666,
+                    "SubmissionNumber": 228473,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200396950",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.926,
+                    "Score": 0.814738,
+                    "SubmissionNumber": 228474,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200396962",
+                    "MaxOnsite": "04",
+                    "Pounds": 402.64,
+                    "Score": 2125.57,
+                    "SubmissionNumber": 228475,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200396974",
+                    "MaxOnsite": "06",
+                    "Pounds": 1.5902,
+                    "Score": 8.281695,
+                    "SubmissionNumber": 228476,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1302200396986",
+                    "MaxOnsite": "04",
+                    "Pounds": 151.5,
+                    "Score": 0.120397,
+                    "SubmissionNumber": 228477,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 575.058753,
+            "TotalScore": 2135.5224960000005,
+            "state_score_percentile": 41,
+            "us_score_percentile": 35
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1303201502655",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 327940,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1303201502667",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00119,
+                    "Score": 0.0,
+                    "SubmissionNumber": 327941,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201502679",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.5,
+                    "Score": 0.359043,
+                    "SubmissionNumber": 327942,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201502681",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.7392,
+                    "Score": 3.886187,
+                    "SubmissionNumber": 327943,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1303201502693",
+                    "MaxOnsite": "04",
+                    "Pounds": 70.6,
+                    "Score": 0.05633,
+                    "SubmissionNumber": 327944,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 74.94039,
+            "TotalScore": 4.30156,
+            "state_score_percentile": 30,
+            "us_score_percentile": 23
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304202922720",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.08,
+                    "Score": 0.0,
+                    "SubmissionNumber": 455482,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1304202922732",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00095,
+                    "Score": 0.0,
+                    "SubmissionNumber": 455483,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202922744",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.9,
+                    "Score": 0.298676,
+                    "SubmissionNumber": 455484,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202922757",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.5901,
+                    "Score": 3.103364,
+                    "SubmissionNumber": 455485,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 3.57105,
+            "TotalScore": 3.40204,
+            "state_score_percentile": 15,
+            "us_score_percentile": 10
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1305203933534",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.1523,
+                    "Score": 0.0,
+                    "SubmissionNumber": 547697,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1305203933559",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001785,
+                    "Score": 0.0,
+                    "SubmissionNumber": 547699,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203933573",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.22,
+                    "Score": 0.539747,
+                    "SubmissionNumber": 547701,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203933597",
+                    "MaxOnsite": "05",
+                    "Pounds": 1.108614,
+                    "Score": 5.820039,
+                    "SubmissionNumber": 547703,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1305203933611",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.5891,
+                    "Score": 0.799113,
+                    "SubmissionNumber": 547705,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 18.071799,
+            "TotalScore": 7.158899000000001,
+            "state_score_percentile": 27,
+            "us_score_percentile": 20
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204415261",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 590425,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1306204415273",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000789,
+                    "Score": 0.0,
+                    "SubmissionNumber": 590426,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204415285",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.42,
+                    "Score": 0.251215,
+                    "SubmissionNumber": 590427,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204415297",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.490614,
+                    "Score": 2.587598,
+                    "SubmissionNumber": 590428,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 3.0114029999999996,
+            "TotalScore": 2.838813,
+            "state_score_percentile": 16,
+            "us_score_percentile": 11
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205434362",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 680747,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1307205434374",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000994,
+                    "Score": 0.0,
+                    "SubmissionNumber": 680748,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205434386",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.6175050000000001,
+                    "Score": 3.267596,
+                    "SubmissionNumber": 680749,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.7184990000000001,
+            "TotalScore": 3.267596,
+            "state_score_percentile": 15,
+            "us_score_percentile": 7
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206584118",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.021989,
+                    "Score": 0.0,
+                    "SubmissionNumber": 781782,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206584132",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.16007300000000002,
+                    "Score": 0.851754,
+                    "SubmissionNumber": 781783,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1308207191370",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000258,
+                    "Score": 0.0,
+                    "SubmissionNumber": 829067,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.18232000000000004,
+            "TotalScore": 0.851754,
+            "state_score_percentile": 7,
+            "us_score_percentile": 4
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207641299",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.0232,
+                    "Score": 0.0,
+                    "SubmissionNumber": 876449,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1309207641301",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000272,
+                    "Score": 0.0,
+                    "SubmissionNumber": 876450,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207641313",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.168717,
+                    "Score": 0.899674,
+                    "SubmissionNumber": 876451,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.192189,
+            "TotalScore": 0.899674,
+            "state_score_percentile": 12,
+            "us_score_percentile": 5
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208382996",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.027292,
+                    "Score": 0.0,
+                    "SubmissionNumber": 942133,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1310208383000",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00032,
+                    "Score": 0.0,
+                    "SubmissionNumber": 942134,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208383024",
+                    "MaxOnsite": "05",
+                    "Pounds": 0.198673,
+                    "Score": 1.06361,
+                    "SubmissionNumber": 942136,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.226285,
+            "TotalScore": 1.06361,
+            "state_score_percentile": 14,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000610651",
+    "FacilityID": "06506NWHVN1WATE",
+    "FacilityNumber": 113709,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.283986,
+    "Longitude": -72.904546,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 57,
+            "us_count": 559,
+            "us_pounds_pct": 38,
+            "us_score_pct": 71
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 71,
+            "us_count": 623,
+            "us_pounds_pct": 13,
+            "us_score_pct": 66
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 85,
+            "us_count": 630,
+            "us_pounds_pct": 10,
+            "us_score_pct": 60
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 87,
+            "us_count": 624,
+            "us_pounds_pct": 9,
+            "us_score_pct": 57
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 633,
+            "us_pounds_pct": 6,
+            "us_score_pct": 9
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 33,
+            "us_count": 620,
+            "us_pounds_pct": 2,
+            "us_score_pct": 9
+        },
+        "2005": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 22,
+            "us_count": 621,
+            "us_pounds_pct": 3,
+            "us_score_pct": 11
+        },
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 610,
+            "us_pounds_pct": 3,
+            "us_score_pct": 9
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 633,
+            "us_pounds_pct": 2,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 622,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 50,
+            "us_count": 614,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 602,
+            "us_pounds_pct": 2,
+            "us_score_pct": 7
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "PSEG NEW HAVEN HARBOR STATION",
+    "NearComID": 6178614,
+    "NearReach": "01100004000652",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "848793910",
+    "ParentName": "PUBLIC SERVICE ENTERPRISE GROUP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL V. STAGLIOLA",
+    "PublicContactPhone": "2035516002",
+    "RCRANumber": "CTD000844381",
+    "RadialDistance": 2955154,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 57,
+            "us_count": 555,
+            "us_pounds_pct": 39,
+            "us_score_pct": 71
+        },
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 75,
+            "us_count": 631,
+            "us_pounds_pct": 15,
+            "us_score_pct": 66
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 85,
+            "us_count": 638,
+            "us_pounds_pct": 13,
+            "us_score_pct": 60
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 87,
+            "us_count": 623,
+            "us_pounds_pct": 11,
+            "us_score_pct": 57
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 632,
+            "us_pounds_pct": 9,
+            "us_score_pct": 11
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 33,
+            "us_count": 618,
+            "us_pounds_pct": 3,
+            "us_score_pct": 11
+        },
+        "2005": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 22,
+            "us_count": 612,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 588,
+            "us_pounds_pct": 4,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 607,
+            "us_pounds_pct": 2,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 596,
+            "us_pounds_pct": 1,
+            "us_score_pct": 6
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 50,
+            "us_count": 585,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 578,
+            "us_pounds_pct": 2,
+            "us_score_pct": 7
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 5.79092,
+    "StackDiameterSource": "EPRI fac",
+    "StackHeight": 118.56141,
+    "StackHeightSource": "EPRI fac",
+    "StackVelocity": 21.63974,
+    "StackVelocitySource": "EPRI fac",
+    "State": "CT",
+    "Street": "1 WATERFRONT ST",
+    "SubmitLat": 41.28361,
+    "SubmitLong": 72.90278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2346,
+    "Y": 2794,
+    "ZIP9": "06512",
+    "ZIPCode": "06512"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAWRENCE",
+    "County": "MA,ESSEX",
+    "DUNS": "151747516",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 40270.365527,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150585646",
+                    "MaxOnsite": "02",
+                    "Pounds": 3.67,
+                    "Score": 9.59517,
+                    "SubmissionNumber": 146533,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.67,
+            "TotalScore": 9.59517,
+            "state_score_percentile": 16,
+            "us_score_percentile": 7
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200908883",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.2,
+                    "Score": 10.91844,
+                    "SubmissionNumber": 273835,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.2,
+            "TotalScore": 10.91844,
+            "state_score_percentile": 20,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110002086304",
+    "FacilityID": "01841TTSMC6LAKE",
+    "FacilityNumber": 111223,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.71382,
+    "Longitude": -71.175688,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 26,
+            "state_score_pct": 53,
+            "us_count": 154,
+            "us_pounds_pct": 6,
+            "us_score_pct": 44
+        },
+        "2002": {
+            "state_count": 15,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 137,
+            "us_pounds_pct": 8,
+            "us_score_pct": 45
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MICROSEMI LAWRENCE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "051550838",
+    "ParentName": "MICROSEMI CORP",
+    "PreferredLat": 42.71361,
+    "PreferredLong": 71.17806,
+    "PublicContactName": "GEORGE ATHENS",
+    "PublicContactPhone": "9786202630",
+    "RCRANumber": "MAD985278324",
+    "RadialDistance": 3164197,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 57,
+            "us_count": 157,
+            "us_pounds_pct": 9,
+            "us_score_pct": 47
+        },
+        "2002": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 58,
+            "us_count": 139,
+            "us_pounds_pct": 9,
+            "us_score_pct": 46
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.893,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.5256,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.1346,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "6 LAKE ST",
+    "SubmitLat": 42.71361,
+    "SubmitLong": 71.17778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2467,
+    "Y": 3029,
+    "ZIP9": "01841",
+    "ZIPCode": "01841"
+}

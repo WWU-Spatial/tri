@@ -1,0 +1,325 @@
+{
+    "AssignedComID": 22743687,
+    "AssignedReach": "02020004002623",
+    "City": "UTICA",
+    "County": "NY,ONEIDA",
+    "DUNS": "190422746",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 69704.250452,
+    "DistanceToReach": 2165.514477,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1304202761918",
+                    "MaxOnsite": "04",
+                    "Pounds": 136.0,
+                    "Score": 2.834409,
+                    "SubmissionNumber": 441121,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 136.0,
+            "TotalScore": 2.834409,
+            "state_score_percentile": 34,
+            "us_score_percentile": 28
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1305203640091",
+                    "MaxOnsite": "04",
+                    "Pounds": 377.0,
+                    "Score": 7.798173,
+                    "SubmissionNumber": 520773,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 377.0,
+            "TotalScore": 7.798173,
+            "state_score_percentile": 41,
+            "us_score_percentile": 36
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1306204738785",
+                    "MaxOnsite": "03",
+                    "Pounds": 20.0,
+                    "Score": 0.418329,
+                    "SubmissionNumber": 620249,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 0.418329,
+            "state_score_percentile": 26,
+            "us_score_percentile": 21
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1307205620432",
+                    "MaxOnsite": "04",
+                    "Pounds": 22.5,
+                    "Score": 0.479298,
+                    "SubmissionNumber": 697980,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 22.5,
+            "TotalScore": 0.479298,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1308206720637",
+                    "MaxOnsite": "04",
+                    "Pounds": 18.0,
+                    "Score": 0.402431,
+                    "SubmissionNumber": 794562,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 18.0,
+            "TotalScore": 0.402431,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1309207762612",
+                    "MaxOnsite": "04",
+                    "Pounds": 16.0,
+                    "Score": 0.342028,
+                    "SubmissionNumber": 887712,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 16.0,
+            "TotalScore": 0.342028,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1310208764997",
+                    "MaxOnsite": "04",
+                    "Pounds": 23.0,
+                    "Score": 0.49229199999999995,
+                    "SubmissionNumber": 977298,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 23.0,
+            "TotalScore": 0.49229199999999995,
+            "state_score_percentile": 31,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110009488125",
+    "FacilityID": "13502GRMNM1634L",
+    "FacilityNumber": 116811,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.09381,
+    "Longitude": -75.2584,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 15,
+            "state_pounds_pct": 13,
+            "state_score_pct": 13,
+            "us_count": 335,
+            "us_pounds_pct": 20,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 15,
+            "state_pounds_pct": 26,
+            "state_score_pct": 40,
+            "us_count": 339,
+            "us_pounds_pct": 30,
+            "us_score_pct": 28
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 13,
+            "us_count": 336,
+            "us_pounds_pct": 12,
+            "us_score_pct": 12
+        },
+        "2007": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 13,
+            "us_count": 325,
+            "us_pounds_pct": 12,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 15,
+            "state_pounds_pct": 13,
+            "state_score_pct": 20,
+            "us_count": 332,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 12,
+            "state_score_pct": 18,
+            "us_count": 330,
+            "us_pounds_pct": 13,
+            "us_score_pct": 11
+        },
+        "2010": {
+            "state_count": 16,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 320,
+            "us_pounds_pct": 13,
+            "us_score_pct": 11
+        },
+        "naicscode": "325188",
+        "name": "All Other Basic Inorganic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "GERMANIUM CORP OF AMERICA",
+    "NearComID": 22743687,
+    "NearReach": "02020004002623",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "172493504",
+    "ParentName": "INDIUM CORP OF AMERICA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RICK SHORT",
+    "PublicContactPhone": "3158534900",
+    "RCRANumber": "NYR000095026",
+    "RadialDistance": 2934716,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 19,
+            "state_pounds_pct": 26,
+            "state_score_pct": 15,
+            "us_count": 438,
+            "us_pounds_pct": 21,
+            "us_score_pct": 19
+        },
+        "2005": {
+            "state_count": 19,
+            "state_pounds_pct": 36,
+            "state_score_pct": 47,
+            "us_count": 439,
+            "us_pounds_pct": 32,
+            "us_score_pct": 28
+        },
+        "2006": {
+            "state_count": 19,
+            "state_pounds_pct": 26,
+            "state_score_pct": 15,
+            "us_count": 422,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "2007": {
+            "state_count": 19,
+            "state_pounds_pct": 21,
+            "state_score_pct": 10,
+            "us_count": 410,
+            "us_pounds_pct": 11,
+            "us_score_pct": 10
+        },
+        "2008": {
+            "state_count": 17,
+            "state_pounds_pct": 23,
+            "state_score_pct": 17,
+            "us_count": 405,
+            "us_pounds_pct": 12,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 18,
+            "state_pounds_pct": 27,
+            "state_score_pct": 16,
+            "us_count": 397,
+            "us_pounds_pct": 12,
+            "us_score_pct": 10
+        },
+        "2010": {
+            "state_count": 18,
+            "state_pounds_pct": 27,
+            "state_score_pct": 11,
+            "us_count": 393,
+            "us_pounds_pct": 14,
+            "us_score_pct": 9
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1634 LINCOLN AVE",
+    "SubmitLat": 43.09667,
+    "SubmitLong": 75.26333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2057,
+    "Y": 2982,
+    "ZIP9": "13502",
+    "ZIPCode": "13502"
+}

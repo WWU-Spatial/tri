@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 6251234,
+    "AssignedReach": "02030103000034",
+    "City": "EAST RUTHERFORD",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16385.148686,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105088607",
+                    "MaxOnsite": "03",
+                    "Pounds": 25800.0,
+                    "Score": 77.2958,
+                    "SubmissionNumber": 1796489,
+                    "Use": ""
+                }
+            ],
+            "TotalPounds": 25800.0,
+            "TotalScore": 77.2958,
+            "state_score_percentile": 81,
+            "us_score_percentile": 68
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115084016",
+                    "MaxOnsite": "03",
+                    "Pounds": 33640.0,
+                    "Score": 101.659,
+                    "SubmissionNumber": 1880810,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33640.0,
+            "TotalScore": 101.659,
+            "state_score_percentile": 83,
+            "us_score_percentile": 73
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398125041513",
+                    "MaxOnsite": "03",
+                    "Pounds": 13220.0,
+                    "Score": 40.2941,
+                    "SubmissionNumber": 1969515,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13220.0,
+            "TotalScore": 40.2941,
+            "state_score_percentile": 70,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000318978",
+    "FacilityID": "07073STRGL2CARL",
+    "FacilityNumber": 114399,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.84188,
+    "Longitude": -74.11397,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 169,
+            "us_pounds_pct": 66,
+            "us_score_pct": 75
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 161,
+            "us_pounds_pct": 70,
+            "us_score_pct": 76
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 149,
+            "us_pounds_pct": 61,
+            "us_score_pct": 70
+        },
+        "naicscode": "326299",
+        "name": "All Other Rubber Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3262",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NJG0114103",
+    "Name": "STAR-GLO INDUSTRIES LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.84221,
+    "PreferredLong": 74.11422,
+    "PublicContactName": "RICHARD WILZ",
+    "PublicContactPhone": "2019396162",
+    "RCRANumber": "NJD049301112",
+    "RadialDistance": 2844698,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 215,
+            "us_pounds_pct": 66,
+            "us_score_pct": 70
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 204,
+            "us_pounds_pct": 73,
+            "us_score_pct": 71
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 196,
+            "us_pounds_pct": 57,
+            "us_score_pct": 66
+        },
+        "name": "Fabricated rubber products, n.e.c.",
+        "siccode": "3069"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "306",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5833,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.2037,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.3533,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "2 CARLTON AVENUE",
+    "SubmitLat": 40.84222,
+    "SubmitLong": 74.11417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2240,
+    "Y": 2705,
+    "ZIP9": "07073",
+    "ZIPCode": "07073"
+}

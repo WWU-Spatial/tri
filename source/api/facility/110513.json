@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AGAWAM",
+    "County": "MA,HAMPDEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12882.464203,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202357517",
+                    "MaxOnsite": "04",
+                    "Pounds": 2459.0,
+                    "Score": 0.973758,
+                    "SubmissionNumber": 403880,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 2459.0,
+            "TotalScore": 0.973758,
+            "state_score_percentile": 70,
+            "us_score_percentile": 51
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203262858",
+                    "MaxOnsite": "04",
+                    "Pounds": 2253.0,
+                    "Score": 0.893747,
+                    "SubmissionNumber": 485440,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 2253.0,
+            "TotalScore": 0.893747,
+            "state_score_percentile": 69,
+            "us_score_percentile": 51
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204366417",
+                    "MaxOnsite": "04",
+                    "Pounds": 1242.0,
+                    "Score": 0.493554,
+                    "SubmissionNumber": 585818,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1242.0,
+            "TotalScore": 0.493554,
+            "state_score_percentile": 62,
+            "us_score_percentile": 46
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205283866",
+                    "MaxOnsite": "04",
+                    "Pounds": 1231.0,
+                    "Score": 0.490038,
+                    "SubmissionNumber": 666810,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1231.0,
+            "TotalScore": 0.490038,
+            "state_score_percentile": 62,
+            "us_score_percentile": 47
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206500567",
+                    "MaxOnsite": "04",
+                    "Pounds": 1795.0,
+                    "Score": 0.715803,
+                    "SubmissionNumber": 773873,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1795.0,
+            "TotalScore": 0.715803,
+            "state_score_percentile": 69,
+            "us_score_percentile": 52
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207500190",
+                    "MaxOnsite": "04",
+                    "Pounds": 1293.0,
+                    "Score": 0.516516,
+                    "SubmissionNumber": 863138,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1293.0,
+            "TotalScore": 0.516516,
+            "state_score_percentile": 66,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110002059361",
+    "FacilityID": "01001BRKSH36MYL",
+    "FacilityNumber": 110513,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.046546,
+    "Longitude": -72.651512,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 15,
+            "state_pounds_pct": 40,
+            "state_score_pct": 13,
+            "us_count": 620,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "2005": {
+            "state_count": 15,
+            "state_pounds_pct": 40,
+            "state_score_pct": 6,
+            "us_count": 621,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 33,
+            "state_score_pct": 13,
+            "us_count": 610,
+            "us_pounds_pct": 10,
+            "us_score_pct": 3
+        },
+        "2007": {
+            "state_count": 16,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 633,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2008": {
+            "state_count": 15,
+            "state_pounds_pct": 26,
+            "state_score_pct": 6,
+            "us_count": 622,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 21,
+            "state_score_pct": 7,
+            "us_count": 614,
+            "us_pounds_pct": 14,
+            "us_score_pct": 5
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BERKSHIRE POWER LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "FRANK BASILE",
+    "PublicContactPhone": "4137890075",
+    "RCRANumber": "MAR000503490",
+    "RadialDistance": 3022738,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 35,
+            "state_score_pct": 14,
+            "us_count": 618,
+            "us_pounds_pct": 13,
+            "us_score_pct": 7
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 35,
+            "state_score_pct": 7,
+            "us_count": 612,
+            "us_pounds_pct": 11,
+            "us_score_pct": 6
+        },
+        "2006": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 7,
+            "us_count": 588,
+            "us_pounds_pct": 10,
+            "us_score_pct": 4
+        },
+        "2007": {
+            "state_count": 15,
+            "state_pounds_pct": 20,
+            "state_score_pct": 6,
+            "us_count": 607,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 7,
+            "us_count": 596,
+            "us_pounds_pct": 12,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 25,
+            "state_score_pct": 8,
+            "us_count": 585,
+            "us_pounds_pct": 13,
+            "us_score_pct": 6
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "MA",
+    "Street": "36 MOYLAN LN",
+    "SubmitLat": 42.04778,
+    "SubmitLong": 72.65139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2346,
+    "Y": 2902,
+    "ZIP9": "01001",
+    "ZIPCode": "01001"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GLOUCESTER CITY",
+    "County": "NJ,CAMDEN",
+    "DUNS": "199015314",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11332.6739,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105052361",
+                    "MaxOnsite": "04",
+                    "Pounds": 14400.0,
+                    "Score": 3.5944789999999998,
+                    "SubmissionNumber": 1794104,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14400.0,
+            "TotalScore": 3.5944789999999998,
+            "state_score_percentile": 71,
+            "us_score_percentile": 57
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115007003",
+                    "MaxOnsite": "04",
+                    "Pounds": 8004.0,
+                    "Score": 1.991723,
+                    "SubmissionNumber": 1875777,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8004.0,
+            "TotalScore": 1.991723,
+            "state_score_percentile": 62,
+            "us_score_percentile": 48
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125132009",
+                    "MaxOnsite": "03",
+                    "Pounds": 1510.0,
+                    "Score": 0.374514,
+                    "SubmissionNumber": 1973857,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1510.0,
+            "TotalScore": 0.374514,
+            "state_score_percentile": 37,
+            "us_score_percentile": 31
+        }
+    },
+    "FIPS": "34007",
+    "FRSID": "110000321045",
+    "FacilityID": "08030PLYGM701NB",
+    "FacilityNumber": 115119,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.904689,
+    "Longitude": -75.120114,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 30,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 18,
+            "us_score_pct": 36
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 25,
+            "us_score_pct": 25
+        },
+        "naicscode": "321211",
+        "name": "Hardwood Veneer and Plywood Manufacturing"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3212",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PLY-GEM MFG.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 39.90405,
+    "PreferredLong": 75.12023,
+    "PublicContactName": "LOWRIE E. EMBREY",
+    "PublicContactPhone": "6094569100",
+    "RCRANumber": "NJD075508895",
+    "RadialDistance": 2713785,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 35,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 25,
+            "us_score_pct": 16
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 30,
+            "us_score_pct": 15
+        },
+        "name": "Hardwood veneer and plywood",
+        "siccode": "2435"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "243",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.8595,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3632,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "701 N. BROADWAY",
+    "SubmitLat": 39.90417,
+    "SubmitLong": 75.12028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2167,
+    "Y": 2555,
+    "ZIP9": "08030",
+    "ZIPCode": "08030"
+}

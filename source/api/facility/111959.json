@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BEDFORD",
+    "County": "MA,BRISTOL",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 42068.848426,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145194306",
+                    "MaxOnsite": "03",
+                    "Pounds": 991.0,
+                    "Score": 101129.0,
+                    "SubmissionNumber": 87182,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145194318",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 87183,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1002.0,
+            "TotalScore": 101129.0,
+            "state_score_percentile": 42,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110001949535",
+    "FacilityID": "02746CTRSN305NA",
+    "FacilityNumber": 111959,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.666176,
+    "Longitude": -70.933905,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 90,
+            "us_count": 67,
+            "us_pounds_pct": 11,
+            "us_score_pct": 95
+        },
+        "naicscode": "313320",
+        "name": "Fabric Coating Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "COATER'S INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "",
+    "ParentName": "",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ED DAILY",
+    "PublicContactPhone": "5089966787",
+    "RCRANumber": "MAD001013606",
+    "RadialDistance": 3113589,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 206,
+            "us_pounds_pct": 37,
+            "us_score_pct": 99
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SIC2": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 22,
+            "us_score_pct": 97
+        },
+        "name": "Unsupported plastics film and sheet",
+        "siccode": "3081"
+    },
+    "SIC3": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 91,
+            "us_pounds_pct": 8,
+            "us_score_pct": 98
+        },
+        "name": "Laminated plastics plate, sheet, and profile shapes",
+        "siccode": "3083"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.711,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 25.8642,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 2.2017,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "305 NASH RD.",
+    "SubmitLat": 45.58611,
+    "SubmitLong": 70.93472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2528,
+    "Y": 2895,
+    "ZIP9": "02746",
+    "ZIPCode": "02746"
+}

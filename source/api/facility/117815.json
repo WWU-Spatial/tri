@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "074999863",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21394.670011,
+    "DistanceToReach": 475.736392,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1396105370795",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 33.3463,
+                    "SubmissionNumber": 1815426,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396105370807",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 12.968,
+                    "SubmissionNumber": 1815427,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105370819",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.185257,
+                    "SubmissionNumber": 1815428,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "122394",
+                    "Chemical": "Diphenylamine",
+                    "ChemicalNumber": 275,
+                    "DCN": "1396105370821",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.049098,
+                    "SubmissionNumber": 1815429,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 40.0,
+            "TotalScore": 46.548655000000004,
+            "state_score_percentile": 12,
+            "us_score_percentile": 10
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1397110273481",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 12.89337,
+                    "SubmissionNumber": 1847771,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110273493",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.184191,
+                    "SubmissionNumber": 1847772,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "122394",
+                    "Chemical": "Diphenylamine",
+                    "ChemicalNumber": 275,
+                    "DCN": "1397110273505",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.048803,
+                    "SubmissionNumber": 1847773,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 13.126364,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1398120330752",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 12.81874,
+                    "SubmissionNumber": 1926054,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120330764",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 0.183125,
+                    "SubmissionNumber": 1926055,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 13.001865,
+            "state_score_percentile": 9,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000329485",
+    "FacilityID": "15201XXNCM34THS",
+    "FacilityNumber": 117815,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.46472,
+    "Longitude": -79.96815,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 62,
+            "us_count": 68,
+            "us_pounds_pct": 17,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 31,
+            "state_score_pct": 62,
+            "us_count": 71,
+            "us_pounds_pct": 26,
+            "us_score_pct": 60
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 66,
+            "us_pounds_pct": 15,
+            "us_score_pct": 54
+        },
+        "naicscode": "324191",
+        "name": "Petroleum Lubricating Oil and Grease Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": 5,
+    "NPDESPermit": "PA0001848",
+    "Name": "EXXON CO. USA PITTSBURGH PLANT",
+    "NearComID": 11050716,
+    "NearReach": "05010009000503",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001213214",
+    "ParentName": "EXXON CORP",
+    "PreferredLat": 40.46,
+    "PreferredLong": 79.97194,
+    "PublicContactName": "RICHARD J. CIERI",
+    "PublicContactPhone": "7244491320",
+    "RCRANumber": "PAD074999863",
+    "RadialDistance": 2451979,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 62,
+            "us_count": 77,
+            "us_pounds_pct": 18,
+            "us_score_pct": 67
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 31,
+            "state_score_pct": 62,
+            "us_count": 82,
+            "us_pounds_pct": 25,
+            "us_score_pct": 58
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 83,
+            "us_pounds_pct": 15,
+            "us_score_pct": 53
+        },
+        "name": "Lubricating oils and greases",
+        "siccode": "2992"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "299",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1382,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "100 35TH ST.",
+    "SubmitLat": 40.46444,
+    "SubmitLong": 79.97056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1656,
+    "Y": 2534,
+    "ZIP9": "15201",
+    "ZIPCode": "15201"
+}

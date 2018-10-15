@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KINGSTON",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "873021463",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 55822.357434,
+    "DistanceToReach": 451.745098,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306208005811",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.005,
+                    "Score": 0.001961,
+                    "SubmissionNumber": 656835,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.005,
+            "TotalScore": 0.001961,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307208005797",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.004,
+                    "Score": 0.001593,
+                    "SubmissionNumber": 744824,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.004,
+            "TotalScore": 0.001593,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308208005773",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.004,
+                    "Score": 0.001554,
+                    "SubmissionNumber": 830345,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.004,
+            "TotalScore": 0.001554,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110012252196",
+    "FacilityID": "0384WTRRMN18DRR",
+    "FacilityNumber": 112743,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.867518,
+    "Longitude": -71.091422,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 17
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 12,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "naicscode": "212319",
+        "name": "Other Crushed and Broken Stone Mining and Quarrying"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 18,
+            "us_pounds_pct": 5,
+            "us_score_pct": 5
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 21,
+            "us_pounds_pct": 7,
+            "us_score_pct": 4
+        },
+        "naicscode": "212321",
+        "name": "Construction Sand and Gravel Mining"
+    },
+    "NAICS3": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 128,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 131,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 128,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "naicscode": "327310",
+        "name": "Cement Manufacturing"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2123",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 1,
+    "NPDESPermit": "",
+    "Name": "TORROMEO INDUSTRIES INC",
+    "NearComID": 6744284,
+    "NearReach": "01070006001271",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRENDA TORROMEO",
+    "PublicContactPhone": "9786835800",
+    "RCRANumber": "NHD510127061",
+    "RadialDistance": 3179825,
+    "ReachSource": "",
+    "Region": "1",
+    "SICCode2Digit": "14",
+    "SICCode3Digit": "",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "NH",
+    "Street": "18 DORRE RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2470,
+    "Y": 3051,
+    "ZIP9": "03848",
+    "ZIPCode": "03848"
+}

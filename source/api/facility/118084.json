@@ -1,0 +1,312 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PUNXSUTAWNEY",
+    "County": "PA,JEFFERSON",
+    "DUNS": "004344008",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 115007.331834,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105319608",
+                    "MaxOnsite": "",
+                    "Pounds": 5.0,
+                    "Score": 0.326114,
+                    "SubmissionNumber": 1811277,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.326114,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115072694",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.323298,
+                    "SubmissionNumber": 1879894,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.323298,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125110092",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.128193,
+                    "SubmissionNumber": 1972855,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.128193,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399135032353",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.063533,
+                    "SubmissionNumber": 2060288,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399135032391",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.004264,
+                    "SubmissionNumber": 2060291,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.06779700000000001,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300145149492",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.011406,
+                    "SubmissionNumber": 84491,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300145149579",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.12594,
+                    "SubmissionNumber": 84496,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.137346,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200314300",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.056754,
+                    "SubmissionNumber": 220756,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.056754,
+            "state_score_percentile": 10,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "42065",
+    "FRSID": "110000330348",
+    "FacilityID": "15767BFGLC705CH",
+    "FacilityNumber": 118084,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.945714,
+    "Longitude": -78.984463,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 31,
+            "state_pounds_pct": 4,
+            "state_score_pct": 9,
+            "us_count": 561,
+            "us_pounds_pct": 4,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 30,
+            "state_pounds_pct": 8,
+            "state_score_pct": 16,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 26,
+            "state_pounds_pct": 7,
+            "state_score_pct": 11,
+            "us_count": 522,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 25,
+            "state_pounds_pct": 12,
+            "state_score_pct": 16,
+            "us_count": 506,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2000": {
+            "state_count": 26,
+            "state_pounds_pct": 7,
+            "state_score_pct": 19,
+            "us_count": 508,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2002": {
+            "state_count": 25,
+            "state_pounds_pct": 14,
+            "state_score_pct": 12,
+            "us_count": 506,
+            "us_pounds_pct": 10,
+            "us_score_pct": 3
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BFG ELECTROPLATING CHERRY PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.94556,
+    "PreferredLong": 78.98528,
+    "PublicContactName": "JEFFREY GRUBE",
+    "PublicContactPhone": "8149389164",
+    "RCRANumber": "PAD004344008",
+    "RadialDistance": 2547751,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 32,
+            "state_pounds_pct": 4,
+            "state_score_pct": 9,
+            "us_count": 575,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 32,
+            "state_pounds_pct": 4,
+            "state_score_pct": 12,
+            "us_count": 565,
+            "us_pounds_pct": 5,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 3,
+            "state_score_pct": 6,
+            "us_count": 546,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 31,
+            "state_pounds_pct": 6,
+            "state_score_pct": 12,
+            "us_count": 534,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2000": {
+            "state_count": 31,
+            "state_pounds_pct": 6,
+            "state_score_pct": 16,
+            "us_count": 537,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2002": {
+            "state_count": 28,
+            "state_pounds_pct": 14,
+            "state_score_pct": 7,
+            "us_count": 533,
+            "us_pounds_pct": 10,
+            "us_score_pct": 3
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "705 CHERRY ST",
+    "SubmitLat": 40.94556,
+    "SubmitLong": 78.985,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1745,
+    "Y": 2617,
+    "ZIP9": "15767",
+    "ZIPCode": "15767"
+}

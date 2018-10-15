@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LYNDHURST",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12401.145873,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1301201022100",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 0.231163,
+                    "SubmissionNumber": 188772,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7.0,
+            "TotalScore": 0.231163,
+            "state_score_percentile": 13,
+            "us_score_percentile": 11
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1302201022098",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.264559,
+                    "SubmissionNumber": 281106,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 0.264559,
+            "state_score_percentile": 13,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110006859756",
+    "FacilityID": "07071SLGRV1170V",
+    "FacilityNumber": 114359,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.80087,
+    "Longitude": -74.103968,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 11,
+            "us_count": 54,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 11,
+            "us_count": 56,
+            "us_pounds_pct": 2,
+            "us_score_pct": 16
+        },
+        "naicscode": "325411",
+        "name": "Medicinal and Botanical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJG140945",
+    "Name": "SOLGAR VITAMIN & HERB",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001317130",
+    "ParentName": "WYETH",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ALEXANDER CLASS, CPEA",
+    "PublicContactPhone": "2013633020",
+    "RCRANumber": "NJR000037465",
+    "RadialDistance": 2842592,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 11,
+            "us_count": 71,
+            "us_pounds_pct": 2,
+            "us_score_pct": 7
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 16,
+            "state_score_pct": 11,
+            "us_count": 74,
+            "us_pounds_pct": 2,
+            "us_score_pct": 13
+        },
+        "name": "Medicinal chemicals and botanical products",
+        "siccode": "2833"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1170 VALLEYBROOK AVE.",
+    "SubmitLat": 40.86861,
+    "SubmitLong": 73.99139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2242,
+    "Y": 2700,
+    "ZIP9": "07071",
+    "ZIPCode": "07071"
+}

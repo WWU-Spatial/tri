@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORTLAND",
+    "County": "CT,MIDDLESEX",
+    "DUNS": "118341767",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 40690.099583,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200005585",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000975,
+                    "Score": 0.060474,
+                    "SubmissionNumber": 192979,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.000975,
+            "TotalScore": 0.060474,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303202048791",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000878,
+                    "Score": 0.054654,
+                    "SubmissionNumber": 374269,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.000878,
+            "TotalScore": 0.054654,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "09007",
+    "FRSID": "110001729915",
+    "FacilityID": "06480STNCN74PIC",
+    "FacilityNumber": 113620,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.56841,
+    "Longitude": -72.637287,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 31
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 21
+        },
+        "naicscode": "322211",
+        "name": "Corrugated and Solid Fiber Box Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STONE CONTAINER CORP - PORTLAND CT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005213400",
+    "ParentName": "SMURFIT-STONE CONTAINER CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN DUBITSKY",
+    "PublicContactPhone": "8603426846",
+    "RCRANumber": "NA",
+    "RadialDistance": 2991820,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 29
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 20
+        },
+        "name": "Corrugated and solid fiber boxes",
+        "siccode": "2653"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "265",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8188,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.6002,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.5353,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "74 PICKERING ST",
+    "SubmitLat": 41.56694,
+    "SubmitLong": 72.63361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2363,
+    "Y": 2838,
+    "ZIP9": "06480",
+    "ZIPCode": "06480"
+}

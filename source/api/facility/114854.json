@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CRESSKILL",
+    "County": "NJ,BERGEN",
+    "DUNS": "002002699",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31706.318649,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105055848",
+                    "MaxOnsite": "03",
+                    "Pounds": 12330.0,
+                    "Score": 17.9361,
+                    "SubmissionNumber": 1794343,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12330.0,
+            "TotalScore": 17.9361,
+            "state_score_percentile": 68,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110082334",
+                    "MaxOnsite": "03",
+                    "Pounds": 8452.0,
+                    "Score": 12.3884,
+                    "SubmissionNumber": 1831156,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8452.0,
+            "TotalScore": 12.3884,
+            "state_score_percentile": 63,
+            "us_score_percentile": 49
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120001298",
+                    "MaxOnsite": "03",
+                    "Pounds": 7705.0,
+                    "Score": 11.3787,
+                    "SubmissionNumber": 1899630,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7705.0,
+            "TotalScore": 11.3787,
+            "state_score_percentile": 61,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000320411",
+    "FacilityID": "07626HKNCR1TENA",
+    "FacilityNumber": 114854,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.939967,
+    "Longitude": -73.963008,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 79,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 81,
+            "us_score_pct": 28
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 32,
+            "us_pounds_pct": 78,
+            "us_score_pct": 21
+        },
+        "naicscode": "332911",
+        "name": "Industrial Valve Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0003786",
+    "Name": "HOKE INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "152163093",
+    "ParentName": "WATTS INDS",
+    "PreferredLat": 40.93861,
+    "PreferredLong": 73.96361,
+    "PublicContactName": "JOHN HESS",
+    "PublicContactPhone": "8645747966",
+    "RCRANumber": "NJD002002699",
+    "RadialDistance": 2861387,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 86,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 86,
+            "us_score_pct": 34
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 80,
+            "us_score_pct": 26
+        },
+        "name": "Industrial valves",
+        "siccode": "3491"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1 TENAKILL PARK",
+    "SubmitLat": 40.93861,
+    "SubmitLong": 73.96361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2252,
+    "Y": 2722,
+    "ZIP9": "07626",
+    "ZIPCode": "07626"
+}

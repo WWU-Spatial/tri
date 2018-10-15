@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MARLBOROUGH",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "883676793",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 45778.996059,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304203021643",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.0,
+                    "Score": 2.45197,
+                    "SubmissionNumber": 463665,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 2.45197,
+            "state_score_percentile": 25,
+            "us_score_percentile": 11
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203922873",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.0,
+                    "Score": 2.45948,
+                    "SubmissionNumber": 546695,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203922885",
+                    "MaxOnsite": "02",
+                    "Pounds": 11.0,
+                    "Score": 0.012357,
+                    "SubmissionNumber": 546696,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 2.4718370000000003,
+            "state_score_percentile": 35,
+            "us_score_percentile": 19
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204758888",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.5,
+                    "Score": 0.289762,
+                    "SubmissionNumber": 622124,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 0.289762,
+            "state_score_percentile": 15,
+            "us_score_percentile": 6
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1307205685326",
+                    "MaxOnsite": "03",
+                    "Pounds": 977.0,
+                    "Score": 7.88832,
+                    "SubmissionNumber": 704046,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205685338",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.5,
+                    "Score": 0.290665,
+                    "SubmissionNumber": 704047,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205685340",
+                    "MaxOnsite": "03",
+                    "Pounds": 491.0,
+                    "Score": 4.27478,
+                    "SubmissionNumber": 704048,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1468.5,
+            "TotalScore": 12.453765,
+            "state_score_percentile": 65,
+            "us_score_percentile": 48
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308207011139",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.008733,
+                    "SubmissionNumber": 821085,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.008733,
+            "state_score_percentile": 16,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110012240841",
+    "FacilityID": "01752VRGRN259CE",
+    "FacilityNumber": 111109,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.31868,
+    "Longitude": -71.586538,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 32,
+            "state_score_pct": 57,
+            "us_count": 123,
+            "us_pounds_pct": 11,
+            "us_score_pct": 27
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 42,
+            "state_score_pct": 50,
+            "us_count": 120,
+            "us_pounds_pct": 15,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 13,
+            "state_pounds_pct": 23,
+            "state_score_pct": 30,
+            "us_count": 126,
+            "us_pounds_pct": 3,
+            "us_score_pct": 19
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 118,
+            "us_pounds_pct": 39,
+            "us_score_pct": 40
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 30,
+            "us_count": 115,
+            "us_pounds_pct": 3,
+            "us_score_pct": 8
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "EVERGREEN SOLAR INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PETER HOSFORD",
+    "PublicContactPhone": "9782667415",
+    "RCRANumber": "MAR000502534",
+    "RadialDistance": 3111135,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 124,
+            "us_pounds_pct": 12,
+            "us_score_pct": 29
+        },
+        "2005": {
+            "state_count": 12,
+            "state_pounds_pct": 25,
+            "state_score_pct": 41,
+            "us_count": 122,
+            "us_pounds_pct": 15,
+            "us_score_pct": 26
+        },
+        "2006": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 41,
+            "us_count": 128,
+            "us_pounds_pct": 3,
+            "us_score_pct": 18
+        },
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 55,
+            "us_count": 121,
+            "us_pounds_pct": 40,
+            "us_score_pct": 42
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 27,
+            "us_count": 121,
+            "us_pounds_pct": 7,
+            "us_score_pct": 8
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.668,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.9624,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "259 CEDAR HILL ST",
+    "SubmitLat": 42.31889,
+    "SubmitLong": 71.58917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2441,
+    "Y": 2965,
+    "ZIP9": "01752",
+    "ZIPCode": "01752"
+}

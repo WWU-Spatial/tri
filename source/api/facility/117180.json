@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "002104792",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6796.91653,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105385114",
+                    "MaxOnsite": "03",
+                    "Pounds": 13700.0,
+                    "Score": 3.6753400000000003,
+                    "SubmissionNumber": 1816543,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13700.0,
+            "TotalScore": 3.6753400000000003,
+            "state_score_percentile": 67,
+            "us_score_percentile": 56
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110315328",
+                    "MaxOnsite": "03",
+                    "Pounds": 14600.0,
+                    "Score": 3.9003200000000002,
+                    "SubmissionNumber": 1851453,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14600.0,
+            "TotalScore": 3.9003200000000002,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125309474",
+                    "MaxOnsite": "03",
+                    "Pounds": 5430.0,
+                    "Score": 1.364493,
+                    "SubmissionNumber": 1981746,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5430.0,
+            "TotalScore": 1.364493,
+            "state_score_percentile": 54,
+            "us_score_percentile": 44
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110009470866",
+    "FacilityID": "14215TMPTC1200N",
+    "FacilityNumber": 117180,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.91888,
+    "Longitude": -78.814279,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 169,
+            "us_pounds_pct": 56,
+            "us_score_pct": 41
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 161,
+            "us_pounds_pct": 58,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 149,
+            "us_pounds_pct": 53,
+            "us_score_pct": 30
+        },
+        "naicscode": "326299",
+        "name": "All Other Rubber Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3262",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TMP TECHNOLOGIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.91694,
+    "PreferredLong": 78.81389,
+    "PublicContactName": "DONALD W. PFISTER",
+    "PublicContactPhone": "7168956100",
+    "RCRANumber": "NYD980764476",
+    "RadialDistance": 2720031,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 264,
+            "us_pounds_pct": 29,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 232,
+            "us_pounds_pct": 34,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 213,
+            "us_pounds_pct": 34,
+            "us_score_pct": 7
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1200 NORTHLAND AVE.",
+    "SubmitLat": 42.91694,
+    "SubmitLong": 78.81389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1713,
+    "Y": 2888,
+    "ZIP9": "14215",
+    "ZIPCode": "14215"
+}

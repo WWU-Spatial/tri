@@ -1,0 +1,262 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TURTLE CREEK",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31219.292241,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1300140525926",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 67.9912,
+                    "SubmissionNumber": 42819,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140525938",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 27147.9,
+                    "SubmissionNumber": 42820,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140525940",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 1.42711,
+                    "SubmissionNumber": 42821,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140525953",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 903.312,
+                    "SubmissionNumber": 42822,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 28120.630310000004,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1309207622871",
+                    "MaxOnsite": "05",
+                    "Pounds": 41.0,
+                    "Score": 199022.0,
+                    "SubmissionNumber": 874684,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1309207622883",
+                    "MaxOnsite": "04",
+                    "Pounds": 76.0,
+                    "Score": 923.949,
+                    "SubmissionNumber": 874685,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309207622895",
+                    "MaxOnsite": "05",
+                    "Pounds": 16.0,
+                    "Score": 2584.28,
+                    "SubmissionNumber": 874686,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 133.0,
+            "TotalScore": 202530.229,
+            "state_score_percentile": 34,
+            "us_score_percentile": 33
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1310208576126",
+                    "MaxOnsite": "05",
+                    "Pounds": 44.0,
+                    "Score": 210772.0,
+                    "SubmissionNumber": 959338,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1310208576138",
+                    "MaxOnsite": "04",
+                    "Pounds": 94.0,
+                    "Score": 1127.73,
+                    "SubmissionNumber": 959339,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208576140",
+                    "MaxOnsite": "05",
+                    "Pounds": 16.0,
+                    "Score": 2550.24,
+                    "SubmissionNumber": 959340,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 154.0,
+            "TotalScore": 214449.97,
+            "state_score_percentile": 32,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110008054620",
+    "FacilityID": "15145STLDN200BR",
+    "FacilityNumber": 117793,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.42328,
+    "Longitude": -79.86177,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 1,
+            "us_score_pct": 92
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 46,
+            "us_pounds_pct": 17,
+            "us_score_pct": 95
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 45,
+            "us_pounds_pct": 20,
+            "us_score_pct": 95
+        },
+        "naicscode": "332439",
+        "name": "Other Metal Container Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3324",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HOLTEC MANUFACTURING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "UNITED STATES COMPLIANCE ",
+    "PublicContactPhone": "9522523000",
+    "RCRANumber": "NA",
+    "RadialDistance": 2454682,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 11,
+            "state_score_pct": 86,
+            "us_count": 301,
+            "us_pounds_pct": 15,
+            "us_score_pct": 84
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 50,
+            "state_score_pct": 81,
+            "us_count": 203,
+            "us_pounds_pct": 50,
+            "us_score_pct": 96
+        },
+        "2010": {
+            "state_count": 15,
+            "state_pounds_pct": 46,
+            "state_score_pct": 80,
+            "us_count": 200,
+            "us_pounds_pct": 50,
+            "us_score_pct": 96
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "200 BRADDOCK AVE",
+    "SubmitLat": 40.39639,
+    "SubmitLong": 79.83444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1668,
+    "Y": 2530,
+    "ZIP9": "15145",
+    "ZIPCode": "15145"
+}

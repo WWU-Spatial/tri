@@ -1,0 +1,301 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "JAMESTOWN",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 78626.972815,
+    "DistanceToReach": 12.619218,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1396100174869",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 17.3341,
+                    "SubmissionNumber": 1763334,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 17.3341,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1397110263757",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 17.0583,
+                    "SubmissionNumber": 1846894,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 17.0583,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1398120487311",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 33.5652,
+                    "SubmissionNumber": 1937793,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1398120487323",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.0,
+                    "Score": 1.18162,
+                    "SubmissionNumber": 1937794,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14.0,
+            "TotalScore": 34.74682,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7782505",
+                    "Chemical": "Chlorine",
+                    "ChemicalNumber": 124,
+                    "DCN": "1399135057154",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 33.0136,
+                    "SubmissionNumber": 2061756,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 33.0136,
+            "state_score_percentile": 8,
+            "us_score_percentile": 6
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1300140399332",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.286476,
+                    "SubmissionNumber": 33998,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.286476,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1310208238511",
+                    "MaxOnsite": "03",
+                    "Pounds": 4895.0,
+                    "Score": 7760.54,
+                    "SubmissionNumber": 928263,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4895.0,
+            "TotalScore": 7760.54,
+            "state_score_percentile": 74,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110000328253",
+    "FacilityID": "14702JMSTW105WA",
+    "FacilityNumber": 117495,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.0945,
+    "Longitude": -79.229639,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 9,
+            "state_score_pct": 25,
+            "us_count": 561,
+            "us_pounds_pct": 4,
+            "us_score_pct": 24
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 26
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 38,
+            "us_count": 522,
+            "us_pounds_pct": 14,
+            "us_score_pct": 32
+        },
+        "1999": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 43,
+            "us_count": 506,
+            "us_pounds_pct": 12,
+            "us_score_pct": 31
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 15,
+            "us_count": 508,
+            "us_pounds_pct": 0,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 70,
+            "us_count": 422,
+            "us_pounds_pct": 86,
+            "us_score_pct": 79
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "JAMESTOWN ELECTRO PLATING WORKS INC",
+    "NearComID": 15445117,
+    "NearReach": "05010002000080",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.09444,
+    "PreferredLong": 79.22917,
+    "PublicContactName": "MICHAEL R. GRAY",
+    "PublicContactPhone": "7166645406",
+    "RCRANumber": "NYD002115152",
+    "RadialDistance": 2628399,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 8,
+            "state_score_pct": 27,
+            "us_count": 575,
+            "us_pounds_pct": 4,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 8,
+            "state_score_pct": 23,
+            "us_count": 565,
+            "us_pounds_pct": 5,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 546,
+            "us_pounds_pct": 14,
+            "us_score_pct": 32
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 19,
+            "state_score_pct": 38,
+            "us_count": 534,
+            "us_pounds_pct": 12,
+            "us_score_pct": 31
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 6,
+            "state_score_pct": 22,
+            "us_count": 537,
+            "us_pounds_pct": 0,
+            "us_score_pct": 6
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 70,
+            "us_count": 401,
+            "us_pounds_pct": 86,
+            "us_score_pct": 78
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.4676,
+    "StackHeightSource": "New York",
+    "StackVelocity": 4.5,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "105 WATER ST",
+    "SubmitLat": 42.08472,
+    "SubmitLong": 79.22028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1692,
+    "Y": 2769,
+    "ZIP9": "14701",
+    "ZIPCode": "14701"
+}

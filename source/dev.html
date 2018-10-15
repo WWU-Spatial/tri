@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset='utf-8'> 
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	
+	<!-- Social Media Cards -->
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Toxic Trends Mapper">
+	<meta name="twitter:description" content="Check out the Toxic Trends Mapper where you can view the emissions of facilities in your neighborhood.">
+	<meta name="twitter:image" content="http://toxictrends.org/assets-dev/images/app_screen.png">
+	
+	<link rel="canonical" href="http://toxictrends.org" />
+	
+    <title>Toxic Trends Mapper</title>
+    
+    <link href='//fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'/>
+	
+	<!-- All CSS will get compiled into one file at production time -->
+	<link rel="stylesheet" href="assets-dev/css/leaflet-1.00-dev.css" />
+	<link rel="stylesheet" href="assets-dev/css/jquery-ui-1.10.3.core.css" />
+	<link rel="stylesheet" href="assets-dev/css/jquery-ui-1.10.3.widgets.css" />
+	<link rel="stylesheet" href="assets-dev/css/jquery-ui-1.10.3.tabs.css" />
+	<link rel="stylesheet" type="text/css" href="assets-dev/css/style.css" />
+	
+	<!--[if lte IE 8]><link rel="stylesheet" href="assets-dev/css/leaflet-ie-0.5.1.css" /><![endif]-->
+	
+	<!--[if IE]>
+		<style>			
+			#loadingText{color:#000};
+		</style>
+	<![endif]-->
+	
+
+	
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<!-- All JS will get compiled into one file at production time -->
+	<script src="assets-dev/js/jquery-1.10.1.min.js"></script>
+	<script src="assets-dev/js/jquery-ui-1.10.3.core.js"></script>
+	<script src="assets-dev/js/jquery-ui-1.10.3.widget.js"></script>
+	<script src="assets-dev/js/jquery-ui-1.10.3.tabs.js"></script>
+	<script src="assets-dev/js/leaflet-1.0.0.dev.js"></script>
+	<script src="assets-dev/js/leaflet.utfgrid.js"></script>
+	<script src="assets-dev/js/tile.stamen.v1.2.1.js"></script>
+	<script src="assets-dev/js/map.js"></script>
+	
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="assets-dev/js/es5-shim.min.js"></script>
+		<script type="text/javascript" src="assets-dev/js/respond.min.js"></script>
+	<![endif]-->
+	
+	<!--[if lt IE 10]>
+		<script type="text/javascript" src="assets-dev/js/xdr.js"></script>
+	<![endif]-->
+	
+</head>
+
+<body>
+	
+	<!-- Map -->
+	<div id="map"></div>
+	
+	<!-- top toolbar -->
+	<div id="topbar" class="transition-slow noselect">
+		
+	 	<a href="http://www.ecos.org/" target="_blank">
+	 		<img id="ecos-logo-small" alt="Environmental Council of the States (ECOS)" src="assets-dev/images/logos/ecos_sm.png">
+	 		<img id="ecos-logo-large" alt="Environmental Council of the States (ECOS)" src="assets-dev/images/logos/ecos_lg.png">
+	 	</a>
+	 	
+ 		<h1 id="title" class="yesselect transition-slow ">Toxic Trends Mapper</h1>
+		<h2 id="sub-title" class="yesselect transition-slow ">In partnership with the Huxley Spatial Institute</h2>
+		
+		<div id="map-year-toggle-container" class="noselect transition-slow">
+			<div id="map-year-down"></div>
+			<div id="map-year" class="master-year-label">2010</div>
+			<div id="map-year-up"></div>
+		</div>	
+			
+		<div id="searchbox-container" class="transition-slow ">
+			<input type="text" id="searchbox" value="Search for a facility" class="yesselect">
+			<input id="search-button" type="button" value=">" >
+		</div>
+		
+	 </div>
+	
+	<!-- about page-->
+	<div id="mask" style="display: none;"></div>
+	<div id="about-container" style="display:none;">
+		<div id="about" >
+			<div id="about-inner">
+				<h3>About Toxic Trends</h3>		 
+			    <p>This web map was designed at the <a href="http://www.wwu.edu/huxley/spatial/" target="_blank">
+			    	Huxley Spatial Institute</a> at <a href="http://www.wwu.edu/" target="_blank">
+			    	Western Washington University</a> (WWU) in Bellingham, Washington and funded through a grant from the <a href="http://www.ecos.org/" target="_blank">
+			    	Environmental Council of States</a> (ECOS). The concept for this web map application was introduced in 2011 in the book, <a href="http://mitpress.mit.edu/books/coming-clean/" target="_blank">
+			    	Coming Clean</a>, by Michael E. Kraft, Mark Stephan, and Troy D. Abel. That book puts forth the idea that information disclosure can be a policy strategy for environmental protection, and this web map is designed to use visual representation of environmental information to provide access to a larger audience of citizens so that they may be able to influence the environmental policy directly affecting  their health and the health of their communities.</p>
+		       	<div id="about-figures">
+			       	<div>Figure 1</div><br/>
+					<img src="assets-dev/images/pounds_legend.png" alt="Figure 1 shows circles of different sizes.  Each circle represents a facility.  The size of the circle represents the total pounds of air emissions (fugitive + stack) for that facility during the current map year.  Each increase in size represents an order of magnitude increase in total pounds." />
+			 		<div>Figure 2</div><br/>
+			        <img src="assets-dev/images/risk_legend.png" class="img90" alt="Figure 2 shows circles of different colors.  Each circle represents a facility.  The color of the circle represents the total RSEI risk-related score for air emissions (fugitive + stack) reported for that facility during the current map year.  The darker the color, the greater the risk.  Each increase in hue represents an order of magnitude increase in risk" />           
+				</div>
+				<p>This web map visually represents industrial air pollution information to citizens across the United States by mapping the relative risk from air pollution that industrial facilities pose to the human health of their communities and how those risks might change over time. Facility pollution information comes from the <a href="http://www.epa.gov/tri/triprogram/whatis.htm" target="_blank">				
+					Toxic Release Inventory</a> (TRI) , an inventory by the United States Environmental Protection Agency (EPA) and the States to collect data annually on releases and transfers of certain toxic chemicals from industrial facilities. TRI facilities are depicted as circles with colors that correlate to a risk screening value that is based on modeled output data from the EPA's <a href="http://www.epa.gov/oppt/rsei/pubs/basic_information.html" target="_blank">
+					Risk Screening Environmental Indicators</a> (RSEI) model for assessing TRI data.  RSEI is a screening model, not a risk assessment that allows one to make a direct link a facility’s chemical release to harm being caused to a specific population or location. As with any model, a number of <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#assump" target="blank"> simplifying assumptions</a> are made.</p>
+				<p>Circles representing TRI facilities have been classified into 7 sizes and 7 colors, to reflect changes in pollution performance and amount so the map user will be able to see if a certain facility has been getting better or worse over time, or, if their neighboring industrial plants are getting safer and cleaner. Smaller circles indicate fewer pounds released; larger circles indicate more pounds released. Each increase in size represents an order of magnitude increase of pounds of pollutants released (Figure 1). Lighter circles represent polluters who are posing less risk to human health based on the RSEI model risk screening value; darker circles represent polluters who are posing more risk.  Each shift in color represents an order of magnitude change in risk (Figure 2). Gray circles represent facilities that did not report any air releases for that map year. Users are also able to click facilities to get information about the facility, including emission trends over time, specific chemicals released and related health information, as well as comparisons of the facility to other similar facilities in its state and in the United States. There  are currently 17,000 facilities reporting to TRI and viewable in the web map for the years 1996 to 2010.</p>		
+			    
+			    <p>Read more about <a href="http://www.epa.gov/opptintr/rsei/" target="_blank">RSEI</a>.</p>
+			    
+			    <div id="logos_attrb">
+			    	
+			    	<a id="abt_ecos_logo" href="http://www.ecos.org/" target="_blank">
+			 			<img alt="Environmental Council of the States (ECOS)" src="assets-dev/images/logos/ecos_lg.png" />
+			 		</a>
+		
+			    	<a id="abt_wwu_logo" href="http://www.wwu.edu/" target="_blank">
+						<img alt="Western Washington University" src="assets-dev/images/logos/wwu_lg.png" />
+					</a>
+					
+					<a id="abt_hux_logo" href="http://www.wwu.edu/huxley/" target="_blank">
+						<img alt="Huxley Spatial Institute" src="assets-dev/images/logos/huxley.png" />
+					</a>
+					
+					<a id="abt_hsi_logo" href="http://www.wwu.edu/huxley/spatial/" target="_blank">
+						<img alt="Huxley Spatial Institute" src="assets-dev/images/logos/HSI.png" />
+					</a>
+			    	
+			    </div>
+		    </div>
+		    <div id="about-close"></div>
+		</div>
+	</div>
+	
+	<!-- controls -->
+	<a id="about-button" class="transition-slow"><span id="about-label">ABOUT</span><span id="about-question">?</span></a>
+	
+	<!-- Basemap Menu -->
+	<div id="basemap-icon"></div>
+	<div id="basemap-menu">
+		<div id="toner-thumb" class="base-thumb dropshadow colorshift transition-slow">simple</div>
+		<div id="streets-thumb" class="base-thumb dropshadow colorshift transition-slow">streets</div>
+		<div id="satellite-thumb" class="base-thumb dropshadow colorshift transition-slow">satellite</div>
+	</div>	
+	
+	<!-- facility info -->
+	<div id="hover" class="dropshadow"></div>
+	<div id="facility-tabs" class="noselect dropshadow transition-slow " style="display: none;">
+		<div id="popup-close" class="transition-slow">X</div>
+		<ul class="yesselect">
+			<li id="general-tab-btn">
+				<a href="#general-tab">General</a>
+			</li>
+			<li>
+				<a href="#chemical-tab">Chemical</a>
+			</li>
+			<li>
+				<a href="#industry-tab">Industry</a>
+			</li>
+		</ul>
+		<div id="general-tab" class="tab yesselect">
+			<div id="info-title"></div>
+			<div id='info-graph'></div>
+			<div id='info-industry'></div>
+			<div id='info-address'></div>
+			<div id='info-contact'></div>
+			<div class="zoom-to transition-slow">
+				Zoom to Facility
+			</div>
+		</div>
+		<div id="chemical-tab" class="tab">
+			<div class="popup-year-toggle">
+				<div class="popup-year-left"></div>
+				<div id="chemical-tab-year" class="popup-year-label"></div>
+				<div class="popup-year-right"></div>
+			</div>
+			<div id="chemical-list" class="popup-list yesselect"></div>
+		</div>
+		<div id="industry-tab" class="tab">
+			<div class="popup-year-toggle">
+				<div class="popup-year-left"></div>
+				<div id="industry-tab-year" class="popup-year-label"></div>
+				<div class="popup-year-right"></div>
+			</div>
+			<div id="industry-list" class="popup-list yesselect"></div>
+		</div>
+	</div>
+	
+	<!-- WWU Logo -->
+	<a href="http://www.wwu.edu/" target="_blank">
+		<div id="wwu_logo"></div>
+	</a>
+	
+     <!-- loading -->
+	<div id="loading">
+		<div>	
+			<div id="loadingText">loading...</div>
+			<div id="blockG_1" class="loading"></div>
+			<div id="blockG_2" class="loading"></div>
+			<div id="blockG_3" class="loading"></div>
+			<div id="blockG_4" class="loading"></div>
+		</div>	
+	</div>
+		
+	<!-- SEARCH RESULTS -->
+	<div id="search-results-container" class="dropshadow">
+		<div id="search-close">close</div>
+		<div id="search-results"></div>
+	</div>
+	
+	<!-- START SOCIAL MENU -->
+	<div>
+		<!-- Twitter -->
+		<div class="socialmedia twitter colorshift transition-slow">
+			<img src="assets-dev/images/media/twitter.png" alt="Share on Twitter"/>
+		</div>
+		<!-- Google+ -->
+		<div class="socialmedia googleplus colorshift transition-slow">
+			<img src="assets-dev/images/media/gplus.png" alt="Share on Google+"/>
+		</div>
+		<!-- Facebook -->
+		<div class="socialmedia facebook colorshift transition-slow">
+			<img src="assets-dev/images/media/fb.png" alt="Share on Facebook"/>
+		</div>
+	</div>
+
+	<!-- google analytics-->
+	<script>
+	  /*(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-41900883-1', 'toxictrends.org', {'siteSpeedSampleRate': 100});
+	  ga('send', 'pageview');*/
+	
+	</script>
+	
+  </body>
+  
+</html>

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "006046242",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19253.901756,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120127853",
+                    "MaxOnsite": "04",
+                    "Pounds": 12250.0,
+                    "Score": 0.575037,
+                    "SubmissionNumber": 1910102,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12250.0,
+            "TotalScore": 0.575037,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130124326",
+                    "MaxOnsite": "02",
+                    "Pounds": 15470.0,
+                    "Score": 0.722942,
+                    "SubmissionNumber": 2000934,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15470.0,
+            "TotalScore": 0.722942,
+            "state_score_percentile": 71,
+            "us_score_percentile": 61
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140252622",
+                    "MaxOnsite": "03",
+                    "Pounds": 11765.0,
+                    "Score": 0.547561,
+                    "SubmissionNumber": 22822,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11765.0,
+            "TotalScore": 0.547561,
+            "state_score_percentile": 70,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110042056654",
+    "FacilityID": "14219SNYDR53774",
+    "FacilityNumber": 117193,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.782624,
+    "Longitude": -78.85043,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 59,
+            "us_pounds_pct": 61,
+            "us_score_pct": 13
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 52,
+            "us_pounds_pct": 63,
+            "us_score_pct": 13
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 57,
+            "us_score_pct": 10
+        },
+        "naicscode": "336000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3360",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "GP-98-03",
+    "Name": "FUEL SYS. L.L.C.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018081385",
+    "ParentName": "FUEL SYS LLC",
+    "PreferredLat": 42.78333,
+    "PreferredLong": 78.85417,
+    "PublicContactName": "PATRICK KAZUKIEWICZ",
+    "PublicContactPhone": "7168275353",
+    "RCRANumber": "NYD002114197",
+    "RadialDistance": 2706628,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 81,
+            "state_score_pct": 18,
+            "us_count": 520,
+            "us_pounds_pct": 59,
+            "us_score_pct": 13
+        },
+        "1999": {
+            "state_count": 14,
+            "state_pounds_pct": 85,
+            "state_score_pct": 21,
+            "us_count": 512,
+            "us_pounds_pct": 64,
+            "us_score_pct": 14
+        },
+        "2000": {
+            "state_count": 13,
+            "state_pounds_pct": 76,
+            "state_score_pct": 15,
+            "us_count": 498,
+            "us_pounds_pct": 61,
+            "us_score_pct": 13
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3774 LAKESHORE RD.",
+    "SubmitLat": 42.78333,
+    "SubmitLong": 78.85417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1713,
+    "Y": 2869,
+    "ZIP9": "142192306",
+    "ZIPCode": "14219"
+}

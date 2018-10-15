@@ -1,0 +1,196 @@
+{
+    "AssignedComID": 21975041,
+    "AssignedReach": "04140201000003",
+    "City": "BALDWINSVILLE",
+    "County": "NY,ONONDAGA",
+    "DUNS": "099904104",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14646.688484,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1396105116901",
+                    "MaxOnsite": "03",
+                    "Pounds": 12038.0,
+                    "Score": 1.94822,
+                    "SubmissionNumber": 1798458,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12038.0,
+            "TotalScore": 1.94822,
+            "state_score_percentile": 65,
+            "us_score_percentile": 54
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397115122893",
+                    "MaxOnsite": "03",
+                    "Pounds": 10901.0,
+                    "Score": 3.50379,
+                    "SubmissionNumber": 1882718,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1397115122905",
+                    "MaxOnsite": "03",
+                    "Pounds": 12262.0,
+                    "Score": 1.9833,
+                    "SubmissionNumber": 1882719,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23163.0,
+            "TotalScore": 5.48709,
+            "state_score_percentile": 76,
+            "us_score_percentile": 66
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1398125271609",
+                    "MaxOnsite": "03",
+                    "Pounds": 11163.0,
+                    "Score": 3.58592,
+                    "SubmissionNumber": 1979806,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11163.0,
+            "TotalScore": 3.58592,
+            "state_score_percentile": 64,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110000325103",
+    "FacilityID": "13027SYRCNRT48S",
+    "FacilityNumber": 116571,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.134028,
+    "Longitude": -76.296083,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 28
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 54,
+            "us_score_pct": 54
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 44
+        },
+        "naicscode": "337125",
+        "name": "Household Furniture (except Wood and Metal) Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0031585",
+    "Name": "FISKARS CONSUMER PRODS. INC. SYROCO DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "556943489",
+    "ParentName": "FISKARS CONSUMER PRODS INC",
+    "PreferredLat": 43.13694,
+    "PreferredLong": 76.30056,
+    "PublicContactName": "R. W. LANE",
+    "PublicContactPhone": "3156359911",
+    "RCRANumber": "NYD002234904",
+    "RadialDistance": 2877206,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 12,
+            "us_pounds_pct": 66,
+            "us_score_pct": 33
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 90,
+            "us_score_pct": 70
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 85,
+            "us_score_pct": 71
+        },
+        "name": "",
+        "siccode": "3079"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "307",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.62,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.668,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "7528 STATE FAIR BLVD.",
+    "SubmitLat": 43.13694,
+    "SubmitLong": 76.30056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1955,
+    "Y": 2966,
+    "ZIP9": "13027",
+    "ZIPCode": "13027"
+}

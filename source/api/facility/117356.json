@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PERRY",
+    "County": "NY,WYOMING",
+    "DUNS": "002208213",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64545.111511,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396100064221",
+                    "MaxOnsite": "03",
+                    "Pounds": 14609.0,
+                    "Score": 3.295202,
+                    "SubmissionNumber": 1753690,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14609.0,
+            "TotalScore": 3.295202,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110265473",
+                    "MaxOnsite": "03",
+                    "Pounds": 9338.0,
+                    "Score": 2.1022499999999997,
+                    "SubmissionNumber": 1847055,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9338.0,
+            "TotalScore": 2.1022499999999997,
+            "state_score_percentile": 61,
+            "us_score_percentile": 50
+        }
+    },
+    "FIPS": "36121",
+    "FRSID": "110000763763",
+    "FacilityID": "14530CHMPN200NM",
+    "FacilityNumber": 117356,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.72727,
+    "Longitude": -77.9923,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 33
+        },
+        "naicscode": "315000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "315",
+    "NAICSCode4Digit": "3150",
+    "NAICSCodeSame3Digit": "315",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CHAMPION PRODUCTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003213188",
+    "ParentName": "SARA LEE CORP",
+    "PreferredLat": 42.72583,
+    "PreferredLong": 77.9925,
+    "PublicContactName": "JOE GALARNEAU",
+    "PublicContactPhone": "7162376111",
+    "RCRANumber": "NYD981138233",
+    "RadialDistance": 2748785,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 66,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 50
+        },
+        "name": "Apparel and accessories, n.e.c.",
+        "siccode": "2389"
+    },
+    "SICCode2Digit": "23",
+    "SICCode3Digit": "238",
+    "SICCodeSame2Digit": "23",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.2601,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "200 N. MAIN ST.",
+    "SubmitLat": 42.72583,
+    "SubmitLong": 77.9925,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1799,
+    "Y": 2877,
+    "ZIP9": "14530",
+    "ZIPCode": "14530"
+}

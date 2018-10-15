@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SEYMOUR",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67529.317136,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207421773",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0624,
+                    "Score": 7.855288,
+                    "SubmissionNumber": 855776,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0624,
+            "TotalScore": 7.855288,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208313229",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0071,
+                    "Score": 1.0295130000000001,
+                    "SubmissionNumber": 935366,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0071,
+            "TotalScore": 1.0295130000000001,
+            "state_score_percentile": 0,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110020515496",
+    "FacilityID": "06483SYMRN15DAY",
+    "FacilityNumber": 113630,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.395789,
+    "Longitude": -73.063322,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "naicscode": "454311",
+        "name": "Heating Oil Dealers"
+    },
+    "NAICSCode3Digit": "454",
+    "NAICSCode4Digit": "4543",
+    "NAICSCodeSame3Digit": "454",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SEYMOUR ENERGY CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS ENERGY SERVICES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NA",
+    "RadialDistance": 2951927,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 445,
+            "us_pounds_pct": 0,
+            "us_score_pct": 17
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 456,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "150 DAY ST",
+    "SubmitLat": 41.66056,
+    "SubmitLong": 73.105,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2327,
+    "Y": 2805,
+    "ZIP9": "06483",
+    "ZIPCode": "06483"
+}

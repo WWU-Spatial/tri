@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BORDENTOWN",
+    "County": "NJ,BURLINGTON",
+    "DUNS": "044545077",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52836.026631,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206417331",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.178105,
+                    "SubmissionNumber": 765953,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.178105,
+            "state_score_percentile": 5,
+            "us_score_percentile": 5
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207358437",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.18048,
+                    "SubmissionNumber": 849898,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.18048,
+            "state_score_percentile": 4,
+            "us_score_percentile": 5
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208280533",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.3,
+                    "Score": 0.274282,
+                    "SubmissionNumber": 932237,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.274282,
+            "state_score_percentile": 4,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "34005",
+    "FRSID": "110012708640",
+    "FacilityID": "08505NWLTR312RI",
+    "FacilityNumber": 115338,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.121704,
+    "Longitude": -74.713161,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 11,
+            "us_score_pct": 22
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 21,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 30,
+            "us_score_pct": 25
+        },
+        "naicscode": "335311",
+        "name": "Power, Distribution, and Specialty Transformer Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3353",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "NWL TRANSFORMERS INC -- BORDENTOWN PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GARY RICHARDSON",
+    "PublicContactPhone": "6092987300",
+    "RCRANumber": "NJD982282287",
+    "RadialDistance": 2755917,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 13,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 7,
+            "us_score_pct": 14
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 25
+        },
+        "name": "Power, distribution, and specialty transformers",
+        "siccode": "3612"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "361",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1836,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "312 RISING SUN RD",
+    "SubmitLat": 40.12139,
+    "SubmitLong": 74.71389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2202,
+    "Y": 2594,
+    "ZIP9": "08505",
+    "ZIPCode": "08505"
+}

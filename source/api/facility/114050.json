@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AVENEL",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "102971785",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16018.689657,
+    "DistanceToReach": 311.425497,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120206255",
+                    "MaxOnsite": "05",
+                    "Pounds": 367.0,
+                    "Score": 0.065905,
+                    "SubmissionNumber": 1916664,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 367.0,
+            "TotalScore": 0.065905,
+            "state_score_percentile": 20,
+            "us_score_percentile": 19
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130359490",
+                    "MaxOnsite": "06",
+                    "Pounds": 662.0,
+                    "Score": 0.12130200000000001,
+                    "SubmissionNumber": 2020742,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 662.0,
+            "TotalScore": 0.12130200000000001,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000317808",
+    "FacilityID": "07001VNWTR160ES",
+    "FacilityNumber": 114050,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.57493,
+    "Longitude": -74.261465,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 9,
+            "us_count": 360,
+            "us_pounds_pct": 19,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 9,
+            "us_count": 360,
+            "us_pounds_pct": 31,
+            "us_score_pct": 13
+        },
+        "naicscode": "424690",
+        "name": "Other Chemical and Allied Products Merchant Wholesalers"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4246",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0005278",
+    "Name": "VAN WATERS & ROGERS INC.",
+    "NearComID": 6261370,
+    "NearReach": "02030104000248",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "102971785",
+    "ParentName": "VAN WATERS & ROGERS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NJD063143754",
+    "RadialDistance": 2816818,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 41,
+            "state_score_pct": 8,
+            "us_count": 373,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 8,
+            "us_count": 363,
+            "us_pounds_pct": 28,
+            "us_score_pct": 13
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "516",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.083,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.4559,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "160 ESSEX AVE.",
+    "SubmitLat": 40.57556,
+    "SubmitLong": 74.26361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2233,
+    "Y": 2666,
+    "ZIP9": "070012020",
+    "ZIPCode": "07001"
+}

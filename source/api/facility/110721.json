@@ -1,0 +1,301 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH ADAMS",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "174840892",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55723.600265,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396100337536",
+                    "MaxOnsite": "04",
+                    "Pounds": 513.0,
+                    "Score": 0.840867,
+                    "SubmissionNumber": 1776922,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396100337548",
+                    "MaxOnsite": "03",
+                    "Pounds": 8886.0,
+                    "Score": 4483.05,
+                    "SubmissionNumber": 1776923,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9399.0,
+            "TotalScore": 4483.890867,
+            "state_score_percentile": 57,
+            "us_score_percentile": 50
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397115176265",
+                    "MaxOnsite": "04",
+                    "Pounds": 537.0,
+                    "Score": 0.868872,
+                    "SubmissionNumber": 1885335,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 537.0,
+            "TotalScore": 0.868872,
+            "state_score_percentile": 25,
+            "us_score_percentile": 23
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120293966",
+                    "MaxOnsite": "04",
+                    "Pounds": 518.0,
+                    "Score": 0.827198,
+                    "SubmissionNumber": 1923438,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 518.0,
+            "TotalScore": 0.827198,
+            "state_score_percentile": 27,
+            "us_score_percentile": 22
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399130339183",
+                    "MaxOnsite": "04",
+                    "Pounds": 446.0,
+                    "Score": 0.702807,
+                    "SubmissionNumber": 2018931,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 446.0,
+            "TotalScore": 0.702807,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300140436054",
+                    "MaxOnsite": "04",
+                    "Pounds": 538.0,
+                    "Score": 0.836426,
+                    "SubmissionNumber": 36610,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 538.0,
+            "TotalScore": 0.836426,
+            "state_score_percentile": 37,
+            "us_score_percentile": 27
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1301150617850",
+                    "MaxOnsite": "04",
+                    "Pounds": 368.0,
+                    "Score": 0.567898,
+                    "SubmissionNumber": 149425,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 368.0,
+            "TotalScore": 0.567898,
+            "state_score_percentile": 42,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110000308550",
+    "FacilityID": "01247CMMNW11BRO",
+    "FacilityNumber": 110721,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.701316,
+    "Longitude": -73.120586,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 47,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 25,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 27,
+            "us_score_pct": 24
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 20,
+            "us_score_pct": 26
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 32,
+            "us_pounds_pct": 21,
+            "us_score_pct": 28
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 21,
+            "us_score_pct": 24
+        },
+        "naicscode": "334414",
+        "name": "Electronic Capacitor Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COMMONWEALTH SPRAGUE CAPACITOR INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "174840892",
+    "ParentName": "COMMONWEALTH SPRAGUE CAPACITOR INC",
+    "PreferredLat": 42.70278,
+    "PreferredLong": 73.125,
+    "PublicContactName": "CHARLES E WATSON JR",
+    "PublicContactPhone": "4136644461",
+    "RCRANumber": "MAD000791038",
+    "RadialDistance": 3037400,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 45,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 28,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 30,
+            "us_score_pct": 24
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 23,
+            "us_score_pct": 29
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 32,
+            "us_pounds_pct": 25,
+            "us_score_pct": 31
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 24,
+            "us_score_pct": 24
+        },
+        "name": "Electronic capacitors",
+        "siccode": "3675"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 16.764,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.7056,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "11 BROWN ST",
+    "SubmitLat": 42.70278,
+    "SubmitLong": 73.125,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2278,
+    "Y": 2978,
+    "ZIP9": "01247",
+    "ZIPCode": "01247"
+}

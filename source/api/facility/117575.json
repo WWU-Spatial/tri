@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HORSEHEADS",
+    "County": "NY,CHEMUNG",
+    "DUNS": "002154433",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 103528.354157,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1396100030182",
+                    "MaxOnsite": "03",
+                    "Pounds": 150.0,
+                    "Score": 17.6259,
+                    "SubmissionNumber": 1750743,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 150.0,
+            "TotalScore": 17.6259,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1397110480821",
+                    "MaxOnsite": "03",
+                    "Pounds": 165.0,
+                    "Score": 19.3756,
+                    "SubmissionNumber": 1864731,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 165.0,
+            "TotalScore": 19.3756,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36015",
+    "FRSID": "110000825732",
+    "FacilityID": "14845LRCLC901SO",
+    "FacilityNumber": 117575,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14778,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.178952,
+    "Longitude": -76.821544,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 39,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 43,
+            "us_score_pct": 39
+        },
+        "naicscode": "334417",
+        "name": "Electronic Connector Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "THOMAS & BETTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002154433",
+    "ParentName": "THOMAS & BETTS CORP",
+    "PreferredLat": 42.15861,
+    "PreferredLong": 76.81722,
+    "PublicContactName": "MICHAEL CHEVALIER",
+    "PublicContactPhone": "6077965600",
+    "RCRANumber": "NYD002204543",
+    "RadialDistance": 2771904,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 43,
+            "us_score_pct": 43
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 21,
+            "us_pounds_pct": 47,
+            "us_score_pct": 42
+        },
+        "name": "Electronic connectors",
+        "siccode": "3678"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 5.4864,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.0,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "901 SOUTH AVE.",
+    "SubmitLat": 42.15861,
+    "SubmitLong": 76.81722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1930,
+    "Y": 2826,
+    "ZIP9": "14845",
+    "ZIPCode": "14845"
+}

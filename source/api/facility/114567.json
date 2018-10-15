@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BELLEVILLE",
+    "County": "NJ,ESSEX",
+    "DUNS": "055091714",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10435.376475,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105082224",
+                    "MaxOnsite": "03",
+                    "Pounds": 16600.0,
+                    "Score": 57.0613,
+                    "SubmissionNumber": 1796087,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16600.0,
+            "TotalScore": 57.0613,
+            "state_score_percentile": 74,
+            "us_score_percentile": 60
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115196242",
+                    "MaxOnsite": "03",
+                    "Pounds": 11249.0,
+                    "Score": 38.9263,
+                    "SubmissionNumber": 1886262,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11249.0,
+            "TotalScore": 38.9263,
+            "state_score_percentile": 68,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000763255",
+    "FacilityID": "07109WLMFG41MON",
+    "FacilityNumber": 114567,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.793455,
+    "Longitude": -74.179199,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 72,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 80,
+            "us_score_pct": 30
+        },
+        "naicscode": "332900",
+        "name": ""
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PARKER HANNIFIN CORP UHP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004175550",
+    "ParentName": "PARKER HANNIFIN CORP",
+    "PreferredLat": 40.79389,
+    "PreferredLong": 74.17917,
+    "PublicContactName": "EUGENE PATRICIA",
+    "PublicContactPhone": "9737590800",
+    "RCRANumber": "NJD986579035",
+    "RadialDistance": 2837073,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 81,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 82,
+            "us_score_pct": 27
+        },
+        "name": "Valves and pipe fittings, n.e.c.",
+        "siccode": "3494"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "41 MONTGOMERY ST.",
+    "SubmitLat": 40.79389,
+    "SubmitLong": 74.17917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2235,
+    "Y": 2697,
+    "ZIP9": "07109",
+    "ZIPCode": "07109"
+}

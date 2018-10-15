@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MECHANICVILLE",
+    "County": "NY,SARATOGA",
+    "DUNS": "059543350",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17806.209838,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1305205068075",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000191,
+                    "Score": 0.0,
+                    "SubmissionNumber": 563629,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305205068149",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.000191,
+                    "Score": 0.002862,
+                    "SubmissionNumber": 563630,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.000382,
+            "TotalScore": 0.002862,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204848776",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0016,
+                    "Score": 0.0,
+                    "SubmissionNumber": 630410,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204848788",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.85,
+                    "Score": 12.7981,
+                    "SubmissionNumber": 630411,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.8516,
+            "TotalScore": 12.7981,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205312580",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00115,
+                    "Score": 0.0,
+                    "SubmissionNumber": 669431,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205312592",
+                    "MaxOnsite": "02",
+                    "Pounds": 13.39485,
+                    "Score": 202.637,
+                    "SubmissionNumber": 669432,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13.396,
+            "TotalScore": 202.637,
+            "state_score_percentile": 25,
+            "us_score_percentile": 19
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206939314",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.000942,
+                    "Score": 0.0,
+                    "SubmissionNumber": 814782,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206939326",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.489159,
+                    "Score": 22.6343,
+                    "SubmissionNumber": 814783,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.490101,
+            "TotalScore": 22.6343,
+            "state_score_percentile": 15,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "36091",
+    "FRSID": "110031020339",
+    "FacilityID": "12118CSCDS51SMA",
+    "FacilityNumber": 116324,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.88709,
+    "Longitude": -73.686885,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 28,
+            "us_count": 146,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 141,
+            "us_pounds_pct": 8,
+            "us_score_pct": 23
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 140,
+            "us_pounds_pct": 12,
+            "us_score_pct": 35
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 139,
+            "us_pounds_pct": 10,
+            "us_score_pct": 25
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CASCADES TISSUE GROUP NY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "561374538",
+    "ParentName": "CASCADES TISSUE GROUP NORTH CAROLINA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK DECOTA",
+    "PublicContactPhone": "5186648400",
+    "RCRANumber": "NY0001406966",
+    "RadialDistance": 3014979,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 102,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 100,
+            "us_pounds_pct": 1,
+            "us_score_pct": 4
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 99,
+            "us_pounds_pct": 3,
+            "us_score_pct": 13
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 96,
+            "us_pounds_pct": 1,
+            "us_score_pct": 5
+        },
+        "name": "Pulp mills",
+        "siccode": "2611"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "261",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.8288,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 36.8808,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.5278,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "510 S MAIN ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2217,
+    "Y": 2990,
+    "ZIP9": "12118",
+    "ZIPCode": "12118"
+}

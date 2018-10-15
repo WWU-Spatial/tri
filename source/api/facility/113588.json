@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH HAVEN",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "079575692",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64907.732307,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1305207013412",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 0.001254,
+                    "SubmissionNumber": 565722,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 0.001254,
+            "state_score_percentile": 21,
+            "us_score_percentile": 16
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1306207013448",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 0.001259,
+                    "SubmissionNumber": 655632,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 0.001259,
+            "state_score_percentile": 20,
+            "us_score_percentile": 16
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1307207013451",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 0.000948,
+                    "SubmissionNumber": 742669,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 0.000948,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1308206326530",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.000794,
+                    "SubmissionNumber": 757376,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.000794,
+            "state_score_percentile": 20,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1309207194820",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.000797,
+                    "SubmissionNumber": 835242,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.000797,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1310208162925",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.0008,
+                    "SubmissionNumber": 921015,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.0008,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000865083",
+    "FacilityID": "06473NNCRB441SA",
+    "FacilityNumber": 113588,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.368183,
+    "Longitude": -72.882322,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 324,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 320,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 318,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 314,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 304,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 298,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "naicscode": "332812",
+        "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "CT0003537",
+    "Name": "PRAXAIR SURFACE TECHNOLOGIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "197154586",
+    "ParentName": "PRAXAIR INC",
+    "PreferredLat": 41.38333,
+    "PreferredLong": 72.86667,
+    "PublicContactName": "MICHAEL WALKER",
+    "PublicContactPhone": "2032872715",
+    "RCRANumber": "CTD042279539",
+    "RadialDistance": 2962199,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 333,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 324,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 308,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 298,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 282,
+            "us_pounds_pct": 5,
+            "us_score_pct": 0
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 281,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "441 SACKETT POINT RD",
+    "SubmitLat": 41.38333,
+    "SubmitLong": 72.86667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2346,
+    "Y": 2806,
+    "ZIP9": "06473",
+    "ZIPCode": "06473"
+}

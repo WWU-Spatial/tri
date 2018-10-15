@@ -1,0 +1,310 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WARWICK",
+    "County": "RI,KENT",
+    "DUNS": "799123146",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4636.534668,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110008455",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 8974.25,
+                    "SubmissionNumber": 1824647,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 8974.25,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120091929",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 9015.87,
+                    "SubmissionNumber": 1907173,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120091931",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 779.977,
+                    "SubmissionNumber": 1907174,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 9795.847000000002,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130050370",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 9057.49,
+                    "SubmissionNumber": 1994663,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 9057.49,
+            "state_score_percentile": 7,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140014503",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 9099.11,
+                    "SubmissionNumber": 1300,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 9099.11,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150019851",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 9048.89,
+                    "SubmissionNumber": 95962,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 9048.89,
+            "state_score_percentile": 17,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "44003",
+    "FRSID": "110000498202",
+    "FacilityID": "02888GGSLL60PIO",
+    "FacilityNumber": 112190,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.766575,
+    "Longitude": -71.399794,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 7,
+            "us_score_pct": 92
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 15,
+            "us_score_pct": 92
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 8,
+            "us_score_pct": 95
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 9,
+            "us_score_pct": 95
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 8,
+            "us_score_pct": 95
+        },
+        "naicscode": "339991",
+        "name": "Gasket, Packing, and Sealing Device Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "RI0000396",
+    "Name": "PERKINELMER CENTURION MECHANICAL SEAL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001053610",
+    "ParentName": "PERKINELMER INC",
+    "PreferredLat": 41.76611,
+    "PreferredLong": 71.39889,
+    "PublicContactName": "PHILIP D'ERCOLE",
+    "PublicContactPhone": "4019541652",
+    "RCRANumber": "RID001205921",
+    "RadialDistance": 3088066,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 6,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 12,
+            "us_score_pct": 51
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 8,
+            "us_score_pct": 51
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 9,
+            "us_score_pct": 51
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 73,
+            "us_pounds_pct": 10,
+            "us_score_pct": 52
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SIC2": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 325,
+            "us_pounds_pct": 3,
+            "us_score_pct": 73
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 332,
+            "us_pounds_pct": 7,
+            "us_score_pct": 78
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 306,
+            "us_pounds_pct": 3,
+            "us_score_pct": 76
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 301,
+            "us_pounds_pct": 4,
+            "us_score_pct": 76
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 287,
+            "us_pounds_pct": 7,
+            "us_score_pct": 78
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 1.0374,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.7434,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "RI",
+    "Street": "15 PIONEER AVE.",
+    "SubmitLat": 41.76611,
+    "SubmitLong": 71.39889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2479,
+    "Y": 2896,
+    "ZIP9": "02888",
+    "ZIPCode": "02888"
+}

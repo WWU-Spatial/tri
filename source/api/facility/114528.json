@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "620800102",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 2363.123048,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1396105400333",
+                    "MaxOnsite": "05",
+                    "Pounds": 3445.0,
+                    "Score": 18929.39,
+                    "SubmissionNumber": 1817687,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3445.0,
+            "TotalScore": 18929.39,
+            "state_score_percentile": 50,
+            "us_score_percentile": 39
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1397110085762",
+                    "MaxOnsite": "05",
+                    "Pounds": 2591.0,
+                    "Score": 14358.45,
+                    "SubmissionNumber": 1831472,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110085774",
+                    "MaxOnsite": "03",
+                    "Pounds": 721.0,
+                    "Score": 50.04878,
+                    "SubmissionNumber": 1831473,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3312.0,
+            "TotalScore": 14408.49878,
+            "state_score_percentile": 50,
+            "us_score_percentile": 39
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1398120117344",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 2678.16,
+                    "SubmissionNumber": 1909213,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2678.16,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1399130098344",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 2700.5,
+                    "SubmissionNumber": 1998692,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2700.5,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1300140001761",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2722.84,
+                    "SubmissionNumber": 166,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2722.84,
+            "state_score_percentile": 29,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319432",
+    "FacilityID": "07105LPHCH1JABE",
+    "FacilityNumber": 114528,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.71923,
+    "Longitude": -74.15502,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 70,
+            "us_count": 152,
+            "us_pounds_pct": 67,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 140,
+            "us_pounds_pct": 64,
+            "us_score_pct": 90
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 34,
+            "us_score_pct": 86
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 152,
+            "us_pounds_pct": 41,
+            "us_score_pct": 86
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 162,
+            "us_pounds_pct": 37,
+            "us_score_pct": 85
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0035807",
+    "Name": "ALPHAGARY CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "097434484",
+    "ParentName": "ALPHAGARY CORP",
+    "PreferredLat": 40.71972,
+    "PreferredLong": 74.15444,
+    "PublicContactName": "RON GASIOR",
+    "PublicContactPhone": "9785378071",
+    "RCRANumber": "NJD982273948",
+    "RadialDistance": 2833671,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 70,
+            "us_count": 167,
+            "us_pounds_pct": 63,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 151,
+            "us_pounds_pct": 62,
+            "us_score_pct": 90
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 152,
+            "us_pounds_pct": 33,
+            "us_score_pct": 88
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 166,
+            "us_pounds_pct": 40,
+            "us_score_pct": 87
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 100,
+            "us_count": 187,
+            "us_pounds_pct": 33,
+            "us_score_pct": 86
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1 JABEZ ST.",
+    "SubmitLat": 40.71972,
+    "SubmitLong": 74.15444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2239,
+    "Y": 2688,
+    "ZIP9": "07105",
+    "ZIPCode": "07105"
+}

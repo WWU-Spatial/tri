@@ -1,0 +1,343 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GUAYAMA",
+    "County": "PR,GUAYAMA",
+    "DUNS": "090034703",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55257.653166,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300140676949",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.7,
+                    "Score": 0.053495,
+                    "SubmissionNumber": 51974,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.7,
+            "TotalScore": 0.053495,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150329009",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.076142,
+                    "SubmissionNumber": 123945,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.076142,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203377559",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.5,
+                    "Score": 65.1915,
+                    "SubmissionNumber": 496253,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11.5,
+            "TotalScore": 65.1915,
+            "state_score_percentile": 19,
+            "us_score_percentile": 18
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307207080918",
+                    "MaxOnsite": "01",
+                    "Pounds": 12.9,
+                    "Score": 72.5251,
+                    "SubmissionNumber": 743108,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12.9,
+            "TotalScore": 72.5251,
+            "state_score_percentile": 17,
+            "us_score_percentile": 19
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206509402",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.0,
+                    "Score": 61.5861,
+                    "SubmissionNumber": 774742,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11.0,
+            "TotalScore": 61.5861,
+            "state_score_percentile": 17,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "72057",
+    "FRSID": "110000580933",
+    "FacilityID": "00784PRPJBPR03K",
+    "FacilityNumber": 110434,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 17.957777,
+    "Longitude": -66.154166,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 27,
+            "us_count": 623,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 18,
+            "us_count": 630,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 621,
+            "us_pounds_pct": 3,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 25,
+            "us_count": 633,
+            "us_pounds_pct": 5,
+            "us_score_pct": 27
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 18,
+            "us_count": 622,
+            "us_pounds_pct": 4,
+            "us_score_pct": 25
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICS2": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 32,
+            "us_pounds_pct": 21,
+            "us_score_pct": 9
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 20,
+            "us_count": 30,
+            "us_pounds_pct": 20,
+            "us_score_pct": 10
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 28,
+            "us_pounds_pct": 7,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 29,
+            "us_pounds_pct": 10,
+            "us_score_pct": 24
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 29,
+            "us_pounds_pct": 13,
+            "us_score_pct": 20
+        },
+        "naicscode": "221121",
+        "name": "Electric Bulk Power Transmission and Control"
+    },
+    "NAICS3": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 36,
+            "us_pounds_pct": 25,
+            "us_score_pct": 19
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 20,
+            "us_count": 32,
+            "us_pounds_pct": 18,
+            "us_score_pct": 12
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 26,
+            "us_pounds_pct": 3,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 26,
+            "us_pounds_pct": 7,
+            "us_score_pct": 26
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 24,
+            "us_pounds_pct": 8,
+            "us_score_pct": 20
+        },
+        "naicscode": "221122",
+        "name": "Electric Power Distribution"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PREPA-JOBOS GAS TURBINES POWER PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "090034703",
+    "ParentName": "PUERTO RICO ELECTRIC POWER AUTHORITY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CARLOS MONROIG",
+    "PublicContactPhone": "7875214692",
+    "RCRANumber": "NA",
+    "RadialDistance": 11175,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 27,
+            "us_count": 631,
+            "us_pounds_pct": 4,
+            "us_score_pct": 2
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 18,
+            "us_count": 638,
+            "us_pounds_pct": 4,
+            "us_score_pct": 2
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 612,
+            "us_pounds_pct": 4,
+            "us_score_pct": 23
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 25,
+            "us_count": 607,
+            "us_pounds_pct": 5,
+            "us_score_pct": 26
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 18,
+            "us_count": 596,
+            "us_pounds_pct": 5,
+            "us_score_pct": 25
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "PR",
+    "Street": "PR-03 KM 1422",
+    "SubmitLat": 17.95778,
+    "SubmitLong": 66.15417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 13,
+    "Y": -6,
+    "ZIP9": "00784",
+    "ZIPCode": "00784"
+}

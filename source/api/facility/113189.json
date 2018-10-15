@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELLINGTON",
+    "County": "CT,TOLLAND",
+    "DUNS": "088322292",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 17393.246774,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1308207020102",
+                    "MaxOnsite": "03",
+                    "Pounds": 1888.0,
+                    "Score": 0.722348,
+                    "SubmissionNumber": 821797,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1888.0,
+            "TotalScore": 0.722348,
+            "state_score_percentile": 64,
+            "us_score_percentile": 52
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1309207643952",
+                    "MaxOnsite": "03",
+                    "Pounds": 1583.0,
+                    "Score": 0.612443,
+                    "SubmissionNumber": 876710,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1583.0,
+            "TotalScore": 0.612443,
+            "state_score_percentile": 68,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "09013",
+    "FRSID": "110039496355",
+    "FacilityID": "06029SYNMR5NUTM",
+    "FacilityNumber": 113189,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.873451,
+    "Longitude": -72.488506,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 148,
+            "us_pounds_pct": 62,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 137,
+            "us_pounds_pct": 62,
+            "us_score_pct": 25
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SYN-MAR PRODUCTS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GARY MAGNUSON, CMG ENVIRO",
+    "PublicContactPhone": "5087658510",
+    "RCRANumber": "NA",
+    "RadialDistance": 3021924,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 161,
+            "us_pounds_pct": 65,
+            "us_score_pct": 32
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 148,
+            "us_pounds_pct": 64,
+            "us_score_pct": 25
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "5 NUTMEG DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2368,
+    "Y": 2883,
+    "ZIP9": "06029",
+    "ZIPCode": "06029"
+}

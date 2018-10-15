@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST RUTHERFORD",
+    "County": "NJ,BERGEN",
+    "DUNS": "001381482",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 15202.067128,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105070371",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 34.5473,
+                    "SubmissionNumber": 1795407,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105070395",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.284625,
+                    "SubmissionNumber": 1795409,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 34.831925,
+            "state_score_percentile": 5,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1397115007179",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 34.8468,
+                    "SubmissionNumber": 1875787,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115007181",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.287096,
+                    "SubmissionNumber": 1875788,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 35.133896,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000603115",
+    "FacilityID": "07073DBSCHUNION",
+    "FacilityNumber": 114391,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.82527,
+    "Longitude": -74.0944,
+    "Method": "ADDRESS MATCHING-NEAREST INTERSECTION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 27,
+            "state_score_pct": 77,
+            "us_count": 122,
+            "us_pounds_pct": 11,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 27,
+            "state_score_pct": 88,
+            "us_count": 96,
+            "us_pounds_pct": 9,
+            "us_score_pct": 58
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DIAMOND CHEMICAL CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.82222,
+    "PreferredLong": 74.09444,
+    "PublicContactName": "BRENDAN MCMAHON",
+    "PublicContactPhone": "2019354300",
+    "RCRANumber": "NJD081898819",
+    "RadialDistance": 2844879,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 158,
+            "us_pounds_pct": 11,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 129,
+            "us_pounds_pct": 11,
+            "us_score_pct": 62
+        },
+        "name": "Specialty cleaning, polishing, and sanitation preparations",
+        "siccode": "2842"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "UNION AVE & DUBOIS ST",
+    "SubmitLat": 40.83028,
+    "SubmitLong": 74.08472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2242,
+    "Y": 2703,
+    "ZIP9": "07073",
+    "ZIPCode": "07073"
+}

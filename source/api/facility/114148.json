@@ -1,0 +1,422 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CLIFTON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "002156354",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14821.559505,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7726956",
+                    "Chemical": "Bromine",
+                    "ChemicalNumber": 70,
+                    "DCN": "1396100074412",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 5.47425,
+                    "SubmissionNumber": 1754552,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396100074424",
+                    "MaxOnsite": "04",
+                    "Pounds": 25.0,
+                    "Score": 1.710248,
+                    "SubmissionNumber": 1754553,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100074436",
+                    "MaxOnsite": "05",
+                    "Pounds": 7729.0,
+                    "Score": 2.576747,
+                    "SubmissionNumber": 1754554,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396100074448",
+                    "MaxOnsite": "04",
+                    "Pounds": 3840.0,
+                    "Score": 1.669685,
+                    "SubmissionNumber": 1754555,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100074451",
+                    "MaxOnsite": "05",
+                    "Pounds": 934.0,
+                    "Score": 0.247538,
+                    "SubmissionNumber": 1754556,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1396100074487",
+                    "MaxOnsite": "05",
+                    "Pounds": 2000.0,
+                    "Score": 313.6162,
+                    "SubmissionNumber": 1754559,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100074501",
+                    "MaxOnsite": "05",
+                    "Pounds": 3547.0,
+                    "Score": 0.924999,
+                    "SubmissionNumber": 1754561,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108054",
+                    "Chemical": "Vinyl acetate",
+                    "ChemicalNumber": 584,
+                    "DCN": "1396100074513",
+                    "MaxOnsite": "04",
+                    "Pounds": 1479.0,
+                    "Score": 9.33445,
+                    "SubmissionNumber": 1754562,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 19560.0,
+            "TotalScore": 335.554117,
+            "state_score_percentile": 77,
+            "us_score_percentile": 63
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7726956",
+                    "Chemical": "Bromine",
+                    "ChemicalNumber": 70,
+                    "DCN": "1397110096132",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 9.19523,
+                    "SubmissionNumber": 1832409,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1397110096144",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 1.058999,
+                    "SubmissionNumber": 1832410,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110096157",
+                    "MaxOnsite": "05",
+                    "Pounds": 7970.0,
+                    "Score": 2.67951,
+                    "SubmissionNumber": 1832411,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110096169",
+                    "MaxOnsite": "05",
+                    "Pounds": 486.0,
+                    "Score": 0.12982,
+                    "SubmissionNumber": 1832412,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1397110096183",
+                    "MaxOnsite": "05",
+                    "Pounds": 2000.0,
+                    "Score": 316.1144,
+                    "SubmissionNumber": 1832414,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110096195",
+                    "MaxOnsite": "05",
+                    "Pounds": 1570.0,
+                    "Score": 0.412661,
+                    "SubmissionNumber": 1832415,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108054",
+                    "Chemical": "Vinyl acetate",
+                    "ChemicalNumber": 584,
+                    "DCN": "1397110096207",
+                    "MaxOnsite": "04",
+                    "Pounds": 1782.0,
+                    "Score": 11.33568,
+                    "SubmissionNumber": 1832416,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 13833.0,
+            "TotalScore": 340.9263,
+            "state_score_percentile": 72,
+            "us_score_percentile": 57
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7726956",
+                    "Chemical": "Bromine",
+                    "ChemicalNumber": 70,
+                    "DCN": "1398120625177",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 4.63335,
+                    "SubmissionNumber": 1948156,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108054",
+                    "Chemical": "Vinyl acetate",
+                    "ChemicalNumber": 584,
+                    "DCN": "1398120625189",
+                    "MaxOnsite": "04",
+                    "Pounds": 540.0,
+                    "Score": 3.464169,
+                    "SubmissionNumber": 1948157,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1398120625191",
+                    "MaxOnsite": "05",
+                    "Pounds": 1370.0,
+                    "Score": 218.1515,
+                    "SubmissionNumber": 1948158,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398120625203",
+                    "MaxOnsite": "05",
+                    "Pounds": 200.0,
+                    "Score": 0.054327,
+                    "SubmissionNumber": 1948159,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120625215",
+                    "MaxOnsite": "05",
+                    "Pounds": 800.0,
+                    "Score": 0.21196099999999998,
+                    "SubmissionNumber": 1948160,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120625227",
+                    "MaxOnsite": "05",
+                    "Pounds": 5100.0,
+                    "Score": 1.726243,
+                    "SubmissionNumber": 1948161,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1398120625239",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.109238,
+                    "SubmissionNumber": 1948162,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8515.0,
+            "TotalScore": 228.35078800000002,
+            "state_score_percentile": 63,
+            "us_score_percentile": 50
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110000701125",
+    "FacilityID": "07015GVDNC125DE",
+    "FacilityNumber": 114148,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.830045,
+    "Longitude": -74.127846,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 59,
+            "us_pounds_pct": 40,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 59,
+            "us_pounds_pct": 38,
+            "us_score_pct": 61
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 58,
+            "us_pounds_pct": 34,
+            "us_score_pct": 62
+        },
+        "naicscode": "325411",
+        "name": "Medicinal and Botanical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0008834",
+    "Name": "GIVAUDAN-ROURE CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ROCHE HOLDINGS INC",
+    "PreferredLat": 40.82944,
+    "PreferredLong": 74.13056,
+    "PublicContactName": "GENE THOMAS",
+    "PublicContactPhone": "9734392123",
+    "RCRANumber": "NJD002156354",
+    "RadialDistance": 2842972,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 40,
+            "state_pounds_pct": 75,
+            "state_score_pct": 45,
+            "us_count": 620,
+            "us_pounds_pct": 47,
+            "us_score_pct": 37
+        },
+        "1997": {
+            "state_count": 37,
+            "state_pounds_pct": 70,
+            "state_score_pct": 51,
+            "us_count": 616,
+            "us_pounds_pct": 43,
+            "us_score_pct": 39
+        },
+        "1998": {
+            "state_count": 37,
+            "state_pounds_pct": 64,
+            "state_score_pct": 51,
+            "us_count": 619,
+            "us_pounds_pct": 34,
+            "us_score_pct": 39
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 88,
+            "us_count": 37,
+            "us_pounds_pct": 89,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 85,
+            "us_count": 35,
+            "us_pounds_pct": 85,
+            "us_score_pct": 82
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 85,
+            "us_count": 29,
+            "us_pounds_pct": 79,
+            "us_score_pct": 79
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.9741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "125 DELAWANNA AVE.",
+    "SubmitLat": 47.75556,
+    "SubmitLong": 74.0,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2239,
+    "Y": 2703,
+    "ZIP9": "07015",
+    "ZIPCode": "07015"
+}

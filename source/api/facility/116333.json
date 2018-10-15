@@ -1,0 +1,347 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RAVENA",
+    "County": "NY,ALBANY",
+    "DUNS": "057022303",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30879.076031,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304202866911",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.5458000000000001,
+                    "Score": 0.0,
+                    "SubmissionNumber": 450547,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202866923",
+                    "MaxOnsite": "01",
+                    "Pounds": 53.870000000000005,
+                    "Score": 1109.4298000000001,
+                    "SubmissionNumber": 450548,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202866935",
+                    "MaxOnsite": "01",
+                    "Pounds": 154.94,
+                    "Score": 76.28914999999999,
+                    "SubmissionNumber": 450549,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 209.3558,
+            "TotalScore": 1185.7189500000002,
+            "state_score_percentile": 36,
+            "us_score_percentile": 29
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204429979",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.3195,
+                    "Score": 0.0,
+                    "SubmissionNumber": 591762,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204429981",
+                    "MaxOnsite": "01",
+                    "Pounds": 32.092999999999996,
+                    "Score": 653.5592,
+                    "SubmissionNumber": 591763,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 32.412499999999994,
+            "TotalScore": 653.5592,
+            "state_score_percentile": 28,
+            "us_score_percentile": 23
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205329651",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.4303,
+                    "Score": 0.0,
+                    "SubmissionNumber": 670992,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205329663",
+                    "MaxOnsite": "01",
+                    "Pounds": 109.28,
+                    "Score": 43.2624,
+                    "SubmissionNumber": 670993,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205329675",
+                    "MaxOnsite": "01",
+                    "Pounds": 43.233999999999995,
+                    "Score": 873.7488999999999,
+                    "SubmissionNumber": 670994,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 152.9443,
+            "TotalScore": 917.0112999999999,
+            "state_score_percentile": 38,
+            "us_score_percentile": 31
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206904322",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.29600000000000004,
+                    "Score": 6.984389,
+                    "SubmissionNumber": 811594,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.29600000000000004,
+            "TotalScore": 6.984389,
+            "state_score_percentile": 10,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110022522199",
+    "FacilityID": "12143CLLNNRT9W",
+    "FacilityNumber": 116333,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.472423,
+    "Longitude": -73.8179,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 91,
+            "us_count": 153,
+            "us_pounds_pct": 85,
+            "us_score_pct": 81
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 86,
+            "state_score_pct": 86,
+            "us_count": 192,
+            "us_pounds_pct": 78,
+            "us_score_pct": 83
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 221,
+            "us_pounds_pct": 76,
+            "us_score_pct": 75
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 55,
+            "state_score_pct": 44,
+            "us_count": 219,
+            "us_pounds_pct": 23,
+            "us_score_pct": 23
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICS2": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 70,
+            "us_score_pct": 85
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 41,
+            "us_pounds_pct": 53,
+            "us_score_pct": 82
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 57,
+            "us_score_pct": 82
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 38,
+            "us_pounds_pct": 5,
+            "us_score_pct": 47
+        },
+        "naicscode": "212312",
+        "name": "Crushed and Broken Limestone Mining and Quarrying"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CALLANAN INDUSTRIES INC. RAVENA FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE MATERIALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CHARLES A STOKES",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "NA",
+    "RadialDistance": 2977135,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 91,
+            "us_count": 159,
+            "us_pounds_pct": 84,
+            "us_score_pct": 81
+        },
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 86,
+            "state_score_pct": 86,
+            "us_count": 198,
+            "us_pounds_pct": 78,
+            "us_score_pct": 82
+        },
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 218,
+            "us_pounds_pct": 76,
+            "us_score_pct": 76
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 55,
+            "state_score_pct": 44,
+            "us_count": 213,
+            "us_pounds_pct": 23,
+            "us_score_pct": 23
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SIC2": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 74,
+            "us_score_pct": 93
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 33,
+            "us_pounds_pct": 57,
+            "us_score_pct": 87
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 68,
+            "us_score_pct": 93
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 31,
+            "us_pounds_pct": 6,
+            "us_score_pct": 58
+        },
+        "name": "",
+        "siccode": "1422"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "RT 9W",
+    "SubmitLat": 42.49944,
+    "SubmitLong": 73.81583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2217,
+    "Y": 2931,
+    "ZIP9": "12143",
+    "ZIPCode": "12143"
+}

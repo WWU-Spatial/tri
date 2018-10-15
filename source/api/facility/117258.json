@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NIAGARA FALLS",
+    "County": "NY,NIAGARA",
+    "DUNS": "605990944",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29264.862361,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202820849",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.018,
+                    "Score": 0.0178,
+                    "SubmissionNumber": 446431,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.018,
+            "TotalScore": 0.0178,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203565662",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.01,
+                    "Score": 0.009789,
+                    "SubmissionNumber": 513879,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.01,
+            "TotalScore": 0.009789,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204520276",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.012,
+                    "Score": 0.011627,
+                    "SubmissionNumber": 600029,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.012,
+            "TotalScore": 0.011627,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "36063",
+    "FRSID": "110019612230",
+    "FacilityID": "14304LFRGN1717N",
+    "FacilityNumber": 117258,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.104607,
+    "Longitude": -79.006245,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 219,
+            "us_pounds_pct": 33,
+            "us_score_pct": 40
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 280,
+            "us_pounds_pct": 24,
+            "us_score_pct": 33
+        },
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 278,
+            "us_pounds_pct": 19,
+            "us_score_pct": 25
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LAFARGE NORTH AMERICA INC NEW ROAD RMX",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "LAFARGE NORTH AMERICA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN RICHARDSON",
+    "PublicContactPhone": "6787462000",
+    "RCRANumber": "NYR000183608",
+    "RadialDistance": 2725606,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 234,
+            "us_pounds_pct": 31,
+            "us_score_pct": 38
+        },
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 292,
+            "us_pounds_pct": 22,
+            "us_score_pct": 30
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 286,
+            "us_pounds_pct": 17,
+            "us_score_pct": 23
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1717 NEW RD",
+    "SubmitLat": 43.10278,
+    "SubmitLong": 79.00472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1690,
+    "Y": 2910,
+    "ZIP9": "14304",
+    "ZIPCode": "14304"
+}

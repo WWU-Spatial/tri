@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BRITAIN",
+    "County": "CT,HARTFORD",
+    "DUNS": "001604420",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29905.053554,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100224346",
+                    "MaxOnsite": "03",
+                    "Pounds": 2150.0,
+                    "Score": 27.430390000000003,
+                    "SubmissionNumber": 1767596,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100224359",
+                    "MaxOnsite": "03",
+                    "Pounds": 30.0,
+                    "Score": 17.1454,
+                    "SubmissionNumber": 1767597,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2180.0,
+            "TotalScore": 44.57579,
+            "state_score_percentile": 41,
+            "us_score_percentile": 35
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110091648",
+                    "MaxOnsite": "03",
+                    "Pounds": 30.0,
+                    "Score": 17.1982,
+                    "SubmissionNumber": 1832006,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 17.1982,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120373749",
+                    "MaxOnsite": "04",
+                    "Pounds": 24.0,
+                    "Score": 13.8009,
+                    "SubmissionNumber": 1929101,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 24.0,
+            "TotalScore": 13.8009,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315301",
+    "FacilityID": "06051TTSLC585EM",
+    "FacilityNumber": 113244,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.671582,
+    "Longitude": -72.768774,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 60,
+            "us_score_pct": 43
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 26,
+            "us_score_pct": 34
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 21,
+            "us_pounds_pct": 19,
+            "us_score_pct": 28
+        },
+        "naicscode": "334417",
+        "name": "Electronic Connector Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "ITT CANNON RF PRODS.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001216845",
+    "ParentName": "ITT INDUSTRIES INC",
+    "PreferredLat": 41.67083,
+    "PreferredLong": 72.77083,
+    "PublicContactName": "NIRMAL SINGH",
+    "PublicContactPhone": "7147542164",
+    "RCRANumber": "CTD001604420",
+    "RadialDistance": 2989896,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 60,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 28,
+            "us_score_pct": 38
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 20,
+            "us_pounds_pct": 25,
+            "us_score_pct": 35
+        },
+        "name": "Electronic connectors",
+        "siccode": "3678"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "585 E. MAIN ST.",
+    "SubmitLat": 41.67083,
+    "SubmitLong": 72.77083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2347,
+    "Y": 2849,
+    "ZIP9": "060512025",
+    "ZIPCode": "06051"
+}

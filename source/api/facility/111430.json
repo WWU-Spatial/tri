@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PEABODY",
+    "County": "MA,ESSEX",
+    "DUNS": "001010255",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19055.39915,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105225445",
+                    "MaxOnsite": "03",
+                    "Pounds": 29352.0,
+                    "Score": 1.89563,
+                    "SubmissionNumber": 1805579,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29352.0,
+            "TotalScore": 1.89563,
+            "state_score_percentile": 82,
+            "us_score_percentile": 70
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125091987",
+                    "MaxOnsite": "03",
+                    "Pounds": 21697.0,
+                    "Score": 1.4235,
+                    "SubmissionNumber": 1971930,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21697.0,
+            "TotalScore": 1.4235,
+            "state_score_percentile": 77,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000310422",
+    "FacilityID": "01960RXFNSREAR1",
+    "FacilityNumber": 111430,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.52142,
+    "Longitude": -70.93194,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 49,
+            "us_pounds_pct": 59,
+            "us_score_pct": 18
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 43,
+            "us_pounds_pct": 48,
+            "us_score_pct": 18
+        },
+        "naicscode": "316110",
+        "name": "Leather and Hide Tanning and Finishing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3161",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "REX FINISHING INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.52139,
+    "PreferredLong": 70.93056,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NA",
+    "RadialDistance": 3167874,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 51,
+            "us_pounds_pct": 56,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 45,
+            "us_pounds_pct": 46,
+            "us_score_pct": 17
+        },
+        "name": "Leather tanning and finishing",
+        "siccode": "3111"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "311",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "REAR 119 FOSTER ST.",
+    "SubmitLat": 42.52139,
+    "SubmitLong": 70.93056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2498,
+    "Y": 3009,
+    "ZIP9": "01960",
+    "ZIPCode": "01960"
+}

@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "RIDGWAY",
+    "County": "PA,ELK",
+    "DUNS": "118333764",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 136869.232853,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115206563",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1.388422,
+                    "SubmissionNumber": 1886817,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397115206575",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 884.05,
+                    "SubmissionNumber": 1886818,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397115206587",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.095059,
+                    "SubmissionNumber": 1886819,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 885.5334809999999,
+            "state_score_percentile": 39,
+            "us_score_percentile": 31
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1304202357087",
+                    "MaxOnsite": "03",
+                    "Pounds": 19684.0,
+                    "Score": 3.28917,
+                    "SubmissionNumber": 403839,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 19684.0,
+            "TotalScore": 3.28917,
+            "state_score_percentile": 78,
+            "us_score_percentile": 74
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1305203831401",
+                    "MaxOnsite": "03",
+                    "Pounds": 17970.0,
+                    "Score": 2.96468,
+                    "SubmissionNumber": 538403,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 17970.0,
+            "TotalScore": 2.96468,
+            "state_score_percentile": 78,
+            "us_score_percentile": 74
+        }
+    },
+    "FIPS": "42047",
+    "FRSID": "110000740146",
+    "FacilityID": "15853CLRNSBOXSM",
+    "FacilityNumber": 118131,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.4789,
+    "Longitude": -78.74349,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 30,
+            "state_score_pct": 40,
+            "us_count": 91,
+            "us_pounds_pct": 40,
+            "us_score_pct": 47
+        },
+        "2004": {
+            "state_count": 15,
+            "state_pounds_pct": 93,
+            "state_score_pct": 20,
+            "us_count": 66,
+            "us_pounds_pct": 86,
+            "us_score_pct": 15
+        },
+        "2005": {
+            "state_count": 12,
+            "state_pounds_pct": 91,
+            "state_score_pct": 8,
+            "us_count": 62,
+            "us_pounds_pct": 82,
+            "us_score_pct": 14
+        },
+        "naicscode": "331221",
+        "name": "Rolled Steel Shape Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3312",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CLARION SINTERED METALS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.46667,
+    "PreferredLong": 78.75,
+    "PublicContactName": "DANIEL PETERSON",
+    "PublicContactPhone": "8147733124",
+    "RCRANumber": "PAD118333764",
+    "RadialDistance": 2604745,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 34,
+            "us_pounds_pct": 26,
+            "us_score_pct": 67
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 25,
+            "us_pounds_pct": 76,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 83,
+            "us_score_pct": 29
+        },
+        "name": "Miscellaneous structural metal work",
+        "siccode": "3449"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "3472 MONTMORENCI RD",
+    "SubmitLat": 41.46667,
+    "SubmitLong": 78.75,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1756,
+    "Y": 2694,
+    "ZIP9": "15853",
+    "ZIPCode": "15853"
+}

@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NESHANIC STATION",
+    "County": "NJ,SOMERSET",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52158.020717,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396105129225",
+                    "MaxOnsite": "03",
+                    "Pounds": 53.0,
+                    "Score": 15.5479,
+                    "SubmissionNumber": 1799228,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105129237",
+                    "MaxOnsite": "",
+                    "Pounds": 228.0,
+                    "Score": 139695.0,
+                    "SubmissionNumber": 1799229,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105129249",
+                    "MaxOnsite": "",
+                    "Pounds": 591.0,
+                    "Score": 445.818,
+                    "SubmissionNumber": 1799230,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 872.0,
+            "TotalScore": 140156.3659,
+            "state_score_percentile": 32,
+            "us_score_percentile": 27
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397115062857",
+                    "MaxOnsite": "05",
+                    "Pounds": 121.0,
+                    "Score": 75268.8,
+                    "SubmissionNumber": 1879101,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115062869",
+                    "MaxOnsite": "05",
+                    "Pounds": 349.0,
+                    "Score": 267.288,
+                    "SubmissionNumber": 1879102,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 470.0,
+            "TotalScore": 75536.088,
+            "state_score_percentile": 21,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110000763406",
+    "FacilityID": "08853WLSNFWOODF",
+    "FacilityNumber": 115549,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.505843,
+    "Longitude": -74.729864,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 90,
+            "us_count": 152,
+            "us_pounds_pct": 46,
+            "us_score_pct": 95
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 140,
+            "us_pounds_pct": 27,
+            "us_score_pct": 94
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0003051",
+    "Name": "M A HANNA COLOR",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001943802",
+    "ParentName": "M A HANNA CO",
+    "PreferredLat": 40.5016,
+    "PreferredLong": 74.7786,
+    "PublicContactName": "RALPH A HELFER",
+    "PublicContactPhone": "7702715902",
+    "RCRANumber": "NJD046956892",
+    "RadialDistance": 2780823,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 90,
+            "us_count": 167,
+            "us_pounds_pct": 43,
+            "us_score_pct": 95
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 151,
+            "us_pounds_pct": 25,
+            "us_score_pct": 95
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "110 WOODFERN ROAD",
+    "SubmitLat": 40.50556,
+    "SubmitLong": 74.73056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2188,
+    "Y": 2645,
+    "ZIP9": "08853",
+    "ZIPCode": "08853"
+}

@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MANSFIELD",
+    "County": "MA,BRISTOL",
+    "DUNS": "808456375",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36413.625299,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155137704",
+                    "MaxOnsite": "02",
+                    "Pounds": 14.3,
+                    "Score": 21.3937,
+                    "SubmissionNumber": 180807,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 14.3,
+            "TotalScore": 21.3937,
+            "state_score_percentile": 24,
+            "us_score_percentile": 15
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302201041415",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.4,
+                    "Score": 18.5958,
+                    "SubmissionNumber": 282042,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 12.4,
+            "TotalScore": 18.5958,
+            "state_score_percentile": 27,
+            "us_score_percentile": 15
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201777152",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.88,
+                    "Score": 1.01385,
+                    "SubmissionNumber": 352780,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.88,
+            "TotalScore": 1.01385,
+            "state_score_percentile": 16,
+            "us_score_percentile": 5
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202960860",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.43189,
+                    "Score": 0.498497,
+                    "SubmissionNumber": 458943,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.43189,
+            "TotalScore": 0.498497,
+            "state_score_percentile": 13,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110003447896",
+    "FacilityID": "02030DTLNC11CAB",
+    "FacilityNumber": 111470,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.02885,
+    "Longitude": -71.24373,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 115,
+            "us_pounds_pct": 80,
+            "us_score_pct": 84
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 122,
+            "us_pounds_pct": 81,
+            "us_score_pct": 90
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 128,
+            "us_pounds_pct": 48,
+            "us_score_pct": 52
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 139,
+            "us_pounds_pct": 35,
+            "us_score_pct": 42
+        },
+        "naicscode": "334418",
+        "name": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MURATA POWER SOLUTIONS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "690588124",
+    "ParentName": "MURATA POWER SOLUTIONS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "VIJAY V. CHETTY",
+    "PublicContactPhone": "5083393000",
+    "RCRANumber": "MAD093213890",
+    "RadialDistance": 3115346,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 62,
+            "us_count": 154,
+            "us_pounds_pct": 57,
+            "us_score_pct": 69
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 145,
+            "us_pounds_pct": 57,
+            "us_score_pct": 74
+        },
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 45,
+            "us_count": 155,
+            "us_pounds_pct": 32,
+            "us_score_pct": 42
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 36,
+            "us_count": 152,
+            "us_pounds_pct": 26,
+            "us_score_pct": 31
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "11 CABOT BLVD",
+    "SubmitLat": 42.03806,
+    "SubmitLong": 71.25278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2485,
+    "Y": 2936,
+    "ZIP9": "02048",
+    "ZIPCode": "02048"
+}

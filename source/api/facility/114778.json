@@ -1,0 +1,576 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PATERSON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "002194017",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24255.889385,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108452",
+                    "Chemical": "1,3-Phenylenediamine",
+                    "ChemicalNumber": 460,
+                    "DCN": "1396105230054",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.552795,
+                    "SubmissionNumber": 1805897,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1396105230066",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.167591,
+                    "SubmissionNumber": 1805898,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1396105230078",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 4.3956599999999995,
+                    "SubmissionNumber": 1805899,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1396105402010",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.001526,
+                    "SubmissionNumber": 1817830,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "28407376",
+                    "Chemical": "C.I. Direct Blue 218",
+                    "ChemicalNumber": 94,
+                    "DCN": "1396105402022",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1817831,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105402034",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 9324.74,
+                    "SubmissionNumber": 1817832,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105402046",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 6.353820000000001,
+                    "SubmissionNumber": 1817833,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105402059",
+                    "MaxOnsite": "03",
+                    "Pounds": 4261.0,
+                    "Score": 77.261802,
+                    "SubmissionNumber": 1817834,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 4808.0,
+            "TotalScore": 9415.473194,
+            "state_score_percentile": 55,
+            "us_score_percentile": 42
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1397115207995",
+                    "MaxOnsite": "04",
+                    "Pounds": 67.0,
+                    "Score": 0.311738,
+                    "SubmissionNumber": 1886864,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1397115265656",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.003071,
+                    "SubmissionNumber": 1890003,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "28407376",
+                    "Chemical": "C.I. Direct Blue 218",
+                    "ChemicalNumber": 94,
+                    "DCN": "1397115265668",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1890004,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115265670",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 6.39162,
+                    "SubmissionNumber": 1890005,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115265682",
+                    "MaxOnsite": "03",
+                    "Pounds": 283.0,
+                    "Score": 5.134271,
+                    "SubmissionNumber": 1890006,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 380.0,
+            "TotalScore": 11.8407,
+            "state_score_percentile": 20,
+            "us_score_percentile": 19
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120565371",
+                    "MaxOnsite": "03",
+                    "Pounds": 291.0,
+                    "Score": 5.34151,
+                    "SubmissionNumber": 1943777,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120565383",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 18873.16,
+                    "SubmissionNumber": 1943778,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120565395",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 5.14354,
+                    "SubmissionNumber": 1943779,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1398120565407",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.001875,
+                    "SubmissionNumber": 1943780,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "128041",
+                    "Chemical": "Sodium dimethyldithiocarbamate",
+                    "ChemicalNumber": 512,
+                    "DCN": "1398120565419",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1943781,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1398120565421",
+                    "MaxOnsite": "04",
+                    "Pounds": 54.0,
+                    "Score": 0.252288,
+                    "SubmissionNumber": 1943782,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 369.0,
+            "TotalScore": 18883.899213,
+            "state_score_percentile": 21,
+            "us_score_percentile": 19
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130490307",
+                    "MaxOnsite": "03",
+                    "Pounds": 292.0,
+                    "Score": 5.39146,
+                    "SubmissionNumber": 2031631,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130490319",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 9492.53,
+                    "SubmissionNumber": 2031632,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130490321",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 3.88033,
+                    "SubmissionNumber": 2031633,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1399130490333",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.0015530000000000001,
+                    "SubmissionNumber": 2031634,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "128041",
+                    "Chemical": "Sodium dimethyldithiocarbamate",
+                    "ChemicalNumber": 512,
+                    "DCN": "1399130490345",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2031635,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 308.0,
+            "TotalScore": 9501.803343000001,
+            "state_score_percentile": 23,
+            "us_score_percentile": 19
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140306503",
+                    "MaxOnsite": "04",
+                    "Pounds": 259.0,
+                    "Score": 4.804126,
+                    "SubmissionNumber": 27548,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140306515",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 9548.46,
+                    "SubmissionNumber": 27549,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140306527",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 2.60201,
+                    "SubmissionNumber": 27550,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1300140306539",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.000894,
+                    "SubmissionNumber": 27551,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "128041",
+                    "Chemical": "Sodium dimethyldithiocarbamate",
+                    "ChemicalNumber": 512,
+                    "DCN": "1300140306541",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 27552,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1300140306554",
+                    "MaxOnsite": "04",
+                    "Pounds": 53.0,
+                    "Score": 0.249969,
+                    "SubmissionNumber": 27553,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 323.0,
+            "TotalScore": 9556.116999000002,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150453215",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.037075,
+                    "SubmissionNumber": 134851,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1301150453227",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 0.001893,
+                    "SubmissionNumber": 134852,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 0.038967999999999996,
+            "state_score_percentile": 14,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110014991232",
+    "FacilityID": "07509FBRCL2412V",
+    "FacilityNumber": 114778,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.918196,
+    "Longitude": -74.175259,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 17,
+            "us_pounds_pct": 47,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 37,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 16,
+            "us_pounds_pct": 31,
+            "us_score_pct": 75
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 14,
+            "us_pounds_pct": 28,
+            "us_score_pct": 64
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 43,
+            "us_score_pct": 68
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 13,
+            "us_pounds_pct": 30,
+            "us_score_pct": 15
+        },
+        "naicscode": "325100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FABRICOLOR MFG. CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "062044326",
+    "ParentName": "FABRICOLOR INC",
+    "PreferredLat": 40.91769,
+    "PreferredLong": 74.1763,
+    "PublicContactName": "RICHARD S. ROSERA",
+    "PublicContactPhone": "9737423901",
+    "RCRANumber": "NJD002194017",
+    "RadialDistance": 2845802,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 72,
+            "state_score_pct": 83,
+            "us_count": 116,
+            "us_pounds_pct": 28,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 41,
+            "state_score_pct": 29,
+            "us_count": 119,
+            "us_pounds_pct": 15,
+            "us_score_pct": 15
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 43,
+            "state_score_pct": 81,
+            "us_count": 119,
+            "us_pounds_pct": 13,
+            "us_score_pct": 66
+        },
+        "1999": {
+            "state_count": 15,
+            "state_pounds_pct": 53,
+            "state_score_pct": 93,
+            "us_count": 116,
+            "us_pounds_pct": 13,
+            "us_score_pct": 65
+        },
+        "2000": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 81,
+            "us_count": 115,
+            "us_pounds_pct": 19,
+            "us_score_pct": 59
+        },
+        "2001": {
+            "state_count": 13,
+            "state_pounds_pct": 23,
+            "state_score_pct": 7,
+            "us_count": 111,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5791,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.0266,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.9378,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "24 1/2 VAN HOUTEN ST.",
+    "SubmitLat": 40.91861,
+    "SubmitLong": 74.17611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2231,
+    "Y": 2714,
+    "ZIP9": "07505",
+    "ZIPCode": "07505"
+}

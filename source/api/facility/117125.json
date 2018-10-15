@@ -1,0 +1,256 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 9706.962292,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1307205879556",
+                    "MaxOnsite": "05",
+                    "Pounds": 4114.0,
+                    "Score": 2.598743,
+                    "SubmissionNumber": 719235,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4114.0,
+            "TotalScore": 2.598743,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1308206871319",
+                    "MaxOnsite": "05",
+                    "Pounds": 7824.0,
+                    "Score": 4.85258,
+                    "SubmissionNumber": 808527,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7824.0,
+            "TotalScore": 4.85258,
+            "state_score_percentile": 77,
+            "us_score_percentile": 67
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1309207528148",
+                    "MaxOnsite": "04",
+                    "Pounds": 7741.0,
+                    "Score": 4.721799,
+                    "SubmissionNumber": 865768,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7741.0,
+            "TotalScore": 4.721799,
+            "state_score_percentile": 78,
+            "us_score_percentile": 70
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1310208703239",
+                    "MaxOnsite": "04",
+                    "Pounds": 12481.0,
+                    "Score": 7.466016,
+                    "SubmissionNumber": 971359,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 12481.0,
+            "TotalScore": 7.466016,
+            "state_score_percentile": 84,
+            "us_score_percentile": 74
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110019817046",
+    "FacilityID": "14206NGNRD55RBE",
+    "FacilityNumber": 117125,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.869615,
+    "Longitude": -78.81506,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 153,
+            "us_pounds_pct": 67,
+            "us_score_pct": 41
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 148,
+            "us_pounds_pct": 83,
+            "us_score_pct": 55
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 137,
+            "us_pounds_pct": 82,
+            "us_score_pct": 59
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 126,
+            "us_pounds_pct": 84,
+            "us_score_pct": 60
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICS2": {
+        "2007": {
+            "state_count": 11,
+            "state_pounds_pct": 45,
+            "state_score_pct": 27,
+            "us_count": 467,
+            "us_pounds_pct": 27,
+            "us_score_pct": 53
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 54,
+            "us_count": 456,
+            "us_pounds_pct": 41,
+            "us_score_pct": 68
+        },
+        "2009": {
+            "state_count": 11,
+            "state_pounds_pct": 81,
+            "state_score_pct": 54,
+            "us_count": 418,
+            "us_pounds_pct": 50,
+            "us_score_pct": 71
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 84,
+            "state_score_pct": 53,
+            "us_count": 420,
+            "us_pounds_pct": 63,
+            "us_score_pct": 74
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ENGINEERED COMPOSITES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ENGINEERED COMPOSITES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DENIS MARSZALKOWSKI",
+    "PublicContactPhone": "7163620295",
+    "RCRANumber": "NYR000158162",
+    "RadialDistance": 2715840,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 170,
+            "us_pounds_pct": 72,
+            "us_score_pct": 45
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 82,
+            "us_score_pct": 55
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 148,
+            "us_pounds_pct": 84,
+            "us_score_pct": 60
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 138,
+            "us_pounds_pct": 86,
+            "us_score_pct": 61
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "55 ROBERTS AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1714,
+    "Y": 2882,
+    "ZIP9": "14206",
+    "ZIPCode": "14206"
+}

@@ -1,0 +1,880 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MONROE",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "001186212",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 84769.942082,
+    "DistanceToReach": 294.645472,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105175259",
+                    "MaxOnsite": "04",
+                    "Pounds": 43610.0,
+                    "Score": 3.0727640000000003,
+                    "SubmissionNumber": 1802226,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105175261",
+                    "MaxOnsite": "04",
+                    "Pounds": 116630.0,
+                    "Score": 70.81448,
+                    "SubmissionNumber": 1802227,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396105175273",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 408.567,
+                    "SubmissionNumber": 1802228,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 160740.0,
+            "TotalScore": 482.454244,
+            "state_score_percentile": 96,
+            "us_score_percentile": 90
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1397115086023",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 411.618,
+                    "SubmissionNumber": 1880994,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115086035",
+                    "MaxOnsite": "04",
+                    "Pounds": 137050.0,
+                    "Score": 83.62563,
+                    "SubmissionNumber": 1880995,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115086047",
+                    "MaxOnsite": "03",
+                    "Pounds": 7670.0,
+                    "Score": 0.5443089999999999,
+                    "SubmissionNumber": 1880996,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 145220.0,
+            "TotalScore": 495.787939,
+            "state_score_percentile": 96,
+            "us_score_percentile": 89
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398125066163",
+                    "MaxOnsite": "04",
+                    "Pounds": 114860.0,
+                    "Score": 70.54938999999999,
+                    "SubmissionNumber": 1970642,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1398125066302",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 414.671,
+                    "SubmissionNumber": 1970647,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 115360.0,
+            "TotalScore": 485.22038999999995,
+            "state_score_percentile": 94,
+            "us_score_percentile": 86
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399135099808",
+                    "MaxOnsite": "04",
+                    "Pounds": 93730.0,
+                    "Score": 58.073319999999995,
+                    "SubmissionNumber": 2064041,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1399135100295",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 417.722,
+                    "SubmissionNumber": 2064074,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 94230.0,
+            "TotalScore": 475.79531999999995,
+            "state_score_percentile": 95,
+            "us_score_percentile": 85
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300145143943",
+                    "MaxOnsite": "04",
+                    "Pounds": 104630.0,
+                    "Score": 65.27548,
+                    "SubmissionNumber": 84122,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1300145143956",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 420.774,
+                    "SubmissionNumber": 84123,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 105130.0,
+            "TotalScore": 486.04948,
+            "state_score_percentile": 96,
+            "us_score_percentile": 87
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1301155127071",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 421.25300000000004,
+                    "SubmissionNumber": 180055,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301155127335",
+                    "MaxOnsite": "04",
+                    "Pounds": 59925.0,
+                    "Score": 37.69322,
+                    "SubmissionNumber": 180071,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155127412",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 16.2489,
+                    "SubmissionNumber": 180075,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 60433.0,
+            "TotalScore": 475.19512000000003,
+            "state_score_percentile": 92,
+            "us_score_percentile": 84
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1302200980338",
+                    "MaxOnsite": "04",
+                    "Pounds": 74300.0,
+                    "Score": 46.62151,
+                    "SubmissionNumber": 278825,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1302200980542",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 421.733,
+                    "SubmissionNumber": 278836,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200981417",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 12.18829,
+                    "SubmissionNumber": 278892,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 74806.0,
+            "TotalScore": 480.5428,
+            "state_score_percentile": 95,
+            "us_score_percentile": 86
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1303202003099",
+                    "MaxOnsite": "04",
+                    "Pounds": 85240.0,
+                    "Score": 53.41821,
+                    "SubmissionNumber": 371598,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1303202003493",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 422.211,
+                    "SubmissionNumber": 371625,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303202003772",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.2,
+                    "Score": 10.59524,
+                    "SubmissionNumber": 371643,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 85745.2,
+            "TotalScore": 486.22445,
+            "state_score_percentile": 96,
+            "us_score_percentile": 87
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202693937",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.8,
+                    "Score": 5.70843,
+                    "SubmissionNumber": 435045,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1304202693949",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 422.69100000000003,
+                    "SubmissionNumber": 435046,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1304202693952",
+                    "MaxOnsite": "04",
+                    "Pounds": 74911.0,
+                    "Score": 46.973060000000004,
+                    "SubmissionNumber": 435047,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 75413.8,
+            "TotalScore": 475.3724900000001,
+            "state_score_percentile": 96,
+            "us_score_percentile": 87
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1305203713110",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 423.16999999999996,
+                    "SubmissionNumber": 527723,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1305203713122",
+                    "MaxOnsite": "04",
+                    "Pounds": 54228.0,
+                    "Score": 34.11415,
+                    "SubmissionNumber": 527724,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203713134",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.8,
+                    "Score": 5.71659,
+                    "SubmissionNumber": 527725,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 54730.8,
+            "TotalScore": 463.00073999999995,
+            "state_score_percentile": 94,
+            "us_score_percentile": 85
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1306204815690",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 423.649,
+                    "SubmissionNumber": 627458,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1306204815702",
+                    "MaxOnsite": "04",
+                    "Pounds": 75094.0,
+                    "Score": 47.22415,
+                    "SubmissionNumber": 627459,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204815714",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.1,
+                    "Score": 6.34707,
+                    "SubmissionNumber": 627460,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 75597.1,
+            "TotalScore": 477.22022,
+            "state_score_percentile": 95,
+            "us_score_percentile": 87
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205837685",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.5,
+                    "Score": 5.10976,
+                    "SubmissionNumber": 716363,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1307205837697",
+                    "MaxOnsite": "04",
+                    "Pounds": 59671.0,
+                    "Score": 37.60441,
+                    "SubmissionNumber": 716364,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1307205837709",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 424.129,
+                    "SubmissionNumber": 716365,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 60173.5,
+            "TotalScore": 466.84317000000004,
+            "state_score_percentile": 95,
+            "us_score_percentile": 86
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206727594",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.4,
+                    "Score": 4.92981,
+                    "SubmissionNumber": 795235,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1308206727606",
+                    "MaxOnsite": "04",
+                    "Pounds": 28922.0,
+                    "Score": 18.279531,
+                    "SubmissionNumber": 795236,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1308206727618",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 424.608,
+                    "SubmissionNumber": 795237,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 29424.4,
+            "TotalScore": 447.817341,
+            "state_score_percentile": 93,
+            "us_score_percentile": 82
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1309207862196",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 425.087,
+                    "SubmissionNumber": 897031,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1309207862208",
+                    "MaxOnsite": "04",
+                    "Pounds": 22930.0,
+                    "Score": 14.551973,
+                    "SubmissionNumber": 897032,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207862210",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.3,
+                    "Score": 2.6870089999999998,
+                    "SubmissionNumber": 897033,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 23431.3,
+            "TotalScore": 442.32598199999995,
+            "state_score_percentile": 93,
+            "us_score_percentile": 82
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1310208796425",
+                    "MaxOnsite": "04",
+                    "Pounds": 797.18,
+                    "Score": 0.550384,
+                    "SubmissionNumber": 980284,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 797.18,
+            "TotalScore": 0.550384,
+            "state_score_percentile": 62,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000316355",
+    "FacilityID": "06468VTRMNROUTE",
+    "FacilityNumber": 113566,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.297222,
+    "Longitude": -73.246944,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 88,
+            "us_score_pct": 67
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 97,
+            "us_score_pct": 74
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 96,
+            "us_score_pct": 81
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 94,
+            "us_score_pct": 85
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 93,
+            "us_score_pct": 81
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 96,
+            "us_score_pct": 84
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 96,
+            "us_score_pct": 80
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 96,
+            "us_score_pct": 88
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 95,
+            "us_score_pct": 83
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 94,
+            "us_score_pct": 84
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 100,
+            "us_score_pct": 83
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 95,
+            "us_score_pct": 85
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 94,
+            "us_score_pct": 89
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 100,
+            "us_score_pct": 88
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 68,
+            "us_score_pct": 62
+        },
+        "naicscode": "334414",
+        "name": "Electronic Capacitor Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "VISHAY VITRAMON INC",
+    "NearComID": 7731633,
+    "NearReach": "01100006000026",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002327484",
+    "ParentName": "VISHAY INTERTECHNOLOGY INC",
+    "PreferredLat": 41.29722,
+    "PreferredLong": 73.24694,
+    "PublicContactName": "DONALD DEBLOIS",
+    "PublicContactPhone": "2034525639",
+    "RCRANumber": "CTD001186212",
+    "RadialDistance": 2933108,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 88,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 97,
+            "us_score_pct": 74
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 96,
+            "us_score_pct": 81
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 97,
+            "us_score_pct": 82
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 96,
+            "us_score_pct": 78
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 96,
+            "us_score_pct": 81
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 96,
+            "us_score_pct": 77
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 96,
+            "us_score_pct": 85
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 96,
+            "us_score_pct": 80
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 95,
+            "us_score_pct": 80
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 100,
+            "us_score_pct": 78
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 95,
+            "us_score_pct": 86
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 95,
+            "us_score_pct": 85
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 100,
+            "us_score_pct": 84
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 76,
+            "us_score_pct": 64
+        },
+        "name": "Electronic capacitors",
+        "siccode": "3675"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.5168,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 6.9308,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.7865,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "10 MAIN ST",
+    "SubmitLat": 41.29722,
+    "SubmitLong": 73.24694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2312,
+    "Y": 2787,
+    "ZIP9": "064681610",
+    "ZIPCode": "06468"
+}

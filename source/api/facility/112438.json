@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUDSON",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "001078062",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 53411.831588,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100121678",
+                    "MaxOnsite": "02",
+                    "Pounds": 255.0,
+                    "Score": 0.339441,
+                    "SubmissionNumber": 1758667,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396100121680",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 33.919483,
+                    "SubmissionNumber": 1758668,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 34.258924,
+            "state_score_percentile": 27,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110155734",
+                    "MaxOnsite": "02",
+                    "Pounds": 255.0,
+                    "Score": 0.343221,
+                    "SubmissionNumber": 1837701,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1397110155746",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 34.297142,
+                    "SubmissionNumber": 1837702,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 34.640363,
+            "state_score_percentile": 32,
+            "us_score_percentile": 22
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398120098379",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 34.6749,
+                    "SubmissionNumber": 1907706,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 34.6749,
+            "state_score_percentile": 22,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110002375359",
+    "FacilityID": "03051TLDYN110LO",
+    "FacilityNumber": 112438,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.750039,
+    "Longitude": -71.427232,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 42,
+            "us_score_pct": 65
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 50,
+            "us_score_pct": 64
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 25,
+            "us_pounds_pct": 44,
+            "us_score_pct": 68
+        },
+        "naicscode": "334418",
+        "name": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TELEDYNE PRINTED CIRCUIT TECHNOLOGY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "112358432",
+    "ParentName": "TELEDYNE TECHNOLOGIES INC",
+    "PreferredLat": 42.75056,
+    "PreferredLong": 71.42694,
+    "PublicContactName": "RAYMOND DUBOIS",
+    "PublicContactPhone": "6033242108",
+    "RCRANumber": "NHD001078062",
+    "RadialDistance": 3150032,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 77,
+            "us_count": 168,
+            "us_pounds_pct": 36,
+            "us_score_pct": 50
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 71,
+            "us_count": 181,
+            "us_pounds_pct": 49,
+            "us_score_pct": 51
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 75,
+            "us_count": 165,
+            "us_pounds_pct": 32,
+            "us_score_pct": 51
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "110 LOWELL RD",
+    "SubmitLat": 42.75056,
+    "SubmitLong": 71.42694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2442,
+    "Y": 3027,
+    "ZIP9": "03051",
+    "ZIPCode": "03051"
+}

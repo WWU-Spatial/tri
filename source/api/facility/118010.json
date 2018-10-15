@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EXPORT",
+    "County": "PA,WESTMORELAND",
+    "DUNS": "101595601",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52267.995841,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105225458",
+                    "MaxOnsite": "03",
+                    "Pounds": 70.0,
+                    "Score": 3.84133,
+                    "SubmissionNumber": 1805580,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 70.0,
+            "TotalScore": 3.84133,
+            "state_score_percentile": 13,
+            "us_score_percentile": 11
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115224925",
+                    "MaxOnsite": "03",
+                    "Pounds": 59.0,
+                    "Score": 3.23506,
+                    "SubmissionNumber": 1887555,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 59.0,
+            "TotalScore": 3.23506,
+            "state_score_percentile": 13,
+            "us_score_percentile": 10
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125220576",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 13.6967,
+                    "SubmissionNumber": 1977551,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 13.6967,
+            "state_score_percentile": 17,
+            "us_score_percentile": 15
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399135224208",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 13.6856,
+                    "SubmissionNumber": 2071292,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 13.6856,
+            "state_score_percentile": 17,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300145129312",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 13.6744,
+                    "SubmissionNumber": 83238,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 13.6744,
+            "state_score_percentile": 20,
+            "us_score_percentile": 19
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200950968",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.495016,
+                    "SubmissionNumber": 276996,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.495016,
+            "state_score_percentile": 14,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "42129",
+    "FRSID": "110000330124",
+    "FacilityID": "15632FLMRC3004V",
+    "FacilityNumber": 118010,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.39801,
+    "Longitude": -79.61359,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 9,
+            "us_count": 50,
+            "us_pounds_pct": 20,
+            "us_score_pct": 14
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 10,
+            "us_count": 53,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 53,
+            "us_pounds_pct": 29,
+            "us_score_pct": 18
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 10,
+            "us_count": 57,
+            "us_pounds_pct": 34,
+            "us_score_pct": 17
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 10,
+            "us_count": 55,
+            "us_pounds_pct": 34,
+            "us_score_pct": 21
+        },
+        "2002": {
+            "state_count": 10,
+            "state_pounds_pct": 25,
+            "state_score_pct": 10,
+            "us_count": 58,
+            "us_pounds_pct": 25,
+            "us_score_pct": 13
+        },
+        "naicscode": "332710",
+        "name": "Machine Shops"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FULMER CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "101595601",
+    "ParentName": "FULMER CO",
+    "PreferredLat": 40.39667,
+    "PreferredLong": 79.61389,
+    "PublicContactName": "MARC A. FIGURELLI",
+    "PublicContactPhone": "7243257140",
+    "RCRANumber": "PAR000522722",
+    "RadialDistance": 2466973,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 46,
+            "us_score_pct": 46
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 53,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 46,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 55,
+            "us_score_pct": 52
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 65,
+            "us_score_pct": 30
+        },
+        "name": "Electrical machinery, equipment, and supplies, n.e.c.",
+        "siccode": "3699"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "369",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7904,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "3004 VENTURE CT WESTMORELAND INDUSTRIAL PARK 3",
+    "SubmitLat": 40.39667,
+    "SubmitLong": 79.61389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1694,
+    "Y": 2531,
+    "ZIP9": "15632",
+    "ZIPCode": "15632"
+}

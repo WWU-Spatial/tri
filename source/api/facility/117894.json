@@ -1,0 +1,301 @@
+{
+    "AssignedComID": 3823821,
+    "AssignedReach": "05030101000121",
+    "City": "WASHINGTON",
+    "County": "PA,WASHINGTON",
+    "DUNS": "004324539",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36884.188952,
+    "DistanceToReach": 214.47721,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1396105032003",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 349.54898000000003,
+                    "SubmissionNumber": 1792732,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 349.54898000000003,
+            "state_score_percentile": 19,
+            "us_score_percentile": 17
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1397115082164",
+                    "MaxOnsite": "05",
+                    "Pounds": 1000.0,
+                    "Score": 1214.661,
+                    "SubmissionNumber": 1880652,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1214.661,
+            "state_score_percentile": 34,
+            "us_score_percentile": 28
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1398125058166",
+                    "MaxOnsite": "05",
+                    "Pounds": 1500.0,
+                    "Score": 1571.4879999999998,
+                    "SubmissionNumber": 1970305,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 1571.4879999999998,
+            "state_score_percentile": 39,
+            "us_score_percentile": 31
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1399135060150",
+                    "MaxOnsite": "06",
+                    "Pounds": 1474.0,
+                    "Score": 1225.039,
+                    "SubmissionNumber": 2061915,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1474.0,
+            "TotalScore": 1225.039,
+            "state_score_percentile": 39,
+            "us_score_percentile": 32
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1300145047181",
+                    "MaxOnsite": "06",
+                    "Pounds": 1574.0,
+                    "Score": 1291.203,
+                    "SubmissionNumber": 78917,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1574.0,
+            "TotalScore": 1291.203,
+            "state_score_percentile": 43,
+            "us_score_percentile": 36
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "1313275",
+                    "Chemical": "Molybdenum trioxide",
+                    "ChemicalNumber": 393,
+                    "DCN": "1301155039567",
+                    "MaxOnsite": "06",
+                    "Pounds": 1155.0,
+                    "Score": 906.065,
+                    "SubmissionNumber": 174783,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155039605",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.124,
+                    "Score": 0.11660000000000001,
+                    "SubmissionNumber": 174786,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1155.124,
+            "TotalScore": 906.1816,
+            "state_score_percentile": 44,
+            "us_score_percentile": 40
+        }
+    },
+    "FIPS": "42125",
+    "FRSID": "110000329804",
+    "FacilityID": "15301MLYCR300CA",
+    "FacilityNumber": 117894,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.170914,
+    "Longitude": -80.273892,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 29,
+            "us_pounds_pct": 44,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 59,
+            "us_score_pct": 74
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 58,
+            "us_score_pct": 79
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 52,
+            "us_score_pct": 78
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 63,
+            "us_score_pct": 78
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 61,
+            "us_score_pct": 84
+        },
+        "naicscode": "331000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3310",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 5,
+    "NPDESPermit": "PA0040312",
+    "Name": "MOLYCORP INC.",
+    "NearComID": 3823821,
+    "NearReach": "05030101000121",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "008237497",
+    "ParentName": "UNOCAL CORP",
+    "PreferredLat": 40.17194,
+    "PreferredLong": 80.27722,
+    "PublicContactName": "GEORGE W. DAWES",
+    "PublicContactPhone": "7242225605",
+    "RCRANumber": "PAD030068282",
+    "RadialDistance": 2410327,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 11,
+            "state_score_pct": 16,
+            "us_count": 198,
+            "us_pounds_pct": 23,
+            "us_score_pct": 50
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 41,
+            "state_score_pct": 47,
+            "us_count": 192,
+            "us_pounds_pct": 38,
+            "us_score_pct": 66
+        },
+        "1998": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 47,
+            "us_count": 195,
+            "us_pounds_pct": 38,
+            "us_score_pct": 69
+        },
+        "1999": {
+            "state_count": 17,
+            "state_pounds_pct": 23,
+            "state_score_pct": 41,
+            "us_count": 194,
+            "us_pounds_pct": 38,
+            "us_score_pct": 65
+        },
+        "2000": {
+            "state_count": 17,
+            "state_pounds_pct": 41,
+            "state_score_pct": 41,
+            "us_count": 197,
+            "us_pounds_pct": 42,
+            "us_score_pct": 69
+        },
+        "2001": {
+            "state_count": 19,
+            "state_pounds_pct": 36,
+            "state_score_pct": 52,
+            "us_count": 204,
+            "us_pounds_pct": 44,
+            "us_score_pct": 70
+        },
+        "name": "Secondary smelting and refining of nonferrous metals",
+        "siccode": "3341"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "334",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1745,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "300 CALDWELL AVE.",
+    "SubmitLat": 40.17194,
+    "SubmitLong": 80.27667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1632,
+    "Y": 2489,
+    "ZIP9": "15301",
+    "ZIPCode": "15301"
+}

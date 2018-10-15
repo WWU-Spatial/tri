@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AMSTERDAM",
+    "County": "NY,MONTGOMERY",
+    "DUNS": "065194094",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35716.467551,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105058580",
+                    "MaxOnsite": "05",
+                    "Pounds": 125197.0,
+                    "Score": 0.772417,
+                    "SubmissionNumber": 1794581,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 125197.0,
+            "TotalScore": 0.772417,
+            "state_score_percentile": 92,
+            "us_score_percentile": 88
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115014247",
+                    "MaxOnsite": "05",
+                    "Pounds": 47527.0,
+                    "Score": 0.292551,
+                    "SubmissionNumber": 1876228,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 47527.0,
+            "TotalScore": 0.292551,
+            "state_score_percentile": 85,
+            "us_score_percentile": 77
+        }
+    },
+    "FIPS": "36057",
+    "FRSID": "110000763558",
+    "FacilityID": "12010GMRTHPARKD",
+    "FacilityNumber": 116255,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.932652,
+    "Longitude": -74.160704,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 100,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 90,
+            "us_score_pct": 18
+        },
+        "naicscode": "333994",
+        "name": "Industrial Process Furnace and Oven Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3339",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GEM URETHANE CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "041564303",
+    "ParentName": "FAB INDUSTRIES INC",
+    "PreferredLat": 42.93333,
+    "PreferredLong": 74.16667,
+    "PublicContactName": "KLAUS BECKMANN",
+    "PublicContactPhone": "5188420073",
+    "RCRANumber": "NYD986932911",
+    "RadialDistance": 2988985,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 100,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 100,
+            "us_score_pct": 23
+        },
+        "name": "Industrial process furnaces and ovens",
+        "siccode": "3567"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 44.196,
+    "StackHeightSource": "New York",
+    "StackVelocity": 2.765,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "14 PARK DR.",
+    "SubmitLat": 42.93333,
+    "SubmitLong": 74.16667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2169,
+    "Y": 2985,
+    "ZIP9": "120100390",
+    "ZIPCode": "12010"
+}

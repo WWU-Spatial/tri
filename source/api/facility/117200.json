@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST SENECA",
+    "County": "NY,ERIE",
+    "DUNS": "012486036",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10230.495554,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396100263399",
+                    "MaxOnsite": "03",
+                    "Pounds": 10064.0,
+                    "Score": 1.31456,
+                    "SubmissionNumber": 1770883,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10064.0,
+            "TotalScore": 1.31456,
+            "state_score_percentile": 59,
+            "us_score_percentile": 51
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135116984",
+                    "MaxOnsite": "04",
+                    "Pounds": 12608.0,
+                    "Score": 0.922968,
+                    "SubmissionNumber": 2065000,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12608.0,
+            "TotalScore": 0.922968,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000807495",
+    "FacilityID": "14224MRRYS199LE",
+    "FacilityNumber": 117200,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.842225,
+    "Longitude": -78.712022,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 40,
+            "us_score_pct": 23
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 48,
+            "us_score_pct": 16
+        },
+        "naicscode": "336212",
+        "name": "Truck Trailer Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3362",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DELAVAN INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.84056,
+    "PreferredLong": 78.71056,
+    "PublicContactName": "KENNETH HAMM",
+    "PublicContactPhone": "7166774080",
+    "RCRANumber": "NYD030207104",
+    "RadialDistance": 2719056,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 36,
+            "us_score_pct": 20
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 50,
+            "us_score_pct": 16
+        },
+        "name": "Truck trailers",
+        "siccode": "3715"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "199 LEIN RD",
+    "SubmitLat": 52.84056,
+    "SubmitLong": 78.71194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1725,
+    "Y": 2880,
+    "ZIP9": "14224",
+    "ZIPCode": "14224"
+}

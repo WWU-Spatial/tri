@@ -1,0 +1,632 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WAMPSVILLE",
+    "County": "NY,MADISON",
+    "DUNS": "002233823",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32668.654119,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399135005419",
+                    "MaxOnsite": "01",
+                    "Pounds": 318.0,
+                    "Score": 0.161945,
+                    "SubmissionNumber": 2058606,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1399135005421",
+                    "MaxOnsite": "02",
+                    "Pounds": 37.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2058607,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 355.0,
+            "TotalScore": 0.161945,
+            "state_score_percentile": 24,
+            "us_score_percentile": 20
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140007461",
+                    "MaxOnsite": "01",
+                    "Pounds": 8441.0,
+                    "Score": 4.317475,
+                    "SubmissionNumber": 690,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1300140007473",
+                    "MaxOnsite": "01",
+                    "Pounds": 1193.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 691,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 9634.0,
+            "TotalScore": 4.317475,
+            "state_score_percentile": 67,
+            "us_score_percentile": 56
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150002905",
+                    "MaxOnsite": "01",
+                    "Pounds": 20031.0,
+                    "Score": 10.266793,
+                    "SubmissionNumber": 94390,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1301150002917",
+                    "MaxOnsite": "01",
+                    "Pounds": 2833.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 94391,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 22864.0,
+            "TotalScore": 10.266793,
+            "state_score_percentile": 82,
+            "us_score_percentile": 73
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1302200005015",
+                    "MaxOnsite": "01",
+                    "Pounds": 3410.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 192929,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200005256",
+                    "MaxOnsite": "01",
+                    "Pounds": 29350.0,
+                    "Score": 15.029154,
+                    "SubmissionNumber": 192949,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 32760.0,
+            "TotalScore": 15.029154,
+            "state_score_percentile": 85,
+            "us_score_percentile": 79
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201579291",
+                    "MaxOnsite": "01",
+                    "Pounds": 25794.0,
+                    "Score": 18.469758,
+                    "SubmissionNumber": 334805,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1303201579303",
+                    "MaxOnsite": "01",
+                    "Pounds": 2989.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 334806,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 28783.0,
+            "TotalScore": 18.469758,
+            "state_score_percentile": 84,
+            "us_score_percentile": 77
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202168617",
+                    "MaxOnsite": "01",
+                    "Pounds": 33054.0,
+                    "Score": 23.756324,
+                    "SubmissionNumber": 386767,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1304202168629",
+                    "MaxOnsite": "01",
+                    "Pounds": 3819.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 386768,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 36873.0,
+            "TotalScore": 23.756324,
+            "state_score_percentile": 86,
+            "us_score_percentile": 81
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203216015",
+                    "MaxOnsite": "01",
+                    "Pounds": 36264.0,
+                    "Score": 26.159418,
+                    "SubmissionNumber": 481165,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1305203216027",
+                    "MaxOnsite": "01",
+                    "Pounds": 4190.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 481166,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 40454.0,
+            "TotalScore": 26.159418,
+            "state_score_percentile": 87,
+            "us_score_percentile": 82
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1306205051081",
+                    "MaxOnsite": "",
+                    "Pounds": 3830.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 647457,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306205051105",
+                    "MaxOnsite": "",
+                    "Pounds": 33145.0,
+                    "Score": 23.997268000000002,
+                    "SubmissionNumber": 647459,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 36975.0,
+            "TotalScore": 23.997268000000002,
+            "state_score_percentile": 87,
+            "us_score_percentile": 81
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1307205922887",
+                    "MaxOnsite": "01",
+                    "Pounds": 3974.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 722831,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205922899",
+                    "MaxOnsite": "01",
+                    "Pounds": 34399.0,
+                    "Score": 24.996236,
+                    "SubmissionNumber": 722832,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 38373.0,
+            "TotalScore": 24.996236,
+            "state_score_percentile": 88,
+            "us_score_percentile": 83
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308207074143",
+                    "MaxOnsite": "",
+                    "Pounds": 26800.0,
+                    "Score": 19.545234999999998,
+                    "SubmissionNumber": 825638,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1308207074156",
+                    "MaxOnsite": "01",
+                    "Pounds": 3096.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 825639,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 29896.0,
+            "TotalScore": 19.545234999999998,
+            "state_score_percentile": 88,
+            "us_score_percentile": 82
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207951587",
+                    "MaxOnsite": "01",
+                    "Pounds": 23335.0,
+                    "Score": 17.079951,
+                    "SubmissionNumber": 904080,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1309207951613",
+                    "MaxOnsite": "01",
+                    "Pounds": 2696.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 904082,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 26031.0,
+            "TotalScore": 17.079951,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208246153",
+                    "MaxOnsite": "01",
+                    "Pounds": 34452.0,
+                    "Score": 25.308266,
+                    "SubmissionNumber": 928978,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1310208246165",
+                    "MaxOnsite": "01",
+                    "Pounds": 3980.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 928979,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 38432.0,
+            "TotalScore": 25.308266,
+            "state_score_percentile": 92,
+            "us_score_percentile": 85
+        }
+    },
+    "FIPS": "36053",
+    "FRSID": "110002341895",
+    "FacilityID": "13163DMLDNDONAL",
+    "FacilityNumber": 116662,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.08079,
+    "Longitude": -75.71743,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 537,
+            "us_pounds_pct": 8,
+            "us_score_pct": 13
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 55,
+            "us_count": 544,
+            "us_pounds_pct": 36,
+            "us_score_pct": 58
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 528,
+            "us_pounds_pct": 59,
+            "us_score_pct": 70
+        },
+        "2002": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 60,
+            "us_count": 521,
+            "us_pounds_pct": 71,
+            "us_score_pct": 72
+        },
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 90,
+            "state_score_pct": 72,
+            "us_count": 506,
+            "us_pounds_pct": 67,
+            "us_score_pct": 77
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 63,
+            "us_count": 492,
+            "us_pounds_pct": 76,
+            "us_score_pct": 79
+        },
+        "2005": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 77,
+            "us_count": 505,
+            "us_pounds_pct": 78,
+            "us_score_pct": 82
+        },
+        "2006": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 72,
+            "us_count": 492,
+            "us_pounds_pct": 76,
+            "us_score_pct": 81
+        },
+        "2007": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 81,
+            "us_count": 467,
+            "us_pounds_pct": 79,
+            "us_score_pct": 84
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 81,
+            "us_count": 456,
+            "us_pounds_pct": 77,
+            "us_score_pct": 83
+        },
+        "2009": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 63,
+            "us_count": 418,
+            "us_pounds_pct": 81,
+            "us_score_pct": 82
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 100,
+            "state_score_pct": 69,
+            "us_count": 420,
+            "us_pounds_pct": 85,
+            "us_score_pct": 83
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DIE MOLDING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "249876673",
+    "ParentName": "NIAGARA PISTON",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LUCINDA ONDRIEZEK",
+    "PublicContactPhone": "3153634710",
+    "RCRANumber": "NA",
+    "RadialDistance": 2906653,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 36,
+            "us_count": 681,
+            "us_pounds_pct": 8,
+            "us_score_pct": 14
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 72,
+            "state_score_pct": 63,
+            "us_count": 691,
+            "us_pounds_pct": 40,
+            "us_score_pct": 59
+        },
+        "2001": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 63,
+            "us_count": 668,
+            "us_pounds_pct": 63,
+            "us_score_pct": 71
+        },
+        "2002": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 663,
+            "us_pounds_pct": 74,
+            "us_score_pct": 73
+        },
+        "2003": {
+            "state_count": 12,
+            "state_pounds_pct": 91,
+            "state_score_pct": 83,
+            "us_count": 641,
+            "us_pounds_pct": 70,
+            "us_score_pct": 77
+        },
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 615,
+            "us_pounds_pct": 77,
+            "us_score_pct": 78
+        },
+        "2005": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 610,
+            "us_pounds_pct": 78,
+            "us_score_pct": 82
+        },
+        "2006": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 81,
+            "us_count": 569,
+            "us_pounds_pct": 76,
+            "us_score_pct": 80
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 90,
+            "us_count": 512,
+            "us_pounds_pct": 78,
+            "us_score_pct": 83
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 81,
+            "us_count": 470,
+            "us_pounds_pct": 79,
+            "us_score_pct": 82
+        },
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 70,
+            "us_count": 424,
+            "us_pounds_pct": 80,
+            "us_score_pct": 80
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 413,
+            "us_pounds_pct": 84,
+            "us_score_pct": 81
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6991,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.9021,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.3155,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "DONALD HICKS DEW DR",
+    "SubmitLat": 43.055,
+    "SubmitLong": 75.705,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2013,
+    "Y": 2971,
+    "ZIP9": "13163",
+    "ZIPCode": "13163"
+}

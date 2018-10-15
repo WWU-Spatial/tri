@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SPRINGFIELD",
+    "County": "MA,HAMPDEN",
+    "DUNS": "054430095",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20769.903714,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100370319",
+                    "MaxOnsite": "03",
+                    "Pounds": 12348.0,
+                    "Score": 4.95371,
+                    "SubmissionNumber": 1779478,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100370321",
+                    "MaxOnsite": "04",
+                    "Pounds": 539.0,
+                    "Score": 19.7204,
+                    "SubmissionNumber": 1779479,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12887.0,
+            "TotalScore": 24.674110000000002,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110088871",
+                    "MaxOnsite": "04",
+                    "Pounds": 637.0,
+                    "Score": 23.2825,
+                    "SubmissionNumber": 1831749,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110088883",
+                    "MaxOnsite": "04",
+                    "Pounds": 17644.0,
+                    "Score": 7.07463,
+                    "SubmissionNumber": 1831750,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18281.0,
+            "TotalScore": 30.357129999999998,
+            "state_score_percentile": 77,
+            "us_score_percentile": 62
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120371618",
+                    "MaxOnsite": "04",
+                    "Pounds": 682.0,
+                    "Score": 24.9022,
+                    "SubmissionNumber": 1928924,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398120371620",
+                    "MaxOnsite": "04",
+                    "Pounds": 16480.0,
+                    "Score": 6.60445,
+                    "SubmissionNumber": 1928925,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17162.0,
+            "TotalScore": 31.50665,
+            "state_score_percentile": 74,
+            "us_score_percentile": 62
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303201161268",
+                    "MaxOnsite": "04",
+                    "Pounds": 16186.0,
+                    "Score": 6.51537,
+                    "SubmissionNumber": 296571,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16186.0,
+            "TotalScore": 6.51537,
+            "state_score_percentile": 86,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000308408",
+    "FacilityID": "01108PLYMT1ALLE",
+    "FacilityNumber": 110686,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.097665,
+    "Longitude": -72.563958,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 84,
+            "state_score_pct": 28,
+            "us_count": 561,
+            "us_pounds_pct": 78,
+            "us_score_pct": 29
+        },
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 88,
+            "state_score_pct": 30,
+            "us_count": 546,
+            "us_pounds_pct": 85,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 90,
+            "state_score_pct": 38,
+            "us_count": 522,
+            "us_pounds_pct": 86,
+            "us_score_pct": 31
+        },
+        "2003": {
+            "state_count": 19,
+            "state_pounds_pct": 94,
+            "state_score_pct": 52,
+            "us_count": 497,
+            "us_pounds_pct": 91,
+            "us_score_pct": 26
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "POLY-METAL FINISHING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "054430095",
+    "ParentName": "POLY-METAL FINISHING INC",
+    "PreferredLat": 42.08333,
+    "PreferredLong": 72.56667,
+    "PublicContactName": "JASON KUDELKA",
+    "PublicContactPhone": "4137814535",
+    "RCRANumber": "MAD054430095",
+    "RadialDistance": 3031926,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 78,
+            "state_score_pct": 28,
+            "us_count": 575,
+            "us_pounds_pct": 77,
+            "us_score_pct": 29
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 85,
+            "state_score_pct": 32,
+            "us_count": 565,
+            "us_pounds_pct": 84,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 86,
+            "state_score_pct": 39,
+            "us_count": 546,
+            "us_pounds_pct": 85,
+            "us_score_pct": 31
+        },
+        "2003": {
+            "state_count": 20,
+            "state_pounds_pct": 95,
+            "state_score_pct": 50,
+            "us_count": 516,
+            "us_pounds_pct": 90,
+            "us_score_pct": 25
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7652,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 8.7935,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 23.2327,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "1 ALLEN ST BUILDING 218",
+    "SubmitLat": 42.08333,
+    "SubmitLong": 72.56667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2353,
+    "Y": 2911,
+    "ZIP9": "01108",
+    "ZIPCode": "01108"
+}

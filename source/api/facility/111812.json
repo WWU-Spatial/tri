@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERTOWN",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "840452734",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10630.691027,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1304202872572",
+                    "MaxOnsite": "03",
+                    "Pounds": 8300.0,
+                    "Score": 9.11757,
+                    "SubmissionNumber": 451075,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8300.0,
+            "TotalScore": 9.11757,
+            "state_score_percentile": 81,
+            "us_score_percentile": 63
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1305203180447",
+                    "MaxOnsite": "03",
+                    "Pounds": 9268.0,
+                    "Score": 10.2084,
+                    "SubmissionNumber": 477979,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9268.0,
+            "TotalScore": 10.2084,
+            "state_score_percentile": 84,
+            "us_score_percentile": 65
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110003433259",
+    "FacilityID": "02472CSPHR5ARSE",
+    "FacilityNumber": 111812,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.363385,
+    "Longitude": -71.162388,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 88,
+            "us_count": 142,
+            "us_pounds_pct": 66,
+            "us_score_pct": 57
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 143,
+            "us_pounds_pct": 72,
+            "us_score_pct": 60
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ACUSPHERE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "SHERRI OBERG",
+    "PublicContactPhone": "6176488840",
+    "RCRANumber": "MAD045914165",
+    "RadialDistance": 3142294,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 129,
+            "us_pounds_pct": 68,
+            "us_score_pct": 55
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 129,
+            "us_pounds_pct": 72,
+            "us_score_pct": 61
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "500 ARSENAL ST",
+    "SubmitLat": 42.36389,
+    "SubmitLong": 71.16028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2481,
+    "Y": 2982,
+    "ZIP9": "02472",
+    "ZIPCode": "02472"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGEPORT",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "002593887",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 91915.879642,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1308206893618",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.019023,
+                    "SubmissionNumber": 810590,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.019023,
+            "state_score_percentile": 20,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1309207586823",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.019054,
+                    "SubmissionNumber": 871302,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.019054,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1310208595316",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 0.019084,
+                    "SubmissionNumber": 961086,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.019084,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000317069",
+    "FacilityID": "06610BRDGP50CRO",
+    "FacilityNumber": 113803,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.186485,
+    "Longitude": -73.159156,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 19,
+            "us_score_pct": 7
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 14,
+            "us_score_pct": 6
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 14,
+            "us_score_pct": 6
+        },
+        "naicscode": "562211",
+        "name": "Hazardous Waste Treatment and Disposal"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5622",
+    "NAICSCodeSame3Digit": "562",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BRIDGEPORT UNITED RECYCLING INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WILLIAM MORRIS",
+    "PublicContactPhone": "2032386745",
+    "RCRANumber": "CTD002593887",
+    "RadialDistance": 2931617,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 117,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 117,
+            "us_pounds_pct": 17,
+            "us_score_pct": 7
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 114,
+            "us_pounds_pct": 14,
+            "us_score_pct": 6
+        },
+        "name": "Refuse systems",
+        "siccode": "4953"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "495",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.3353,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "50 CROSS ST",
+    "SubmitLat": 41.18528,
+    "SubmitLong": 73.15917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2324,
+    "Y": 2774,
+    "ZIP9": "06610",
+    "ZIPCode": "06610"
+}

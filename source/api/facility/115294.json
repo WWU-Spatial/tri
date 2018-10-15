@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGETON",
+    "County": "NJ,CUMBERLAND",
+    "DUNS": "042717686",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 43257.227277,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309208863151",
+                    "MaxOnsite": "02",
+                    "Pounds": 717.0,
+                    "Score": 460.7,
+                    "SubmissionNumber": 911077,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 717.0,
+            "TotalScore": 460.7,
+            "state_score_percentile": 53,
+            "us_score_percentile": 46
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208863136",
+                    "MaxOnsite": "02",
+                    "Pounds": 173.0,
+                    "Score": 112.728,
+                    "SubmissionNumber": 986392,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 173.0,
+            "TotalScore": 112.728,
+            "state_score_percentile": 40,
+            "us_score_percentile": 34
+        }
+    },
+    "FIPS": "34011",
+    "FRSID": "110001530861",
+    "FacilityID": "08302LNNDS443SE",
+    "FacilityNumber": 115294,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13781,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.410452,
+    "Longitude": -75.220343,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 100,
+            "us_score_pct": 90
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 26,
+            "us_score_pct": 53
+        },
+        "naicscode": "327213",
+        "name": "Glass Container Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3272",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "LEONE INDUSTRIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN HARPULA",
+    "PublicContactPhone": "8564552000",
+    "RCRANumber": "NJD064254147",
+    "RadialDistance": 2673832,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 100,
+            "us_score_pct": 90
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 26,
+            "us_score_pct": 53
+        },
+        "name": "Glass containers",
+        "siccode": "3221"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "322",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 17.9832,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6848,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "443 SE AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2171,
+    "Y": 2486,
+    "ZIP9": "08302",
+    "ZIPCode": "08302"
+}

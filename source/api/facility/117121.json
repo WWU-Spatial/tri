@@ -1,0 +1,190 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "013711338",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10151.90205,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140210838",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.415101,
+                    "SubmissionNumber": 19061,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.415101,
+            "state_score_percentile": 8,
+            "us_score_percentile": 4
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150375867",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 20.3231,
+                    "SubmissionNumber": 127957,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 20.3231,
+            "state_score_percentile": 29,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110009464926",
+    "FacilityID": "14206CHMCL80MET",
+    "FacilityNumber": 117121,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.8825,
+    "Longitude": -78.836944,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 25,
+            "state_score_pct": 16,
+            "us_count": 382,
+            "us_pounds_pct": 4,
+            "us_score_pct": 20
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 362,
+            "us_pounds_pct": 20,
+            "us_score_pct": 59
+        },
+        "naicscode": "424690",
+        "name": "Other Chemical and Allied Products Merchant Wholesalers"
+    },
+    "NAICS2": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 97,
+            "us_pounds_pct": 4,
+            "us_score_pct": 18
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 30,
+            "us_score_pct": 58
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICS3": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 57
+        },
+        "naicscode": "493190",
+        "name": "Other Warehousing and Storage"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4246",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHEMICAL DISTRIBUTORS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS RUSSELL",
+    "PublicContactPhone": "7168562300",
+    "RCRANumber": "NYD013711338",
+    "RadialDistance": 2715757,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 386,
+            "us_pounds_pct": 1,
+            "us_score_pct": 19
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 367,
+            "us_pounds_pct": 17,
+            "us_score_pct": 59
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "516",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.6576,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "80 METCALFE ST",
+    "SubmitLat": 42.88083,
+    "SubmitLong": 78.83583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1712,
+    "Y": 2883,
+    "ZIP9": "14206",
+    "ZIPCode": "14206"
+}

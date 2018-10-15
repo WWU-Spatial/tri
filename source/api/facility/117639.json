@@ -1,0 +1,262 @@
+{
+    "AssignedComID": 3824029,
+    "AssignedReach": "05030101000082",
+    "City": "BRIDGEVILLE",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "1046325",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18483.965166,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1304203109703",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 13738.3,
+                    "SubmissionNumber": 469390,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1304203109715",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.716211,
+                    "SubmissionNumber": 469391,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304203109727",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.76952,
+                    "SubmissionNumber": 469392,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1304203109739",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 457.125,
+                    "SubmissionNumber": 469393,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 16.0,
+            "TotalScore": 14197.910731,
+            "state_score_percentile": 18,
+            "us_score_percentile": 19
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1305203470366",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 13656.3,
+                    "SubmissionNumber": 505037,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1305203470378",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 454.395,
+                    "SubmissionNumber": 505038,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 14110.695,
+            "state_score_percentile": 15,
+            "us_score_percentile": 17
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306204942039",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 13574.2,
+                    "SubmissionNumber": 638697,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204942041",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 8.7419,
+                    "SubmissionNumber": 638698,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1306204942054",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 33.9963,
+                    "SubmissionNumber": 638699,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1306204942066",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 451.665,
+                    "SubmissionNumber": 638700,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 14068.603200000003,
+            "state_score_percentile": 20,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000328761",
+    "FacilityID": "15017NCSNC3039W",
+    "FacilityNumber": 117639,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.35294,
+    "Longitude": -80.11488,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 37,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 13,
+            "us_score_pct": 94
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 51,
+            "us_pounds_pct": 11,
+            "us_score_pct": 92
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 52,
+            "us_pounds_pct": 13,
+            "us_score_pct": 92
+        },
+        "naicscode": "332439",
+        "name": "Other Metal Container Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3324",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GE IONICS BRIDGEVILLE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "1367960",
+    "ParentName": "GE CO",
+    "PreferredLat": 40.35121,
+    "PreferredLong": 80.11398,
+    "PublicContactName": "JAMES BAIRD",
+    "PublicContactPhone": "7247430270",
+    "RCRANumber": "PAD044301760",
+    "RadialDistance": 2434403,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2004": {
+            "state_count": 23,
+            "state_pounds_pct": 28,
+            "state_score_pct": 91,
+            "us_count": 249,
+            "us_pounds_pct": 24,
+            "us_score_pct": 85
+        },
+        "2005": {
+            "state_count": 21,
+            "state_pounds_pct": 21,
+            "state_score_pct": 85,
+            "us_count": 241,
+            "us_pounds_pct": 18,
+            "us_score_pct": 84
+        },
+        "2006": {
+            "state_count": 22,
+            "state_pounds_pct": 25,
+            "state_score_pct": 86,
+            "us_count": 229,
+            "us_pounds_pct": 28,
+            "us_score_pct": 84
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "3039 WASHINGTON PIKE",
+    "SubmitLat": 42.35,
+    "SubmitLong": 80.08333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1644,
+    "Y": 2516,
+    "ZIP9": "15017",
+    "ZIPCode": "15017"
+}

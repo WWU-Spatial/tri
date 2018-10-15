@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BATAVIA",
+    "County": "NY,GENESEE",
+    "DUNS": "001166842",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 45728.328061,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105165423",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 15694.1,
+                    "SubmissionNumber": 1801570,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 15694.1,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110189976",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 15846.8,
+                    "SubmissionNumber": 1840508,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 15846.8,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120082197",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 15999.5,
+                    "SubmissionNumber": 1906378,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 15999.5,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206411605",
+                    "MaxOnsite": "03",
+                    "Pounds": 33.0,
+                    "Score": 40.8274,
+                    "SubmissionNumber": 765422,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 40.8274,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207478761",
+                    "MaxOnsite": "03",
+                    "Pounds": 33.0,
+                    "Score": 40.185,
+                    "SubmissionNumber": 861142,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 40.185,
+            "state_score_percentile": 34,
+            "us_score_percentile": 27
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208327647",
+                    "MaxOnsite": "03",
+                    "Pounds": 33.0,
+                    "Score": 39.5426,
+                    "SubmissionNumber": 936765,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 39.5426,
+            "state_score_percentile": 35,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "36037",
+    "FRSID": "110000326380",
+    "FacilityID": "14020SCHRM31SWA",
+    "FacilityNumber": 116978,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.9942,
+    "Longitude": -78.1769,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 9,
+            "state_score_pct": 81,
+            "us_count": 561,
+            "us_pounds_pct": 4,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 10,
+            "state_score_pct": 93,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 68
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 94,
+            "us_count": 522,
+            "us_pounds_pct": 5,
+            "us_score_pct": 70
+        },
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 45,
+            "us_count": 438,
+            "us_pounds_pct": 33,
+            "us_score_pct": 43
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 44,
+            "us_count": 413,
+            "us_pounds_pct": 36,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 40,
+            "us_count": 422,
+            "us_pounds_pct": 32,
+            "us_score_pct": 47
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "U S CHROME CORP OF NE W YORK",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "037510377",
+    "ParentName": "US CHROME CORP",
+    "PreferredLat": 42.9945,
+    "PreferredLong": 78.1763,
+    "PublicContactName": "MICHAEL J. KLOTZBACH",
+    "PublicContactPhone": "5853437077",
+    "RCRANumber": "NYD990774200",
+    "RadialDistance": 2760646,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 8,
+            "state_score_pct": 77,
+            "us_count": 575,
+            "us_pounds_pct": 4,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 8,
+            "state_score_pct": 88,
+            "us_count": 565,
+            "us_pounds_pct": 5,
+            "us_score_pct": 69
+        },
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 7,
+            "state_score_pct": 90,
+            "us_count": 546,
+            "us_pounds_pct": 5,
+            "us_score_pct": 70
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 40,
+            "us_count": 423,
+            "us_pounds_pct": 31,
+            "us_score_pct": 42
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 55,
+            "us_count": 399,
+            "us_pounds_pct": 34,
+            "us_score_pct": 45
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 50,
+            "us_count": 401,
+            "us_pounds_pct": 31,
+            "us_score_pct": 46
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "New York",
+    "StackVelocity": 2.4,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "31 SWAN ST",
+    "SubmitLat": 42.99444,
+    "SubmitLong": 78.17639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1774,
+    "Y": 2910,
+    "ZIP9": "14020",
+    "ZIPCode": "14020"
+}

@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FULTON",
+    "County": "NY,OSWEGO",
+    "DUNS": "616168472",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26063.244708,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100124597",
+                    "MaxOnsite": "03",
+                    "Pounds": 5500.0,
+                    "Score": 2.78386,
+                    "SubmissionNumber": 1758888,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5500.0,
+            "TotalScore": 2.78386,
+            "state_score_percentile": 53,
+            "us_score_percentile": 44
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110341563",
+                    "MaxOnsite": "03",
+                    "Pounds": 7100.0,
+                    "Score": 3.59137,
+                    "SubmissionNumber": 1853809,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7100.0,
+            "TotalScore": 3.59137,
+            "state_score_percentile": 58,
+            "us_score_percentile": 46
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125324513",
+                    "MaxOnsite": "03",
+                    "Pounds": 4600.0,
+                    "Score": 2.32529,
+                    "SubmissionNumber": 1982578,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4600.0,
+            "TotalScore": 2.32529,
+            "state_score_percentile": 52,
+            "us_score_percentile": 42
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130486893",
+                    "MaxOnsite": "03",
+                    "Pounds": 7500.0,
+                    "Score": 3.78876,
+                    "SubmissionNumber": 2031352,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 7500.0,
+            "TotalScore": 3.78876,
+            "state_score_percentile": 58,
+            "us_score_percentile": 50
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140139357",
+                    "MaxOnsite": "03",
+                    "Pounds": 8900.0,
+                    "Score": 4.49306,
+                    "SubmissionNumber": 12550,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8900.0,
+            "TotalScore": 4.49306,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150392304",
+                    "MaxOnsite": "03",
+                    "Pounds": 94.3,
+                    "Score": 24.41,
+                    "SubmissionNumber": 129441,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 94.3,
+            "TotalScore": 24.41,
+            "state_score_percentile": 24,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "36075",
+    "FRSID": "110000582646",
+    "FacilityID": "13069WNSLLRD5GR",
+    "FacilityNumber": 116619,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.27875,
+    "Longitude": -76.35,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 65,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 52,
+            "us_score_pct": 34
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 43,
+            "us_score_pct": 21
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 52,
+            "us_score_pct": 30
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 22,
+            "us_pounds_pct": 63,
+            "us_score_pct": 36
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 41,
+            "us_pounds_pct": 12,
+            "us_score_pct": 19
+        },
+        "naicscode": "327213",
+        "name": "Glass Container Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3272",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0092321",
+    "Name": "OWENS-BROCKWAY GLASS CONTAINER INC. PLANT 25",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005034566",
+    "ParentName": "OWENS-ILLINOIS INC",
+    "PreferredLat": 43.26667,
+    "PreferredLong": 76.3375,
+    "PublicContactName": "JOHN E. HOFF",
+    "PublicContactPhone": "4192471203",
+    "RCRANumber": "NYD010761815",
+    "RadialDistance": 2885525,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 21,
+            "us_pounds_pct": 66,
+            "us_score_pct": 28
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 54,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 45,
+            "us_score_pct": 25
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 54,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 65,
+            "us_score_pct": 39
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 11,
+            "us_score_pct": 21
+        },
+        "name": "Glass containers",
+        "siccode": "3221"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "322",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 17.9832,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.6848,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "GREAT BEAR RD.",
+    "SubmitLat": 43.26667,
+    "SubmitLong": 76.3375,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1945,
+    "Y": 2984,
+    "ZIP9": "13069",
+    "ZIPCode": "13069"
+}

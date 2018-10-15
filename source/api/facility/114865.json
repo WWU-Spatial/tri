@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LODI",
+    "County": "NJ,BERGEN",
+    "DUNS": "151251584",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21261.873521,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396100049067",
+                    "MaxOnsite": "04",
+                    "Pounds": 602.0,
+                    "Score": 1.438525,
+                    "SubmissionNumber": 1752342,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 602.0,
+            "TotalScore": 1.438525,
+            "state_score_percentile": 29,
+            "us_score_percentile": 24
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110077676",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 1.324763,
+                    "SubmissionNumber": 1830708,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.324763,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000763282",
+    "FacilityID": "07644FNRGN205MA",
+    "FacilityNumber": 114865,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.880807,
+    "Longitude": -74.084299,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 25,
+            "us_count": 111,
+            "us_pounds_pct": 53,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 90,
+            "us_pounds_pct": 44,
+            "us_score_pct": 16
+        },
+        "naicscode": "325612",
+        "name": "Polish and Other Sanitation Good Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "FINE ORGANICS CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.88111,
+    "PreferredLong": 74.08556,
+    "PublicContactName": "JAMES R. HIGDON",
+    "PublicContactPhone": "9734726800",
+    "RCRANumber": "NJD986584134",
+    "RadialDistance": 2849309,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 20,
+            "us_count": 158,
+            "us_pounds_pct": 55,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 129,
+            "us_pounds_pct": 45,
+            "us_score_pct": 23
+        },
+        "name": "Specialty cleaning, polishing, and sanitation preparations",
+        "siccode": "2842"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "205 MAIN ST.",
+    "SubmitLat": 40.88111,
+    "SubmitLong": 74.08556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2242,
+    "Y": 2711,
+    "ZIP9": "076440687",
+    "ZIPCode": "07644"
+}

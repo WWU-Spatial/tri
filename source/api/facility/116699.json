@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SYRACUSE",
+    "County": "NY,ONONDAGA",
+    "DUNS": "001338244",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13255.647906,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115005100",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 1.3468769999999999,
+                    "SubmissionNumber": 1875654,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1.3468769999999999,
+            "state_score_percentile": 35,
+            "us_score_percentile": 28
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300145172755",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 1.33014,
+                    "SubmissionNumber": 85817,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1.33014,
+            "state_score_percentile": 35,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110000825714",
+    "FacilityID": "13209SYRCS7055I",
+    "FacilityNumber": 116699,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.110263,
+    "Longitude": -76.280152,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 106,
+            "us_pounds_pct": 47,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 102,
+            "us_pounds_pct": 57,
+            "us_score_pct": 25
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SYRACUSE HEAT TREATING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.11083,
+    "PreferredLong": 76.27861,
+    "PublicContactName": "JOHN H. MACALLISTER",
+    "PublicContactPhone": "3154510000",
+    "RCRANumber": "NA",
+    "RadialDistance": 2876256,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 114,
+            "us_pounds_pct": 42,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 111,
+            "us_pounds_pct": 50,
+            "us_score_pct": 20
+        },
+        "name": "Metal heat treating",
+        "siccode": "3398"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "339",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 3.3528,
+    "StackHeightSource": "New York",
+    "StackVelocity": 7.8334,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "7055 INTERSTATE ISLAND RD",
+    "SubmitLat": 43.11083,
+    "SubmitLong": 76.27861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1957,
+    "Y": 2963,
+    "ZIP9": "13209",
+    "ZIPCode": "13209"
+}

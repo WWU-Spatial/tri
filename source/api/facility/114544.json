@@ -1,0 +1,218 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "186724985",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5409.732359,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100011547",
+                    "MaxOnsite": "04",
+                    "Pounds": 108.0,
+                    "Score": 1.346765,
+                    "SubmissionNumber": 1749189,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100011562",
+                    "MaxOnsite": "04",
+                    "Pounds": 396.0,
+                    "Score": 0.141877,
+                    "SubmissionNumber": 1749191,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 504.0,
+            "TotalScore": 1.488642,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110005372",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.09229,
+                    "SubmissionNumber": 1824362,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110005396",
+                    "MaxOnsite": "07",
+                    "Pounds": 500.0,
+                    "Score": 6.46525,
+                    "SubmissionNumber": 1824364,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 755.0,
+            "TotalScore": 6.55754,
+            "state_score_percentile": 29,
+            "us_score_percentile": 26
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120000625",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.092951,
+                    "SubmissionNumber": 1899576,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120000637",
+                    "MaxOnsite": "07",
+                    "Pounds": 255.0,
+                    "Score": 3.455797,
+                    "SubmissionNumber": 1899577,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 3.548748,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319487",
+    "FacilityID": "07105RSCLR170BL",
+    "FacilityNumber": 114544,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.738913,
+    "Longitude": -74.1284,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 4,
+            "us_score_pct": 19
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 4,
+            "us_score_pct": 14
+        },
+        "naicscode": "325182",
+        "name": "Carbon Black Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROSE COLOR INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NEXTECH ENTERPRISES INTL INC",
+    "PreferredLat": 40.75944,
+    "PreferredLong": 74.12639,
+    "PublicContactName": "S. A. RIZVI",
+    "PublicContactPhone": "9735896311",
+    "RCRANumber": "NJ0000910893",
+    "RadialDistance": 2836779,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 116,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 52,
+            "state_score_pct": 23,
+            "us_count": 119,
+            "us_pounds_pct": 18,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 18,
+            "us_count": 119,
+            "us_pounds_pct": 18,
+            "us_score_pct": 10
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.9741,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "170 BLANCHARD ST.",
+    "SubmitLat": 40.75944,
+    "SubmitLong": 74.12639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2242,
+    "Y": 2691,
+    "ZIP9": "07105",
+    "ZIPCode": "07105"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 6134059,
+    "AssignedReach": "01090004000105",
+    "City": "PROVIDENCE",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "147088095",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 8769.856368,
+    "DistanceToReach": 540.975698,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1398120174356",
+                    "MaxOnsite": "06",
+                    "Pounds": 500.0,
+                    "Score": 1219.739,
+                    "SubmissionNumber": 1914107,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1219.739,
+            "state_score_percentile": 32,
+            "us_score_percentile": 21
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1300140611308",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 11.5285,
+                    "SubmissionNumber": 48083,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 11.5285,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110000312778",
+    "FacilityID": "02903NRTHS170AL",
+    "FacilityNumber": 112241,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.80892,
+    "Longitude": -71.40409,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 524,
+            "us_pounds_pct": 6,
+            "us_score_pct": 48
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 503,
+            "us_pounds_pct": 1,
+            "us_score_pct": 10
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": 1,
+    "NPDESPermit": "RI0021962",
+    "Name": "NORTHEAST PETROLEUM PROVIDENCE TERMINAL",
+    "NearComID": 6134059,
+    "NearReach": "01090004000105",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006249189",
+    "ParentName": "CARGILL INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JAMES GILMARTIN",
+    "PublicContactPhone": "5083765475",
+    "RCRANumber": "RID018554691",
+    "RadialDistance": 3090468,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 531,
+            "us_pounds_pct": 6,
+            "us_score_pct": 49
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 513,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "170 ALLENS AVE.",
+    "SubmitLat": 41.81389,
+    "SubmitLong": 71.39861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2477,
+    "Y": 2902,
+    "ZIP9": "02903",
+    "ZIPCode": "02903"
+}

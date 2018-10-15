@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PORT HENRY",
+    "County": "NY,ESSEX",
+    "DUNS": "013410444",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 52043.182502,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207245364",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1042,
+                    "Score": 0.730798,
+                    "SubmissionNumber": 839738,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1042,
+            "TotalScore": 0.730798,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208313698",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0842,
+                    "Score": 0.592629,
+                    "SubmissionNumber": 935413,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0842,
+            "TotalScore": 0.592629,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "36031",
+    "FRSID": "110038041936",
+    "FacilityID": "1297WGRFFT24DCK",
+    "FacilityNumber": 116554,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.052399,
+    "Longitude": -73.454185,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 9,
+            "state_score_pct": 7,
+            "us_count": 433,
+            "us_pounds_pct": 1,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 7,
+            "us_count": 443,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GRIFFITH ENERGY PORT HENRY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS ENERGY SERVICES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NYR000173815",
+    "RadialDistance": 3114062,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 9,
+            "state_score_pct": 7,
+            "us_count": 445,
+            "us_pounds_pct": 2,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 7,
+            "us_count": 456,
+            "us_pounds_pct": 1,
+            "us_score_pct": 8
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "24 DOCK LN",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2202,
+    "Y": 3152,
+    "ZIP9": "12974",
+    "ZIPCode": "12974"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAGAMAN",
+    "County": "NY,MONTGOMERY",
+    "DUNS": "148617814",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38058.992993,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100142266",
+                    "MaxOnsite": "04",
+                    "Pounds": 11744.0,
+                    "Score": 53.7539,
+                    "SubmissionNumber": 1760387,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11744.0,
+            "TotalScore": 53.7539,
+            "state_score_percentile": 63,
+            "us_score_percentile": 54
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397115034769",
+                    "MaxOnsite": "03",
+                    "Pounds": 23694.0,
+                    "Score": 5.3172999999999995,
+                    "SubmissionNumber": 1877686,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 23694.0,
+            "TotalScore": 5.3172999999999995,
+            "state_score_percentile": 76,
+            "us_score_percentile": 67
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398125041259",
+                    "MaxOnsite": "03",
+                    "Pounds": 12640.0,
+                    "Score": 2.8199,
+                    "SubmissionNumber": 1969500,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12640.0,
+            "TotalScore": 2.8199,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "36057",
+    "FRSID": "110000324220",
+    "FacilityID": "12078WDHYD10WIL",
+    "FacilityNumber": 116290,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.975521,
+    "Longitude": -74.151682,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 49,
+            "us_pounds_pct": 38,
+            "us_score_pct": 36
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 46,
+            "us_pounds_pct": 52,
+            "us_score_pct": 26
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 44,
+            "us_score_pct": 23
+        },
+        "naicscode": "316110",
+        "name": "Leather and Hide Tanning and Finishing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3161",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "WOOD & HYDE LEATHER CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.0603,
+    "PreferredLong": 74.34244,
+    "PublicContactName": "TOM PORTER",
+    "PublicContactPhone": "5187257105",
+    "RCRANumber": "NYD000694505",
+    "RadialDistance": 2992671,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 51,
+            "us_pounds_pct": 37,
+            "us_score_pct": 37
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 48,
+            "us_pounds_pct": 52,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 42,
+            "us_score_pct": 22
+        },
+        "name": "Leather tanning and finishing",
+        "siccode": "3111"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "311",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "New York",
+    "StackVelocity": 7.0,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "16 WILLIAM ST.",
+    "SubmitLat": 43.975,
+    "SubmitLong": 74.11667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2169,
+    "Y": 2991,
+    "ZIP9": "12086",
+    "ZIPCode": "12086"
+}

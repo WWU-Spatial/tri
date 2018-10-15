@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WARWICK",
+    "County": "RI,KENT",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 2072.146672,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399135217875",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.000887,
+                    "SubmissionNumber": 2070794,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.000887,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "84742",
+                    "Chemical": "Dibutyl phthalate",
+                    "ChemicalNumber": 195,
+                    "DCN": "1301200055147",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 0.002871,
+                    "SubmissionNumber": 186868,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1301200055200",
+                    "MaxOnsite": "02",
+                    "Pounds": 9.0,
+                    "Score": 0.004001,
+                    "SubmissionNumber": 186874,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301200055224",
+                    "MaxOnsite": "03",
+                    "Pounds": 22.0,
+                    "Score": 0.019503,
+                    "SubmissionNumber": 186876,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 0.026375,
+            "state_score_percentile": 29,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "44003",
+    "FRSID": "110004930825",
+    "FacilityID": "02888RBCND80CYP",
+    "FacilityNumber": 112196,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.751442,
+    "Longitude": -71.436703,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "T",
+    "MultiplePrimarySIC": 1,
+    "NAICS1": {
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 487,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 487,
+            "us_pounds_pct": 3,
+            "us_score_pct": 2
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RBC INDUSTRIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT HANLEY",
+    "PublicContactPhone": "4019413000",
+    "RCRANumber": "RID987491081",
+    "RadialDistance": 3084597,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 521,
+            "us_pounds_pct": 0,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 526,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "80 CYPRESS ST.",
+    "SubmitLat": 41.75056,
+    "SubmitLong": 71.43778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2476,
+    "Y": 2893,
+    "ZIP9": "02888",
+    "ZIPCode": "02888"
+}

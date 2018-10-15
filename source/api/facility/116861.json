@@ -1,0 +1,224 @@
+{
+    "AssignedComID": 15504584,
+    "AssignedReach": "04150102000069",
+    "City": "LA FARGEVILLE",
+    "County": "NY,JEFFERSON",
+    "DUNS": "001008697",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 120586.904407,
+    "DistanceToReach": 629.559942,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140138456",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00149,
+                    "Score": 0.0,
+                    "SubmissionNumber": 12467,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140138468",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.01086,
+                    "Score": 0.034269,
+                    "SubmissionNumber": 12468,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.01235,
+            "TotalScore": 0.034269,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307206098814",
+                    "MaxOnsite": "03",
+                    "Pounds": 13500.0,
+                    "Score": 1.804582,
+                    "SubmissionNumber": 737190,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13500.0,
+            "TotalScore": 1.804582,
+            "state_score_percentile": 79,
+            "us_score_percentile": 72
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206562845",
+                    "MaxOnsite": "03",
+                    "Pounds": 5680.0,
+                    "Score": 1.20579,
+                    "SubmissionNumber": 779777,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5680.0,
+            "TotalScore": 1.20579,
+            "state_score_percentile": 73,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "36045",
+    "FRSID": "110000326102",
+    "FacilityID": "13656CRWLYTHERE",
+    "FacilityNumber": 116861,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.196167,
+    "Longitude": -75.959111,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 18,
+            "us_score_pct": 24
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 94,
+            "us_score_pct": 65
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 95,
+            "us_score_pct": 69
+        },
+        "naicscode": "311513",
+        "name": "Cheese Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "HP HOOD LLC (DBA CROWLEY FOODS)",
+    "NearComID": 15504580,
+    "NearReach": "04150102000067",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001008697",
+    "ParentName": "HP HOOD LLC",
+    "PreferredLat": 44.1875,
+    "PreferredLong": 75.95694,
+    "PublicContactName": "MARK RAYMAN",
+    "PublicContactPhone": "3156582221",
+    "RCRANumber": "NA",
+    "RadialDistance": 2980446,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 30,
+            "us_pounds_pct": 20,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 94,
+            "us_score_pct": 67
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 95,
+            "us_score_pct": 70
+        },
+        "name": "Natural, processed, and imitation cheese",
+        "siccode": "2022"
+    },
+    "SIC2": {
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 21,
+            "us_pounds_pct": 4,
+            "us_score_pct": 9
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 84,
+            "us_score_pct": 72
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 80,
+            "us_count": 33,
+            "us_pounds_pct": 84,
+            "us_score_pct": 69
+        },
+        "name": "Dry, condensed, and evaporated dairy products",
+        "siccode": "2023"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "20700 NYS RT 411",
+    "SubmitLat": 44.1875,
+    "SubmitLong": 75.95694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1957,
+    "Y": 3116,
+    "ZIP9": "13656",
+    "ZIPCode": "13656"
+}

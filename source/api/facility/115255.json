@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 4495952,
+    "AssignedReach": "02040202000065",
+    "City": "CAMDEN",
+    "County": "NJ,CAMDEN",
+    "DUNS": "191905918",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11157.707396,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145048498",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.1,
+                    "Score": 465.382,
+                    "SubmissionNumber": 79008,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.1,
+            "TotalScore": 465.382,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150061380",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.8,
+                    "Score": 419.782,
+                    "SubmissionNumber": 99762,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.8,
+            "TotalScore": 419.782,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "34007",
+    "FRSID": "110009834581",
+    "FacilityID": "08104MCNDR3RDST",
+    "FacilityNumber": 115255,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.918724,
+    "Longitude": -75.127676,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 5,
+            "us_score_pct": 70
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 5,
+            "us_score_pct": 72
+        },
+        "naicscode": "311942",
+        "name": "Spice and Extract Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3119",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0100722",
+    "Name": "MAFCO WORLDWIDE CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "FLAVOR HOLDINGS INC",
+    "PreferredLat": 39.91861,
+    "PreferredLong": 75.12778,
+    "PublicContactName": "GUY A. DIETRICH, SR.",
+    "PublicContactPhone": "8569684026",
+    "RCRANumber": "NJD002334076",
+    "RadialDistance": 2714224,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 15,
+            "us_score_pct": 90
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 11,
+            "us_score_pct": 82
+        },
+        "name": "Flavoring extracts and flavoring syrups, n.e.c.",
+        "siccode": "2087"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "208",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.4732,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 22.86,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.5107,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "3RD ST & JEFFERSON AVE",
+    "SubmitLat": 39.91861,
+    "SubmitLong": 75.12778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2166,
+    "Y": 2557,
+    "ZIP9": "08104",
+    "ZIPCode": "08104"
+}

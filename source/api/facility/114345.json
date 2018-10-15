@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CLARK",
+    "County": "NJ,UNION",
+    "DUNS": "001023472",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14760.464433,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155111469",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.5,
+                    "Score": 2.28517,
+                    "SubmissionNumber": 179142,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 2.28517,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200975795",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.915327,
+                    "SubmissionNumber": 278583,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.915327,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110000870521",
+    "FacilityID": "07066TTCLR100TE",
+    "FacilityNumber": 114345,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.630598,
+    "Longitude": -74.316317,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 26,
+            "us_score_pct": 50
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 9,
+            "us_score_pct": 28
+        },
+        "naicscode": "334417",
+        "name": "Electronic Connector Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TYCOM TELECOMMUNICATIONS (US) INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001023472",
+    "ParentName": "TYCO INTL (US) INC",
+    "PreferredLat": 40.63111,
+    "PreferredLong": 74.31833,
+    "PublicContactName": "HAROLD CONLON",
+    "PublicContactPhone": "7325787371",
+    "RCRANumber": "NJR000029553",
+    "RadialDistance": 2816899,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 25
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 12,
+            "us_score_pct": 31
+        },
+        "name": "Telephone and telegraph apparatus",
+        "siccode": "3661"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "366",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6819,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.3405,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.3538,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "100 TERMINAL AVE.",
+    "SubmitLat": 40.63111,
+    "SubmitLong": 74.31833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2226,
+    "Y": 2672,
+    "ZIP9": "070661319",
+    "ZIPCode": "07066"
+}

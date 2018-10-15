@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH SYRACUSE",
+    "County": "NY,ONONDAGA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3124.758929,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396100039078",
+                    "MaxOnsite": "03",
+                    "Pounds": 42600.0,
+                    "Score": 50987.95,
+                    "SubmissionNumber": 1751498,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 42600.0,
+            "TotalScore": 50987.95,
+            "state_score_percentile": 83,
+            "us_score_percentile": 75
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397110004975",
+                    "MaxOnsite": "03",
+                    "Pounds": 19700.0,
+                    "Score": 23500.309999999998,
+                    "SubmissionNumber": 1824323,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19700.0,
+            "TotalScore": 23500.309999999998,
+            "state_score_percentile": 74,
+            "us_score_percentile": 64
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398120073059",
+                    "MaxOnsite": "03",
+                    "Pounds": 10320.0,
+                    "Score": 12252.49,
+                    "SubmissionNumber": 1905634,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10320.0,
+            "TotalScore": 12252.49,
+            "state_score_percentile": 62,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110000325586",
+    "FacilityID": "13208BGSLZ1NEED",
+    "FacilityNumber": 116686,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.109866,
+    "Longitude": -76.154261,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 77,
+            "us_score_pct": 84
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 60,
+            "us_pounds_pct": 70,
+            "us_score_pct": 76
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 56,
+            "us_score_pct": 72
+        },
+        "naicscode": "339112",
+        "name": "Surgical and Medical Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "B.G. SULZLE INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NEEDLE ACQUISITION CORP",
+    "PreferredLat": 43.10833,
+    "PreferredLong": 76.15833,
+    "PublicContactName": "THOMAS R. COLEMAN",
+    "PublicContactPhone": "3154543221",
+    "RCRANumber": "NYD002226777",
+    "RadialDistance": 2883487,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 77,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 66,
+            "us_score_pct": 78
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 57,
+            "us_score_pct": 75
+        },
+        "name": "Surgical and medical instruments and apparatus",
+        "siccode": "3841"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1 NEEDLE LN.",
+    "SubmitLat": 43.10833,
+    "SubmitLong": 76.15833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1969,
+    "Y": 2966,
+    "ZIP9": "132124099",
+    "ZIPCode": "13212"
+}

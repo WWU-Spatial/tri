@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "001623867",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26575.677632,
+    "DistanceToReach": 701.806226,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440439",
+                    "Chemical": "Cadmium and cadmium compounds",
+                    "ChemicalNumber": 108,
+                    "DCN": "1304202887776",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.04,
+                    "Score": 21.3845,
+                    "SubmissionNumber": 452460,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1304202887790",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.12,
+                    "Score": 0.00381,
+                    "SubmissionNumber": 452462,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.16,
+            "TotalScore": 21.38831,
+            "state_score_percentile": 9,
+            "us_score_percentile": 3
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440439",
+                    "Chemical": "Cadmium and cadmium compounds",
+                    "ChemicalNumber": 108,
+                    "DCN": "1305203249457",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.3,
+                    "Score": 160.167,
+                    "SubmissionNumber": 484219,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 160.167,
+            "state_score_percentile": 15,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000311519",
+    "FacilityID": "02703CHCNC52GAR",
+    "FacilityNumber": 111838,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 41.94198,
+    "Longitude": -71.2769,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 5,
+            "us_score_pct": 61
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 35,
+            "us_pounds_pct": 11,
+            "us_score_pct": 74
+        },
+        "naicscode": "335931",
+        "name": "Current-Carrying Wiring Device Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "METALOR TECHNOLOGIES USA",
+    "NearComID": 6128145,
+    "NearReach": "01090004001043",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ALLEN CONAWAY",
+    "PublicContactPhone": "5082227333",
+    "RCRANumber": "MAC300006210",
+    "RadialDistance": 3107562,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 5,
+            "us_score_pct": 57
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 8,
+            "us_score_pct": 67
+        },
+        "name": "Current carrying wiring devices",
+        "siccode": "3643"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "364",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9032,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "52 GARDNER ST",
+    "SubmitLat": 41.9425,
+    "SubmitLong": 71.27889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2485,
+    "Y": 2923,
+    "ZIP9": "02703",
+    "ZIPCode": "02703"
+}

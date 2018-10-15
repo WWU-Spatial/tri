@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCKY HILL",
+    "County": "CT,HARTFORD",
+    "DUNS": "081301475",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31998.410301,
+    "DistanceToReach": 252.373467,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100016068",
+                    "MaxOnsite": "04",
+                    "Pounds": 11889.0,
+                    "Score": 0.504188,
+                    "SubmissionNumber": 1749561,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11889.0,
+            "TotalScore": 0.504188,
+            "state_score_percentile": 60,
+            "us_score_percentile": 54
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110241700",
+                    "MaxOnsite": "04",
+                    "Pounds": 10500.0,
+                    "Score": 0.550107,
+                    "SubmissionNumber": 1845017,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10500.0,
+            "TotalScore": 0.550107,
+            "state_score_percentile": 60,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000610660",
+    "FacilityID": "06067PRTTWBELAM",
+    "FacilityNumber": 113272,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.647753,
+    "Longitude": -72.630083,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 10,
+            "us_count": 79,
+            "us_pounds_pct": 65,
+            "us_score_pct": 6
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 11,
+            "us_count": 76,
+            "us_pounds_pct": 69,
+            "us_score_pct": 5
+        },
+        "naicscode": "336412",
+        "name": "Aircraft Engine and Engine Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": 1,
+    "NPDESPermit": "CT0001414",
+    "Name": "PRATT & WHITNEY",
+    "NearComID": 7700312,
+    "NearReach": "01080205000531",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001344142",
+    "ParentName": "UNITED TECHNOLOGIES CORP",
+    "PreferredLat": 41.64667,
+    "PreferredLong": 72.62944,
+    "PublicContactName": "MARK SULLIVAN",
+    "PublicContactPhone": "8605654415",
+    "RCRANumber": "CTD000844407",
+    "RadialDistance": 2997545,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 22,
+            "us_count": 76,
+            "us_pounds_pct": 69,
+            "us_score_pct": 6
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 22,
+            "us_count": 75,
+            "us_pounds_pct": 73,
+            "us_score_pct": 5
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "60 BELMOSE AVE.",
+    "SubmitLat": 41.64667,
+    "SubmitLong": 72.62944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2362,
+    "Y": 2849,
+    "ZIP9": "06067",
+    "ZIPCode": "06067"
+}

@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GARDEN CITY",
+    "County": "NY,NASSAU",
+    "DUNS": "002049351",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 48631.532569,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105052373",
+                    "MaxOnsite": "03",
+                    "Pounds": 8000.0,
+                    "Score": 25905.160000000003,
+                    "SubmissionNumber": 1794105,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8000.0,
+            "TotalScore": 25905.160000000003,
+            "state_score_percentile": 56,
+            "us_score_percentile": 47
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115074837",
+                    "MaxOnsite": "03",
+                    "Pounds": 8000.0,
+                    "Score": 26102.769999999997,
+                    "SubmissionNumber": 1880064,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8000.0,
+            "TotalScore": 26102.769999999997,
+            "state_score_percentile": 59,
+            "us_score_percentile": 48
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000763415",
+    "FacilityID": "11530HGHST300EN",
+    "FacilityNumber": 116062,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.73353,
+    "Longitude": -73.59128,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 79,
+            "us_pounds_pct": 62,
+            "us_score_pct": 58
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 61,
+            "us_score_pct": 59
+        },
+        "naicscode": "336412",
+        "name": "Aircraft Engine and Engine Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "HUGHES-TREITLER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.73389,
+    "PreferredLong": 73.58917,
+    "PublicContactName": "JOSEPH CANOVA",
+    "PublicContactPhone": "5168328811",
+    "RCRANumber": "NYD002049351",
+    "RadialDistance": 2872544,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 64,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 64,
+            "us_score_pct": 60
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 105,
+            "us_pounds_pct": 32,
+            "us_score_pct": 84
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 102,
+            "us_pounds_pct": 39,
+            "us_score_pct": 84
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "300 ENDO BLVD.",
+    "SubmitLat": 40.73389,
+    "SubmitLong": 73.58917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2296,
+    "Y": 2703,
+    "ZIP9": "11530",
+    "ZIPCode": "11530"
+}

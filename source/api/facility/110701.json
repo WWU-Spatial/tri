@@ -1,0 +1,262 @@
+{
+    "AssignedComID": 7710156,
+    "AssignedReach": "01100005000103",
+    "City": "PITTSFIELD",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "089104848",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57524.349668,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105171312",
+                    "MaxOnsite": "04",
+                    "Pounds": 3700.0,
+                    "Score": 0.111183,
+                    "SubmissionNumber": 1801966,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105171336",
+                    "MaxOnsite": "04",
+                    "Pounds": 670.0,
+                    "Score": 0.025651,
+                    "SubmissionNumber": 1801968,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "80057",
+                    "Chemical": "4,4'-Isopropylidenediphenol",
+                    "ChemicalNumber": 343,
+                    "DCN": "1396105171348",
+                    "MaxOnsite": "04",
+                    "Pounds": 180.0,
+                    "Score": 0.169969,
+                    "SubmissionNumber": 1801969,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105171351",
+                    "MaxOnsite": "05",
+                    "Pounds": 102000.0,
+                    "Score": 22.25625,
+                    "SubmissionNumber": 1801970,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 106550.0,
+            "TotalScore": 22.563053,
+            "state_score_percentile": 96,
+            "us_score_percentile": 86
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110115793",
+                    "MaxOnsite": "05",
+                    "Pounds": 74100.0,
+                    "Score": 16.56543,
+                    "SubmissionNumber": 1834193,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "80057",
+                    "Chemical": "4,4'-Isopropylidenediphenol",
+                    "ChemicalNumber": 343,
+                    "DCN": "1397110115805",
+                    "MaxOnsite": "04",
+                    "Pounds": 240.0,
+                    "Score": 0.22276,
+                    "SubmissionNumber": 1834194,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110115817",
+                    "MaxOnsite": "04",
+                    "Pounds": 16300.0,
+                    "Score": 0.547618,
+                    "SubmissionNumber": 1834195,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110115831",
+                    "MaxOnsite": "04",
+                    "Pounds": 3600.0,
+                    "Score": 0.095716,
+                    "SubmissionNumber": 1834197,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 94240.0,
+            "TotalScore": 17.431524,
+            "state_score_percentile": 95,
+            "us_score_percentile": 85
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120282924",
+                    "MaxOnsite": "05",
+                    "Pounds": 41000.0,
+                    "Score": 8.724450000000001,
+                    "SubmissionNumber": 1922604,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "80057",
+                    "Chemical": "4,4'-Isopropylidenediphenol",
+                    "ChemicalNumber": 343,
+                    "DCN": "1398120282936",
+                    "MaxOnsite": "04",
+                    "Pounds": 190.0,
+                    "Score": 0.173291,
+                    "SubmissionNumber": 1922605,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 41190.0,
+            "TotalScore": 8.897741000000002,
+            "state_score_percentile": 89,
+            "us_score_percentile": 75
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110000308471",
+    "FacilityID": "01201GNRLL1PLAS",
+    "FacilityNumber": 110701,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.46338,
+    "Longitude": -73.21429,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 15,
+            "state_pounds_pct": 100,
+            "state_score_pct": 46,
+            "us_count": 504,
+            "us_pounds_pct": 73,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 100,
+            "state_score_pct": 40,
+            "us_count": 490,
+            "us_pounds_pct": 72,
+            "us_score_pct": 23
+        },
+        "1998": {
+            "state_count": 15,
+            "state_pounds_pct": 100,
+            "state_score_pct": 40,
+            "us_count": 493,
+            "us_pounds_pct": 63,
+            "us_score_pct": 20
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0003891",
+    "Name": "GE PLASTICS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001367960",
+    "ParentName": "GE CO",
+    "PreferredLat": 42.45833,
+    "PreferredLong": 73.21944,
+    "PublicContactName": "ROBERT HESS",
+    "PublicContactPhone": "4134487594",
+    "RCRANumber": "MAC300008901",
+    "RadialDistance": 3014813,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 21,
+            "state_pounds_pct": 95,
+            "state_score_pct": 52,
+            "us_count": 530,
+            "us_pounds_pct": 72,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 21,
+            "state_pounds_pct": 95,
+            "state_score_pct": 52,
+            "us_count": 524,
+            "us_pounds_pct": 71,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 95,
+            "state_score_pct": 47,
+            "us_count": 526,
+            "us_pounds_pct": 62,
+            "us_score_pct": 19
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "1 PLASTICS AVE.",
+    "SubmitLat": 42.45833,
+    "SubmitLong": 73.21944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2277,
+    "Y": 2944,
+    "ZIP9": "01201",
+    "ZIPCode": "01201"
+}

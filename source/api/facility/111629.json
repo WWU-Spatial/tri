@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERVILLE",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3987.093781,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105146258",
+                    "MaxOnsite": "03",
+                    "Pounds": 12800.0,
+                    "Score": 2.33852,
+                    "SubmissionNumber": 1800315,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12800.0,
+            "TotalScore": 2.33852,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115160463",
+                    "MaxOnsite": "03",
+                    "Pounds": 14214.0,
+                    "Score": 2.61495,
+                    "SubmissionNumber": 1884901,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14214.0,
+            "TotalScore": 2.61495,
+            "state_score_percentile": 71,
+            "us_score_percentile": 58
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000762639",
+    "FacilityID": "02143NTDLT48THI",
+    "FacilityNumber": 111629,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.377424,
+    "Longitude": -71.079473,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 92,
+            "us_pounds_pct": 40,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 46,
+            "us_score_pct": 22
+        },
+        "naicscode": "323110",
+        "name": "Commercial Lithographic Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "UNITED LITHOGRAPH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.38333,
+    "PreferredLong": 71.08333,
+    "PublicContactName": "JAY MEISELMAN",
+    "PublicContactPhone": "6177766400",
+    "RCRANumber": "MAD980671978",
+    "RadialDistance": 3148742,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 90,
+            "us_pounds_pct": 46,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 92,
+            "us_pounds_pct": 48,
+            "us_score_pct": 29
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1498,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "48 3RD AVE.",
+    "SubmitLat": 42.38333,
+    "SubmitLong": 71.08333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2489,
+    "Y": 2986,
+    "ZIP9": "02143",
+    "ZIPCode": "02143"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGEWATER",
+    "County": "NJ,SOMERSET",
+    "DUNS": "181815853",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36777.097451,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1302201041427",
+                    "MaxOnsite": "03",
+                    "Pounds": 2181.0,
+                    "Score": 0.160311,
+                    "SubmissionNumber": 282043,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2181.0,
+            "TotalScore": 0.160311,
+            "state_score_percentile": 54,
+            "us_score_percentile": 46
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303201926060",
+                    "MaxOnsite": "03",
+                    "Pounds": 1699.0,
+                    "Score": 0.125522,
+                    "SubmissionNumber": 365689,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1699.0,
+            "TotalScore": 0.125522,
+            "state_score_percentile": 51,
+            "us_score_percentile": 45
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110001542046",
+    "FacilityID": "08807BRDGW81CHI",
+    "FacilityNumber": 115441,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.563678,
+    "Longitude": -74.564398,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 26,
+            "state_pounds_pct": 46,
+            "state_score_pct": 11,
+            "us_count": 539,
+            "us_pounds_pct": 38,
+            "us_score_pct": 9
+        },
+        "2003": {
+            "state_count": 24,
+            "state_pounds_pct": 41,
+            "state_score_pct": 12,
+            "us_count": 549,
+            "us_pounds_pct": 38,
+            "us_score_pct": 9
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BRIDGEWATER PROTECTIVE COATINGS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.55,
+    "PreferredLong": 74.55,
+    "PublicContactName": "JACK SCHOLZ",
+    "PublicContactPhone": "7324696262",
+    "RCRANumber": "NJD982537920",
+    "RadialDistance": 2795793,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "name": "",
+        "siccode": "1799"
+    },
+    "SICCode2Digit": "17",
+    "SICCode3Digit": "179",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5318,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 6.1062,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.9905,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "81 CHIMNEY ROCK RD",
+    "SubmitLat": 40.56,
+    "SubmitLong": 74.56528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2203,
+    "Y": 2657,
+    "ZIP9": "08807",
+    "ZIPCode": "08807"
+}

@@ -1,0 +1,336 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAKEWOOD",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67503.581177,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105070876",
+                    "MaxOnsite": "04",
+                    "Pounds": 16788.0,
+                    "Score": 16.658070000000002,
+                    "SubmissionNumber": 1795452,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16788.0,
+            "TotalScore": 16.658070000000002,
+            "state_score_percentile": 71,
+            "us_score_percentile": 60
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115059673",
+                    "MaxOnsite": "04",
+                    "Pounds": 23361.0,
+                    "Score": 22.790869999999998,
+                    "SubmissionNumber": 1878982,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1397115288262",
+                    "MaxOnsite": "04",
+                    "Pounds": 1727.0,
+                    "Score": 1.755565,
+                    "SubmissionNumber": 1891464,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25088.0,
+            "TotalScore": 24.546435,
+            "state_score_percentile": 78,
+            "us_score_percentile": 68
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399130302716",
+                    "MaxOnsite": "05",
+                    "Pounds": 11200.0,
+                    "Score": 6.10126,
+                    "SubmissionNumber": 2015910,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11200.0,
+            "TotalScore": 6.10126,
+            "state_score_percentile": 65,
+            "us_score_percentile": 56
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300140821834",
+                    "MaxOnsite": "05",
+                    "Pounds": 8736.0,
+                    "Score": 4.74819,
+                    "SubmissionNumber": 63202,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8736.0,
+            "TotalScore": 4.74819,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "78922",
+                    "Chemical": "sec-Butyl alcohol",
+                    "ChemicalNumber": 85,
+                    "DCN": "1306204288245",
+                    "MaxOnsite": "02",
+                    "Pounds": 12000.0,
+                    "Score": 0.619793,
+                    "SubmissionNumber": 578508,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12000.0,
+            "TotalScore": 0.619793,
+            "state_score_percentile": 77,
+            "us_score_percentile": 69
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "78922",
+                    "Chemical": "sec-Butyl alcohol",
+                    "ChemicalNumber": 85,
+                    "DCN": "1308206520684",
+                    "MaxOnsite": "03",
+                    "Pounds": 14000.0,
+                    "Score": 0.715274,
+                    "SubmissionNumber": 775834,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14000.0,
+            "TotalScore": 0.715274,
+            "state_score_percentile": 83,
+            "us_score_percentile": 74
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "78922",
+                    "Chemical": "sec-Butyl alcohol",
+                    "ChemicalNumber": 85,
+                    "DCN": "1309207433335",
+                    "MaxOnsite": "03",
+                    "Pounds": 11733.0,
+                    "Score": 0.596175,
+                    "SubmissionNumber": 856859,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11733.0,
+            "TotalScore": 0.596175,
+            "state_score_percentile": 83,
+            "us_score_percentile": 75
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110000328333",
+    "FacilityID": "14750CMMNS4720B",
+    "FacilityNumber": 117522,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.079207,
+    "Longitude": -79.364519,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 45,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 55,
+            "us_score_pct": 38
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 47,
+            "us_score_pct": 32
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 54,
+            "us_score_pct": 31
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 63,
+            "us_score_pct": 10
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 83,
+            "us_score_pct": 16
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 78,
+            "us_score_pct": 17
+        },
+        "naicscode": "333618",
+        "name": "Other Engine Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3336",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CUMMINS INC JAMESTOWN ENGINE PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006415160",
+    "ParentName": "CUMMINS INC",
+    "PreferredLat": 42.0817,
+    "PreferredLong": 79.3614,
+    "PublicContactName": "KEN SENSANBAUGER",
+    "PublicContactPhone": "7164562676",
+    "RCRANumber": "NYD074019753",
+    "RadialDistance": 2619784,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 54,
+            "us_score_pct": 32
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 60,
+            "us_score_pct": 36
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 57,
+            "us_score_pct": 39
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 60,
+            "us_score_pct": 40
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 70,
+            "us_score_pct": 23
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 83,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 77,
+            "us_score_pct": 29
+        },
+        "name": "Internal combustion engines, n.e.c.",
+        "siccode": "3519"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "351",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.4968,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 15.24,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "4720 BAKER ST EXTENSION",
+    "SubmitLat": 42.11361,
+    "SubmitLong": 79.43139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1679,
+    "Y": 2764,
+    "ZIP9": "14750",
+    "ZIPCode": "14750"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AIBONITO",
+    "County": "PR,AIBONITO",
+    "DUNS": "090335857",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 44416.145521,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1399130538212",
+                    "MaxOnsite": "03",
+                    "Pounds": 10246.0,
+                    "Score": 0.073024,
+                    "SubmissionNumber": 2035609,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10246.0,
+            "TotalScore": 0.073024,
+            "state_score_percentile": 59,
+            "us_score_percentile": 54
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "75456",
+                    "Chemical": "Chlorodifluoromethane (HCFC-22)",
+                    "ChemicalNumber": 138,
+                    "DCN": "1301200020434",
+                    "MaxOnsite": "03",
+                    "Pounds": 10740.0,
+                    "Score": 0.076735,
+                    "SubmissionNumber": 186661,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10740.0,
+            "TotalScore": 0.076735,
+            "state_score_percentile": 69,
+            "us_score_percentile": 63
+        }
+    },
+    "FIPS": "72009",
+    "FRSID": "110007805562",
+    "FacilityID": "00705TRCSNRD14K",
+    "FacilityNumber": 110312,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.130899,
+    "Longitude": -66.27565,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 104,
+            "us_pounds_pct": 38,
+            "us_score_pct": 3
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 97,
+            "us_pounds_pct": 52,
+            "us_score_pct": 4
+        },
+        "naicscode": "311615",
+        "name": "Poultry Processing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3116",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TO-RICOS LTD",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "007334170",
+    "ParentName": "PILGRIMS PRIDE CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PEDRO DEL VALLE",
+    "PublicContactPhone": "7877358061",
+    "RCRANumber": "PRD000912220",
+    "RadialDistance": 14740,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 109,
+            "us_pounds_pct": 41,
+            "us_score_pct": 3
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 103,
+            "us_pounds_pct": 55,
+            "us_score_pct": 4
+        },
+        "name": "Poultry slaughtering and processing",
+        "siccode": "2015"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "201",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.5486,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.668,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 2.5295,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "RD 14 KM 48 BO ASOMANTE",
+    "SubmitLat": 18.12861,
+    "SubmitLong": 65.26861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -3,
+    "Y": 18,
+    "ZIP9": "00705",
+    "ZIPCode": "00705"
+}

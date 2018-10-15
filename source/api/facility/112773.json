@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERSWORTH",
+    "County": "NH,STRAFFORD",
+    "DUNS": "153608120",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 62337.998832,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105066854",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 0.151654,
+                    "SubmissionNumber": 1795179,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 0.151654,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115041446",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.190805,
+                    "SubmissionNumber": 1878166,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.190805,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "33017",
+    "FRSID": "110000763068",
+    "FacilityID": "03878JNCPCONECE",
+    "FacilityNumber": 112773,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.24518,
+    "Longitude": -70.85196,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 156,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 172,
+            "us_pounds_pct": 5,
+            "us_score_pct": 12
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "JANCO P/C INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.24583,
+    "PreferredLong": 70.85167,
+    "PublicContactName": "LEWIS JANETOS",
+    "PublicContactPhone": "6037421581",
+    "RCRANumber": "NHD981211881",
+    "RadialDistance": 3220367,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 168,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 181,
+            "us_pounds_pct": 5,
+            "us_score_pct": 11
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "1 CENTRE RD.",
+    "SubmitLat": 43.24583,
+    "SubmitLong": 70.85167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2479,
+    "Y": 3108,
+    "ZIP9": "03878",
+    "ZIPCode": "03878"
+}

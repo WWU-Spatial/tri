@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "UTICA",
+    "County": "NY,ONEIDA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 73246.998678,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1399135109407",
+                    "MaxOnsite": "03",
+                    "Pounds": 38146.0,
+                    "Score": 38633.1,
+                    "SubmissionNumber": 2064558,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 38146.0,
+            "TotalScore": 38633.1,
+            "state_score_percentile": 82,
+            "us_score_percentile": 75
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1300145039095",
+                    "MaxOnsite": "03",
+                    "Pounds": 55064.0,
+                    "Score": 55076.3,
+                    "SubmissionNumber": 78433,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 55064.0,
+            "TotalScore": 55076.3,
+            "state_score_percentile": 89,
+            "us_score_percentile": 81
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1301155094980",
+                    "MaxOnsite": "03",
+                    "Pounds": 10192.0,
+                    "Score": 10209.7,
+                    "SubmissionNumber": 178115,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10192.0,
+            "TotalScore": 10209.7,
+            "state_score_percentile": 70,
+            "us_score_percentile": 62
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110002462031",
+    "FacilityID": "13503TCLLYLELAN",
+    "FacilityNumber": 116823,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.105626,
+    "Longitude": -75.214191,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 96,
+            "us_score_pct": 68
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 63,
+            "us_pounds_pct": 96,
+            "us_score_pct": 74
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 60,
+            "us_pounds_pct": 90,
+            "us_score_pct": 63
+        },
+        "naicscode": "332111",
+        "name": "Iron and Steel Forging"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UTICA ALLOYS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRET COPPLE",
+    "PublicContactPhone": "3157330475",
+    "RCRANumber": "NYD002252591",
+    "RadialDistance": 2938238,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 94,
+            "us_score_pct": 68
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 63,
+            "us_pounds_pct": 95,
+            "us_score_pct": 73
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 61,
+            "us_pounds_pct": 93,
+            "us_score_pct": 65
+        },
+        "name": "Iron and steel forgings",
+        "siccode": "3462"
+    },
+    "SIC2": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 89,
+            "us_score_pct": 72
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 93,
+            "us_score_pct": 75
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 80,
+            "us_score_pct": 70
+        },
+        "name": "Nonferrous forgings",
+        "siccode": "3463"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3536,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.9248,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.0584,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "LELAND & WURZ AVE.",
+    "SubmitLat": 43.16667,
+    "SubmitLong": 75.38333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2061,
+    "Y": 2985,
+    "ZIP9": "13503",
+    "ZIPCode": "13503"
+}

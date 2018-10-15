@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DEPTFORD",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "834697377",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11565.518747,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105042511",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.059724,
+                    "SubmissionNumber": 1793465,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1396105042535",
+                    "MaxOnsite": "06",
+                    "Pounds": 67891.0,
+                    "Score": 11.893437,
+                    "SubmissionNumber": 1793467,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1396105042550",
+                    "MaxOnsite": "04",
+                    "Pounds": 45.0,
+                    "Score": 0.004188,
+                    "SubmissionNumber": 1793469,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 67938.0,
+            "TotalScore": 11.957348999999999,
+            "state_score_percentile": 92,
+            "us_score_percentile": 81
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1397110423973",
+                    "MaxOnsite": "04",
+                    "Pounds": 45.0,
+                    "Score": 0.00418,
+                    "SubmissionNumber": 1860928,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1397110424001",
+                    "MaxOnsite": "06",
+                    "Pounds": 66917.0,
+                    "Score": 11.75624,
+                    "SubmissionNumber": 1860931,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 66962.0,
+            "TotalScore": 11.76042,
+            "state_score_percentile": 91,
+            "us_score_percentile": 82
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1398120390962",
+                    "MaxOnsite": "06",
+                    "Pounds": 72223.0,
+                    "Score": 12.672135,
+                    "SubmissionNumber": 1930552,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 72223.0,
+            "TotalScore": 12.672135,
+            "state_score_percentile": 91,
+            "us_score_percentile": 82
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1399135043673",
+                    "MaxOnsite": "06",
+                    "Pounds": 20489.0,
+                    "Score": 3.558919,
+                    "SubmissionNumber": 2060994,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20489.0,
+            "TotalScore": 3.558919,
+            "state_score_percentile": 78,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110000582129",
+    "FacilityID": "08096HNTSMMANTU",
+    "FacilityNumber": 115239,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.810376,
+    "Longitude": -75.152891,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 89,
+            "state_score_pct": 32,
+            "us_count": 504,
+            "us_pounds_pct": 67,
+            "us_score_pct": 23
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 85,
+            "state_score_pct": 28,
+            "us_count": 490,
+            "us_pounds_pct": 68,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 89,
+            "state_score_pct": 28,
+            "us_count": 493,
+            "us_pounds_pct": 70,
+            "us_score_pct": 22
+        },
+        "1999": {
+            "state_count": 27,
+            "state_pounds_pct": 66,
+            "state_score_pct": 22,
+            "us_count": 487,
+            "us_pounds_pct": 53,
+            "us_score_pct": 16
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0035831",
+    "Name": "HUNTSMAN CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "834697377",
+    "ParentName": "HUNTSMAN CORP",
+    "PreferredLat": 39.82222,
+    "PreferredLong": 75.21667,
+    "PublicContactName": "TROY BOLEY",
+    "PublicContactPhone": "7132356511",
+    "RCRANumber": "NJD002482602",
+    "RadialDistance": 2705199,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 29,
+            "state_pounds_pct": 89,
+            "state_score_pct": 31,
+            "us_count": 530,
+            "us_pounds_pct": 65,
+            "us_score_pct": 22
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 85,
+            "state_score_pct": 25,
+            "us_count": 524,
+            "us_pounds_pct": 67,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 89,
+            "state_score_pct": 25,
+            "us_count": 526,
+            "us_pounds_pct": 69,
+            "us_score_pct": 21
+        },
+        "1999": {
+            "state_count": 28,
+            "state_pounds_pct": 71,
+            "state_score_pct": 25,
+            "us_count": 521,
+            "us_pounds_pct": 51,
+            "us_score_pct": 15
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "MANTUA GROVE RD. & RTE. 295",
+    "SubmitLat": 39.82222,
+    "SubmitLong": 75.21667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2166,
+    "Y": 2542,
+    "ZIP9": "08096",
+    "ZIPCode": "08096"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CONGERS",
+    "County": "NY,ROCKLAND",
+    "DUNS": "092733690",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 54480.058486,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105225256",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.373608,
+                    "SubmissionNumber": 1805562,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105225268",
+                    "MaxOnsite": "03",
+                    "Pounds": 180.0,
+                    "Score": 0.013854000000000002,
+                    "SubmissionNumber": 1805563,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 930.0,
+            "TotalScore": 0.387462,
+            "state_score_percentile": 34,
+            "us_score_percentile": 27
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115071514",
+                    "MaxOnsite": "03",
+                    "Pounds": 180.0,
+                    "Score": 0.01397,
+                    "SubmissionNumber": 1879789,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115071526",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.252841,
+                    "SubmissionNumber": 1879790,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 680.0,
+            "TotalScore": 0.26681099999999996,
+            "state_score_percentile": 31,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "36087",
+    "FRSID": "110033185336",
+    "FacilityID": "10920PRPHR75BRE",
+    "FacilityNumber": 115806,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.159043,
+    "Longitude": -73.939065,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 18,
+            "us_count": 150,
+            "us_pounds_pct": 26,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 10,
+            "us_count": 139,
+            "us_pounds_pct": 23,
+            "us_score_pct": 14
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NYR00A514",
+    "Name": "PAR PHARMACEUTICAL INC. CONGERS FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.15889,
+    "PreferredLong": 73.9375,
+    "PublicContactName": "RAY DIFALCO",
+    "PublicContactPhone": "9145735700",
+    "RCRANumber": "NYR000070029",
+    "RadialDistance": 2877836,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 23,
+            "state_score_pct": 15,
+            "us_count": 146,
+            "us_pounds_pct": 26,
+            "us_score_pct": 16
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 8,
+            "us_count": 136,
+            "us_pounds_pct": 24,
+            "us_score_pct": 13
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "77 BRENNER DR.",
+    "SubmitLat": 41.15889,
+    "SubmitLong": 73.9375,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2247,
+    "Y": 2752,
+    "ZIP9": "10920",
+    "ZIPCode": "10920"
+}

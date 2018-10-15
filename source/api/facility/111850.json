@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20287.572467,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115014882",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.014612,
+                    "SubmissionNumber": 1876285,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.014612,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120371289",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.01468,
+                    "SubmissionNumber": 1928898,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.01468,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130384504",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.00295,
+                    "SubmissionNumber": 2022885,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.00295,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000311546",
+    "FacilityID": "02703JMSMR1879C",
+    "FacilityNumber": 111850,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.902243,
+    "Longitude": -71.34111,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 27,
+            "us_score_pct": 18
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 13,
+            "us_pounds_pct": 34,
+            "us_score_pct": 23
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "naicscode": "339911",
+        "name": "Jewelry (except Costume) Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JAMES A. MURPHY & SON INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.90389,
+    "PreferredLong": 71.34194,
+    "PublicContactName": "JAMES A. MURPHY III",
+    "PublicContactPhone": "5087615060",
+    "RCRANumber": "MAD001205616",
+    "RadialDistance": 3100683,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 9,
+            "us_pounds_pct": 33,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 12,
+            "us_pounds_pct": 37,
+            "us_score_pct": 25
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 8,
+            "us_pounds_pct": 12,
+            "us_score_pct": 12
+        },
+        "name": "Jewelry, precious metal",
+        "siccode": "3911"
+    },
+    "SIC2": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 50,
+            "us_score_pct": 33
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 37,
+            "us_score_pct": 25
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "name": "Costume jewelry and costume novelties, except precious metal",
+        "siccode": "3961"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "391",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5344,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "1879 COUNTY ST.",
+    "SubmitLat": 41.90389,
+    "SubmitLong": 71.34194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2480,
+    "Y": 2916,
+    "ZIP9": "02703",
+    "ZIPCode": "02703"
+}

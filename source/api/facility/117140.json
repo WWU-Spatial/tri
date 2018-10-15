@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "002114593",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9847.423621,
+    "DistanceToReach": 570.204496,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396100418185",
+                    "MaxOnsite": "02",
+                    "Pounds": 135.0,
+                    "Score": 1941.54,
+                    "SubmissionNumber": 1783176,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1396100418209",
+                    "MaxOnsite": "03",
+                    "Pounds": 4779.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1783178,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4914.0,
+            "TotalScore": 1941.54,
+            "state_score_percentile": 51,
+            "us_score_percentile": 42
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1397110467887",
+                    "MaxOnsite": "03",
+                    "Pounds": 5796.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1864599,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5796.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 55,
+            "us_score_percentile": 44
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1398120658669",
+                    "MaxOnsite": "03",
+                    "Pounds": 4906.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1950375,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4906.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 53,
+            "us_score_percentile": 43
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1399130640978",
+                    "MaxOnsite": "03",
+                    "Pounds": 2210.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2043984,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2210.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 42,
+            "us_score_percentile": 36
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1300140665720",
+                    "MaxOnsite": "03",
+                    "Pounds": 2230.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 51218,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2230.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 46,
+            "us_score_percentile": 39
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000326923",
+    "FacilityID": "14208FBRNP170FL",
+    "FacilityNumber": 117140,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.920232,
+    "Longitude": -78.852765,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 15,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 36,
+            "us_pounds_pct": 13,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 32,
+            "us_pounds_pct": 15,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 32,
+            "us_pounds_pct": 15,
+            "us_score_pct": 6
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 27,
+            "us_score_pct": 8
+        },
+        "naicscode": "321999",
+        "name": "All Other Miscellaneous Wood Product Manufacturing"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3219",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "FIBRON PRODUCTS INC",
+    "NearComID": 15569157,
+    "NearReach": "04120104000849",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.92056,
+    "PreferredLong": 78.85417,
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NYD986964468",
+    "RadialDistance": 2718095,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 16,
+            "us_score_pct": 90
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 39,
+            "us_pounds_pct": 17,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 35,
+            "us_pounds_pct": 14,
+            "us_score_pct": 5
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 37,
+            "us_pounds_pct": 18,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 39,
+            "us_pounds_pct": 23,
+            "us_score_pct": 5
+        },
+        "name": "Wood products, n.e.c.",
+        "siccode": "2499"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "249",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.7348,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4851,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "170 FLORIDA ST",
+    "SubmitLat": 42.92056,
+    "SubmitLong": 78.85417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1709,
+    "Y": 2888,
+    "ZIP9": "142080430",
+    "ZIPCode": "14208"
+}

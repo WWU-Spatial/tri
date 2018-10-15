@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WORCESTER",
+    "County": "MA,WORCESTER",
+    "DUNS": "069920080",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55516.16154,
+    "DistanceToReach": 1685.473551,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105160105",
+                    "MaxOnsite": "03",
+                    "Pounds": 12960.0,
+                    "Score": 0.286229,
+                    "SubmissionNumber": 1801133,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12960.0,
+            "TotalScore": 0.286229,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115033589",
+                    "MaxOnsite": "03",
+                    "Pounds": 11880.0,
+                    "Score": 0.26588,
+                    "SubmissionNumber": 1877580,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11880.0,
+            "TotalScore": 0.26588,
+            "state_score_percentile": 64,
+            "us_score_percentile": 54
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125065209",
+                    "MaxOnsite": "03",
+                    "Pounds": 10080.0,
+                    "Score": 0.228567,
+                    "SubmissionNumber": 1970587,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10080.0,
+            "TotalScore": 0.228567,
+            "state_score_percentile": 63,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000739620",
+    "FacilityID": "01605RLTCR31GAR",
+    "FacilityNumber": 110996,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.210214,
+    "Longitude": -71.674242,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 88,
+            "state_score_pct": 8,
+            "us_count": 561,
+            "us_pounds_pct": 78,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 69,
+            "state_score_pct": 7,
+            "us_count": 546,
+            "us_pounds_pct": 76,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 66,
+            "state_score_pct": 14,
+            "us_count": 522,
+            "us_pounds_pct": 77,
+            "us_score_pct": 4
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "",
+    "Name": "AUROLITE CORP",
+    "NearComID": 6116856,
+    "NearReach": "01090003001280",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.2775,
+    "PreferredLong": 71.79472,
+    "PublicContactName": "CRAIG B WARNER",
+    "PublicContactPhone": "5087990178",
+    "RCRANumber": "MAD069920080",
+    "RadialDistance": 3098211,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 82,
+            "state_score_pct": 10,
+            "us_count": 575,
+            "us_pounds_pct": 78,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 64,
+            "state_score_pct": 10,
+            "us_count": 565,
+            "us_pounds_pct": 76,
+            "us_score_pct": 4
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 65,
+            "state_score_pct": 17,
+            "us_count": 546,
+            "us_pounds_pct": 77,
+            "us_score_pct": 4
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "31 GARDEN ST",
+    "SubmitLat": 42.2775,
+    "SubmitLong": 71.79472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2436,
+    "Y": 2949,
+    "ZIP9": "016052669",
+    "ZIPCode": "01605"
+}

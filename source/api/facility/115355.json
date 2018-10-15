@@ -1,0 +1,183 @@
+{
+    "AssignedComID": 9515090,
+    "AssignedReach": "02030105000219",
+    "City": "PENNINGTON",
+    "County": "NJ,MERCER",
+    "DUNS": "001288497",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64211.565712,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1304207170489",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.0022849999999999997,
+                    "SubmissionNumber": 474910,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304207170491",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 123.40611,
+                    "SubmissionNumber": 474911,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1304207170503",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.22284700000000002,
+                    "SubmissionNumber": 474912,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 275.0,
+            "TotalScore": 123.631242,
+            "state_score_percentile": 38,
+            "us_score_percentile": 33
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305207170402",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.002297,
+                    "SubmissionNumber": 566265,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1305207171101",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.22399200000000002,
+                    "SubmissionNumber": 566266,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 0.22628900000000002,
+            "state_score_percentile": 21,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110017004597",
+    "FacilityID": "08534BRSTL311PE",
+    "FacilityNumber": 115355,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.347806,
+    "Longitude": -74.769694,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 13,
+            "state_pounds_pct": 46,
+            "state_score_pct": 69,
+            "us_count": 142,
+            "us_pounds_pct": 26,
+            "us_score_pct": 72
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 35,
+            "us_count": 143,
+            "us_pounds_pct": 13,
+            "us_score_pct": 22
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0000795",
+    "Name": "BRISTOL-MYERS SQUIBB CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "YASMIN REYES",
+    "PublicContactPhone": "6098185624",
+    "RCRANumber": "NJR000020909",
+    "RadialDistance": 2767394,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 83,
+            "us_count": 129,
+            "us_pounds_pct": 26,
+            "us_score_pct": 74
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 30,
+            "state_score_pct": 38,
+            "us_count": 129,
+            "us_pounds_pct": 14,
+            "us_score_pct": 22
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "311 PENNINGTON ROCKY HILL RD",
+    "SubmitLat": 40.34306,
+    "SubmitLong": 74.76806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2189,
+    "Y": 2623,
+    "ZIP9": "08534",
+    "ZIPCode": "08534"
+}

@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WOBURN",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "011963196",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14312.762267,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105301877",
+                    "MaxOnsite": "",
+                    "Pounds": 255.0,
+                    "Score": 2.992641,
+                    "SubmissionNumber": 1810085,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1396105301889",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 20.948442999999997,
+                    "SubmissionNumber": 1810086,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 23.941083999999996,
+            "state_score_percentile": 24,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397115324079",
+                    "MaxOnsite": "03",
+                    "Pounds": 65.0,
+                    "Score": 0.7569680000000001,
+                    "SubmissionNumber": 1893842,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 65.0,
+            "TotalScore": 0.7569680000000001,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110003447477",
+    "FacilityID": "01801MRSNC61HOL",
+    "FacilityNumber": 111138,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.472448,
+    "Longitude": -71.133198,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 17,
+            "state_pounds_pct": 17,
+            "state_score_pct": 76,
+            "us_count": 202,
+            "us_pounds_pct": 18,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 16,
+            "state_pounds_pct": 6,
+            "state_score_pct": 43,
+            "us_count": 188,
+            "us_pounds_pct": 5,
+            "us_score_pct": 31
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "MAR05A351",
+    "Name": "EMERSON & CUMING INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001519230",
+    "ParentName": "NATIONAL STARCH & CHEMICAL CO",
+    "PreferredLat": 42.47167,
+    "PreferredLong": 71.13278,
+    "PublicContactName": "CATHERINE O'CONNELL",
+    "PublicContactPhone": "7818283300",
+    "RCRANumber": "MAD091495309",
+    "RadialDistance": 3151294,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 77,
+            "us_count": 218,
+            "us_pounds_pct": 19,
+            "us_score_pct": 62
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 5,
+            "state_score_pct": 47,
+            "us_count": 201,
+            "us_pounds_pct": 6,
+            "us_score_pct": 30
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "61 HOLTON ST.",
+    "SubmitLat": 42.47167,
+    "SubmitLong": 71.13278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2480,
+    "Y": 2998,
+    "ZIP9": "01801",
+    "ZIPCode": "01801"
+}

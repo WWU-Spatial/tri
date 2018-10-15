@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BAYAMON",
+    "County": "PR,BAYAMON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13344.586571,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207421987",
+                    "MaxOnsite": "03",
+                    "Pounds": 1307.0,
+                    "Score": 0.173455,
+                    "SubmissionNumber": 855797,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1307.0,
+            "TotalScore": 0.173455,
+            "state_score_percentile": 54,
+            "us_score_percentile": 52
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208498701",
+                    "MaxOnsite": "03",
+                    "Pounds": 1699.0,
+                    "Score": 0.220735,
+                    "SubmissionNumber": 952042,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1699.0,
+            "TotalScore": 0.220735,
+            "state_score_percentile": 48,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "72021",
+    "FRSID": "110011541199",
+    "FacilityID": "00960CRBMTBAYAM",
+    "FacilityNumber": 110492,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 18.41778,
+    "Longitude": -66.12556,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 61,
+            "us_score_pct": 23
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 65,
+            "us_score_pct": 22
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CARIBE METALLURGICAL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 18.46667,
+    "PreferredLong": 66.11667,
+    "PublicContactName": "CLAY BRADDOCK",
+    "PublicContactPhone": "7877871919",
+    "RCRANumber": "NA",
+    "RadialDistance": 48079,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 91,
+            "us_pounds_pct": 58,
+            "us_score_pct": 19
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 61,
+            "us_score_pct": 22
+        },
+        "name": "Metal heat treating",
+        "siccode": "3398"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "339",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.8334,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "INDUSTRIAL LUCHETTI, LOT 15",
+    "SubmitLat": 18.41778,
+    "SubmitLong": 66.12556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 16,
+    "Y": 57,
+    "ZIP9": "00961",
+    "ZIPCode": "00961"
+}

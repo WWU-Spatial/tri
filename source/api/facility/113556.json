@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MILFORD",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 86045.917634,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202844926",
+                    "MaxOnsite": "04",
+                    "Pounds": 4865.0,
+                    "Score": 2.206073,
+                    "SubmissionNumber": 448581,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4865.0,
+            "TotalScore": 2.206073,
+            "state_score_percentile": 70,
+            "us_score_percentile": 57
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203915653",
+                    "MaxOnsite": "04",
+                    "Pounds": 33545.0,
+                    "Score": 15.068907999999999,
+                    "SubmissionNumber": 545995,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33545.0,
+            "TotalScore": 15.068907999999999,
+            "state_score_percentile": 91,
+            "us_score_percentile": 80
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204727919",
+                    "MaxOnsite": "04",
+                    "Pounds": 81000.0,
+                    "Score": 44.33852,
+                    "SubmissionNumber": 619273,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 81000.0,
+            "TotalScore": 44.33852,
+            "state_score_percentile": 96,
+            "us_score_percentile": 88
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205275480",
+                    "MaxOnsite": "04",
+                    "Pounds": 101260.0,
+                    "Score": 52.9367,
+                    "SubmissionNumber": 666008,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 101260.0,
+            "TotalScore": 52.9367,
+            "state_score_percentile": 96,
+            "us_score_percentile": 90
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206900995",
+                    "MaxOnsite": "04",
+                    "Pounds": 68095.0,
+                    "Score": 38.02816,
+                    "SubmissionNumber": 811282,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 68095.0,
+            "TotalScore": 38.02816,
+            "state_score_percentile": 96,
+            "us_score_percentile": 88
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207749209",
+                    "MaxOnsite": "04",
+                    "Pounds": 94040.0,
+                    "Score": 52.0893,
+                    "SubmissionNumber": 886483,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 94040.0,
+            "TotalScore": 52.0893,
+            "state_score_percentile": 97,
+            "us_score_percentile": 91
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110012624712",
+    "FacilityID": "06460MLFRD55SHE",
+    "FacilityNumber": 113556,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.223948,
+    "Longitude": -73.099068,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 620,
+            "us_pounds_pct": 12,
+            "us_score_pct": 7
+        },
+        "2005": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 33,
+            "us_count": 621,
+            "us_pounds_pct": 23,
+            "us_score_pct": 15
+        },
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 610,
+            "us_pounds_pct": 35,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 633,
+            "us_pounds_pct": 42,
+            "us_score_pct": 23
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 622,
+            "us_pounds_pct": 36,
+            "us_score_pct": 21
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 614,
+            "us_pounds_pct": 46,
+            "us_score_pct": 27
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MILFORD POWER CO LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL E. CARTNEY",
+    "PublicContactPhone": "2038821010",
+    "RCRANumber": "NA",
+    "RadialDistance": 2938129,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 618,
+            "us_pounds_pct": 14,
+            "us_score_pct": 9
+        },
+        "2005": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 33,
+            "us_count": 612,
+            "us_pounds_pct": 24,
+            "us_score_pct": 16
+        },
+        "2006": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 588,
+            "us_pounds_pct": 35,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 607,
+            "us_pounds_pct": 41,
+            "us_score_pct": 23
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 596,
+            "us_pounds_pct": 35,
+            "us_score_pct": 21
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 585,
+            "us_pounds_pct": 44,
+            "us_score_pct": 26
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "CT",
+    "Street": "55 SHELLAND ST",
+    "SubmitLat": 41.22444,
+    "SubmitLong": 73.0975,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2329,
+    "Y": 2781,
+    "ZIP9": "06460",
+    "ZIPCode": "06460"
+}

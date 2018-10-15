@@ -1,0 +1,2167 @@
+{
+    "AssignedComID": 3785857,
+    "AssignedReach": "05020005000003",
+    "City": "BRADDOCK",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "060682606",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32061.922782,
+    "DistanceToReach": 366.010746,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100201603",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.006294,
+                    "SubmissionNumber": 1765581,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100201615",
+                    "MaxOnsite": "03",
+                    "Pounds": 40.0,
+                    "Score": 6045.245000000001,
+                    "SubmissionNumber": 1765582,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1396100201627",
+                    "MaxOnsite": "03",
+                    "Pounds": 650.0,
+                    "Score": 0.00785,
+                    "SubmissionNumber": 1765583,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396100201639",
+                    "MaxOnsite": "04",
+                    "Pounds": 505.0,
+                    "Score": 235.1849,
+                    "SubmissionNumber": 1765584,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396100201641",
+                    "MaxOnsite": "07",
+                    "Pounds": 4600.0,
+                    "Score": 32767.21,
+                    "SubmissionNumber": 1765585,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1396100201654",
+                    "MaxOnsite": "02",
+                    "Pounds": 22000.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1765586,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396100201666",
+                    "MaxOnsite": "06",
+                    "Pounds": 3940.0,
+                    "Score": 13.2304,
+                    "SubmissionNumber": 1765587,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396100201678",
+                    "MaxOnsite": "04",
+                    "Pounds": 384.0,
+                    "Score": 401.85408,
+                    "SubmissionNumber": 1765588,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396100201680",
+                    "MaxOnsite": "04",
+                    "Pounds": 1350.0,
+                    "Score": 138856.96,
+                    "SubmissionNumber": 1765589,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 33471.0,
+            "TotalScore": 178319.698524,
+            "state_score_percentile": 77,
+            "us_score_percentile": 72
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110271160",
+                    "MaxOnsite": "02",
+                    "Pounds": 18000.0,
+                    "Score": 98.4424,
+                    "SubmissionNumber": 1847551,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110271172",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 946.3209999999999,
+                    "SubmissionNumber": 1847552,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1397110271184",
+                    "MaxOnsite": "02",
+                    "Pounds": 420.0,
+                    "Score": 0.005045,
+                    "SubmissionNumber": 1847553,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110271196",
+                    "MaxOnsite": "04",
+                    "Pounds": 102.0,
+                    "Score": 73.7658,
+                    "SubmissionNumber": 1847554,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1397110271208",
+                    "MaxOnsite": "05",
+                    "Pounds": 1750.0,
+                    "Score": 6897.75,
+                    "SubmissionNumber": 1847555,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110271210",
+                    "MaxOnsite": "06",
+                    "Pounds": 1410.0,
+                    "Score": 5.88663,
+                    "SubmissionNumber": 1847556,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1397110271222",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 4.983105,
+                    "SubmissionNumber": 1847557,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110271234",
+                    "MaxOnsite": "04",
+                    "Pounds": 146.0,
+                    "Score": 8954.01,
+                    "SubmissionNumber": 1847558,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 21845.0,
+            "TotalScore": 16981.16398,
+            "state_score_percentile": 71,
+            "us_score_percentile": 66
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120394337",
+                    "MaxOnsite": "02",
+                    "Pounds": 56000.0,
+                    "Score": 302.829,
+                    "SubmissionNumber": 1930834,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1398120394349",
+                    "MaxOnsite": "02",
+                    "Pounds": 1700.0,
+                    "Score": 0.020307,
+                    "SubmissionNumber": 1930835,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1398120394352",
+                    "MaxOnsite": "05",
+                    "Pounds": 1800.0,
+                    "Score": 6442.1900000000005,
+                    "SubmissionNumber": 1930836,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120394364",
+                    "MaxOnsite": "04",
+                    "Pounds": 113.0,
+                    "Score": 75.0206,
+                    "SubmissionNumber": 1930837,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1398120394376",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 4.000337,
+                    "SubmissionNumber": 1930838,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120394388",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 737.2049999999999,
+                    "SubmissionNumber": 1930839,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120394390",
+                    "MaxOnsite": "04",
+                    "Pounds": 159.0,
+                    "Score": 8013.6,
+                    "SubmissionNumber": 1930840,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120394414",
+                    "MaxOnsite": "05",
+                    "Pounds": 1620.0,
+                    "Score": 6.42205,
+                    "SubmissionNumber": 1930842,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 61408.0,
+            "TotalScore": 15581.287294,
+            "state_score_percentile": 84,
+            "us_score_percentile": 80
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130233543",
+                    "MaxOnsite": "02",
+                    "Pounds": 46000.0,
+                    "Score": 245.93,
+                    "SubmissionNumber": 2010157,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1399130233556",
+                    "MaxOnsite": "02",
+                    "Pounds": 1500.0,
+                    "Score": 0.017819,
+                    "SubmissionNumber": 2010158,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1399130233568",
+                    "MaxOnsite": "05",
+                    "Pounds": 1850.0,
+                    "Score": 6916.200000000001,
+                    "SubmissionNumber": 2010159,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130233570",
+                    "MaxOnsite": "04",
+                    "Pounds": 124.0,
+                    "Score": 81.0135,
+                    "SubmissionNumber": 2010160,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1399130233582",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 5.028657000000001,
+                    "SubmissionNumber": 2010161,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130233594",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 926.7090000000001,
+                    "SubmissionNumber": 2010162,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399130233606",
+                    "MaxOnsite": "04",
+                    "Pounds": 180.0,
+                    "Score": 10920.12,
+                    "SubmissionNumber": 2010163,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399130233618",
+                    "MaxOnsite": "05",
+                    "Pounds": 1640.0,
+                    "Score": 6.6725,
+                    "SubmissionNumber": 2010164,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 51312.0,
+            "TotalScore": 19101.691476,
+            "state_score_percentile": 83,
+            "us_score_percentile": 79
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140398823",
+                    "MaxOnsite": "02",
+                    "Pounds": 48800.0,
+                    "Score": 245.19998999999999,
+                    "SubmissionNumber": 33950,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1300140398835",
+                    "MaxOnsite": "01",
+                    "Pounds": 1800.0,
+                    "Score": 0.021265,
+                    "SubmissionNumber": 33951,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1300140398847",
+                    "MaxOnsite": "05",
+                    "Pounds": 1670.0,
+                    "Score": 5854.35,
+                    "SubmissionNumber": 33952,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300140398850",
+                    "MaxOnsite": "04",
+                    "Pounds": 49.0,
+                    "Score": 46.8394,
+                    "SubmissionNumber": 33953,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1300140398862",
+                    "MaxOnsite": "04",
+                    "Pounds": 12.0,
+                    "Score": 4.51646,
+                    "SubmissionNumber": 33954,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140398874",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 804.768,
+                    "SubmissionNumber": 33955,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140398886",
+                    "MaxOnsite": "04",
+                    "Pounds": 182.0,
+                    "Score": 7473.02,
+                    "SubmissionNumber": 33956,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300140398898",
+                    "MaxOnsite": "05",
+                    "Pounds": 1320.0,
+                    "Score": 5.671239999999999,
+                    "SubmissionNumber": 33957,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1300140398912",
+                    "MaxOnsite": "04",
+                    "Pounds": 48.0,
+                    "Score": 0.30686800000000003,
+                    "SubmissionNumber": 33959,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 53892.0,
+            "TotalScore": 14434.693223,
+            "state_score_percentile": 83,
+            "us_score_percentile": 81
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150578351",
+                    "MaxOnsite": "01",
+                    "Pounds": 28800.0,
+                    "Score": 138.02938,
+                    "SubmissionNumber": 145883,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1301150578387",
+                    "MaxOnsite": "01",
+                    "Pounds": 1800.0,
+                    "Score": 0.021085,
+                    "SubmissionNumber": 145886,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1301150578413",
+                    "MaxOnsite": "05",
+                    "Pounds": 1390.0,
+                    "Score": 4663.49,
+                    "SubmissionNumber": 145889,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150578449",
+                    "MaxOnsite": "03",
+                    "Pounds": 36.0,
+                    "Score": 34.4951,
+                    "SubmissionNumber": 145892,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1301150578488",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 4.1751000000000005,
+                    "SubmissionNumber": 145896,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150578526",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 549.366,
+                    "SubmissionNumber": 145899,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150578565",
+                    "MaxOnsite": "03",
+                    "Pounds": 128.0,
+                    "Score": 5979.13,
+                    "SubmissionNumber": 145903,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1301150578589",
+                    "MaxOnsite": "05",
+                    "Pounds": 980.0,
+                    "Score": 4.12695,
+                    "SubmissionNumber": 145905,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1301150578639",
+                    "MaxOnsite": "04",
+                    "Pounds": 38.0,
+                    "Score": 0.238323,
+                    "SubmissionNumber": 145910,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 33190.0,
+            "TotalScore": 11373.071938000001,
+            "state_score_percentile": 80,
+            "us_score_percentile": 78
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200720973",
+                    "MaxOnsite": "01",
+                    "Pounds": 37800.0,
+                    "Score": 178.67767999999998,
+                    "SubmissionNumber": 258449,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1302200720997",
+                    "MaxOnsite": "04",
+                    "Pounds": 12.0,
+                    "Score": 4.42671,
+                    "SubmissionNumber": 258451,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200721001",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 815.779,
+                    "SubmissionNumber": 258452,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1302200721013",
+                    "MaxOnsite": "01",
+                    "Pounds": 1700.0,
+                    "Score": 0.019743,
+                    "SubmissionNumber": 258453,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1302200721025",
+                    "MaxOnsite": "01",
+                    "Pounds": 32000.0,
+                    "Score": 120.946,
+                    "SubmissionNumber": 258454,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200721037",
+                    "MaxOnsite": "01",
+                    "Pounds": 53.0,
+                    "Score": 45.1392,
+                    "SubmissionNumber": 258455,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1302200721049",
+                    "MaxOnsite": "05",
+                    "Pounds": 1630.0,
+                    "Score": 5325.03,
+                    "SubmissionNumber": 258456,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200721064",
+                    "MaxOnsite": "04",
+                    "Pounds": 153.0,
+                    "Score": 5700.110000000001,
+                    "SubmissionNumber": 258458,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1302200721102",
+                    "MaxOnsite": "04",
+                    "Pounds": 43.0,
+                    "Score": 0.26842699999999997,
+                    "SubmissionNumber": 258462,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1302200721114",
+                    "MaxOnsite": "04",
+                    "Pounds": 1340.0,
+                    "Score": 5.857010000000001,
+                    "SubmissionNumber": 258463,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 74743.0,
+            "TotalScore": 12196.253770000001,
+            "state_score_percentile": 89,
+            "us_score_percentile": 86
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201641267",
+                    "MaxOnsite": "01",
+                    "Pounds": 37700.0,
+                    "Score": 181.06829,
+                    "SubmissionNumber": 340496,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1303201641281",
+                    "MaxOnsite": "04",
+                    "Pounds": 11.0,
+                    "Score": 4.23611,
+                    "SubmissionNumber": 340498,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1303201641305",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 807.51,
+                    "SubmissionNumber": 340500,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1303201641329",
+                    "MaxOnsite": "01",
+                    "Pounds": 1700.0,
+                    "Score": 0.019573,
+                    "SubmissionNumber": 340502,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1303201641343",
+                    "MaxOnsite": "01",
+                    "Pounds": 31000.0,
+                    "Score": 116.164,
+                    "SubmissionNumber": 340504,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201641368",
+                    "MaxOnsite": "04",
+                    "Pounds": 52.75,
+                    "Score": 44.2095,
+                    "SubmissionNumber": 340506,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1303201641394",
+                    "MaxOnsite": "05",
+                    "Pounds": 1650.0,
+                    "Score": 5476.46,
+                    "SubmissionNumber": 340509,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1303201641418",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.23,
+                    "Score": 0.057457,
+                    "SubmissionNumber": 340511,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1303201641432",
+                    "MaxOnsite": "04",
+                    "Pounds": 153.0,
+                    "Score": 5644.21,
+                    "SubmissionNumber": 340513,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1303201641507",
+                    "MaxOnsite": "04",
+                    "Pounds": 35.0,
+                    "Score": 0.259995,
+                    "SubmissionNumber": 340520,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1303201641521",
+                    "MaxOnsite": "05",
+                    "Pounds": 1340.0,
+                    "Score": 5.79889,
+                    "SubmissionNumber": 340522,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 73653.98,
+            "TotalScore": 12279.993815,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1304202795694",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.22,
+                    "Score": 0.054485,
+                    "SubmissionNumber": 444206,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202795720",
+                    "MaxOnsite": "01",
+                    "Pounds": 41000.0,
+                    "Score": 207.512,
+                    "SubmissionNumber": 444209,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1304202795732",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 4.04803,
+                    "SubmissionNumber": 444210,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1304202795744",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 772.617,
+                    "SubmissionNumber": 444211,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1304202795757",
+                    "MaxOnsite": "01",
+                    "Pounds": 1400.0,
+                    "Score": 0.015979,
+                    "SubmissionNumber": 444212,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1304202795769",
+                    "MaxOnsite": "01",
+                    "Pounds": 25000.0,
+                    "Score": 92.8716,
+                    "SubmissionNumber": 444213,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202795771",
+                    "MaxOnsite": "04",
+                    "Pounds": 47.11,
+                    "Score": 42.9169,
+                    "SubmissionNumber": 444214,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1304202795795",
+                    "MaxOnsite": "05",
+                    "Pounds": 1670.0,
+                    "Score": 5623.4,
+                    "SubmissionNumber": 444216,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1304202795807",
+                    "MaxOnsite": "04",
+                    "Pounds": 135.0,
+                    "Score": 5473.4,
+                    "SubmissionNumber": 444217,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1304202795833",
+                    "MaxOnsite": "04",
+                    "Pounds": 37.0,
+                    "Score": 0.280462,
+                    "SubmissionNumber": 444220,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1304202795845",
+                    "MaxOnsite": "05",
+                    "Pounds": 1220.0,
+                    "Score": 5.61709,
+                    "SubmissionNumber": 444221,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 70530.33,
+            "TotalScore": 12222.733546,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203994468",
+                    "MaxOnsite": "01",
+                    "Pounds": 34000.0,
+                    "Score": 170.182,
+                    "SubmissionNumber": 553207,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1305203994482",
+                    "MaxOnsite": "04",
+                    "Pounds": 16.0,
+                    "Score": 7.4384999999999994,
+                    "SubmissionNumber": 553209,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1305203994494",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 606.487,
+                    "SubmissionNumber": 553210,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1305203994506",
+                    "MaxOnsite": "01",
+                    "Pounds": 1300.0,
+                    "Score": 0.014708,
+                    "SubmissionNumber": 553211,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1305203994518",
+                    "MaxOnsite": "01",
+                    "Pounds": 25000.0,
+                    "Score": 92.0628,
+                    "SubmissionNumber": 553212,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203994520",
+                    "MaxOnsite": "03",
+                    "Pounds": 134.67,
+                    "Score": 268.08910000000003,
+                    "SubmissionNumber": 553213,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1305203994532",
+                    "MaxOnsite": "06",
+                    "Pounds": 1660.0,
+                    "Score": 6323.42,
+                    "SubmissionNumber": 553214,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1305203994544",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.44,
+                    "Score": 0.10802,
+                    "SubmissionNumber": 553215,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1305203994557",
+                    "MaxOnsite": "04",
+                    "Pounds": 134.0,
+                    "Score": 7108.43,
+                    "SubmissionNumber": 553216,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1305203994595",
+                    "MaxOnsite": "04",
+                    "Pounds": 38.0,
+                    "Score": 0.297568,
+                    "SubmissionNumber": 553220,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1305203994607",
+                    "MaxOnsite": "05",
+                    "Pounds": 4500.0,
+                    "Score": 50.87372,
+                    "SubmissionNumber": 553221,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 66794.11,
+            "TotalScore": 14627.403416,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204916112",
+                    "MaxOnsite": "01",
+                    "Pounds": 34000.0,
+                    "Score": 168.28,
+                    "SubmissionNumber": 636301,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1306204916124",
+                    "MaxOnsite": "03",
+                    "Pounds": 18.0,
+                    "Score": 8.49065,
+                    "SubmissionNumber": 636302,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306204916136",
+                    "MaxOnsite": "04",
+                    "Pounds": 11.0,
+                    "Score": 756.54,
+                    "SubmissionNumber": 636303,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306204916148",
+                    "MaxOnsite": "03",
+                    "Pounds": 17.0,
+                    "Score": 1.921068,
+                    "SubmissionNumber": 636304,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1306204916151",
+                    "MaxOnsite": "01",
+                    "Pounds": 1400.0,
+                    "Score": 0.015699,
+                    "SubmissionNumber": 636305,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1306204916163",
+                    "MaxOnsite": "01",
+                    "Pounds": 26000.0,
+                    "Score": 94.9042,
+                    "SubmissionNumber": 636306,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204916175",
+                    "MaxOnsite": "04",
+                    "Pounds": 141.43,
+                    "Score": 298.2706,
+                    "SubmissionNumber": 636307,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1306204916199",
+                    "MaxOnsite": "06",
+                    "Pounds": 1810.0,
+                    "Score": 6893.7699999999995,
+                    "SubmissionNumber": 636309,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1306204916201",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.31,
+                    "Score": 0.075437,
+                    "SubmissionNumber": 636310,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204916213",
+                    "MaxOnsite": "03",
+                    "Pounds": 16000.0,
+                    "Score": 1.98545,
+                    "SubmissionNumber": 636311,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1306204916225",
+                    "MaxOnsite": "04",
+                    "Pounds": 208.0,
+                    "Score": 9330.1,
+                    "SubmissionNumber": 636312,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1306204916252",
+                    "MaxOnsite": "04",
+                    "Pounds": 34.0,
+                    "Score": 0.30003,
+                    "SubmissionNumber": 636315,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1306204916264",
+                    "MaxOnsite": "05",
+                    "Pounds": 4320.0,
+                    "Score": 56.002404,
+                    "SubmissionNumber": 636316,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 83959.73999999999,
+            "TotalScore": 17610.655538,
+            "state_score_percentile": 91,
+            "us_score_percentile": 88
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307206052019",
+                    "MaxOnsite": "01",
+                    "Pounds": 33000.0,
+                    "Score": 161.486,
+                    "SubmissionNumber": 733670,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1307206052045",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 6.581810000000001,
+                    "SubmissionNumber": 733673,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1307206052072",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 568.142,
+                    "SubmissionNumber": 733676,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307206052108",
+                    "MaxOnsite": "03",
+                    "Pounds": 15.0,
+                    "Score": 1.317373,
+                    "SubmissionNumber": 733679,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1307206052122",
+                    "MaxOnsite": "01",
+                    "Pounds": 1400.0,
+                    "Score": 0.015559,
+                    "SubmissionNumber": 733681,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1307206052146",
+                    "MaxOnsite": "01",
+                    "Pounds": 26000.0,
+                    "Score": 94.063,
+                    "SubmissionNumber": 733683,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307206052161",
+                    "MaxOnsite": "04",
+                    "Pounds": 82.19999999999999,
+                    "Score": 144.44279999999998,
+                    "SubmissionNumber": 733685,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1307206052211",
+                    "MaxOnsite": "05",
+                    "Pounds": 1660.0,
+                    "Score": 5352.32,
+                    "SubmissionNumber": 733690,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1307206052247",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.34,
+                    "Score": 0.082004,
+                    "SubmissionNumber": 733693,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307206052274",
+                    "MaxOnsite": "03",
+                    "Pounds": 49000.0,
+                    "Score": 6.01167,
+                    "SubmissionNumber": 733696,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1307206052298",
+                    "MaxOnsite": "04",
+                    "Pounds": 207.0,
+                    "Score": 9102.0,
+                    "SubmissionNumber": 733698,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1307206052401",
+                    "MaxOnsite": "04",
+                    "Pounds": 31.0,
+                    "Score": 0.221311,
+                    "SubmissionNumber": 733709,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1307206052449",
+                    "MaxOnsite": "05",
+                    "Pounds": 2140.0,
+                    "Score": 24.652753,
+                    "SubmissionNumber": 733713,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 113562.54,
+            "TotalScore": 15461.33628,
+            "state_score_percentile": 93,
+            "us_score_percentile": 90
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206581833",
+                    "MaxOnsite": "01",
+                    "Pounds": 28000.0,
+                    "Score": 135.452,
+                    "SubmissionNumber": 781556,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1308206581845",
+                    "MaxOnsite": "04",
+                    "Pounds": 14.0,
+                    "Score": 5.26441,
+                    "SubmissionNumber": 781557,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308206581858",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 358.169,
+                    "SubmissionNumber": 781558,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206581860",
+                    "MaxOnsite": "03",
+                    "Pounds": 13.0,
+                    "Score": 1.071777,
+                    "SubmissionNumber": 781559,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1308206581872",
+                    "MaxOnsite": "01",
+                    "Pounds": 1700.0,
+                    "Score": 0.018723,
+                    "SubmissionNumber": 781560,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1308206581884",
+                    "MaxOnsite": "03",
+                    "Pounds": 30000.0,
+                    "Score": 107.564,
+                    "SubmissionNumber": 781561,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206581896",
+                    "MaxOnsite": "04",
+                    "Pounds": 68.8,
+                    "Score": 122.93806,
+                    "SubmissionNumber": 781562,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1308206581910",
+                    "MaxOnsite": "06",
+                    "Pounds": 1480.0,
+                    "Score": 4382.26,
+                    "SubmissionNumber": 781564,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1308206581922",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.34,
+                    "Score": 0.08127,
+                    "SubmissionNumber": 781565,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1308206581934",
+                    "MaxOnsite": "03",
+                    "Pounds": 35000.0,
+                    "Score": 4.24493,
+                    "SubmissionNumber": 781566,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308206581946",
+                    "MaxOnsite": "04",
+                    "Pounds": 143.0,
+                    "Score": 5179.43,
+                    "SubmissionNumber": 781567,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1308206581973",
+                    "MaxOnsite": "04",
+                    "Pounds": 26.0,
+                    "Score": 0.171876,
+                    "SubmissionNumber": 781570,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1308206581985",
+                    "MaxOnsite": "05",
+                    "Pounds": 1900.0,
+                    "Score": 21.529268000000002,
+                    "SubmissionNumber": 781571,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 98353.14,
+            "TotalScore": 10318.195314,
+            "state_score_percentile": 93,
+            "us_score_percentile": 90
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207572266",
+                    "MaxOnsite": "01",
+                    "Pounds": 33000.0,
+                    "Score": 157.795,
+                    "SubmissionNumber": 869917,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1309207572278",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 5.62162,
+                    "SubmissionNumber": 869918,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1309207572280",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 379.949,
+                    "SubmissionNumber": 869919,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207572292",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 0.831427,
+                    "SubmissionNumber": 869920,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1309207572304",
+                    "MaxOnsite": "03",
+                    "Pounds": 1100.0,
+                    "Score": 0.012005,
+                    "SubmissionNumber": 869921,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207572316",
+                    "MaxOnsite": "04",
+                    "Pounds": 55.59,
+                    "Score": 85.5174,
+                    "SubmissionNumber": 869922,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1309207572330",
+                    "MaxOnsite": "06",
+                    "Pounds": 1370.0,
+                    "Score": 4102.04,
+                    "SubmissionNumber": 869924,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207572342",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.54,
+                    "Score": 0.127912,
+                    "SubmissionNumber": 869925,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207572355",
+                    "MaxOnsite": "04",
+                    "Pounds": 28000.0,
+                    "Score": 3.35665,
+                    "SubmissionNumber": 869926,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309207572367",
+                    "MaxOnsite": "04",
+                    "Pounds": 170.0,
+                    "Score": 7468.72,
+                    "SubmissionNumber": 869927,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1309207572393",
+                    "MaxOnsite": "04",
+                    "Pounds": 27.0,
+                    "Score": 0.172794,
+                    "SubmissionNumber": 869930,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1309207572405",
+                    "MaxOnsite": "05",
+                    "Pounds": 1310.0,
+                    "Score": 13.455699000000001,
+                    "SubmissionNumber": 869931,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 65070.13,
+            "TotalScore": 12217.599506999999,
+            "state_score_percentile": 91,
+            "us_score_percentile": 89
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208716706",
+                    "MaxOnsite": "01",
+                    "Pounds": 38000.0,
+                    "Score": 179.578,
+                    "SubmissionNumber": 972676,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1310208716718",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 5.01285,
+                    "SubmissionNumber": 972677,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1310208716720",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 350.801,
+                    "SubmissionNumber": 972678,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208716732",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 0.990273,
+                    "SubmissionNumber": 972679,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1310208716744",
+                    "MaxOnsite": "03",
+                    "Pounds": 1300.0,
+                    "Score": 0.014057,
+                    "SubmissionNumber": 972680,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208716757",
+                    "MaxOnsite": "04",
+                    "Pounds": 52.230000000000004,
+                    "Score": 86.80677,
+                    "SubmissionNumber": 972681,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1310208716771",
+                    "MaxOnsite": "06",
+                    "Pounds": 1390.0,
+                    "Score": 4247.03,
+                    "SubmissionNumber": 972683,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1310208716783",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.38,
+                    "Score": 0.089192,
+                    "SubmissionNumber": 972684,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208716807",
+                    "MaxOnsite": "03",
+                    "Pounds": 37000.0,
+                    "Score": 4.38364,
+                    "SubmissionNumber": 972686,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208716821",
+                    "MaxOnsite": "04",
+                    "Pounds": 132.0,
+                    "Score": 7018.46,
+                    "SubmissionNumber": 972688,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440622",
+                    "Chemical": "Vanadium and vanadium compounds",
+                    "ChemicalNumber": 582,
+                    "DCN": "1310208716884",
+                    "MaxOnsite": "04",
+                    "Pounds": 25.0,
+                    "Score": 0.165447,
+                    "SubmissionNumber": 972694,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208716908",
+                    "MaxOnsite": "05",
+                    "Pounds": 1390.0,
+                    "Score": 13.918607999999999,
+                    "SubmissionNumber": 972696,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 79321.61,
+            "TotalScore": 11907.249837,
+            "state_score_percentile": 92,
+            "us_score_percentile": 90
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110001116934",
+    "FacilityID": "15104SSDGRBRADD",
+    "FacilityNumber": 117742,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.395902,
+    "Longitude": -79.863382,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 32,
+            "state_pounds_pct": 62,
+            "state_score_pct": 87,
+            "us_count": 143,
+            "us_pounds_pct": 60,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 31,
+            "state_pounds_pct": 58,
+            "state_score_pct": 54,
+            "us_count": 140,
+            "us_pounds_pct": 47,
+            "us_score_pct": 52
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 141,
+            "us_pounds_pct": 75,
+            "us_score_pct": 47
+        },
+        "1999": {
+            "state_count": 28,
+            "state_pounds_pct": 85,
+            "state_score_pct": 53,
+            "us_count": 140,
+            "us_pounds_pct": 75,
+            "us_score_pct": 56
+        },
+        "2000": {
+            "state_count": 28,
+            "state_pounds_pct": 85,
+            "state_score_pct": 42,
+            "us_count": 143,
+            "us_pounds_pct": 76,
+            "us_score_pct": 48
+        },
+        "2001": {
+            "state_count": 26,
+            "state_pounds_pct": 76,
+            "state_score_pct": 46,
+            "us_count": 140,
+            "us_pounds_pct": 70,
+            "us_score_pct": 52
+        },
+        "2002": {
+            "state_count": 25,
+            "state_pounds_pct": 100,
+            "state_score_pct": 44,
+            "us_count": 132,
+            "us_pounds_pct": 90,
+            "us_score_pct": 53
+        },
+        "2003": {
+            "state_count": 25,
+            "state_pounds_pct": 100,
+            "state_score_pct": 52,
+            "us_count": 130,
+            "us_pounds_pct": 88,
+            "us_score_pct": 49
+        },
+        "2004": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 47,
+            "us_count": 129,
+            "us_pounds_pct": 85,
+            "us_score_pct": 52
+        },
+        "2005": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 39,
+            "us_count": 129,
+            "us_pounds_pct": 88,
+            "us_score_pct": 53
+        },
+        "2006": {
+            "state_count": 23,
+            "state_pounds_pct": 95,
+            "state_score_pct": 47,
+            "us_count": 127,
+            "us_pounds_pct": 89,
+            "us_score_pct": 59
+        },
+        "2007": {
+            "state_count": 23,
+            "state_pounds_pct": 100,
+            "state_score_pct": 43,
+            "us_count": 130,
+            "us_pounds_pct": 92,
+            "us_score_pct": 53
+        },
+        "2008": {
+            "state_count": 23,
+            "state_pounds_pct": 100,
+            "state_score_pct": 39,
+            "us_count": 134,
+            "us_pounds_pct": 93,
+            "us_score_pct": 55
+        },
+        "2009": {
+            "state_count": 24,
+            "state_pounds_pct": 100,
+            "state_score_pct": 45,
+            "us_count": 131,
+            "us_pounds_pct": 93,
+            "us_score_pct": 64
+        },
+        "2010": {
+            "state_count": 24,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 128,
+            "us_pounds_pct": 93,
+            "us_score_pct": 56
+        },
+        "naicscode": "331111",
+        "name": "Iron and Steel Mills"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3311",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "USS MON VALLEY WORKS - EDGAR T HOMSON PLANT",
+    "NearComID": 3785857,
+    "NearReach": "05020005000003",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "029990699",
+    "ParentName": "US STEEL CORP",
+    "PreferredLat": 40.39194,
+    "PreferredLong": 79.85889,
+    "PublicContactName": "COURTNEY BOONE",
+    "PublicContactPhone": "4124336791",
+    "RCRANumber": "PAD060682606",
+    "RadialDistance": 2452352,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 31,
+            "state_pounds_pct": 58,
+            "state_score_pct": 80,
+            "us_count": 152,
+            "us_pounds_pct": 60,
+            "us_score_pct": 89
+        },
+        "1997": {
+            "state_count": 32,
+            "state_pounds_pct": 50,
+            "state_score_pct": 43,
+            "us_count": 154,
+            "us_pounds_pct": 47,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 151,
+            "us_pounds_pct": 76,
+            "us_score_pct": 48
+        },
+        "1999": {
+            "state_count": 28,
+            "state_pounds_pct": 75,
+            "state_score_pct": 42,
+            "us_count": 149,
+            "us_pounds_pct": 74,
+            "us_score_pct": 57
+        },
+        "2000": {
+            "state_count": 29,
+            "state_pounds_pct": 82,
+            "state_score_pct": 34,
+            "us_count": 153,
+            "us_pounds_pct": 76,
+            "us_score_pct": 48
+        },
+        "2001": {
+            "state_count": 27,
+            "state_pounds_pct": 66,
+            "state_score_pct": 37,
+            "us_count": 150,
+            "us_pounds_pct": 68,
+            "us_score_pct": 52
+        },
+        "2002": {
+            "state_count": 27,
+            "state_pounds_pct": 96,
+            "state_score_pct": 44,
+            "us_count": 142,
+            "us_pounds_pct": 90,
+            "us_score_pct": 55
+        },
+        "2003": {
+            "state_count": 27,
+            "state_pounds_pct": 96,
+            "state_score_pct": 48,
+            "us_count": 141,
+            "us_pounds_pct": 87,
+            "us_score_pct": 50
+        },
+        "2004": {
+            "state_count": 26,
+            "state_pounds_pct": 92,
+            "state_score_pct": 42,
+            "us_count": 142,
+            "us_pounds_pct": 83,
+            "us_score_pct": 51
+        },
+        "2005": {
+            "state_count": 25,
+            "state_pounds_pct": 92,
+            "state_score_pct": 36,
+            "us_count": 141,
+            "us_pounds_pct": 85,
+            "us_score_pct": 52
+        },
+        "2006": {
+            "state_count": 25,
+            "state_pounds_pct": 92,
+            "state_score_pct": 40,
+            "us_count": 141,
+            "us_pounds_pct": 87,
+            "us_score_pct": 56
+        },
+        "2007": {
+            "state_count": 25,
+            "state_pounds_pct": 96,
+            "state_score_pct": 40,
+            "us_count": 138,
+            "us_pounds_pct": 90,
+            "us_score_pct": 52
+        },
+        "2008": {
+            "state_count": 25,
+            "state_pounds_pct": 96,
+            "state_score_pct": 36,
+            "us_count": 141,
+            "us_pounds_pct": 90,
+            "us_score_pct": 52
+        },
+        "2009": {
+            "state_count": 25,
+            "state_pounds_pct": 96,
+            "state_score_pct": 40,
+            "us_count": 138,
+            "us_pounds_pct": 91,
+            "us_score_pct": 63
+        },
+        "2010": {
+            "state_count": 24,
+            "state_pounds_pct": 95,
+            "state_score_pct": 41,
+            "us_count": 136,
+            "us_pounds_pct": 91,
+            "us_score_pct": 56
+        },
+        "name": "Steel works, blast furnaces (including coke ovens), and rolling mills",
+        "siccode": "3312"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 2.7661,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 49.9872,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.6842,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PA",
+    "Street": "BRADDOCK AVE & 13TH ST",
+    "SubmitLat": 40.39194,
+    "SubmitLong": 79.85889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1668,
+    "Y": 2526,
+    "ZIP9": "15104",
+    "ZIPCode": "15104"
+}

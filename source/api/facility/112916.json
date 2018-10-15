@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AUGUSTA",
+    "County": "ME,KENNEBEC",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 91782.234819,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207845708",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.016703,
+                    "SubmissionNumber": 895478,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207845710",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.1,
+                    "Score": 19.71425,
+                    "SubmissionNumber": 895479,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 2.2,
+            "TotalScore": 19.730953,
+            "state_score_percentile": 15,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208750442",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.4000000000000001,
+                    "Score": 13.0596,
+                    "SubmissionNumber": 975910,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1.4000000000000001,
+            "TotalScore": 13.0596,
+            "state_score_percentile": 13,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "23011",
+    "FRSID": "110041999969",
+    "FacilityID": "0433WPKNDSRR6BX",
+    "FacilityNumber": 112916,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "ZIP",
+    "LatLongTable": "ESRI_2008",
+    "Latitude": 44.36352,
+    "Longitude": -69.7385,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 220,
+            "us_pounds_pct": 51,
+            "us_score_pct": 35
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 219,
+            "us_pounds_pct": 45,
+            "us_score_pct": 29
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC AUGUSTA",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN KORIS",
+    "PublicContactPhone": "2078542561",
+    "RCRANumber": "ME5000001230",
+    "RadialDistance": 3366175,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 210,
+            "us_pounds_pct": 51,
+            "us_score_pct": 35
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 211,
+            "us_pounds_pct": 45,
+            "us_score_pct": 30
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "RR6 BOX 1126 SANFORD RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2544,
+    "Y": 3286,
+    "ZIP9": "04330",
+    "ZIPCode": "04330"
+}

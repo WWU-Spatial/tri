@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "098210776",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7707.585885,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110502984",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 728.475,
+                    "SubmissionNumber": 1866419,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17.0,
+            "TotalScore": 728.475,
+            "state_score_percentile": 9,
+            "us_score_percentile": 7
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120723111",
+                    "MaxOnsite": "04",
+                    "Pounds": 16.0,
+                    "Score": 685.716,
+                    "SubmissionNumber": 1954624,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 16.0,
+            "TotalScore": 685.716,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110001040374",
+    "FacilityID": "15205CRCBL6003C",
+    "FacilityNumber": 117825,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.446843,
+    "Longitude": -80.158424,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "naicscode": "541710",
+        "name": "Research and Development in the Physical, Engineering, and Life Sciences"
+    },
+    "NAICSCode3Digit": "541",
+    "NAICSCode4Digit": "5417",
+    "NAICSCodeSame3Digit": "541",
+    "NHDRegion": "",
+    "NPDESPermit": "PA0000647",
+    "Name": "CRUCIBLE RESEARCH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "118508878",
+    "ParentName": "CRUCIBLE MATERIALS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BLAIR SHAFFER",
+    "PublicContactPhone": "4129232955",
+    "RCRANumber": "PAD010455020",
+    "RadialDistance": 2439666,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 83
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 25,
+            "us_score_pct": 75
+        },
+        "name": "",
+        "siccode": "8731"
+    },
+    "SICCode2Digit": "87",
+    "SICCode3Digit": "873",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "PA",
+    "Street": "6003 CAMPBELLS RUN RD.",
+    "SubmitLat": 40.44722,
+    "SubmitLong": 80.16139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1637,
+    "Y": 2528,
+    "ZIP9": "152051022",
+    "ZIPCode": "15205"
+}

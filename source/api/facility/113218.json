@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MANCHESTER",
+    "County": "CT,HARTFORD",
+    "DUNS": "801691825",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20741.36512,
+    "DistanceToReach": 729.607781,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205266846",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.001726,
+                    "Score": 0.005329,
+                    "SubmissionNumber": 665221,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.001726,
+            "TotalScore": 0.005329,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206388795",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0003,
+                    "Score": 0.000925,
+                    "SubmissionNumber": 763246,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0003,
+            "TotalScore": 0.000925,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000499336",
+    "FacilityID": "06040PHLCB203PR",
+    "FacilityNumber": 113218,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.803962,
+    "Longitude": -72.501887,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 38,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 38,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "naicscode": "335929",
+        "name": "Other Communication and Energy Wire Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "MOHAWK MANCHESTER",
+    "NearComID": 7700746,
+    "NearReach": "01080205000263",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "009178666",
+    "ParentName": "BELDEN CDT",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DEREK WAGNER",
+    "PublicContactPhone": "9785140113",
+    "RCRANumber": "CTD983902016",
+    "RadialDistance": 3016425,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 69,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 69,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "203 PROGRESS DR",
+    "SubmitLat": 41.80472,
+    "SubmitLong": 72.5,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2369,
+    "Y": 2873,
+    "ZIP9": "06040",
+    "ZIPCode": "06040"
+}

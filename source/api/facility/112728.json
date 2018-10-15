@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EXETER",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "122302987",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 69766.698646,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207998396",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.182696,
+                    "SubmissionNumber": 907426,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207998408",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.6,
+                    "Score": 0.269259,
+                    "SubmissionNumber": 907427,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 5.6,
+            "TotalScore": 0.451955,
+            "state_score_percentile": 35,
+            "us_score_percentile": 16
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208774479",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.181777,
+                    "SubmissionNumber": 978232,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208774481",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.7,
+                    "Score": 0.759202,
+                    "SubmissionNumber": 978233,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 6.7,
+            "TotalScore": 0.940979,
+            "state_score_percentile": 36,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110007693004",
+    "FacilityID": "03833SGRMS18IND",
+    "FacilityNumber": 112728,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.9928,
+    "Longitude": -70.96404,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 45,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 50,
+            "us_score_pct": 41
+        },
+        "naicscode": "332994",
+        "name": "Small Arms Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIG SAUER INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "STEVEN SHAWVER",
+    "PublicContactPhone": "6037722302",
+    "RCRANumber": "NHD510073315",
+    "RadialDistance": 3196418,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 41,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 50,
+            "us_score_pct": 33
+        },
+        "name": "Small arms",
+        "siccode": "3484"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "348",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 1.8918,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "18 INDUSTRIAL DR",
+    "SubmitLat": 42.99056,
+    "SubmitLong": 70.96278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2478,
+    "Y": 3071,
+    "ZIP9": "03833",
+    "ZIPCode": "03833"
+}

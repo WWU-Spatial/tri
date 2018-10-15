@@ -1,0 +1,530 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTVILLE",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "622369593",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10160.399036,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1398120418532",
+                    "MaxOnsite": "01",
+                    "Pounds": 250.0,
+                    "Score": 0.026442,
+                    "SubmissionNumber": 1932818,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1398120418544",
+                    "MaxOnsite": "01",
+                    "Pounds": 250.0,
+                    "Score": 0.053119,
+                    "SubmissionNumber": 1932819,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1398120418557",
+                    "MaxOnsite": "01",
+                    "Pounds": 72490.0,
+                    "Score": 8.30851,
+                    "SubmissionNumber": 1932820,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120418569",
+                    "MaxOnsite": "01",
+                    "Pounds": 41423.0,
+                    "Score": 0.664148,
+                    "SubmissionNumber": 1932821,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120418571",
+                    "MaxOnsite": "01",
+                    "Pounds": 41423.0,
+                    "Score": 32.7224,
+                    "SubmissionNumber": 1932822,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 155836.0,
+            "TotalScore": 41.774619,
+            "state_score_percentile": 96,
+            "us_score_percentile": 89
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1399130106887",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 0.000528,
+                    "SubmissionNumber": 1999424,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1399130106899",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 0.00106,
+                    "SubmissionNumber": 1999425,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130106901",
+                    "MaxOnsite": "01",
+                    "Pounds": 49831.0,
+                    "Score": 0.799745,
+                    "SubmissionNumber": 1999426,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130106913",
+                    "MaxOnsite": "01",
+                    "Pounds": 49831.0,
+                    "Score": 39.4021,
+                    "SubmissionNumber": 1999427,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 99672.0,
+            "TotalScore": 40.203433,
+            "state_score_percentile": 94,
+            "us_score_percentile": 86
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140269135",
+                    "MaxOnsite": "01",
+                    "Pounds": 617319.0,
+                    "Score": 9.91721,
+                    "SubmissionNumber": 24313,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1300140269147",
+                    "MaxOnsite": "01",
+                    "Pounds": 250.0,
+                    "Score": 0.026327,
+                    "SubmissionNumber": 24314,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1300140269150",
+                    "MaxOnsite": "01",
+                    "Pounds": 250.0,
+                    "Score": 0.052867,
+                    "SubmissionNumber": 24315,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140269162",
+                    "MaxOnsite": "01",
+                    "Pounds": 617319.0,
+                    "Score": 488.591,
+                    "SubmissionNumber": 24316,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1300140269174",
+                    "MaxOnsite": "01",
+                    "Pounds": 192912.0,
+                    "Score": 125174.0,
+                    "SubmissionNumber": 24317,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1300140269186",
+                    "MaxOnsite": "01",
+                    "Pounds": 239211.0,
+                    "Score": 3.17468,
+                    "SubmissionNumber": 24318,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1300140269198",
+                    "MaxOnsite": "01",
+                    "Pounds": 289368.0,
+                    "Score": 33.2318,
+                    "SubmissionNumber": 24319,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1300140269200",
+                    "MaxOnsite": "01",
+                    "Pounds": 96456.0,
+                    "Score": 1965.9,
+                    "SubmissionNumber": 24320,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1300140269212",
+                    "MaxOnsite": "01",
+                    "Pounds": 90283.0,
+                    "Score": 24113.0,
+                    "SubmissionNumber": 24321,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 2143368.0,
+            "TotalScore": 151787.893884,
+            "state_score_percentile": 99,
+            "us_score_percentile": 99
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301150529434",
+                    "MaxOnsite": "04",
+                    "Pounds": 1437.0,
+                    "Score": 2.642131,
+                    "SubmissionNumber": 141564,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1301150529446",
+                    "MaxOnsite": "01",
+                    "Pounds": 1736.0,
+                    "Score": 0.026643,
+                    "SubmissionNumber": 141565,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1301150529459",
+                    "MaxOnsite": "01",
+                    "Pounds": 1998.0,
+                    "Score": 0.06299199999999999,
+                    "SubmissionNumber": 141566,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150529461",
+                    "MaxOnsite": "04",
+                    "Pounds": 2637.0,
+                    "Score": 0.073402,
+                    "SubmissionNumber": 141567,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7808.0,
+            "TotalScore": 2.805168,
+            "state_score_percentile": 70,
+            "us_score_percentile": 59
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "74851",
+                    "Chemical": "Ethylene",
+                    "ChemicalNumber": 291,
+                    "DCN": "1302200306823",
+                    "MaxOnsite": "02",
+                    "Pounds": 927.0,
+                    "Score": 0.014261999999999999,
+                    "SubmissionNumber": 220072,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1302200306850",
+                    "MaxOnsite": "03",
+                    "Pounds": 1066.0,
+                    "Score": 0.033549999999999996,
+                    "SubmissionNumber": 220075,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200306862",
+                    "MaxOnsite": "03",
+                    "Pounds": 1408.0,
+                    "Score": 0.039151000000000005,
+                    "SubmissionNumber": 220076,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1302200306874",
+                    "MaxOnsite": "02",
+                    "Pounds": 767.0,
+                    "Score": 1.4079899999999999,
+                    "SubmissionNumber": 220077,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200306886",
+                    "MaxOnsite": "01",
+                    "Pounds": 139.0,
+                    "Score": 58.234,
+                    "SubmissionNumber": 220078,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200306898",
+                    "MaxOnsite": "01",
+                    "Pounds": 13.0,
+                    "Score": 3.6309,
+                    "SubmissionNumber": 220079,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200306900",
+                    "MaxOnsite": "02",
+                    "Pounds": 404.0,
+                    "Score": 9978.98,
+                    "SubmissionNumber": 220080,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1302200306912",
+                    "MaxOnsite": "04",
+                    "Pounds": 42688.0,
+                    "Score": 3475.44,
+                    "SubmissionNumber": 220081,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 47412.0,
+            "TotalScore": 13517.779853,
+            "state_score_percentile": 90,
+            "us_score_percentile": 82
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110015744907",
+    "FacilityID": "08093GLPNTUSRPO",
+    "FacilityNumber": 115232,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.85937,
+    "Longitude": -75.13491,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 100,
+            "us_score_pct": 40
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 100,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 54,
+            "us_score_pct": 45
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 91,
+            "us_score_pct": 100
+        },
+        "naicscode": "221100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0005401",
+    "Name": "EAGLE POINT COGENERATION PARTNERSHIP (EPCP)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JIM MURRAY",
+    "PublicContactPhone": "8563848603",
+    "RCRANumber": "NJ0005401",
+    "RadialDistance": 2709723,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 30,
+            "us_count": 555,
+            "us_pounds_pct": 33,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 33,
+            "us_count": 558,
+            "us_pounds_pct": 27,
+            "us_score_pct": 14
+        },
+        "2000": {
+            "state_count": 16,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 631,
+            "us_pounds_pct": 83,
+            "us_score_pct": 96
+        },
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 638,
+            "us_pounds_pct": 16,
+            "us_score_pct": 9
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 87,
+            "us_count": 623,
+            "us_pounds_pct": 26,
+            "us_score_pct": 78
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NJ",
+    "Street": "US RT 130 S & I-295",
+    "SubmitLat": 39.87917,
+    "SubmitLong": 75.15833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2167,
+    "Y": 2549,
+    "ZIP9": "08093",
+    "ZIPCode": "08093"
+}

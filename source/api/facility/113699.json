@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STRATFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 92497.021769,
+    "DistanceToReach": 572.467537,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100381779",
+                    "MaxOnsite": "04",
+                    "Pounds": 20000.0,
+                    "Score": 2.08566,
+                    "SubmissionNumber": 1780335,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100381793",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.00013,
+                    "SubmissionNumber": 1780337,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20001.0,
+            "TotalScore": 2.08579,
+            "state_score_percentile": 72,
+            "us_score_percentile": 64
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115294732",
+                    "MaxOnsite": "04",
+                    "Pounds": 7500.0,
+                    "Score": 0.78564,
+                    "SubmissionNumber": 1891995,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115294757",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.000131,
+                    "SubmissionNumber": 1891997,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7501.0,
+            "TotalScore": 0.785771,
+            "state_score_percentile": 52,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000610893",
+    "FacilityID": "06497SRMYS550MA",
+    "FacilityNumber": 113699,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.168896,
+    "Longitude": -73.124267,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "561210",
+        "name": "Facilities Support Services"
+    },
+    "NAICSCode3Digit": "561",
+    "NAICSCode4Digit": "5612",
+    "NAICSCodeSame3Digit": "561",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "U.S. ARMY TACOM STRATFORD ARMY ENGINE PLANT",
+    "NearComID": 7734133,
+    "NearReach": "01100006000820",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PETER SZYMANSKI",
+    "PublicContactPhone": "2033854453",
+    "RCRANumber": "CTD001181502",
+    "RadialDistance": 2932796,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "name": "",
+        "siccode": "8744"
+    },
+    "SICCode2Digit": "87",
+    "SICCode3Digit": "874",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "CT",
+    "Street": "550 MAIN ST",
+    "SubmitLat": 41.17028,
+    "SubmitLong": 73.125,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2328,
+    "Y": 2773,
+    "ZIP9": "066157554",
+    "ZIPCode": "06615"
+}

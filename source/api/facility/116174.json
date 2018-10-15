@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MELVILLE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "033644159",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 63322.412066,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305203865377",
+                    "MaxOnsite": "03",
+                    "Pounds": 373.0,
+                    "Score": 0.041141000000000004,
+                    "SubmissionNumber": 541447,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 373.0,
+            "TotalScore": 0.041141000000000004,
+            "state_score_percentile": 41,
+            "us_score_percentile": 35
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204332302",
+                    "MaxOnsite": "03",
+                    "Pounds": 909.0,
+                    "Score": 0.100458,
+                    "SubmissionNumber": 582629,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 909.0,
+            "TotalScore": 0.100458,
+            "state_score_percentile": 50,
+            "us_score_percentile": 43
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307205317124",
+                    "MaxOnsite": "03",
+                    "Pounds": 786.0,
+                    "Score": 0.087134,
+                    "SubmissionNumber": 669848,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 786.0,
+            "TotalScore": 0.087134,
+            "state_score_percentile": 50,
+            "us_score_percentile": 43
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1308206240463",
+                    "MaxOnsite": "03",
+                    "Pounds": 1110.0,
+                    "Score": 0.123506,
+                    "SubmissionNumber": 749618,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1110.0,
+            "TotalScore": 0.123506,
+            "state_score_percentile": 56,
+            "us_score_percentile": 48
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207174994",
+                    "MaxOnsite": "03",
+                    "Pounds": 986.0,
+                    "Score": 0.109888,
+                    "SubmissionNumber": 833740,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 986.0,
+            "TotalScore": 0.109888,
+            "state_score_percentile": 58,
+            "us_score_percentile": 49
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208202414",
+                    "MaxOnsite": "03",
+                    "Pounds": 1070.0,
+                    "Score": 0.11957899999999999,
+                    "SubmissionNumber": 924794,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1070.0,
+            "TotalScore": 0.11957899999999999,
+            "state_score_percentile": 59,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110025316735",
+    "FacilityID": "11747PRCSN155DU",
+    "FacilityNumber": 116174,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.767017,
+    "Longitude": -73.420182,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 17,
+            "us_pounds_pct": 52,
+            "us_score_pct": 23
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 19,
+            "us_pounds_pct": 68,
+            "us_score_pct": 36
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 17,
+            "us_pounds_pct": 52,
+            "us_score_pct": 35
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 68,
+            "us_score_pct": 37
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 62,
+            "us_score_pct": 37
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 62,
+            "us_score_pct": 37
+        },
+        "naicscode": "325414",
+        "name": "Biological Product (except Diagnostic) Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TALECRIS BIOTHERAPEUTICS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "194800426",
+    "ParentName": "TALECRIS BIOTHERAPEUTICS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "SAMUEL S. VEDDER",
+    "PublicContactPhone": "9193594108",
+    "RCRANumber": "NYD096920632",
+    "RadialDistance": 2886335,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 17,
+            "us_pounds_pct": 52,
+            "us_score_pct": 29
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 19,
+            "us_pounds_pct": 68,
+            "us_score_pct": 42
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 17,
+            "us_pounds_pct": 58,
+            "us_score_pct": 47
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 17,
+            "us_pounds_pct": 70,
+            "us_score_pct": 41
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 17,
+            "us_pounds_pct": 70,
+            "us_score_pct": 41
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 17,
+            "us_pounds_pct": 76,
+            "us_score_pct": 47
+        },
+        "name": "Biological products, except diagnostic substances",
+        "siccode": "2836"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "155 DURYEA RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2312,
+    "Y": 2712,
+    "ZIP9": "11747",
+    "ZIPCode": "11747"
+}

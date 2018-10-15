@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLTSVILLE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "085179591",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 94173.347271,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140386689",
+                    "MaxOnsite": "01",
+                    "Pounds": 129.0,
+                    "Score": 13652.8,
+                    "SubmissionNumber": 33025,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 129.0,
+            "TotalScore": 13652.8,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150536720",
+                    "MaxOnsite": "01",
+                    "Pounds": 160.0,
+                    "Score": 16968.0,
+                    "SubmissionNumber": 142195,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150536744",
+                    "MaxOnsite": "01",
+                    "Pounds": 55.0,
+                    "Score": 95.6535,
+                    "SubmissionNumber": 142197,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 215.0,
+            "TotalScore": 17063.6535,
+            "state_score_percentile": 27,
+            "us_score_percentile": 24
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200432413",
+                    "MaxOnsite": "01",
+                    "Pounds": 158.0,
+                    "Score": 16789.8,
+                    "SubmissionNumber": 231759,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200432425",
+                    "MaxOnsite": "01",
+                    "Pounds": 55.0,
+                    "Score": 95.8567,
+                    "SubmissionNumber": 231760,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 213.0,
+            "TotalScore": 16885.6567,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201587641",
+                    "MaxOnsite": "01",
+                    "Pounds": 153.0,
+                    "Score": 16291.4,
+                    "SubmissionNumber": 335582,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201587654",
+                    "MaxOnsite": "01",
+                    "Pounds": 53.0,
+                    "Score": 92.5669,
+                    "SubmissionNumber": 335583,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 206.0,
+            "TotalScore": 16383.9669,
+            "state_score_percentile": 33,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110042050197",
+    "FacilityID": "11742HLTSV180AM",
+    "FacilityNumber": 116162,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.816271,
+    "Longitude": -73.058729,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 35,
+            "state_pounds_pct": 17,
+            "state_score_pct": 77,
+            "us_count": 623,
+            "us_pounds_pct": 8,
+            "us_score_pct": 77
+        },
+        "2001": {
+            "state_count": 32,
+            "state_pounds_pct": 15,
+            "state_score_pct": 65,
+            "us_count": 630,
+            "us_pounds_pct": 9,
+            "us_score_pct": 81
+        },
+        "2002": {
+            "state_count": 34,
+            "state_pounds_pct": 20,
+            "state_score_pct": 85,
+            "us_count": 624,
+            "us_pounds_pct": 8,
+            "us_score_pct": 80
+        },
+        "2003": {
+            "state_count": 36,
+            "state_pounds_pct": 22,
+            "state_score_pct": 72,
+            "us_count": 633,
+            "us_pounds_pct": 8,
+            "us_score_pct": 80
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KEYSPAN ENERGY HOLTSVILLE IC FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "844749010",
+    "ParentName": "KEYSPAN CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANDREA STAUB",
+    "PublicContactPhone": "5165455317",
+    "RCRANumber": "NYD980648174",
+    "RadialDistance": 2914120,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 34,
+            "state_pounds_pct": 20,
+            "state_score_pct": 76,
+            "us_count": 631,
+            "us_pounds_pct": 11,
+            "us_score_pct": 77
+        },
+        "2001": {
+            "state_count": 31,
+            "state_pounds_pct": 16,
+            "state_score_pct": 67,
+            "us_count": 638,
+            "us_pounds_pct": 12,
+            "us_score_pct": 82
+        },
+        "2002": {
+            "state_count": 32,
+            "state_pounds_pct": 21,
+            "state_score_pct": 87,
+            "us_count": 623,
+            "us_pounds_pct": 10,
+            "us_score_pct": 81
+        },
+        "2003": {
+            "state_count": 35,
+            "state_pounds_pct": 22,
+            "state_score_pct": 74,
+            "us_count": 632,
+            "us_pounds_pct": 11,
+            "us_score_pct": 80
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 5.4864,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "180-A MORRIS AVE",
+    "SubmitLat": 40.81528,
+    "SubmitLong": 73.06639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2347,
+    "Y": 2727,
+    "ZIP9": "11742",
+    "ZIPCode": "11742"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MILO",
+    "County": "ME,PISCATAQUIS",
+    "DUNS": "046156628",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 206718.320419,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200204675",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.122,
+                    "Score": 0.004109,
+                    "SubmissionNumber": 210519,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.122,
+            "TotalScore": 0.004109,
+            "state_score_percentile": 7,
+            "us_score_percentile": 2
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201198304",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.112,
+                    "Score": 0.003789,
+                    "SubmissionNumber": 300006,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.112,
+            "TotalScore": 0.003789,
+            "state_score_percentile": 7,
+            "us_score_percentile": 2
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202586145",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.128,
+                    "Score": 0.004349,
+                    "SubmissionNumber": 425066,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.128,
+            "TotalScore": 0.004349,
+            "state_score_percentile": 8,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "23021",
+    "FRSID": "110013288584",
+    "FacilityID": "04463MLCHPOUTER",
+    "FacilityNumber": 112942,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 45.226388,
+    "Longitude": -68.933333,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 20
+        },
+        "naicscode": "321000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3210",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "MER05A743",
+    "Name": "MILO CHIPMILL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "009020777",
+    "ParentName": "GEORGIA-PACIFIC CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LANE SELMAN",
+    "PublicContactPhone": "3608348269",
+    "RCRANumber": "MER05A743",
+    "RadialDistance": 3474438,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 200,
+            "us_pounds_pct": 7,
+            "us_score_pct": 4
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 206,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 213,
+            "us_pounds_pct": 5,
+            "us_score_pct": 3
+        },
+        "name": "Sawmills and planing mills, general",
+        "siccode": "2421"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "242",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 13.1064,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.5278,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "OUTER ELM ST",
+    "SubmitLat": 45.22639,
+    "SubmitLong": 68.93333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2587,
+    "Y": 3421,
+    "ZIP9": "04463",
+    "ZIPCode": "04463"
+}

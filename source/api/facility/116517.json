@@ -1,0 +1,290 @@
+{
+    "AssignedComID": 22288023,
+    "AssignedReach": "02020003000120",
+    "City": "GREENWICH",
+    "County": "NY,WASHINGTON",
+    "DUNS": "001006360",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 44603.919036,
+    "DistanceToReach": 60.019498,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396105214290",
+                    "MaxOnsite": "03",
+                    "Pounds": 14799.0,
+                    "Score": 3987.348,
+                    "SubmissionNumber": 1804868,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 14799.0,
+            "TotalScore": 3987.348,
+            "state_score_percentile": 69,
+            "us_score_percentile": 58
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150516286",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.52211,
+                    "SubmissionNumber": 140420,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.52211,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200576445",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.525253,
+                    "SubmissionNumber": 245128,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.525253,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201768114",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.2,
+                    "Score": 1.05679,
+                    "SubmissionNumber": 351994,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 1.05679,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202961405",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.2,
+                    "Score": 1.06308,
+                    "SubmissionNumber": 458997,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 1.06308,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305204031191",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.2,
+                    "Score": 1.06936,
+                    "SubmissionNumber": 556488,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 1.06936,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "36115",
+    "FRSID": "110000582619",
+    "FacilityID": "12834HLLNGCOUNT",
+    "FacilityNumber": 116517,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.114222,
+    "Longitude": -73.569556,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 100,
+            "us_count": 152,
+            "us_pounds_pct": 18,
+            "us_score_pct": 51
+        },
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 37,
+            "us_count": 155,
+            "us_pounds_pct": 4,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 154,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 143,
+            "us_pounds_pct": 5,
+            "us_score_pct": 14
+        },
+        "2004": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 147,
+            "us_pounds_pct": 6,
+            "us_score_pct": 14
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 146,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "EASTON MILL",
+    "NearComID": 22288441,
+    "NearReach": "02020003000120",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.1125,
+    "PreferredLong": 73.57083,
+    "PublicContactName": "DINO ROSATI",
+    "PublicContactPhone": "5186958134",
+    "RCRANumber": "NYD000692152",
+    "RadialDistance": 3038596,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 184,
+            "us_pounds_pct": 16,
+            "us_score_pct": 54
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 28,
+            "us_count": 184,
+            "us_pounds_pct": 5,
+            "us_score_pct": 11
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 175,
+            "us_pounds_pct": 4,
+            "us_score_pct": 12
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 165,
+            "us_pounds_pct": 7,
+            "us_score_pct": 16
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 169,
+            "us_pounds_pct": 5,
+            "us_score_pct": 13
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 172,
+            "us_pounds_pct": 6,
+            "us_score_pct": 16
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.0881,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 20.1168,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.5098,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3235 COUNTY RT 113",
+    "SubmitLat": 43.1125,
+    "SubmitLong": 73.57083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2221,
+    "Y": 3023,
+    "ZIP9": "12834",
+    "ZIPCode": "12834"
+}

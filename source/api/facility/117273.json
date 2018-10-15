@@ -1,0 +1,262 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NIAGARA FALLS",
+    "County": "NY,NIAGARA",
+    "DUNS": "878163732",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 32881.363448,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396105118297",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 1.8600189999999999,
+                    "SubmissionNumber": 1798568,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1396105118309",
+                    "MaxOnsite": "04",
+                    "Pounds": 169.0,
+                    "Score": 5.211965,
+                    "SubmissionNumber": 1798569,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396105118311",
+                    "MaxOnsite": "04",
+                    "Pounds": 51.0,
+                    "Score": 158.1019,
+                    "SubmissionNumber": 1798570,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 226.0,
+            "TotalScore": 165.173884,
+            "state_score_percentile": 18,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1309207285608",
+                    "MaxOnsite": "01",
+                    "Pounds": 18255.0,
+                    "Score": 17.2196,
+                    "SubmissionNumber": 843428,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207285622",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.3,
+                    "Score": 0.10187,
+                    "SubmissionNumber": 843430,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207285646",
+                    "MaxOnsite": "02",
+                    "Pounds": 13.0,
+                    "Score": 74.485,
+                    "SubmissionNumber": 843432,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1309207285661",
+                    "MaxOnsite": "01",
+                    "Pounds": 4929.3,
+                    "Score": 90.4007,
+                    "SubmissionNumber": 843434,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 23197.6,
+            "TotalScore": 182.20717000000002,
+            "state_score_percentile": 88,
+            "us_score_percentile": 82
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208331049",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.96,
+                    "Score": 0.0,
+                    "SubmissionNumber": 937096,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208331052",
+                    "MaxOnsite": "02",
+                    "Pounds": 7.49,
+                    "Score": 0.902656,
+                    "SubmissionNumber": 937097,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208331064",
+                    "MaxOnsite": "02",
+                    "Pounds": 68.33,
+                    "Score": 513.779,
+                    "SubmissionNumber": 937098,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 79.78,
+            "TotalScore": 514.681656,
+            "state_score_percentile": 40,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "36063",
+    "FRSID": "110001578221",
+    "FacilityID": "14305SKWLL3801H",
+    "FacilityNumber": 117273,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.12195,
+    "Longitude": -79.044518,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 20,
+            "us_score_pct": 30
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 23
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 15,
+            "us_score_pct": 30
+        },
+        "naicscode": "331112",
+        "name": "Electrometallurgical Ferroalloy Product Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3311",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "GLOBE METALLURGICAL INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "782847391",
+    "ParentName": "GLOBE SPECIALTY METALS INC",
+    "PreferredLat": 43.125,
+    "PreferredLong": 79.0375,
+    "PublicContactName": "PAUL LOJEK",
+    "PublicContactPhone": "7162786120",
+    "RCRANumber": "NY0000996140",
+    "RadialDistance": 2725077,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 21
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 62,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 25
+        },
+        "name": "Electrometallurgical products, except steel",
+        "siccode": "3313"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 10.668,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 28.0416,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.9624,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "3807 HIGHLAND AVE",
+    "SubmitLat": 43.125,
+    "SubmitLong": 79.0375,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1685,
+    "Y": 2912,
+    "ZIP9": "14305",
+    "ZIPCode": "14305"
+}

@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "JERSEY CITY",
+    "County": "NJ,HUDSON",
+    "DUNS": "625281738",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9757.6836,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150140489",
+                    "MaxOnsite": "02",
+                    "Pounds": 12.0,
+                    "Score": 72.4289,
+                    "SubmissionNumber": 106867,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 12.0,
+            "TotalScore": 72.4289,
+            "state_score_percentile": 17,
+            "us_score_percentile": 15
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200601817",
+                    "MaxOnsite": "02",
+                    "Pounds": 9.0,
+                    "Score": 54.9996,
+                    "SubmissionNumber": 247499,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1302200601829",
+                    "MaxOnsite": "03",
+                    "Pounds": 406.0,
+                    "Score": 569.4504,
+                    "SubmissionNumber": 247500,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 415.0,
+            "TotalScore": 624.4499999999999,
+            "state_score_percentile": 35,
+            "us_score_percentile": 32
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1303201827742",
+                    "MaxOnsite": "03",
+                    "Pounds": 403.0,
+                    "Score": 561.8608,
+                    "SubmissionNumber": 357259,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201827755",
+                    "MaxOnsite": "02",
+                    "Pounds": 9.0,
+                    "Score": 55.2629,
+                    "SubmissionNumber": 357260,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 412.0,
+            "TotalScore": 617.1237000000001,
+            "state_score_percentile": 36,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110001972606",
+    "FacilityID": "07302RFNDSFOOTO",
+    "FacilityNumber": 114651,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.713991,
+    "Longitude": -74.052641,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 15,
+            "us_score_pct": 47
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 28,
+            "us_score_pct": 50
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 22,
+            "us_score_pct": 45
+        },
+        "naicscode": "331419",
+        "name": "Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "METALLIX INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.71389,
+    "PreferredLong": 74.05306,
+    "PublicContactName": "JOHN SANTOS",
+    "PublicContactPhone": "2524130346",
+    "RCRANumber": "NJD055090815",
+    "RadialDistance": 2840174,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 15,
+            "us_score_pct": 46
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 31,
+            "us_score_pct": 55
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 27,
+            "us_score_pct": 51
+        },
+        "name": "Primary smelting and refining of nonferrous metals, except copper and aluminum",
+        "siccode": "3339"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "333",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.4618,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 27.9594,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.1097,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "FOOT OF JERSEY AVE",
+    "SubmitLat": 40.69583,
+    "SubmitLong": 74.04167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2250,
+    "Y": 2689,
+    "ZIP9": "07302",
+    "ZIPCode": "07302"
+}

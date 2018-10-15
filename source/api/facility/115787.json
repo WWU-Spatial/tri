@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "YONKERS",
+    "County": "NY,WESTCHESTER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33204.198217,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301203090927",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 10.6937,
+                    "SubmissionNumber": 191418,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 10.6937,
+            "state_score_percentile": 5,
+            "us_score_percentile": 4
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302203090939",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 10.7154,
+                    "SubmissionNumber": 286629,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 10.7154,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303203090941",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 10.737,
+                    "SubmissionNumber": 379541,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 10.737,
+            "state_score_percentile": 6,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "36119",
+    "FRSID": "110022522171",
+    "FacilityID": "10705TYCPL78FER",
+    "FacilityNumber": 115787,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.924422,
+    "Longitude": -73.906325,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 85,
+            "us_pounds_pct": 2,
+            "us_score_pct": 48
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 86,
+            "us_pounds_pct": 4,
+            "us_score_pct": 51
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 78,
+            "us_pounds_pct": 5,
+            "us_score_pct": 53
+        },
+        "naicscode": "326113",
+        "name": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TYCO PLASTICS YONKERS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "101187706",
+    "ParentName": "TYCO PLASTICS LTD",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RAY GRULLON",
+    "PublicContactPhone": "9144236100",
+    "RCRANumber": "NA",
+    "RadialDistance": 2864117,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 98,
+            "us_pounds_pct": 2,
+            "us_score_pct": 46
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 99,
+            "us_pounds_pct": 2,
+            "us_score_pct": 47
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 87,
+            "us_pounds_pct": 3,
+            "us_score_pct": 49
+        },
+        "name": "Unsupported plastics film and sheet",
+        "siccode": "3081"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "78 FERNBROOK RD",
+    "SubmitLat": 40.92361,
+    "SubmitLong": 73.90611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2258,
+    "Y": 2721,
+    "ZIP9": "10705",
+    "ZIPCode": "10705"
+}

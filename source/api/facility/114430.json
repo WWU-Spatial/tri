@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH PLAINFIELD",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "052207743",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24278.858248,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105434714",
+                    "MaxOnsite": "03",
+                    "Pounds": 13011.0,
+                    "Score": 463.209,
+                    "SubmissionNumber": 1819400,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13011.0,
+            "TotalScore": 463.209,
+            "state_score_percentile": 69,
+            "us_score_percentile": 56
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115322341",
+                    "MaxOnsite": "03",
+                    "Pounds": 21517.0,
+                    "Score": 774.001,
+                    "SubmissionNumber": 1893706,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21517.0,
+            "TotalScore": 774.001,
+            "state_score_percentile": 78,
+            "us_score_percentile": 65
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125338715",
+                    "MaxOnsite": "03",
+                    "Pounds": 18575.0,
+                    "Score": 675.051,
+                    "SubmissionNumber": 1983408,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18575.0,
+            "TotalScore": 675.051,
+            "state_score_percentile": 77,
+            "us_score_percentile": 64
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130576794",
+                    "MaxOnsite": "03",
+                    "Pounds": 13707.0,
+                    "Score": 503.214,
+                    "SubmissionNumber": 2038880,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13707.0,
+            "TotalScore": 503.214,
+            "state_score_percentile": 70,
+            "us_score_percentile": 59
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300140488091",
+                    "MaxOnsite": "03",
+                    "Pounds": 13068.0,
+                    "Score": 416.3213,
+                    "SubmissionNumber": 40258,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13068.0,
+            "TotalScore": 416.3213,
+            "state_score_percentile": 75,
+            "us_score_percentile": 61
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150617189",
+                    "MaxOnsite": "03",
+                    "Pounds": 16062.0,
+                    "Score": 511.4107,
+                    "SubmissionNumber": 149363,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16062.0,
+            "TotalScore": 511.4107,
+            "state_score_percentile": 79,
+            "us_score_percentile": 69
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000917401",
+    "FacilityID": "07080NTDST14HAR",
+    "FacilityNumber": 114430,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.570124,
+    "Longitude": -74.39853,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 83,
+            "us_pounds_pct": 68,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 83,
+            "us_score_pct": 46
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 80,
+            "us_score_pct": 44
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 77,
+            "us_pounds_pct": 80,
+            "us_score_pct": 49
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 81,
+            "us_pounds_pct": 77,
+            "us_score_pct": 45
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 82,
+            "us_pounds_pct": 86,
+            "us_score_pct": 51
+        },
+        "naicscode": "331221",
+        "name": "Rolled Steel Shape Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3312",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0127361",
+    "Name": "UNITED STEEL DECK",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002562312",
+    "ParentName": "BOURAS INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GREGORY GEMGNANI",
+    "PublicContactPhone": "9085613484",
+    "RCRANumber": "NJD052207743",
+    "RadialDistance": 2807310,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 54,
+            "us_score_pct": 61
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 61,
+            "us_score_pct": 64
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 53,
+            "us_score_pct": 65
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 58,
+            "us_score_pct": 51
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 60,
+            "us_score_pct": 56
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 75,
+            "us_score_pct": 58
+        },
+        "name": "Miscellaneous structural metal work",
+        "siccode": "3449"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "14 HARMICH RD.",
+    "SubmitLat": 40.95,
+    "SubmitLong": 74.66667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2220,
+    "Y": 2662,
+    "ZIP9": "07080",
+    "ZIPCode": "07080"
+}

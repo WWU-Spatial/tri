@@ -1,0 +1,290 @@
+{
+    "AssignedComID": 7700220,
+    "AssignedReach": "01080205000899",
+    "City": "WEST HARTFORD",
+    "County": "CT,HARTFORD",
+    "DUNS": "185547361",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22855.628083,
+    "DistanceToReach": 240.388989,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110343757",
+                    "MaxOnsite": "03",
+                    "Pounds": 310.0,
+                    "Score": 27.9584,
+                    "SubmissionNumber": 1854007,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 310.0,
+            "TotalScore": 27.9584,
+            "state_score_percentile": 24,
+            "us_score_percentile": 18
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120345210",
+                    "MaxOnsite": "03",
+                    "Pounds": 309.0,
+                    "Score": 27.8822,
+                    "SubmissionNumber": 1926857,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 309.0,
+            "TotalScore": 27.8822,
+            "state_score_percentile": 23,
+            "us_score_percentile": 18
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130355074",
+                    "MaxOnsite": "03",
+                    "Pounds": 309.0,
+                    "Score": 27.8962,
+                    "SubmissionNumber": 2020332,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 309.0,
+            "TotalScore": 27.8962,
+            "state_score_percentile": 27,
+            "us_score_percentile": 19
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140251758",
+                    "MaxOnsite": "03",
+                    "Pounds": 309.0,
+                    "Score": 27.9102,
+                    "SubmissionNumber": 22736,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 309.0,
+            "TotalScore": 27.9102,
+            "state_score_percentile": 28,
+            "us_score_percentile": 22
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1306205064544",
+                    "MaxOnsite": "04",
+                    "Pounds": 305.0,
+                    "Score": 27.617,
+                    "SubmissionNumber": 648089,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 305.0,
+            "TotalScore": 27.617,
+            "state_score_percentile": 46,
+            "us_score_percentile": 35
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307206023475",
+                    "MaxOnsite": "04",
+                    "Pounds": 305.0,
+                    "Score": 27.6284,
+                    "SubmissionNumber": 731158,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 305.0,
+            "TotalScore": 27.6284,
+            "state_score_percentile": 47,
+            "us_score_percentile": 36
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000581629",
+    "FacilityID": "06110BBTTBRAILR",
+    "FacilityNumber": 113352,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.729789,
+    "Longitude": -72.725679,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 33,
+            "us_score_pct": 39
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 31,
+            "us_score_pct": 41
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 47,
+            "us_pounds_pct": 36,
+            "us_score_pct": 46
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 47,
+            "us_pounds_pct": 42,
+            "us_score_pct": 40
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 32,
+            "us_pounds_pct": 56,
+            "us_score_pct": 50
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 33,
+            "us_pounds_pct": 69,
+            "us_score_pct": 48
+        },
+        "naicscode": "332991",
+        "name": "Ball and Roller Bearing Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "ABBOTT BALL CO INC",
+    "NearComID": 7700220,
+    "NearReach": "01080205000899",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.7275,
+    "PreferredLong": 72.72861,
+    "PublicContactName": "MICHAEL CURTIS",
+    "PublicContactPhone": "8602365901",
+    "RCRANumber": "NA",
+    "RadialDistance": 2996634,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 35,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 33,
+            "us_score_pct": 39
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 36,
+            "us_score_pct": 45
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 47,
+            "us_pounds_pct": 42,
+            "us_score_pct": 38
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 32,
+            "us_pounds_pct": 56,
+            "us_score_pct": 50
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 32,
+            "us_pounds_pct": 68,
+            "us_score_pct": 46
+        },
+        "name": "Ball and roller bearings",
+        "siccode": "3562"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "RAILROAD PL PO BOX 330100",
+    "SubmitLat": 41.7275,
+    "SubmitLong": 72.72861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2349,
+    "Y": 2858,
+    "ZIP9": "06133",
+    "ZIPCode": "06133"
+}

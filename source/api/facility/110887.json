@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MILLBURY",
+    "County": "MA,WORCESTER",
+    "DUNS": "001132919",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58073.169267,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300145174355",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.601547,
+                    "SubmissionNumber": 85916,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.601547,
+            "state_score_percentile": 25,
+            "us_score_percentile": 19
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301155131927",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.60642,
+                    "SubmissionNumber": 180400,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.60642,
+            "state_score_percentile": 36,
+            "us_score_percentile": 26
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200119737",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.611294,
+                    "SubmissionNumber": 202751,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.611294,
+            "state_score_percentile": 42,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000308970",
+    "FacilityID": "01527CNTYH32HOW",
+    "FacilityNumber": 110887,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.19631,
+    "Longitude": -71.75821,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 102,
+            "us_pounds_pct": 29,
+            "us_score_pct": 18
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 104,
+            "us_pounds_pct": 32,
+            "us_score_pct": 22
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 106,
+            "us_pounds_pct": 36,
+            "us_score_pct": 29
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UNITED COUNTY INDUSTRIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001132919",
+    "ParentName": "UNITED COUNTY INDUSTRIES",
+    "PreferredLat": 42.19611,
+    "PreferredLong": 71.75806,
+    "PublicContactName": "STEPHEN DERY",
+    "PublicContactPhone": "5088655885",
+    "RCRANumber": "MAD001132919",
+    "RadialDistance": 3091716,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 111,
+            "us_pounds_pct": 27,
+            "us_score_pct": 15
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 110,
+            "us_pounds_pct": 30,
+            "us_score_pct": 18
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 108,
+            "us_pounds_pct": 31,
+            "us_score_pct": 24
+        },
+        "name": "Metal heat treating",
+        "siccode": "3398"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "339",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.8334,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "32 HOWE AVE",
+    "SubmitLat": 42.19611,
+    "SubmitLong": 71.75806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2429,
+    "Y": 2945,
+    "ZIP9": "01527",
+    "ZIPCode": "01527"
+}

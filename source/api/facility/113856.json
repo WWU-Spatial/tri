@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERBURY",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "001451863",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55344.363031,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105083012",
+                    "MaxOnsite": "03",
+                    "Pounds": 12205.0,
+                    "Score": 10.113159999999999,
+                    "SubmissionNumber": 1796128,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12205.0,
+            "TotalScore": 10.113159999999999,
+            "state_score_percentile": 62,
+            "us_score_percentile": 54
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115021204",
+                    "MaxOnsite": "03",
+                    "Pounds": 12111.0,
+                    "Score": 10.04158,
+                    "SubmissionNumber": 1876815,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12111.0,
+            "TotalScore": 10.04158,
+            "state_score_percentile": 63,
+            "us_score_percentile": 55
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110002494587",
+    "FacilityID": "06708PLLDN57BRI",
+    "FacilityNumber": 113856,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.519311,
+    "Longitude": -73.054623,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 54,
+            "us_pounds_pct": 68,
+            "us_score_pct": 29
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 50,
+            "us_pounds_pct": 66,
+            "us_score_pct": 34
+        },
+        "naicscode": "332721",
+        "name": "Precision Turned Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PALLADIN PRECISION PRODUCTS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DEAN PALLADINO",
+    "PublicContactPhone": "2035740246",
+    "RCRANumber": "CTR000003020",
+    "RadialDistance": 2960748,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 42,
+            "us_count": 56,
+            "us_pounds_pct": 69,
+            "us_score_pct": 28
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 50,
+            "us_pounds_pct": 64,
+            "us_score_pct": 22
+        },
+        "name": "Screw machine products",
+        "siccode": "3451"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "345",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "57 BRISTOL ST",
+    "SubmitLat": 41.57361,
+    "SubmitLong": 73.07472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2324,
+    "Y": 2822,
+    "ZIP9": "06708",
+    "ZIPCode": "06708"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": 26441552,
+    "AssignedReach": "21010005000052",
+    "City": "CEIBA",
+    "County": "PR,CEIBA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43584.382582,
+    "DistanceToReach": 833.672233,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1302200792190",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 5.49913,
+                    "SubmissionNumber": 265027,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1302200792214",
+                    "MaxOnsite": "06",
+                    "Pounds": 20.0,
+                    "Score": 8.66818,
+                    "SubmissionNumber": 265028,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 14.16731,
+            "state_score_percentile": 20,
+            "us_score_percentile": 18
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1303201890555",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 5.43242,
+                    "SubmissionNumber": 362663,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1303201890567",
+                    "MaxOnsite": "06",
+                    "Pounds": 20.0,
+                    "Score": 8.55798,
+                    "SubmissionNumber": 362664,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 13.990400000000001,
+            "state_score_percentile": 17,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "72037",
+    "FRSID": "110002315897",
+    "FacilityID": "00735SDDSNRTEPR",
+    "FacilityNumber": 110364,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.242103,
+    "Longitude": -65.639031,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 31,
+            "us_score_pct": 49
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 144,
+            "us_pounds_pct": 30,
+            "us_score_pct": 44
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": 21,
+    "NPDESPermit": "PR0020010",
+    "Name": "U.S. NAVY NAVAL STATION ROOSEVELT ROADS",
+    "NearComID": 26441518,
+    "NearReach": "21010005004776",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": 18.25,
+    "PreferredLong": 65.635,
+    "PublicContactName": "ROBERT NELSON",
+    "PublicContactPhone": "9055424024",
+    "RCRANumber": "PR2170027203",
+    "RadialDistance": 69992,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 134,
+            "us_pounds_pct": 31,
+            "us_score_pct": 47
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 136,
+            "us_pounds_pct": 30,
+            "us_score_pct": 43
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.8102,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.0991,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.2518,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "RT PR3",
+    "SubmitLat": 18.25,
+    "SubmitLong": 65.635,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 80,
+    "Y": 33,
+    "ZIP9": "00735",
+    "ZIPCode": "00735"
+}

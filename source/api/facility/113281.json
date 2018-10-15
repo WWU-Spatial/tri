@@ -1,0 +1,336 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH WINDSOR",
+    "County": "CT,HARTFORD",
+    "DUNS": "028709371",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12615.143559,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105015186",
+                    "MaxOnsite": "03",
+                    "Pounds": 666.0,
+                    "Score": 0.050111,
+                    "SubmissionNumber": 1791598,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 666.0,
+            "TotalScore": 0.050111,
+            "state_score_percentile": 30,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115018780",
+                    "MaxOnsite": "03",
+                    "Pounds": 293.0,
+                    "Score": 0.022133,
+                    "SubmissionNumber": 1876600,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 293.0,
+            "TotalScore": 0.022133,
+            "state_score_percentile": 23,
+            "us_score_percentile": 18
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300145113650",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.154332,
+                    "SubmissionNumber": 82486,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.154332,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301155061930",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.154697,
+                    "SubmissionNumber": 176178,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.154697,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200934875",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.155062,
+                    "SubmissionNumber": 275725,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1302200934964",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.00532,
+                    "SubmissionNumber": 275732,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.1,
+            "TotalScore": 0.160382,
+            "state_score_percentile": 15,
+            "us_score_percentile": 11
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1303201940614",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.11,
+                    "Score": 0.119298,
+                    "SubmissionNumber": 366875,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.11,
+            "TotalScore": 0.119298,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1304202883498",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.02,
+                    "Score": 0.025984,
+                    "SubmissionNumber": 452073,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.02,
+            "TotalScore": 0.025984,
+            "state_score_percentile": 0,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315427",
+    "FacilityID": "06074NTRNT195GO",
+    "FacilityNumber": 113281,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.834015,
+    "Longitude": -72.608331,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 41,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 24,
+            "us_score_pct": 10
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 3,
+            "us_score_pct": 10
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 45,
+            "us_pounds_pct": 2,
+            "us_score_pct": 13
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 40,
+            "us_pounds_pct": 30,
+            "us_score_pct": 12
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 2,
+            "us_score_pct": 11
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 39,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "naicscode": "335999",
+        "name": "All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UTC FUEL CELLS LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001344142",
+    "ParentName": "UNITED TECHNOLOGIES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DAVID BLACK",
+    "PublicContactPhone": "8607272358",
+    "RCRANumber": "CTD010166791",
+    "RadialDistance": 3011358,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 35,
+            "us_score_pct": 11
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 24,
+            "us_pounds_pct": 4,
+            "us_score_pct": 12
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 21,
+            "us_pounds_pct": 38,
+            "us_score_pct": 14
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 19,
+            "us_pounds_pct": 5,
+            "us_score_pct": 10
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 21,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "name": "Electrical industrial appliances, n.e.c.",
+        "siccode": "3629"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "362",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.8392,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1288,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "195 GOVERNORS HWY",
+    "SubmitLat": 41.83389,
+    "SubmitLong": 72.60778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2357,
+    "Y": 2875,
+    "ZIP9": "06074",
+    "ZIPCode": "06074"
+}

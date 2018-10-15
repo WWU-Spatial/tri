@@ -1,0 +1,235 @@
+{
+    "AssignedComID": 19464254,
+    "AssignedReach": "05030104000003",
+    "City": "BEAVER FALLS",
+    "County": "PA,BEAVER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28463.211968,
+    "DistanceToReach": 255.337039,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100009087",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 124.459,
+                    "SubmissionNumber": 1748971,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396100009099",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 17.5593,
+                    "SubmissionNumber": 1748972,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 18.0,
+            "TotalScore": 142.0183,
+            "state_score_percentile": 9,
+            "us_score_percentile": 7
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110207913",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 49.7203,
+                    "SubmissionNumber": 1842039,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1397110207925",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 6.74501,
+                    "SubmissionNumber": 1842040,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 7.0,
+            "TotalScore": 56.46531,
+            "state_score_percentile": 5,
+            "us_score_percentile": 4
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1398120100728",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.34729,
+                    "SubmissionNumber": 1907893,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.34729,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "42007",
+    "FRSID": "110000328716",
+    "FacilityID": "15010LTVST2207T",
+    "FacilityNumber": 117624,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.743937,
+    "Longitude": -80.319956,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 30,
+            "us_count": 83,
+            "us_pounds_pct": 10,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 26,
+            "us_count": 91,
+            "us_pounds_pct": 3,
+            "us_score_pct": 26
+        },
+        "1998": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 89,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "naicscode": "331221",
+        "name": "Rolled Steel Shape Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 44,
+            "us_count": 69,
+            "us_pounds_pct": 10,
+            "us_score_pct": 59
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 44,
+            "us_count": 64,
+            "us_pounds_pct": 5,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 64,
+            "us_pounds_pct": 1,
+            "us_score_pct": 15
+        },
+        "naicscode": "331222",
+        "name": "Steel Wire Drawing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3312",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "KEYSTONE PROFILES LTD",
+    "NearComID": 19464270,
+    "NearReach": "05030104000003",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "KEYSTONE PROFILES LTD",
+    "PreferredLat": 40.74444,
+    "PreferredLong": 80.31944,
+    "PublicContactName": "WENDELL WELSCH",
+    "PublicContactPhone": "7247411500",
+    "RCRANumber": "PAD004391421",
+    "RadialDistance": 2455298,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 62,
+            "us_pounds_pct": 11,
+            "us_score_pct": 30
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 65,
+            "us_pounds_pct": 3,
+            "us_score_pct": 27
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 11,
+            "us_count": 66,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "name": "Cold-rolled steel sheet, strip, and bars",
+        "siccode": "3316"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 1.7678,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.336,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1321,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "220 7TH AVE",
+    "SubmitLat": 40.74444,
+    "SubmitLong": 80.31944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1614,
+    "Y": 2566,
+    "ZIP9": "15010",
+    "ZIPCode": "15010"
+}

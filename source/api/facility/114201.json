@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KEARNY",
+    "County": "NJ,HUDSON",
+    "DUNS": "046957379",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5090.999654,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1398125339883",
+                    "MaxOnsite": "05",
+                    "Pounds": 4714.0,
+                    "Score": 9.712327,
+                    "SubmissionNumber": 1983489,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4714.0,
+            "TotalScore": 9.712327,
+            "state_score_percentile": 55,
+            "us_score_percentile": 43
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1399135109092",
+                    "MaxOnsite": "05",
+                    "Pounds": 4714.0,
+                    "Score": 9.790414,
+                    "SubmissionNumber": 2064542,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135109369",
+                    "MaxOnsite": "03",
+                    "Pounds": 37.0,
+                    "Score": 0.014721000000000001,
+                    "SubmissionNumber": 2064556,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399135109510",
+                    "MaxOnsite": "05",
+                    "Pounds": 33.0,
+                    "Score": 0.01736,
+                    "SubmissionNumber": 2064563,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1399135109611",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 0.009253,
+                    "SubmissionNumber": 2064570,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399135109712",
+                    "MaxOnsite": "02",
+                    "Pounds": 101.0,
+                    "Score": 0.272487,
+                    "SubmissionNumber": 2064577,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399135109801",
+                    "MaxOnsite": "02",
+                    "Pounds": 57.0,
+                    "Score": 0.017961,
+                    "SubmissionNumber": 2064582,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135110791",
+                    "MaxOnsite": "05",
+                    "Pounds": 29.0,
+                    "Score": 0.00905,
+                    "SubmissionNumber": 2064648,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4973.0,
+            "TotalScore": 10.131245999999999,
+            "state_score_percentile": 55,
+            "us_score_percentile": 45
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1300140228077",
+                    "MaxOnsite": "05",
+                    "Pounds": 4714.0,
+                    "Score": 9.868511,
+                    "SubmissionNumber": 20478,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4714.0,
+            "TotalScore": 9.868511,
+            "state_score_percentile": 58,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110000865369",
+    "FacilityID": "07032CLMBT49CEN",
+    "FacilityNumber": 114201,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.720034,
+    "Longitude": -74.112644,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "T",
+    "MultiplePrimarySIC": 1,
+    "NAICS1": {
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 90,
+            "state_score_pct": 63,
+            "us_count": 360,
+            "us_pounds_pct": 75,
+            "us_score_pct": 51
+        },
+        "1999": {
+            "state_count": 11,
+            "state_pounds_pct": 90,
+            "state_score_pct": 63,
+            "us_count": 360,
+            "us_pounds_pct": 77,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 62,
+            "us_count": 382,
+            "us_pounds_pct": 77,
+            "us_score_pct": 57
+        },
+        "naicscode": "424690",
+        "name": "Other Chemical and Allied Products Merchant Wholesalers"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4246",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0025631",
+    "Name": "COLUMBIA TERMINALS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "NJD986644805",
+    "RadialDistance": 2836561,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 83,
+            "state_score_pct": 58,
+            "us_count": 373,
+            "us_pounds_pct": 72,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 83,
+            "state_score_pct": 58,
+            "us_count": 363,
+            "us_pounds_pct": 74,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 44,
+            "us_count": 386,
+            "us_pounds_pct": 74,
+            "us_score_pct": 55
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "516",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.083,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.4559,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "49 CENTRAL AVE",
+    "SubmitLat": 40.72222,
+    "SubmitLong": 74.11111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2244,
+    "Y": 2689,
+    "ZIP9": "07032",
+    "ZIPCode": "07032"
+}

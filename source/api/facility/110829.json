@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LEOMINSTER",
+    "County": "MA,WORCESTER",
+    "DUNS": "052926235",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 62155.925858,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155176011",
+                    "MaxOnsite": "02",
+                    "Pounds": 197.0,
+                    "Score": 239.988,
+                    "SubmissionNumber": 183205,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 197.0,
+            "TotalScore": 239.988,
+            "state_score_percentile": 34,
+            "us_score_percentile": 24
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303202001285",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 5.25203,
+                    "SubmissionNumber": 371466,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 5.25203,
+            "state_score_percentile": 25,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110002013071",
+    "FacilityID": "01453PLSTC196IN",
+    "FacilityNumber": 110829,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.553388,
+    "Longitude": -71.747871,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 85,
+            "us_count": 528,
+            "us_pounds_pct": 7,
+            "us_score_pct": 89
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 506,
+            "us_pounds_pct": 1,
+            "us_score_pct": 62
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PLASTICAN INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.55746,
+    "PreferredLong": 71.75136,
+    "PublicContactName": "DEANNA P. ZARRELLA",
+    "PublicContactPhone": "9785374911",
+    "RCRANumber": "MAR000008946",
+    "RadialDistance": 3115956,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 668,
+            "us_pounds_pct": 8,
+            "us_score_pct": 89
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 641,
+            "us_pounds_pct": 2,
+            "us_score_pct": 63
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "196 INDUSTRIAL RD",
+    "SubmitLat": 42.55,
+    "SubmitLong": 71.23333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2417,
+    "Y": 2993,
+    "ZIP9": "01453",
+    "ZIPCode": "01453"
+}

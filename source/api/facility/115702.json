@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRONX",
+    "County": "NY,BRONX",
+    "DUNS": "052801990",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23810.203545,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105292128",
+                    "MaxOnsite": "03",
+                    "Pounds": 19400.0,
+                    "Score": 671991.0,
+                    "SubmissionNumber": 1809537,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19400.0,
+            "TotalScore": 671991.0,
+            "state_score_percentile": 73,
+            "us_score_percentile": 63
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1397115248320",
+                    "MaxOnsite": "03",
+                    "Pounds": 25667.0,
+                    "Score": 895898.0,
+                    "SubmissionNumber": 1889014,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25667.0,
+            "TotalScore": 895898.0,
+            "state_score_percentile": 78,
+            "us_score_percentile": 68
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1398120512456",
+                    "MaxOnsite": "03",
+                    "Pounds": 27900.0,
+                    "Score": 981260.0,
+                    "SubmissionNumber": 1939792,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 27900.0,
+            "TotalScore": 981260.0,
+            "state_score_percentile": 79,
+            "us_score_percentile": 69
+        }
+    },
+    "FIPS": "36005",
+    "FRSID": "110000322678",
+    "FacilityID": "10451SSNDS385GE",
+    "FacilityNumber": 115702,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.817,
+    "Longitude": -73.93001,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 76,
+            "us_score_pct": 98
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 80,
+            "us_score_pct": 98
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 86,
+            "us_score_pct": 98
+        },
+        "naicscode": "332618",
+        "name": "Other Fabricated Wire Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3326",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "S & S IND. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.8165,
+    "PreferredLong": 73.9306,
+    "PublicContactName": "JAVIER MONTALVO",
+    "PublicContactPhone": "7185851333",
+    "RCRANumber": "NYD052801990",
+    "RadialDistance": 2855308,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 80,
+            "us_score_pct": 97
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 85,
+            "us_score_pct": 98
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 86,
+            "us_score_pct": 98
+        },
+        "name": "Miscellaneous fabricated wire products",
+        "siccode": "3496"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "385 GERARD AVE.",
+    "SubmitLat": 45.30833,
+    "SubmitLong": 75.92917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2259,
+    "Y": 2706,
+    "ZIP9": "104515407",
+    "ZIPCode": "10451"
+}

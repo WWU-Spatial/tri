@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BEACON FALLS",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "058736039",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65145.350118,
+    "DistanceToReach": 160.280624,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100063205",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 35179.5,
+                    "SubmissionNumber": 1753597,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100063217",
+                    "MaxOnsite": "05",
+                    "Pounds": 24.0,
+                    "Score": 2.84653,
+                    "SubmissionNumber": 1753598,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396100063231",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 624.295,
+                    "SubmissionNumber": 1753600,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 47.0,
+            "TotalScore": 35806.64153,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110363607",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 391.415,
+                    "SubmissionNumber": 1855748,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110363619",
+                    "MaxOnsite": "05",
+                    "Pounds": 20.0,
+                    "Score": 2.37947,
+                    "SubmissionNumber": 1855749,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110363621",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 35290.5,
+                    "SubmissionNumber": 1855750,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 40.0,
+            "TotalScore": 35684.29447,
+            "state_score_percentile": 10,
+            "us_score_percentile": 10
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398125170973",
+                    "MaxOnsite": "05",
+                    "Pounds": 20.0,
+                    "Score": 2.38684,
+                    "SubmissionNumber": 1975387,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398125171037",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 35401.4,
+                    "SubmissionNumber": 1975391,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398125171102",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 392.646,
+                    "SubmissionNumber": 1975397,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 40.0,
+            "TotalScore": 35796.43284,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316060",
+    "FacilityID": "06403DLMNF158PI",
+    "FacilityNumber": 113478,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.427496,
+    "Longitude": -73.080573,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 25,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 20,
+            "us_score_pct": 100
+        },
+        "naicscode": "339993",
+        "name": "Fastener, Button, Needle, and Pin Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "IDEAL PRODUCTS LLC",
+    "NearComID": 7716886,
+    "NearReach": "01100005001652",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SMSG LLC",
+    "PreferredLat": 41.425,
+    "PreferredLong": 73.08333,
+    "PublicContactName": "MIKE DESANTIS",
+    "PublicContactPhone": "2038884528",
+    "RCRANumber": "CTD001168137",
+    "RadialDistance": 2952890,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 16,
+            "us_score_pct": 84
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 19,
+            "us_score_pct": 86
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 16,
+            "us_score_pct": 83
+        },
+        "name": "Miscellaneous fabricated wire products",
+        "siccode": "3496"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "158 PINESBRIDGE RD",
+    "SubmitLat": 41.425,
+    "SubmitLong": 73.08333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2324,
+    "Y": 2809,
+    "ZIP9": "06403",
+    "ZIPCode": "06403"
+}

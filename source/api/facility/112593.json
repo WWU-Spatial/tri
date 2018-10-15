@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CONCORD",
+    "County": "NH,MERRIMACK",
+    "DUNS": "092059732",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 109599.138679,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399135222216",
+                    "MaxOnsite": "01",
+                    "Pounds": 12487.0,
+                    "Score": 0.126704,
+                    "SubmissionNumber": 2071139,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135222230",
+                    "MaxOnsite": "01",
+                    "Pounds": 13814.0,
+                    "Score": 6.72716,
+                    "SubmissionNumber": 2071141,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 26301.0,
+            "TotalScore": 6.853864,
+            "state_score_percentile": 74,
+            "us_score_percentile": 70
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300145036315",
+                    "MaxOnsite": "01",
+                    "Pounds": 10858.0,
+                    "Score": 5.35968,
+                    "SubmissionNumber": 78251,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10858.0,
+            "TotalScore": 5.35968,
+            "state_score_percentile": 60,
+            "us_score_percentile": 58
+        }
+    },
+    "FIPS": "33013",
+    "FRSID": "110001979823",
+    "FacilityID": "03301BYCHG14WHI",
+    "FacilityNumber": 112593,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.288526,
+    "Longitude": -71.581499,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 63,
+            "us_score_pct": 78
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 41,
+            "us_score_pct": 76
+        },
+        "naicscode": "321918",
+        "name": "Other Millwork (including Flooring)"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3219",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BOYCE HIGHLANDS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.2074,
+    "PreferredLong": 71.54622,
+    "PublicContactName": "STEVEN MALINSKY",
+    "PublicContactPhone": "6037531042",
+    "RCRANumber": "NHD500002647",
+    "RadialDistance": 3176097,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 46,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 21,
+            "us_score_pct": 40
+        },
+        "name": "Millwork",
+        "siccode": "2431"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "243",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4694,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.2108,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.3995,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NH",
+    "Street": "14 WHITNEY RD",
+    "SubmitLat": 43.28861,
+    "SubmitLong": 71.58389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2408,
+    "Y": 3095,
+    "ZIP9": "03301",
+    "ZIPCode": "03301"
+}

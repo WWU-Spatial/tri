@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTBURY",
+    "County": "NY,NASSAU",
+    "DUNS": "807086728",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 51694.360302,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1304207126665",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 1.23704,
+                    "SubmissionNumber": 474782,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1304207126677",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 20.0212,
+                    "SubmissionNumber": 474783,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 21.25824,
+            "state_score_percentile": 13,
+            "us_score_percentile": 11
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1305207126689",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 1.23711,
+                    "SubmissionNumber": 566057,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1305207126691",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 20.0224,
+                    "SubmissionNumber": 566058,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 21.259510000000002,
+            "state_score_percentile": 14,
+            "us_score_percentile": 12
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306207126703",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 1.23717,
+                    "SubmissionNumber": 656133,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1306207126715",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 40.0473,
+                    "SubmissionNumber": 656134,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 41.28447,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307207126739",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 1.23724,
+                    "SubmissionNumber": 743816,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1307207126741",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 40.0498,
+                    "SubmissionNumber": 743817,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 41.28704,
+            "state_score_percentile": 17,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000900758",
+    "FacilityID": "11590ZMNC 717MA",
+    "FacilityNumber": 116097,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.75729,
+    "Longitude": -73.55778,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 78,
+            "us_pounds_pct": 23,
+            "us_score_pct": 57
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 78,
+            "us_pounds_pct": 23,
+            "us_score_pct": 56
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 82,
+            "us_pounds_pct": 29,
+            "us_score_pct": 64
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 29,
+            "us_score_pct": 61
+        },
+        "naicscode": "336413",
+        "name": "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TRIUMPH STRUCTURES LONG ISLAND LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "TRIUMPH GROUP INC",
+    "PreferredLat": 40.757,
+    "PreferredLong": 73.55839,
+    "PublicContactName": "US COMPLIANCE CORPORATION",
+    "PublicContactPhone": "9522523000",
+    "RCRANumber": "NYD987004835",
+    "RadialDistance": 2876379,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 17,
+            "us_score_pct": 56
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 16,
+            "us_score_pct": 55
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 81,
+            "us_pounds_pct": 21,
+            "us_score_pct": 60
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 79,
+            "us_pounds_pct": 25,
+            "us_score_pct": 60
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "717 MAIN ST",
+    "SubmitLat": 40.75028,
+    "SubmitLong": 73.585,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2298,
+    "Y": 2707,
+    "ZIP9": "11590",
+    "ZIPCode": "11590"
+}

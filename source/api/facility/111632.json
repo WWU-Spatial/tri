@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERVILLE",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "018933614",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4947.820449,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1398120641360",
+                    "MaxOnsite": "05",
+                    "Pounds": 194.0,
+                    "Score": 1525.44,
+                    "SubmissionNumber": 1949282,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 194.0,
+            "TotalScore": 1525.44,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1399130407099",
+                    "MaxOnsite": "05",
+                    "Pounds": 173.0,
+                    "Score": 1356.102,
+                    "SubmissionNumber": 2024753,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 173.0,
+            "TotalScore": 1356.102,
+            "state_score_percentile": 15,
+            "us_score_percentile": 14
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1300145122685",
+                    "MaxOnsite": "03",
+                    "Pounds": 61.0,
+                    "Score": 465.54699999999997,
+                    "SubmissionNumber": 82961,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 61.0,
+            "TotalScore": 465.54699999999997,
+            "state_score_percentile": 18,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000310994",
+    "FacilityID": "02145JHNJD50TUF",
+    "FacilityNumber": 111632,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.382895,
+    "Longitude": -71.089302,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 63,
+            "us_count": 360,
+            "us_pounds_pct": 14,
+            "us_score_pct": 90
+        },
+        "1999": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 72,
+            "us_count": 360,
+            "us_pounds_pct": 15,
+            "us_score_pct": 91
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 63,
+            "us_count": 382,
+            "us_pounds_pct": 13,
+            "us_score_pct": 87
+        },
+        "naicscode": "424690",
+        "name": "Other Chemical and Allied Products Merchant Wholesalers"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4246",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JOHN DANAIS CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN J. DANAIS",
+    "PublicContactPhone": "6036259697",
+    "RCRANumber": "NA",
+    "RadialDistance": 3148438,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 70,
+            "us_count": 373,
+            "us_pounds_pct": 11,
+            "us_score_pct": 89
+        },
+        "1999": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 80,
+            "us_count": 363,
+            "us_pounds_pct": 11,
+            "us_score_pct": 91
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 70,
+            "us_count": 386,
+            "us_pounds_pct": 10,
+            "us_score_pct": 87
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "516",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.6576,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "50 TUFTS ST.",
+    "SubmitLat": 42.4175,
+    "SubmitLong": 71.08806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2487,
+    "Y": 2987,
+    "ZIP9": "02145",
+    "ZIPCode": "02145"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTON",
+    "County": "MA,BRISTOL",
+    "DUNS": "120998661",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 29957.986753,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1306204655587",
+                    "MaxOnsite": "02",
+                    "Pounds": 1388.0,
+                    "Score": 0.041153999999999996,
+                    "SubmissionNumber": 612504,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1388.0,
+            "TotalScore": 0.041153999999999996,
+            "state_score_percentile": 63,
+            "us_score_percentile": 47
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1310208406951",
+                    "MaxOnsite": "02",
+                    "Pounds": 3032.48,
+                    "Score": 0.088258,
+                    "SubmissionNumber": 943311,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3032.48,
+            "TotalScore": 0.088258,
+            "state_score_percentile": 75,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110024330099",
+    "FacilityID": "02766CPSTC111SW",
+    "FacilityNumber": 111984,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.948155,
+    "Longitude": -71.214936,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 50,
+            "us_score_pct": 12
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 25
+        },
+        "naicscode": "327113",
+        "name": "Porcelain Electrical Supply Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3271",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CPS TECHNOLOGIES CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GRANT BENNETT",
+    "PublicContactPhone": "5082220614",
+    "RCRANumber": "MA5000000372",
+    "RadialDistance": 3112150,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 7
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 87,
+            "us_score_pct": 12
+        },
+        "name": "Porcelain electrical supplies",
+        "siccode": "3264"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "326",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5578,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.2781,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "111 S WORCESTER ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2491,
+    "Y": 2926,
+    "ZIP9": "02766",
+    "ZIPCode": "02766"
+}

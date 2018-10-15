@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STRONG",
+    "County": "ME,FRANKLIN",
+    "DUNS": "001097526",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 128694.907139,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150092916",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 0.211722,
+                    "SubmissionNumber": 102611,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.211722,
+            "state_score_percentile": 12,
+            "us_score_percentile": 9
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200094807",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.1,
+                    "Score": 0.21468,
+                    "SubmissionNumber": 200475,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 5.1,
+            "TotalScore": 0.21468,
+            "state_score_percentile": 21,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "23007",
+    "FRSID": "110030570415",
+    "FacilityID": "04983FRSTRDEPOT",
+    "FacilityNumber": 113032,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.806008,
+    "Longitude": -70.218478,
+    "Method": "INTERPOLATION-SATELLITE",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 99,
+            "us_pounds_pct": 5,
+            "us_score_pct": 19
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 6,
+            "us_score_pct": 17
+        },
+        "naicscode": "339999",
+        "name": "All Other Miscellaneous Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "FORSTER INC. STRONG PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "151776634",
+    "ParentName": "DIAMOND BRANDS INC",
+    "PreferredLat": 44.80611,
+    "PreferredLong": 70.21972,
+    "PublicContactName": "STEVE VEILLEUX",
+    "PublicContactPhone": "2076455411",
+    "RCRANumber": "",
+    "RadialDistance": 3365559,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 7,
+            "us_score_pct": 30
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 5,
+            "us_score_pct": 28
+        },
+        "name": "Wood products, n.e.c.",
+        "siccode": "2499"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "249",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 1.1021,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 19.1913,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.753,
+    "StackVelocitySource": "Fac Spec",
+    "State": "ME",
+    "Street": "30 NORTON HILL RD",
+    "SubmitLat": 44.80611,
+    "SubmitLong": 70.21861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2483,
+    "Y": 3332,
+    "ZIP9": "049830188",
+    "ZIPCode": "04983"
+}

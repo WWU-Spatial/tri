@@ -1,0 +1,181 @@
+{
+    "AssignedComID": 6739752,
+    "AssignedReach": "01070002000187",
+    "City": "NORTHFIELD",
+    "County": "NH,MERRIMACK",
+    "DUNS": "001080159",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 104743.269706,
+    "DistanceToReach": 134.852911,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100267222",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 6.8015,
+                    "SubmissionNumber": 1771195,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396100267234",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 4286.88,
+                    "SubmissionNumber": 1771196,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 4293.6815,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110446491",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 6.82849,
+                    "SubmissionNumber": 1862782,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 6.82849,
+            "state_score_percentile": 21,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "33013",
+    "FRSID": "110007681641",
+    "FacilityID": "03276WYMNGGRANI",
+    "FacilityNumber": 112592,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.441744,
+    "Longitude": -71.585353,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 38,
+            "us_score_pct": 90
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 80,
+            "us_pounds_pct": 20,
+            "us_score_pct": 15
+        },
+        "naicscode": "331524",
+        "name": "Aluminum Foundries (except Die-Casting)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 1,
+    "NPDESPermit": "NH0001023",
+    "Name": "WYMAN-GORDON INVESTMENT CASTINGS INC.",
+    "NearComID": 6739752,
+    "NearReach": "01070002000187",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001211796",
+    "ParentName": "WYMAN-GORDON CO",
+    "PreferredLat": 43.44167,
+    "PreferredLong": 71.58528,
+    "PublicContactName": "STEVE PROULX",
+    "PublicContactPhone": "6032864301",
+    "RCRANumber": "NHD001080159",
+    "RadialDistance": 3186269,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 37,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 100,
+            "us_pounds_pct": 21,
+            "us_score_pct": 14
+        },
+        "name": "Aluminum foundries",
+        "siccode": "3365"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 109,
+            "us_pounds_pct": 38,
+            "us_score_pct": 84
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 108,
+            "us_pounds_pct": 24,
+            "us_score_pct": 14
+        },
+        "name": "Copper foundries",
+        "siccode": "3366"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "336",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.2964,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "GRANITE ST.",
+    "SubmitLat": 43.44167,
+    "SubmitLong": 71.58528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2402,
+    "Y": 3115,
+    "ZIP9": "03276",
+    "ZIPCode": "03276"
+}

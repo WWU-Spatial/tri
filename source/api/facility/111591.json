@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BOSTON",
+    "County": "MA,SUFFOLK",
+    "DUNS": "049441512",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 8446.726365,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1300145111629",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 250.895,
+                    "SubmissionNumber": 82376,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 250.895,
+            "state_score_percentile": 25,
+            "us_score_percentile": 19
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1301155163001",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 251.89,
+                    "SubmissionNumber": 182354,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 251.89,
+            "state_score_percentile": 36,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110000310869",
+    "FacilityID": "02134CPTLC24DEN",
+    "FacilityNumber": 111591,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.355096,
+    "Longitude": -71.134604,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 62,
+            "us_count": 142,
+            "us_pounds_pct": 24,
+            "us_score_pct": 76
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 80,
+            "us_count": 202,
+            "us_pounds_pct": 53,
+            "us_score_pct": 85
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CAPITOL CIRCUITS CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.355,
+    "PreferredLong": 71.12611,
+    "PublicContactName": "PAUL EMELLO",
+    "PublicContactPhone": "6177872030",
+    "RCRANumber": "MAD049441512",
+    "RadialDistance": 3143617,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 57,
+            "us_count": 150,
+            "us_pounds_pct": 24,
+            "us_score_pct": 77
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 77,
+            "us_count": 236,
+            "us_pounds_pct": 57,
+            "us_score_pct": 87
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "24 DENBY RD",
+    "SubmitLat": 42.355,
+    "SubmitLong": 71.12611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2484,
+    "Y": 2982,
+    "ZIP9": "021341688",
+    "ZIPCode": "02134"
+}

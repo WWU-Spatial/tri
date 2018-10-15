@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 6250042,
+    "AssignedReach": "02030103000584",
+    "City": "CLIFTON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "780251620",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16126.708215,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135093882",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.074012,
+                    "SubmissionNumber": 2063767,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.074012,
+            "state_score_percentile": 18,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300145121745",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.074745,
+                    "SubmissionNumber": 82921,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.074745,
+            "state_score_percentile": 22,
+            "us_score_percentile": 19
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301155151842",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.074893,
+                    "SubmissionNumber": 181657,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.074893,
+            "state_score_percentile": 28,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110014504811",
+    "FacilityID": "07012SCHRCONEST",
+    "FacilityNumber": 114130,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.84483,
+    "Longitude": -74.15471,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 23,
+            "state_pounds_pct": 17,
+            "state_score_pct": 8,
+            "us_count": 455,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 13,
+            "state_score_pct": 9,
+            "us_count": 470,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2001": {
+            "state_count": 22,
+            "state_pounds_pct": 13,
+            "state_score_pct": 9,
+            "us_count": 468,
+            "us_pounds_pct": 5,
+            "us_score_pct": 4
+        },
+        "naicscode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LUBRIZOL ADVANCED MATERIALS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004172565",
+    "ParentName": "THE LUBRIZOL CORP",
+    "PreferredLat": 40.84452,
+    "PreferredLong": 74.15499,
+    "PublicContactName": "NICK PAOLAZZI",
+    "PublicContactPhone": "9734052513",
+    "RCRANumber": "NJD002190643",
+    "RadialDistance": 2842185,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 38,
+            "state_pounds_pct": 14,
+            "state_score_pct": 2,
+            "us_count": 623,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2000": {
+            "state_count": 36,
+            "state_pounds_pct": 13,
+            "state_score_pct": 2,
+            "us_count": 637,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2001": {
+            "state_count": 34,
+            "state_pounds_pct": 8,
+            "state_score_pct": 2,
+            "us_count": 642,
+            "us_pounds_pct": 5,
+            "us_score_pct": 4
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.0363,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.655,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.3645,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "1 INDUSTRIAL W",
+    "SubmitLat": 40.86583,
+    "SubmitLong": 74.15528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2236,
+    "Y": 2705,
+    "ZIP9": "07012",
+    "ZIPCode": "07012"
+}

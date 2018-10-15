@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUDSON",
+    "County": "NH,HILLSBOROUGH",
+    "DUNS": "868742115",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52526.056445,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150096903",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.2,
+                    "Score": 1.05843,
+                    "SubmissionNumber": 102967,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.2,
+            "TotalScore": 1.05843,
+            "state_score_percentile": 19,
+            "us_score_percentile": 5
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200195648",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.73,
+                    "Score": 0.5996900000000001,
+                    "SubmissionNumber": 209747,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1302200195651",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.024468,
+                    "SubmissionNumber": 209748,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.73,
+            "TotalScore": 0.6241580000000001,
+            "state_score_percentile": 30,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "33011",
+    "FRSID": "110004089502",
+    "FacilityID": "03051HDSNC5EXEC",
+    "FacilityNumber": 112431,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.740006,
+    "Longitude": -71.427167,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 175,
+            "us_pounds_pct": 5,
+            "us_score_pct": 29
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 164,
+            "us_pounds_pct": 11,
+            "us_score_pct": 24
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HUDSON COLOR CONCENTRATES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001099209",
+    "ParentName": "L&A MOLDING CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LLOYD WATT",
+    "PublicContactPhone": "9785373538",
+    "RCRANumber": "NHD040242471",
+    "RadialDistance": 3149372,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 196,
+            "us_pounds_pct": 4,
+            "us_score_pct": 29
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 184,
+            "us_pounds_pct": 10,
+            "us_score_pct": 25
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6333,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.4052,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8561,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NH",
+    "Street": "5 EXECUTIVE DR.",
+    "SubmitLat": 42.74,
+    "SubmitLong": 71.42806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2442,
+    "Y": 3026,
+    "ZIP9": "03051",
+    "ZIPCode": "03051"
+}

@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KEARNY",
+    "County": "NJ,HUDSON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6201.553381,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1399130078571",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 722.837,
+                    "SubmissionNumber": 1997044,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1332214",
+                    "Chemical": "Asbestos (friable)",
+                    "ChemicalNumber": 41,
+                    "DCN": "1399130078583",
+                    "MaxOnsite": "04",
+                    "Pounds": 175.0,
+                    "Score": 11018100.0,
+                    "SubmissionNumber": 1997045,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 177.0,
+            "TotalScore": 11018822.837,
+            "state_score_percentile": 16,
+            "us_score_percentile": 14
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140273196",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 728.9359999999999,
+                    "SubmissionNumber": 24650,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1332214",
+                    "Chemical": "Asbestos (friable)",
+                    "ChemicalNumber": 41,
+                    "DCN": "1300140273208",
+                    "MaxOnsite": "04",
+                    "Pounds": 232.0,
+                    "Score": 14728300.0,
+                    "SubmissionNumber": 24651,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 234.0,
+            "TotalScore": 14729028.936,
+            "state_score_percentile": 21,
+            "us_score_percentile": 17
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150148106",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.5,
+                    "Score": 547.447,
+                    "SubmissionNumber": 107538,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1332214",
+                    "Chemical": "Asbestos (friable)",
+                    "ChemicalNumber": 41,
+                    "DCN": "1301150148157",
+                    "MaxOnsite": "04",
+                    "Pounds": 269.0,
+                    "Score": 17096800.0,
+                    "SubmissionNumber": 107543,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 270.5,
+            "TotalScore": 17097347.447,
+            "state_score_percentile": 31,
+            "us_score_percentile": 28
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200843175",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.9299999999999999,
+                    "Score": 339.4398,
+                    "SubmissionNumber": 269058,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.9299999999999999,
+            "TotalScore": 339.4398,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110017770036",
+    "FacilityID": "07032GRDNR80JAC",
+    "FacilityNumber": 114207,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.737026,
+    "Longitude": -74.111904,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 29,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 61,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 72,
+            "us_score_pct": 98
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 79,
+            "us_pounds_pct": 20,
+            "us_score_pct": 72
+        },
+        "naicscode": "324122",
+        "name": "Asphalt Shingle and Coating Materials Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GAC KEARNY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "041495490",
+    "ParentName": "GARDNER INDUSTRIES INC",
+    "PreferredLat": 40.73611,
+    "PreferredLong": 74.1125,
+    "PublicContactName": "MICHAEL THRASHER",
+    "PublicContactPhone": "8132482101",
+    "RCRANumber": "NJD000692129",
+    "RadialDistance": 2837755,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 29,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 70,
+            "us_pounds_pct": 64,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 75,
+            "us_score_pct": 98
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 77,
+            "us_pounds_pct": 20,
+            "us_score_pct": 70
+        },
+        "name": "Asphalt felts and coatings",
+        "siccode": "2952"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5484,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.0861,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.5263,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "80 JACOBUS AVE",
+    "SubmitLat": 40.73611,
+    "SubmitLong": 74.1125,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2243,
+    "Y": 2691,
+    "ZIP9": "07032",
+    "ZIPCode": "07032"
+}

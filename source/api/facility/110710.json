@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ADAMS",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57117.245558,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396105006047",
+                    "MaxOnsite": "03",
+                    "Pounds": 9700.0,
+                    "Score": 0.45598,
+                    "SubmissionNumber": 1791007,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105006050",
+                    "MaxOnsite": "02",
+                    "Pounds": 6500.0,
+                    "Score": 0.180029,
+                    "SubmissionNumber": 1791008,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16200.0,
+            "TotalScore": 0.636009,
+            "state_score_percentile": 71,
+            "us_score_percentile": 60
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397115015339",
+                    "MaxOnsite": "03",
+                    "Pounds": 8700.0,
+                    "Score": 0.404963,
+                    "SubmissionNumber": 1876326,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115015341",
+                    "MaxOnsite": "02",
+                    "Pounds": 5800.0,
+                    "Score": 0.159071,
+                    "SubmissionNumber": 1876327,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14500.0,
+            "TotalScore": 0.564034,
+            "state_score_percentile": 72,
+            "us_score_percentile": 58
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398125041626",
+                    "MaxOnsite": "03",
+                    "Pounds": 4900.0,
+                    "Score": 0.225824,
+                    "SubmissionNumber": 1969523,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4900.0,
+            "TotalScore": 0.225824,
+            "state_score_percentile": 53,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110040720618",
+    "FacilityID": "01220LDSTNGROVE",
+    "FacilityNumber": 110710,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.610217,
+    "Longitude": -73.127152,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 23,
+            "us_pounds_pct": 47,
+            "us_score_pct": 30
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 23,
+            "us_pounds_pct": 43,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 23,
+            "us_pounds_pct": 26,
+            "us_score_pct": 21
+        },
+        "naicscode": "322299",
+        "name": "All Other Converted Paper Product Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "OLD STONE MILL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "057248478",
+    "ParentName": "IMPERIAL HOME DECOR GROUP (US) LLC",
+    "PreferredLat": 42.6103,
+    "PreferredLong": 73.1276,
+    "PublicContactName": "KENNETH BUCKLEY",
+    "PublicContactPhone": "4134731015",
+    "RCRANumber": "MAD002082907",
+    "RadialDistance": 3030613,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 33,
+            "us_pounds_pct": 45,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 43,
+            "us_score_pct": 26
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 26,
+            "us_score_pct": 17
+        },
+        "name": "Converted paper and paperboard products, n.e.c.",
+        "siccode": "2679"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6309,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4394,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "2A GROVE ST.",
+    "SubmitLat": 42.61,
+    "SubmitLong": 73.1275,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2281,
+    "Y": 2966,
+    "ZIP9": "012202161",
+    "ZIPCode": "01220"
+}

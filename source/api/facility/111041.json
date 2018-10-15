@@ -1,0 +1,336 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FRAMINGHAM",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "127547961",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32551.058655,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201948371",
+                    "MaxOnsite": "04",
+                    "Pounds": 6200.0,
+                    "Score": 0.518506,
+                    "SubmissionNumber": 367487,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303202062826",
+                    "MaxOnsite": "04",
+                    "Pounds": 4500.0,
+                    "Score": 0.380003,
+                    "SubmissionNumber": 375020,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10700.0,
+            "TotalScore": 0.898509,
+            "state_score_percentile": 80,
+            "us_score_percentile": 64
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304202646156",
+                    "MaxOnsite": "04",
+                    "Pounds": 6012.0,
+                    "Score": 0.502625,
+                    "SubmissionNumber": 430637,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6012.0,
+            "TotalScore": 0.502625,
+            "state_score_percentile": 77,
+            "us_score_percentile": 59
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203452305",
+                    "MaxOnsite": "04",
+                    "Pounds": 6803.0,
+                    "Score": 0.569014,
+                    "SubmissionNumber": 503316,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6803.0,
+            "TotalScore": 0.569014,
+            "state_score_percentile": 82,
+            "us_score_percentile": 61
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204401145",
+                    "MaxOnsite": "05",
+                    "Pounds": 4840.0,
+                    "Score": 0.41378400000000004,
+                    "SubmissionNumber": 589091,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4840.0,
+            "TotalScore": 0.41378400000000004,
+            "state_score_percentile": 76,
+            "us_score_percentile": 58
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205493784",
+                    "MaxOnsite": "04",
+                    "Pounds": 9081.0,
+                    "Score": 0.771854,
+                    "SubmissionNumber": 686255,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9081.0,
+            "TotalScore": 0.771854,
+            "state_score_percentile": 86,
+            "us_score_percentile": 67
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206488076",
+                    "MaxOnsite": "04",
+                    "Pounds": 8960.0,
+                    "Score": 0.7567379999999999,
+                    "SubmissionNumber": 772680,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8960.0,
+            "TotalScore": 0.7567379999999999,
+            "state_score_percentile": 86,
+            "us_score_percentile": 68
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207238003",
+                    "MaxOnsite": "05",
+                    "Pounds": 2295.0,
+                    "Score": 0.195181,
+                    "SubmissionNumber": 839051,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2295.0,
+            "TotalScore": 0.195181,
+            "state_score_percentile": 73,
+            "us_score_percentile": 57
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110015325012",
+    "FacilityID": "01702MCCDC1CLIN",
+    "FacilityNumber": 111041,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.279999,
+    "Longitude": -71.411328,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 45,
+            "us_score_pct": 45
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 35,
+            "us_score_pct": 40
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 47,
+            "us_score_pct": 37
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 35,
+            "us_score_pct": 37
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 44,
+            "us_score_pct": 37
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 47,
+            "us_score_pct": 39
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 33,
+            "us_score_pct": 27
+        },
+        "naicscode": "323111",
+        "name": "Commercial Gravure Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MCC DEC TECH LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "121298590",
+    "ParentName": "MULTI COLOR CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "LANCE GEORGE",
+    "PublicContactPhone": "5133455301",
+    "RCRANumber": "MAR000509653",
+    "RadialDistance": 3120275,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 43,
+            "us_score_pct": 42
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 36,
+            "us_score_pct": 39
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 45,
+            "us_score_pct": 36
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 34,
+            "us_score_pct": 36
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 43,
+            "us_score_pct": 36
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 46,
+            "us_score_pct": 37
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 35,
+            "us_score_pct": 30
+        },
+        "name": "Commercial printing, gravure",
+        "siccode": "2754"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1498,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "100 CLINTON ST",
+    "SubmitLat": 42.28028,
+    "SubmitLong": 71.41,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2460,
+    "Y": 2965,
+    "ZIP9": "01702",
+    "ZIPCode": "01702"
+}

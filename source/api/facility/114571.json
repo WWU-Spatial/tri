@@ -1,0 +1,640 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NUTLEY",
+    "County": "NJ,ESSEX",
+    "DUNS": "041511254",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 12201.776986,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1396100212947",
+                    "MaxOnsite": "04",
+                    "Pounds": 343.0,
+                    "Score": 1.36102,
+                    "SubmissionNumber": 1766603,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1396100212950",
+                    "MaxOnsite": "04",
+                    "Pounds": 168.0,
+                    "Score": 57.8685,
+                    "SubmissionNumber": 1766604,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100212962",
+                    "MaxOnsite": "05",
+                    "Pounds": 188.0,
+                    "Score": 13.95055,
+                    "SubmissionNumber": 1766605,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100212974",
+                    "MaxOnsite": "04",
+                    "Pounds": 1679.0,
+                    "Score": 0.46253099999999997,
+                    "SubmissionNumber": 1766606,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396100212986",
+                    "MaxOnsite": "03",
+                    "Pounds": 145.0,
+                    "Score": 0.068619,
+                    "SubmissionNumber": 1766607,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1396100212998",
+                    "MaxOnsite": "03",
+                    "Pounds": 40.0,
+                    "Score": 197.5292,
+                    "SubmissionNumber": 1766608,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100213002",
+                    "MaxOnsite": "03",
+                    "Pounds": 191.0,
+                    "Score": 0.0545,
+                    "SubmissionNumber": 1766609,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1396100213014",
+                    "MaxOnsite": "03",
+                    "Pounds": 24.0,
+                    "Score": 5.5525,
+                    "SubmissionNumber": 1766610,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100213026",
+                    "MaxOnsite": "04",
+                    "Pounds": 665.0,
+                    "Score": 8.83897,
+                    "SubmissionNumber": 1766611,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3443.0,
+            "TotalScore": 285.68639,
+            "state_score_percentile": 50,
+            "us_score_percentile": 39
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397115267635",
+                    "MaxOnsite": "04",
+                    "Pounds": 343.0,
+                    "Score": 1.375332,
+                    "SubmissionNumber": 1890111,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115267647",
+                    "MaxOnsite": "03",
+                    "Pounds": 216.0,
+                    "Score": 0.06314499999999999,
+                    "SubmissionNumber": 1890112,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115267650",
+                    "MaxOnsite": "05",
+                    "Pounds": 242.0,
+                    "Score": 18.44554,
+                    "SubmissionNumber": 1890113,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397115267662",
+                    "MaxOnsite": "03",
+                    "Pounds": 146.0,
+                    "Score": 0.069852,
+                    "SubmissionNumber": 1890114,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115267674",
+                    "MaxOnsite": "04",
+                    "Pounds": 691.0,
+                    "Score": 9.32141,
+                    "SubmissionNumber": 1890115,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1397115267686",
+                    "MaxOnsite": "03",
+                    "Pounds": 42.0,
+                    "Score": 9.92201,
+                    "SubmissionNumber": 1890116,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115267698",
+                    "MaxOnsite": "04",
+                    "Pounds": 1814.0,
+                    "Score": 0.5108509999999999,
+                    "SubmissionNumber": 1890117,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1397115267700",
+                    "MaxOnsite": "04",
+                    "Pounds": 174.0,
+                    "Score": 60.831199999999995,
+                    "SubmissionNumber": 1890118,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3668.0,
+            "TotalScore": 100.53934,
+            "state_score_percentile": 52,
+            "us_score_percentile": 39
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125227912",
+                    "MaxOnsite": "04",
+                    "Pounds": 1885.0,
+                    "Score": 0.5380769999999999,
+                    "SubmissionNumber": 1977920,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125227924",
+                    "MaxOnsite": "04",
+                    "Pounds": 715.0,
+                    "Score": 9.74084,
+                    "SubmissionNumber": 1977921,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1398125227936",
+                    "MaxOnsite": "03",
+                    "Pounds": 50.0,
+                    "Score": 11.949359999999999,
+                    "SubmissionNumber": 1977922,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125227948",
+                    "MaxOnsite": "03",
+                    "Pounds": 233.0,
+                    "Score": 0.068911,
+                    "SubmissionNumber": 1977923,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398125227951",
+                    "MaxOnsite": "03",
+                    "Pounds": 147.0,
+                    "Score": 0.070823,
+                    "SubmissionNumber": 1977924,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1398125227963",
+                    "MaxOnsite": "04",
+                    "Pounds": 353.0,
+                    "Score": 1.426813,
+                    "SubmissionNumber": 1977925,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1398125228015",
+                    "MaxOnsite": "04",
+                    "Pounds": 186.0,
+                    "Score": 65.6482,
+                    "SubmissionNumber": 1977927,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125228027",
+                    "MaxOnsite": "01",
+                    "Pounds": 273.0,
+                    "Score": 21.09139,
+                    "SubmissionNumber": 1977928,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 3842.0,
+            "TotalScore": 110.53441400000001,
+            "state_score_percentile": 52,
+            "us_score_percentile": 40
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399135088185",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 188.92860000000002,
+                    "SubmissionNumber": 2063419,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1399135088324",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.111983,
+                    "SubmissionNumber": 2063426,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399135088401",
+                    "MaxOnsite": "01",
+                    "Pounds": 500.0,
+                    "Score": 37.4911,
+                    "SubmissionNumber": 2063432,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1399135088502",
+                    "MaxOnsite": "04",
+                    "Pounds": 1706.0,
+                    "Score": 0.481445,
+                    "SubmissionNumber": 2063438,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399135088716",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.248134,
+                    "SubmissionNumber": 2063450,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399135088944",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.14916200000000002,
+                    "SubmissionNumber": 2063462,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399135089151",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 62.566649999999996,
+                    "SubmissionNumber": 2063475,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135089252",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 13.86425,
+                    "SubmissionNumber": 2063482,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5461.0,
+            "TotalScore": 305.84132400000004,
+            "state_score_percentile": 57,
+            "us_score_percentile": 46
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1300145009496",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.1275440000000003,
+                    "SubmissionNumber": 76527,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1300145009522",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 190.3218,
+                    "SubmissionNumber": 76530,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300145009573",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 37.7667,
+                    "SubmissionNumber": 76532,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300145009623",
+                    "MaxOnsite": "04",
+                    "Pounds": 1656.0,
+                    "Score": 0.471279,
+                    "SubmissionNumber": 76536,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300145009662",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.150262,
+                    "SubmissionNumber": 76538,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1300145009686",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 63.01498,
+                    "SubmissionNumber": 76539,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300145009748",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 13.96711,
+                    "SubmissionNumber": 76543,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4911.0,
+            "TotalScore": 307.819675,
+            "state_score_percentile": 59,
+            "us_score_percentile": 48
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000319593",
+    "FacilityID": "07110TCHNC27EAS",
+    "FacilityNumber": 114571,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.808275,
+    "Longitude": -74.142869,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 50,
+            "state_score_pct": 71,
+            "us_count": 634,
+            "us_pounds_pct": 42,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 27,
+            "state_pounds_pct": 51,
+            "state_score_pct": 51,
+            "us_count": 600,
+            "us_pounds_pct": 40,
+            "us_score_pct": 66
+        },
+        "1998": {
+            "state_count": 27,
+            "state_pounds_pct": 55,
+            "state_score_pct": 59,
+            "us_count": 608,
+            "us_pounds_pct": 44,
+            "us_score_pct": 67
+        },
+        "1999": {
+            "state_count": 26,
+            "state_pounds_pct": 65,
+            "state_score_pct": 69,
+            "us_count": 596,
+            "us_pounds_pct": 51,
+            "us_score_pct": 78
+        },
+        "2000": {
+            "state_count": 25,
+            "state_pounds_pct": 68,
+            "state_score_pct": 68,
+            "us_count": 573,
+            "us_pounds_pct": 50,
+            "us_score_pct": 78
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "TECHNICAL COATINGS CO.  NUTLEY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001210715",
+    "ParentName": "BENJAMIN MOORE & CO",
+    "PreferredLat": 40.8075,
+    "PreferredLong": 74.14333,
+    "PublicContactName": "KIP CLEVERLY",
+    "PublicContactPhone": "9732522513",
+    "RCRANumber": "NJD041511254",
+    "RadialDistance": 2840498,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 30,
+            "state_pounds_pct": 46,
+            "state_score_pct": 70,
+            "us_count": 613,
+            "us_pounds_pct": 42,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 29,
+            "state_pounds_pct": 51,
+            "state_score_pct": 51,
+            "us_count": 579,
+            "us_pounds_pct": 40,
+            "us_score_pct": 66
+        },
+        "1998": {
+            "state_count": 30,
+            "state_pounds_pct": 53,
+            "state_score_pct": 53,
+            "us_count": 580,
+            "us_pounds_pct": 44,
+            "us_score_pct": 67
+        },
+        "1999": {
+            "state_count": 29,
+            "state_pounds_pct": 65,
+            "state_score_pct": 62,
+            "us_count": 563,
+            "us_pounds_pct": 50,
+            "us_score_pct": 78
+        },
+        "2000": {
+            "state_count": 27,
+            "state_pounds_pct": 59,
+            "state_score_pct": 59,
+            "us_count": 539,
+            "us_pounds_pct": 49,
+            "us_score_pct": 78
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.0279,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.3645,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "57 E. CENTRE ST.",
+    "SubmitLat": 40.8075,
+    "SubmitLong": 74.14333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2700,
+    "ZIP9": "071103409",
+    "ZIPCode": "07110"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAWRENCE",
+    "County": "MA,ESSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39123.209315,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105013445",
+                    "MaxOnsite": "03",
+                    "Pounds": 7971.0,
+                    "Score": 17769.6,
+                    "SubmissionNumber": 1791451,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7971.0,
+            "TotalScore": 17769.6,
+            "state_score_percentile": 55,
+            "us_score_percentile": 47
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115274262",
+                    "MaxOnsite": "03",
+                    "Pounds": 7498.0,
+                    "Score": 16883.9,
+                    "SubmissionNumber": 1890434,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7498.0,
+            "TotalScore": 16883.9,
+            "state_score_percentile": 54,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000495982",
+    "FacilityID": "01840DVNCD9MILL",
+    "FacilityNumber": 111218,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.707084,
+    "Longitude": -71.15667,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 48,
+            "state_score_pct": 72,
+            "us_count": 561,
+            "us_pounds_pct": 68,
+            "us_score_pct": 69
+        },
+        "1997": {
+            "state_count": 26,
+            "state_pounds_pct": 53,
+            "state_score_pct": 73,
+            "us_count": 546,
+            "us_pounds_pct": 70,
+            "us_score_pct": 69
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ADTEC ELECTROPLATING INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.7075,
+    "PreferredLong": 71.15417,
+    "PublicContactName": "ERIC SIDERI JR",
+    "PublicContactPhone": "9786832082",
+    "RCRANumber": "MAD980669212",
+    "RadialDistance": 3165011,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 46,
+            "state_score_pct": 67,
+            "us_count": 575,
+            "us_pounds_pct": 68,
+            "us_score_pct": 70
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 50,
+            "state_score_pct": 67,
+            "us_count": 565,
+            "us_pounds_pct": 70,
+            "us_score_pct": 69
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "9 MILL ST",
+    "SubmitLat": 42.70722,
+    "SubmitLong": 71.15639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2469,
+    "Y": 3028,
+    "ZIP9": "01840",
+    "ZIPCode": "01840"
+}

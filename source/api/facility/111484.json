@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH EASTON",
+    "County": "MA,BRISTOL",
+    "DUNS": "181701277",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 35574.947216,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1308207127869",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.32781,
+                    "SubmissionNumber": 828061,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.32781,
+            "state_score_percentile": 30,
+            "us_score_percentile": 18
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1309207535410",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.328011,
+                    "SubmissionNumber": 866430,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1309207535422",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 79.3971,
+                    "SubmissionNumber": 866431,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 79.725111,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1310208569158",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.328213,
+                    "SubmissionNumber": 958654,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1310208569160",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 79.4439,
+                    "SubmissionNumber": 958655,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 79.772113,
+            "state_score_percentile": 29,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110037142838",
+    "FacilityID": "02038RSNTC28NRF",
+    "FacilityNumber": 111484,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.048528,
+    "Longitude": -71.07718,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 13,
+            "state_pounds_pct": 11,
+            "state_score_pct": 23,
+            "us_count": 155,
+            "us_pounds_pct": 8,
+            "us_score_pct": 26
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 151,
+            "us_pounds_pct": 9,
+            "us_score_pct": 68
+        },
+        "2010": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 75,
+            "us_count": 146,
+            "us_pounds_pct": 8,
+            "us_score_pct": 65
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RESIN TECHNOLOGY GROUP LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "051441731",
+    "ParentName": "HENKEL CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT SYLVIA",
+    "PublicContactPhone": "5082308070",
+    "RCRANumber": "NA",
+    "RadialDistance": 3127856,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 10,
+            "state_score_pct": 28,
+            "us_count": 160,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 15,
+            "state_score_pct": 69,
+            "us_count": 156,
+            "us_pounds_pct": 10,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 76,
+            "us_count": 147,
+            "us_pounds_pct": 9,
+            "us_score_pct": 67
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "28 NORFOLK AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2501,
+    "Y": 2943,
+    "ZIP9": "02375",
+    "ZIPCode": "02375"
+}

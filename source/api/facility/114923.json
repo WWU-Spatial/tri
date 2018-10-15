@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "COLTS NECK",
+    "County": "NJ,MONMOUTH",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 48385.10846,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396100349846",
+                    "MaxOnsite": "03",
+                    "Pounds": 1538.0,
+                    "Score": 1122.31,
+                    "SubmissionNumber": 1777920,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1538.0,
+            "TotalScore": 1122.31,
+            "state_score_percentile": 41,
+            "us_score_percentile": 32
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205921859",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00014,
+                    "Score": 0.000102,
+                    "SubmissionNumber": 722744,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.00014,
+            "TotalScore": 0.000102,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206836862",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0001,
+                    "Score": 7.3e-05,
+                    "SubmissionNumber": 805304,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0001,
+            "TotalScore": 7.3e-05,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "34025",
+    "FRSID": "110000836604",
+    "FacilityID": "07722NVLWP201HW",
+    "FacilityNumber": 114923,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.26458,
+    "Longitude": -74.16291,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 58,
+            "us_pounds_pct": 25,
+            "us_score_pct": 74
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 163,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 173,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0023540",
+    "Name": "US DOD NAVAL WEAPONS STATION EARLE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL BRADY",
+    "PublicContactPhone": "7328662171",
+    "RCRANumber": "NJ1210090014",
+    "RadialDistance": 2802762,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 55,
+            "us_pounds_pct": 29,
+            "us_score_pct": 78
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 154,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 167,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.8102,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.0991,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.2518,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "201 HWY 34 BLDG C-2",
+    "SubmitLat": 40.45,
+    "SubmitLong": 74.05,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2253,
+    "Y": 2626,
+    "ZIP9": "077225024",
+    "ZIPCode": "07722"
+}

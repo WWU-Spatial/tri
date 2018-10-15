@@ -1,0 +1,218 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ERVING",
+    "County": "MA,FRANKLIN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 78243.842189,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304203036912",
+                    "MaxOnsite": "02",
+                    "Pounds": 526.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 464909,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304203037128",
+                    "MaxOnsite": "03",
+                    "Pounds": 48843.0,
+                    "Score": 192385.0,
+                    "SubmissionNumber": 464927,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 49369.0,
+            "TotalScore": 192385.0,
+            "state_score_percentile": 96,
+            "us_score_percentile": 84
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206545877",
+                    "MaxOnsite": "01",
+                    "Pounds": 499.8,
+                    "Score": 0.0,
+                    "SubmissionNumber": 778179,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206545889",
+                    "MaxOnsite": "02",
+                    "Pounds": 5125.0,
+                    "Score": 20202.9,
+                    "SubmissionNumber": 778180,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 5624.8,
+            "TotalScore": 20202.9,
+            "state_score_percentile": 82,
+            "us_score_percentile": 63
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207852272",
+                    "MaxOnsite": "01",
+                    "Pounds": 485.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 896106,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207852308",
+                    "MaxOnsite": "02",
+                    "Pounds": 5125.0,
+                    "Score": 20207.0,
+                    "SubmissionNumber": 896109,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 5610.0,
+            "TotalScore": 20207.0,
+            "state_score_percentile": 83,
+            "us_score_percentile": 66
+        }
+    },
+    "FIPS": "25011",
+    "FRSID": "110000308612",
+    "FacilityID": "01344RVNGPROUTE",
+    "FacilityNumber": 110741,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.60008,
+    "Longitude": -72.37838,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 100,
+            "us_count": 147,
+            "us_pounds_pct": 40,
+            "us_score_pct": 98
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 23,
+            "us_score_pct": 89
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 129,
+            "us_pounds_pct": 24,
+            "us_score_pct": 89
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ERVING PAPER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.6,
+    "PreferredLong": 72.38333,
+    "PublicContactName": "JULIE HUBBARD",
+    "PublicContactPhone": "5084222700",
+    "RCRANumber": "MAD001117779",
+    "RadialDistance": 3077992,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 100,
+            "us_count": 169,
+            "us_pounds_pct": 36,
+            "us_score_pct": 98
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 163,
+            "us_pounds_pct": 22,
+            "us_score_pct": 91
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 153,
+            "us_pounds_pct": 25,
+            "us_score_pct": 91
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.2192,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 27.432,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.954,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "97 E MAIN ST",
+    "SubmitLat": 42.59833,
+    "SubmitLong": 72.38694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2354,
+    "Y": 2983,
+    "ZIP9": "01344",
+    "ZIPCode": "01344"
+}

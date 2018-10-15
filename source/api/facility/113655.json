@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTHINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "001149939",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 42356.376213,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105024083",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 64.3816,
+                    "SubmissionNumber": 1792246,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 64.3816,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397115013601",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 64.742,
+                    "SubmissionNumber": 1876171,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 64.742,
+            "state_score_percentile": 18,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110012795626",
+    "FacilityID": "06489NTRNT384OL",
+    "FacilityNumber": 113655,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.582087,
+    "Longitude": -72.882538,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "naicscode": "333514",
+        "name": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KABA HIGH SECURITY LOCKS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.5647,
+    "PreferredLong": 72.93144,
+    "PublicContactName": "TOM BOSWELL",
+    "PublicContactPhone": "2524463321",
+    "RCRANumber": "CTD001149939",
+    "RadialDistance": 2976375,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 57,
+            "us_pounds_pct": 21,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 52,
+            "us_pounds_pct": 25,
+            "us_score_pct": 34
+        },
+        "name": "Hardware, n.e.c.",
+        "siccode": "3429"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 45,
+            "us_count": 163,
+            "us_pounds_pct": 19,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 40,
+            "us_count": 153,
+            "us_pounds_pct": 19,
+            "us_score_pct": 39
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "342",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "384 OLD TURNPIKE RD",
+    "SubmitLat": 41.58444,
+    "SubmitLong": 72.88333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2339,
+    "Y": 2834,
+    "ZIP9": "06489",
+    "ZIPCode": "06489"
+}

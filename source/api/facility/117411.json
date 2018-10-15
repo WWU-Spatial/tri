@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "045433307",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 89801.725176,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105077008",
+                    "MaxOnsite": "04",
+                    "Pounds": 4333.0,
+                    "Score": 7656.32,
+                    "SubmissionNumber": 1795840,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4333.0,
+            "TotalScore": 7656.32,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115257750",
+                    "MaxOnsite": "04",
+                    "Pounds": 1259.0,
+                    "Score": 2221.28,
+                    "SubmissionNumber": 1889494,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1259.0,
+            "TotalScore": 2221.28,
+            "state_score_percentile": 38,
+            "us_score_percentile": 30
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398125014821",
+                    "MaxOnsite": "04",
+                    "Pounds": 5136.0,
+                    "Score": 9047.88,
+                    "SubmissionNumber": 1968244,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5136.0,
+            "TotalScore": 9047.88,
+            "state_score_percentile": 54,
+            "us_score_percentile": 44
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110010435065",
+    "FacilityID": "14611NSSTM677BU",
+    "FacilityNumber": 117411,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.149942,
+    "Longitude": -77.667823,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 48,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 44,
+            "us_score_pct": 64
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 58,
+            "us_score_pct": 67
+        },
+        "naicscode": "332721",
+        "name": "Precision Turned Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LEXINGTON MACHINING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "045433307",
+    "ParentName": "LEXINGTON PRECISION CORP",
+    "PreferredLat": 43.1493,
+    "PreferredLong": 77.6685,
+    "PublicContactName": "ANDREW J. RANIEWICZ",
+    "PublicContactPhone": "7162350880",
+    "RCRANumber": "NYD990690216",
+    "RadialDistance": 2801318,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 48,
+            "us_score_pct": 69
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 50,
+            "us_pounds_pct": 42,
+            "us_score_pct": 62
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 50,
+            "us_score_pct": 65
+        },
+        "name": "Screw machine products",
+        "siccode": "3451"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "345",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 3.048,
+    "StackHeightSource": "New York",
+    "StackVelocity": 9.0,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "677 BUFFALO RD.",
+    "SubmitLat": 43.14917,
+    "SubmitLong": 77.66861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1820,
+    "Y": 2941,
+    "ZIP9": "14611",
+    "ZIPCode": "14611"
+}

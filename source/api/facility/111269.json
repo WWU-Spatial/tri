@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LOWELL",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "001155761",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 37183.784447,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105256301",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 3.60735,
+                    "SubmissionNumber": 1807400,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 3.60735,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110217647",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 3.61629,
+                    "SubmissionNumber": 1842896,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 3.61629,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120378563",
+                    "MaxOnsite": "05",
+                    "Pounds": 1.0,
+                    "Score": 1.81261,
+                    "SubmissionNumber": 1929487,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.81261,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000309988",
+    "FacilityID": "01852DXTRL160TA",
+    "FacilityNumber": 111269,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.6283,
+    "Longitude": -71.31652,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 97,
+            "us_pounds_pct": 2,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 2,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 37,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "naicscode": "331492",
+        "name": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "DEXTER ELECTRONIC MATERIALS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001155761",
+    "ParentName": "DEXTER CORP",
+    "PreferredLat": 42.62667,
+    "PreferredLong": 71.31694,
+    "PublicContactName": "BEVERLY FISCHER",
+    "PublicContactPhone": "6036450021",
+    "RCRANumber": "MAD019435502",
+    "RadialDistance": 3149297,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 198,
+            "us_pounds_pct": 2,
+            "us_score_pct": 12
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 192,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 37,
+            "state_score_pct": 75,
+            "us_count": 195,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "name": "Secondary smelting and refining of nonferrous metals",
+        "siccode": "3341"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "334",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 12.192,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "160 TANNER ST.",
+    "SubmitLat": 42.62667,
+    "SubmitLong": 71.31694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2457,
+    "Y": 3014,
+    "ZIP9": "01852",
+    "ZIPCode": "01852"
+}

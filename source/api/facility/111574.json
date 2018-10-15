@@ -1,0 +1,251 @@
+{
+    "AssignedComID": 5867747,
+    "AssignedReach": "01090001000162",
+    "City": "SOUTH BOSTON",
+    "County": "MA,SUFFOLK",
+    "DUNS": "152480786",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3225.130086,
+    "DistanceToReach": 4278.945102,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1398125320554",
+                    "MaxOnsite": "06",
+                    "Pounds": 251.0,
+                    "Score": 0.131575,
+                    "SubmissionNumber": 1982370,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1398125320580",
+                    "MaxOnsite": "06",
+                    "Pounds": 251.0,
+                    "Score": 14.51214,
+                    "SubmissionNumber": 1982371,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1398125320616",
+                    "MaxOnsite": "06",
+                    "Pounds": 30.0,
+                    "Score": 3716.8520000000003,
+                    "SubmissionNumber": 1982372,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125320871",
+                    "MaxOnsite": "05",
+                    "Pounds": 46.0,
+                    "Score": 0.0033510000000000002,
+                    "SubmissionNumber": 1982380,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 578.0,
+            "TotalScore": 3731.4990660000003,
+            "state_score_percentile": 28,
+            "us_score_percentile": 23
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1399130464377",
+                    "MaxOnsite": "06",
+                    "Pounds": 591.0,
+                    "Score": 0.307981,
+                    "SubmissionNumber": 2029532,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1399130464389",
+                    "MaxOnsite": "06",
+                    "Pounds": 104.0,
+                    "Score": 5.9888520000000005,
+                    "SubmissionNumber": 2029533,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1399130464391",
+                    "MaxOnsite": "06",
+                    "Pounds": 431.0,
+                    "Score": 53831.967,
+                    "SubmissionNumber": 2029534,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1126.0,
+            "TotalScore": 53838.263833,
+            "state_score_percentile": 37,
+            "us_score_percentile": 30
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1300140387376",
+                    "MaxOnsite": "06",
+                    "Pounds": 20.0,
+                    "Score": 0.011852999999999999,
+                    "SubmissionNumber": 33084,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1300140387388",
+                    "MaxOnsite": "06",
+                    "Pounds": 22.0,
+                    "Score": 1.291083,
+                    "SubmissionNumber": 33085,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 42.0,
+            "TotalScore": 1.3029359999999999,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110001948126",
+    "FacilityID": "02127CSTLL900EF",
+    "FacilityNumber": 111574,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.33829,
+    "Longitude": -71.02724,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 63,
+            "us_count": 524,
+            "us_pounds_pct": 8,
+            "us_score_pct": 76
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 91,
+            "us_count": 492,
+            "us_pounds_pct": 13,
+            "us_score_pct": 96
+        },
+        "2000": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 503,
+            "us_pounds_pct": 3,
+            "us_score_pct": 5
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": 1,
+    "NPDESPermit": "MA0004405",
+    "Name": "COASTAL OIL OF NEW ENGLAND",
+    "NearComID": 5868233,
+    "NearReach": "01090001000111",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RICHARD VOGEL",
+    "PublicContactPhone": "9543554212",
+    "RCRANumber": "MAD000844696",
+    "RadialDistance": 3149724,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 63,
+            "us_count": 531,
+            "us_pounds_pct": 8,
+            "us_score_pct": 77
+        },
+        "1999": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 91,
+            "us_count": 502,
+            "us_pounds_pct": 13,
+            "us_score_pct": 97
+        },
+        "2000": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 513,
+            "us_pounds_pct": 4,
+            "us_score_pct": 6
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5299,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.5094,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.1856,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "900 E. FIRST ST.",
+    "SubmitLat": 42.33889,
+    "SubmitLong": 71.02722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2495,
+    "Y": 2983,
+    "ZIP9": "02127",
+    "ZIPCode": "02127"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERVILLE",
+    "County": "NJ,SOMERSET",
+    "DUNS": "180048803",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 47047.643061,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105354474",
+                    "MaxOnsite": "03",
+                    "Pounds": 64.0,
+                    "Score": 0.690717,
+                    "SubmissionNumber": 1814029,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 64.0,
+            "TotalScore": 0.690717,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1309207228495",
+                    "MaxOnsite": "03",
+                    "Pounds": 11.0,
+                    "Score": 0.132001,
+                    "SubmissionNumber": 838191,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 11.0,
+            "TotalScore": 0.132001,
+            "state_score_percentile": 21,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110000322491",
+    "FacilityID": "08876RMTCT130IN",
+    "FacilityNumber": 115644,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.5983,
+    "Longitude": -74.708707,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 25,
+            "us_pounds_pct": 12,
+            "us_score_pct": 24
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 24,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "naicscode": "325620",
+        "name": "Toilet Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AGILEX FLAVORS & FRAGRANCES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KEVIN GILBERT",
+    "PublicContactPhone": "9087070707",
+    "RCRANumber": "NJR000018788",
+    "RadialDistance": 2788555,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 55,
+            "us_count": 37,
+            "us_pounds_pct": 29,
+            "us_score_pct": 43
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 27,
+            "us_pounds_pct": 25,
+            "us_score_pct": 22
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "130 INDUSTRIAL PKWY",
+    "SubmitLat": 40.59944,
+    "SubmitLong": 74.71028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2187,
+    "Y": 2658,
+    "ZIP9": "08876",
+    "ZIPCode": "08876"
+}

@@ -1,0 +1,301 @@
+{
+    "AssignedComID": 6186216,
+    "AssignedReach": "02020006000156",
+    "City": "RENSSELAER",
+    "County": "NY,RENSSELAER",
+    "DUNS": "069819899",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14360.491489,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120345917",
+                    "MaxOnsite": "03",
+                    "Pounds": 3479.0,
+                    "Score": 5.671007,
+                    "SubmissionNumber": 1926915,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3479.0,
+            "TotalScore": 5.671007,
+            "state_score_percentile": 49,
+            "us_score_percentile": 39
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130239357",
+                    "MaxOnsite": "03",
+                    "Pounds": 2478.0,
+                    "Score": 4.063308,
+                    "SubmissionNumber": 2010623,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2478.0,
+            "TotalScore": 4.063308,
+            "state_score_percentile": 44,
+            "us_score_percentile": 37
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300145196616",
+                    "MaxOnsite": "03",
+                    "Pounds": 1408.0,
+                    "Score": 2.2995520000000003,
+                    "SubmissionNumber": 87326,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1408.0,
+            "TotalScore": 2.2995520000000003,
+            "state_score_percentile": 40,
+            "us_score_percentile": 35
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150124737",
+                    "MaxOnsite": "03",
+                    "Pounds": 1029.0,
+                    "Score": 1.691123,
+                    "SubmissionNumber": 105424,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1029.0,
+            "TotalScore": 1.691123,
+            "state_score_percentile": 43,
+            "us_score_percentile": 39
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200241444",
+                    "MaxOnsite": "03",
+                    "Pounds": 1436.0,
+                    "Score": 2.354545,
+                    "SubmissionNumber": 213978,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1436.0,
+            "TotalScore": 2.354545,
+            "state_score_percentile": 47,
+            "us_score_percentile": 43
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "95636",
+                    "Chemical": "1,2,4-Trimethylbenzene",
+                    "ChemicalNumber": 575,
+                    "DCN": "1303201172273",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.9,
+                    "Score": 0.048892,
+                    "SubmissionNumber": 297582,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1303201172285",
+                    "MaxOnsite": "04",
+                    "Pounds": 63.0,
+                    "Score": 0.014501,
+                    "SubmissionNumber": 297583,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 64.9,
+            "TotalScore": 0.063393,
+            "state_score_percentile": 27,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "36083",
+    "FRSID": "110000324364",
+    "FacilityID": "12144RNSSL39RIV",
+    "FacilityNumber": 116339,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.626354,
+    "Longitude": -73.748859,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 559,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 31,
+            "state_pounds_pct": 6,
+            "state_score_pct": 6,
+            "us_count": 562,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 35,
+            "state_pounds_pct": 20,
+            "state_score_pct": 2,
+            "us_count": 623,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "2001": {
+            "state_count": 32,
+            "state_pounds_pct": 21,
+            "state_score_pct": 6,
+            "us_count": 630,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "2002": {
+            "state_count": 34,
+            "state_pounds_pct": 23,
+            "state_score_pct": 5,
+            "us_count": 624,
+            "us_pounds_pct": 11,
+            "us_score_pct": 7
+        },
+        "2003": {
+            "state_count": 36,
+            "state_pounds_pct": 19,
+            "state_score_pct": 5,
+            "us_count": 633,
+            "us_pounds_pct": 6,
+            "us_score_pct": 1
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0242586",
+    "Name": "RENSSELAER COGEN",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "626399216",
+    "ParentName": "FULTON COGENERATION ASSOCIATES LP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ALLEN J PITCHER",
+    "PublicContactPhone": "5184651657",
+    "RCRANumber": "NY0000540849",
+    "RadialDistance": 2992444,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 555,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "1999": {
+            "state_count": 29,
+            "state_pounds_pct": 13,
+            "state_score_pct": 10,
+            "us_count": 558,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 34,
+            "state_pounds_pct": 23,
+            "state_score_pct": 8,
+            "us_count": 631,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "2001": {
+            "state_count": 31,
+            "state_pounds_pct": 25,
+            "state_score_pct": 9,
+            "us_count": 638,
+            "us_pounds_pct": 14,
+            "us_score_pct": 7
+        },
+        "2002": {
+            "state_count": 32,
+            "state_pounds_pct": 28,
+            "state_score_pct": 9,
+            "us_count": 623,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "2003": {
+            "state_count": 35,
+            "state_pounds_pct": 20,
+            "state_score_pct": 5,
+            "us_count": 632,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5719,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.9649,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 17.0586,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "39 RIVERSIDE AVE",
+    "SubmitLat": 42.62528,
+    "SubmitLong": 73.75,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2219,
+    "Y": 2954,
+    "ZIP9": "12144",
+    "ZIPCode": "12144"
+}

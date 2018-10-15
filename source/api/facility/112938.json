@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAMPDEN",
+    "County": "ME,PENOBSCOT",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 170093.402853,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201975164",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.17,
+                    "Score": 0.054453,
+                    "SubmissionNumber": 369501,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.17,
+            "TotalScore": 0.054453,
+            "state_score_percentile": 9,
+            "us_score_percentile": 2
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202787659",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.21,
+                    "Score": 0.067326,
+                    "SubmissionNumber": 443478,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.21,
+            "TotalScore": 0.067326,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "23019",
+    "FRSID": "110020051995",
+    "FacilityID": "04444SNRSMCLDBR",
+    "FacilityNumber": 112938,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.76073,
+    "Longitude": -68.84758,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 124,
+            "us_pounds_pct": 51,
+            "us_score_pct": 42
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 219,
+            "us_pounds_pct": 66,
+            "us_score_pct": 57
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SUNRISE MATERIALS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006917504",
+    "ParentName": "THE LANE CONSTRUCTION CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "EDWARD D. NASON",
+    "PublicContactPhone": "2078662194",
+    "RCRANumber": "NA",
+    "RadialDistance": 3449297,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 130,
+            "us_pounds_pct": 50,
+            "us_score_pct": 40
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 234,
+            "us_pounds_pct": 64,
+            "us_score_pct": 55
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SIC2": {
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "",
+        "siccode": "1611"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "COLDBROOK RD",
+    "SubmitLat": 44.88333,
+    "SubmitLong": 68.68333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2613,
+    "Y": 3362,
+    "ZIP9": "04444",
+    "ZIPCode": "04444"
+}

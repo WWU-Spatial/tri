@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTBROOK",
+    "County": "ME,CUMBERLAND",
+    "DUNS": "018970517",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 3421.233258,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207845532",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.6,
+                    "Score": 58.71892,
+                    "SubmissionNumber": 895461,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.6,
+            "TotalScore": 58.71892,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208777894",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.5,
+                    "Score": 48.61069,
+                    "SubmissionNumber": 978561,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 48.61069,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "23005",
+    "FRSID": "110001682929",
+    "FacilityID": "0409WPKNDS58MAI",
+    "FacilityNumber": 112842,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.67797,
+    "Longitude": -70.33479,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 220,
+            "us_pounds_pct": 30,
+            "us_score_pct": 44
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 219,
+            "us_pounds_pct": 27,
+            "us_score_pct": 42
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "PIKE INDUSTRIES INC - WESTBROOK",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018970517",
+    "ParentName": "PIKE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN KORIS",
+    "PublicContactPhone": "2078542561",
+    "RCRANumber": "MED047366588",
+    "RadialDistance": 3282522,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 30,
+            "us_score_pct": 45
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 211,
+            "us_pounds_pct": 28,
+            "us_score_pct": 44
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "58 MAIN ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2513,
+    "Y": 3179,
+    "ZIP9": "04092",
+    "ZIPCode": "04092"
+}

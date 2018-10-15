@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 93462.190123,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1305208921003",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.13,
+                    "Score": 0.111285,
+                    "SubmissionNumber": 566899,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.13,
+            "TotalScore": 0.111285,
+            "state_score_percentile": 10,
+            "us_score_percentile": 8
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1306208920999",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.34,
+                    "Score": 0.130842,
+                    "SubmissionNumber": 657427,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.34,
+            "TotalScore": 0.130842,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307208921015",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.41,
+                    "Score": 0.136495,
+                    "SubmissionNumber": 745713,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.41,
+            "TotalScore": 0.136495,
+            "state_score_percentile": 11,
+            "us_score_percentile": 9
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308208921027",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.51,
+                    "Score": 0.14491,
+                    "SubmissionNumber": 831491,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.51,
+            "TotalScore": 0.14491,
+            "state_score_percentile": 15,
+            "us_score_percentile": 10
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309208921039",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.52,
+                    "Score": 0.144595,
+                    "SubmissionNumber": 911317,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.52,
+            "TotalScore": 0.144595,
+            "state_score_percentile": 16,
+            "us_score_percentile": 10
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208921041",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.09,
+                    "Score": 0.102776,
+                    "SubmissionNumber": 990534,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.09,
+            "TotalScore": 0.102776,
+            "state_score_percentile": 15,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110002094938",
+    "FacilityID": "14608PSTTM45FUL",
+    "FacilityNumber": 117398,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.169334,
+    "Longitude": -77.628353,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 11,
+            "us_score_pct": 22
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 9,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 5,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 8,
+            "us_score_pct": 17
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 11,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 37,
+            "us_pounds_pct": 5,
+            "us_score_pct": 21
+        },
+        "naicscode": "311511",
+        "name": "Fluid Milk Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UPSTATE NIAGARA COOPERATIVE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.18083,
+    "PreferredLong": 77.64833,
+    "PublicContactName": "STEPHAN HRANJEC",
+    "PublicContactPhone": "5855092358",
+    "RCRANumber": "NY0000014274",
+    "RadialDistance": 2805077,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 40,
+            "us_pounds_pct": 12,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 5,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 8,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 12,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 31,
+            "us_pounds_pct": 6,
+            "us_score_pct": 22
+        },
+        "name": "Fluid milk",
+        "siccode": "2026"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "45 FULTON AVE",
+    "SubmitLat": 43.18083,
+    "SubmitLong": 77.64833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1823,
+    "Y": 2944,
+    "ZIP9": "14608",
+    "ZIPCode": "14608"
+}

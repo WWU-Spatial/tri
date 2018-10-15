@@ -1,0 +1,998 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LEETSDALE",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "789438285",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7195.388441,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7632000",
+                    "Chemical": "Sodium nitrite",
+                    "ChemicalNumber": 514,
+                    "DCN": "1302200617835",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.000553,
+                    "SubmissionNumber": 249031,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.000553,
+            "state_score_percentile": 5,
+            "us_score_percentile": 5
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1303201581028",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.021418,
+                    "SubmissionNumber": 334970,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303201581042",
+                    "MaxOnsite": "04",
+                    "Pounds": 18.0,
+                    "Score": 0.000939,
+                    "SubmissionNumber": 334972,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 0.022357,
+            "state_score_percentile": 18,
+            "us_score_percentile": 18
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1304202752402",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.053325,
+                    "SubmissionNumber": 440286,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1304202752426",
+                    "MaxOnsite": "07",
+                    "Pounds": 27.0,
+                    "Score": 0.000761,
+                    "SubmissionNumber": 440288,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304202752438",
+                    "MaxOnsite": "04",
+                    "Pounds": 117.0,
+                    "Score": 0.005859,
+                    "SubmissionNumber": 440289,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1304202752440",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.73,
+                    "Score": 0.004563,
+                    "SubmissionNumber": 440290,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107197",
+                    "Chemical": "Propargyl alcohol",
+                    "ChemicalNumber": 485,
+                    "DCN": "1304202752453",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.083005,
+                    "SubmissionNumber": 440291,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304202752465",
+                    "MaxOnsite": "04",
+                    "Pounds": 23.0,
+                    "Score": 0.000914,
+                    "SubmissionNumber": 440292,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304202752477",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 0.013582,
+                    "SubmissionNumber": 440293,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 182.73,
+            "TotalScore": 0.16200900000000001,
+            "state_score_percentile": 29,
+            "us_score_percentile": 29
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1305203531241",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.053104,
+                    "SubmissionNumber": 510678,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1305203531266",
+                    "MaxOnsite": "04",
+                    "Pounds": 29.0,
+                    "Score": 0.000827,
+                    "SubmissionNumber": 510680,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305203531278",
+                    "MaxOnsite": "04",
+                    "Pounds": 244.0,
+                    "Score": 0.011996,
+                    "SubmissionNumber": 510681,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107197",
+                    "Chemical": "Propargyl alcohol",
+                    "ChemicalNumber": 485,
+                    "DCN": "1305203531280",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.056198,
+                    "SubmissionNumber": 510682,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203531292",
+                    "MaxOnsite": "04",
+                    "Pounds": 34.0,
+                    "Score": 0.001352,
+                    "SubmissionNumber": 510683,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1305203531304",
+                    "MaxOnsite": "05",
+                    "Pounds": 11.0,
+                    "Score": 0.021321,
+                    "SubmissionNumber": 510684,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 325.0,
+            "TotalScore": 0.144798,
+            "state_score_percentile": 35,
+            "us_score_percentile": 35
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1306204540759",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.03173,
+                    "SubmissionNumber": 601968,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1306204540773",
+                    "MaxOnsite": "04",
+                    "Pounds": 104.0,
+                    "Score": 0.002869,
+                    "SubmissionNumber": 601970,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204540785",
+                    "MaxOnsite": "04",
+                    "Pounds": 222.0,
+                    "Score": 0.010897,
+                    "SubmissionNumber": 601971,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1306204540797",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.9299999999999999,
+                    "Score": 0.006033,
+                    "SubmissionNumber": 601972,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204540809",
+                    "MaxOnsite": "04",
+                    "Pounds": 21.0,
+                    "Score": 0.000828,
+                    "SubmissionNumber": 601973,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1306204540811",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.011643,
+                    "SubmissionNumber": 601974,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 356.93,
+            "TotalScore": 0.064,
+            "state_score_percentile": 36,
+            "us_score_percentile": 36
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1307205458159",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.063195,
+                    "SubmissionNumber": 682834,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "106898",
+                    "Chemical": "Epichlorohydrin",
+                    "ChemicalNumber": 283,
+                    "DCN": "1307205458161",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.37,
+                    "Score": 0.086176,
+                    "SubmissionNumber": 682835,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1307205458185",
+                    "MaxOnsite": "04",
+                    "Pounds": 138.82,
+                    "Score": 0.003846,
+                    "SubmissionNumber": 682837,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307205458197",
+                    "MaxOnsite": "05",
+                    "Pounds": 367.0,
+                    "Score": 0.017852,
+                    "SubmissionNumber": 682838,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1307205458209",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.6,
+                    "Score": 0.016795,
+                    "SubmissionNumber": 682839,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205458211",
+                    "MaxOnsite": "03",
+                    "Pounds": 41.0,
+                    "Score": 0.001621,
+                    "SubmissionNumber": 682840,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1307205458223",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 0.023191999999999997,
+                    "SubmissionNumber": 682841,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 567.7900000000001,
+            "TotalScore": 0.212677,
+            "state_score_percentile": 43,
+            "us_score_percentile": 41
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1308206491971",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.06293,
+                    "SubmissionNumber": 773056,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "106898",
+                    "Chemical": "Epichlorohydrin",
+                    "ChemicalNumber": 283,
+                    "DCN": "1308206491983",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.58,
+                    "Score": 0.134558,
+                    "SubmissionNumber": 773057,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "64186",
+                    "Chemical": "Formic acid",
+                    "ChemicalNumber": 316,
+                    "DCN": "1308206492009",
+                    "MaxOnsite": "04",
+                    "Pounds": 121.64,
+                    "Score": 0.00335,
+                    "SubmissionNumber": 773059,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1308206492011",
+                    "MaxOnsite": "04",
+                    "Pounds": 596.0,
+                    "Score": 0.028796,
+                    "SubmissionNumber": 773060,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1308206492023",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.73,
+                    "Score": 0.023988000000000002,
+                    "SubmissionNumber": 773061,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107197",
+                    "Chemical": "Propargyl alcohol",
+                    "ChemicalNumber": 485,
+                    "DCN": "1308206492035",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.05552,
+                    "SubmissionNumber": 773062,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206492047",
+                    "MaxOnsite": "03",
+                    "Pounds": 50.0,
+                    "Score": 0.001957,
+                    "SubmissionNumber": 773063,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1308206492050",
+                    "MaxOnsite": "03",
+                    "Pounds": 16.0,
+                    "Score": 0.030581000000000004,
+                    "SubmissionNumber": 773064,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 795.95,
+            "TotalScore": 0.34168,
+            "state_score_percentile": 50,
+            "us_score_percentile": 45
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1309207537578",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.031332,
+                    "SubmissionNumber": 866635,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "106898",
+                    "Chemical": "Epichlorohydrin",
+                    "ChemicalNumber": 283,
+                    "DCN": "1309207537580",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.4,
+                    "Score": 0.092433,
+                    "SubmissionNumber": 866636,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207537604",
+                    "MaxOnsite": "04",
+                    "Pounds": 358.0,
+                    "Score": 0.017273,
+                    "SubmissionNumber": 866638,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1309207537616",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.25,
+                    "Score": 0.020818999999999997,
+                    "SubmissionNumber": 866639,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207537628",
+                    "MaxOnsite": "03",
+                    "Pounds": 48.0,
+                    "Score": 0.0018709999999999998,
+                    "SubmissionNumber": 866640,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1309207537630",
+                    "MaxOnsite": "04",
+                    "Pounds": 16.0,
+                    "Score": 0.030456999999999998,
+                    "SubmissionNumber": 866641,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 428.65,
+            "TotalScore": 0.194185,
+            "state_score_percentile": 46,
+            "us_score_percentile": 42
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "106898",
+                    "Chemical": "Epichlorohydrin",
+                    "ChemicalNumber": 283,
+                    "DCN": "1310208347171",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.23017,
+                    "SubmissionNumber": 938648,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1310208347183",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.0,
+                    "Score": 0.332522,
+                    "SubmissionNumber": 938649,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208347207",
+                    "MaxOnsite": "04",
+                    "Pounds": 229.0,
+                    "Score": 0.010981,
+                    "SubmissionNumber": 938651,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1310208347219",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.063934,
+                    "SubmissionNumber": 938652,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "107197",
+                    "Chemical": "Propargyl alcohol",
+                    "ChemicalNumber": 485,
+                    "DCN": "1310208347221",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 0.19117499999999998,
+                    "SubmissionNumber": 938653,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208347233",
+                    "MaxOnsite": "03",
+                    "Pounds": 40.0,
+                    "Score": 0.0015509999999999999,
+                    "SubmissionNumber": 938654,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1310208347258",
+                    "MaxOnsite": "03",
+                    "Pounds": 9.0,
+                    "Score": 0.016863,
+                    "SubmissionNumber": 938656,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 303.0,
+            "TotalScore": 0.847196,
+            "state_score_percentile": 41,
+            "us_score_percentile": 39
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110012212514",
+    "FacilityID": "15056CLRWTINDUS",
+    "FacilityNumber": 117682,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.564676,
+    "Longitude": -80.212838,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 356,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2003": {
+            "state_count": 19,
+            "state_pounds_pct": 21,
+            "state_score_pct": 15,
+            "us_count": 341,
+            "us_pounds_pct": 11,
+            "us_score_pct": 7
+        },
+        "2004": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 17,
+            "us_count": 335,
+            "us_pounds_pct": 21,
+            "us_score_pct": 9
+        },
+        "2005": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 23,
+            "us_count": 336,
+            "us_pounds_pct": 29,
+            "us_score_pct": 13
+        },
+        "2006": {
+            "state_count": 14,
+            "state_pounds_pct": 42,
+            "state_score_pct": 21,
+            "us_count": 316,
+            "us_pounds_pct": 26,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 13,
+            "us_count": 312,
+            "us_pounds_pct": 35,
+            "us_score_pct": 13
+        },
+        "2008": {
+            "state_count": 17,
+            "state_pounds_pct": 70,
+            "state_score_pct": 23,
+            "us_count": 322,
+            "us_pounds_pct": 44,
+            "us_score_pct": 20
+        },
+        "2009": {
+            "state_count": 17,
+            "state_pounds_pct": 58,
+            "state_score_pct": 23,
+            "us_count": 331,
+            "us_pounds_pct": 35,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 13,
+            "state_pounds_pct": 46,
+            "state_score_pct": 23,
+            "us_count": 328,
+            "us_pounds_pct": 29,
+            "us_score_pct": 23
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CLEARWATER INTERNATIONAL LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "789438285",
+    "ParentName": "WEATHERFORD INTERNATIONAL",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "EDWARD MICHALOWSKI",
+    "PublicContactPhone": "7243181050",
+    "RCRANumber": "PAR000505297",
+    "RadialDistance": 2446348,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2002": {
+            "state_count": 25,
+            "state_pounds_pct": 8,
+            "state_score_pct": 4,
+            "us_count": 451,
+            "us_pounds_pct": 2,
+            "us_score_pct": 0
+        },
+        "2003": {
+            "state_count": 24,
+            "state_pounds_pct": 12,
+            "state_score_pct": 4,
+            "us_count": 441,
+            "us_pounds_pct": 11,
+            "us_score_pct": 2
+        },
+        "2004": {
+            "state_count": 21,
+            "state_pounds_pct": 19,
+            "state_score_pct": 4,
+            "us_count": 438,
+            "us_pounds_pct": 23,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 22,
+            "state_pounds_pct": 18,
+            "state_score_pct": 13,
+            "us_count": 439,
+            "us_pounds_pct": 30,
+            "us_score_pct": 7
+        },
+        "2006": {
+            "state_count": 23,
+            "state_pounds_pct": 26,
+            "state_score_pct": 13,
+            "us_count": 422,
+            "us_pounds_pct": 29,
+            "us_score_pct": 4
+        },
+        "2007": {
+            "state_count": 22,
+            "state_pounds_pct": 22,
+            "state_score_pct": 13,
+            "us_count": 410,
+            "us_pounds_pct": 32,
+            "us_score_pct": 8
+        },
+        "2008": {
+            "state_count": 22,
+            "state_pounds_pct": 36,
+            "state_score_pct": 22,
+            "us_count": 405,
+            "us_pounds_pct": 38,
+            "us_score_pct": 10
+        },
+        "2009": {
+            "state_count": 22,
+            "state_pounds_pct": 22,
+            "state_score_pct": 9,
+            "us_count": 397,
+            "us_pounds_pct": 30,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 21,
+            "state_pounds_pct": 19,
+            "state_score_pct": 14,
+            "us_count": 393,
+            "us_pounds_pct": 27,
+            "us_score_pct": 11
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SIC2": {
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 78,
+            "us_pounds_pct": 1,
+            "us_score_pct": 2
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 76,
+            "us_pounds_pct": 14,
+            "us_score_pct": 7
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 73,
+            "us_pounds_pct": 36,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 79,
+            "us_pounds_pct": 45,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 76,
+            "us_pounds_pct": 47,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 72,
+            "us_pounds_pct": 55,
+            "us_score_pct": 22
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 75,
+            "us_pounds_pct": 61,
+            "us_score_pct": 29
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 74,
+            "us_pounds_pct": 44,
+            "us_score_pct": 22
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 70,
+            "us_pounds_pct": 37,
+            "us_score_pct": 32
+        },
+        "name": "Soap and other detergents, except specialty cleaners",
+        "siccode": "2841"
+    },
+    "SIC3": {
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 81,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2003": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 79,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 77,
+            "us_pounds_pct": 11,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 80,
+            "us_pounds_pct": 13,
+            "us_score_pct": 7
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 75,
+            "us_pounds_pct": 16,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 72,
+            "us_pounds_pct": 27,
+            "us_score_pct": 12
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 73,
+            "us_pounds_pct": 32,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 71,
+            "us_pounds_pct": 23,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 69,
+            "us_pounds_pct": 17,
+            "us_score_pct": 13
+        },
+        "name": "Surface active agents, finishing agents, sulfonated oils, and assistants",
+        "siccode": "2843"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "100 INDUSTRIAL DR (BLDG 180, 150, & 76)",
+    "SubmitLat": 40.56278,
+    "SubmitLong": 80.215,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1629,
+    "Y": 2543,
+    "ZIP9": "150561017",
+    "ZIPCode": "15056"
+}

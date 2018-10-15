@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SALINAS",
+    "County": "PR,SALINAS",
+    "DUNS": "105815427",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 60297.658672,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75218",
+                    "Chemical": "Ethylene oxide",
+                    "ChemicalNumber": 293,
+                    "DCN": "1396105376800",
+                    "MaxOnsite": "02",
+                    "Pounds": 55000.0,
+                    "Score": 729773.0,
+                    "SubmissionNumber": 1815952,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 55000.0,
+            "TotalScore": 729773.0,
+            "state_score_percentile": 84,
+            "us_score_percentile": 79
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75218",
+                    "Chemical": "Ethylene oxide",
+                    "ChemicalNumber": 293,
+                    "DCN": "1398125310185",
+                    "MaxOnsite": "02",
+                    "Pounds": 30000.0,
+                    "Score": 453282.0,
+                    "SubmissionNumber": 1981792,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 30000.0,
+            "TotalScore": 453282.0,
+            "state_score_percentile": 75,
+            "us_score_percentile": 70
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "75218",
+                    "Chemical": "Ethylene oxide",
+                    "ChemicalNumber": 293,
+                    "DCN": "1308206778363",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 212.5695,
+                    "SubmissionNumber": 799924,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 212.5695,
+            "state_score_percentile": 16,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "72123",
+    "FRSID": "110000602820",
+    "FacilityID": "00751STRTCRD701",
+    "FacilityNumber": 110380,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 17.971388,
+    "Longitude": -66.300277,
+    "Method": "",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 72,
+            "us_pounds_pct": 81,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 62,
+            "us_pounds_pct": 77,
+            "us_score_pct": 95
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 23,
+            "us_score_pct": 50
+        },
+        "naicscode": "339112",
+        "name": "Surgical and Medical Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STERI-TECH INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JORGE A. VIVONI",
+    "PublicContactPhone": "7878244040",
+    "RCRANumber": "NA",
+    "RadialDistance": 6195,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 95,
+            "us_score_pct": 95
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 107,
+            "us_pounds_pct": 94,
+            "us_score_pct": 97
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 95,
+            "us_pounds_pct": 30,
+            "us_score_pct": 76
+        },
+        "name": "Business services, n.e.c.",
+        "siccode": "7389"
+    },
+    "SICCode2Digit": "73",
+    "SICCode3Digit": "738",
+    "SICCodeSame2Digit": "73",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 1.1582,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.131,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.797,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "RD 701 KM 07 SALINAS INDUSTRIAL PARK",
+    "SubmitLat": 17.97139,
+    "SubmitLong": 66.30028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -7,
+    "Y": -4,
+    "ZIP9": "00751",
+    "ZIPCode": "00751"
+}

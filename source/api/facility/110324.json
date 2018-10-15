@@ -1,0 +1,640 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MAYAGUEZ",
+    "County": "PR,MAYAGUEZ",
+    "DUNS": "090115288",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 125649.162462,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1396105112736",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.088592,
+                    "SubmissionNumber": 1798155,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1396105112748",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 7.91391,
+                    "SubmissionNumber": 1798156,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396105112751",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 406.484,
+                    "SubmissionNumber": 1798157,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396105112763",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.010499,
+                    "SubmissionNumber": 1798158,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67630",
+                    "Chemical": "Isopropyl alcohol",
+                    "ChemicalNumber": 341,
+                    "DCN": "1396105112787",
+                    "MaxOnsite": "04",
+                    "Pounds": 750.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1798159,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1396105112799",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.044566,
+                    "SubmissionNumber": 1798160,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105112801",
+                    "MaxOnsite": "04",
+                    "Pounds": 4400.0,
+                    "Score": 5.55503,
+                    "SubmissionNumber": 1798161,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105112813",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.922991,
+                    "SubmissionNumber": 1798162,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105375428",
+                    "MaxOnsite": "05",
+                    "Pounds": 13250.0,
+                    "Score": 0.865855,
+                    "SubmissionNumber": 1815821,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20400.0,
+            "TotalScore": 421.88544299999995,
+            "state_score_percentile": 71,
+            "us_score_percentile": 64
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1397115057390",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.33685,
+                    "SubmissionNumber": 1878839,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397115057402",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.088921,
+                    "SubmissionNumber": 1878840,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1397115057414",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.044733,
+                    "SubmissionNumber": 1878841,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1397115057426",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 7.94341,
+                    "SubmissionNumber": 1878842,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115057438",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.308776,
+                    "SubmissionNumber": 1878843,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115057440",
+                    "MaxOnsite": "05",
+                    "Pounds": 8250.0,
+                    "Score": 0.535373,
+                    "SubmissionNumber": 1878844,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397115057453",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 0.010537,
+                    "SubmissionNumber": 1878845,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9750.0,
+            "TotalScore": 15.2686,
+            "state_score_percentile": 63,
+            "us_score_percentile": 51
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1398125181848",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.089249,
+                    "SubmissionNumber": 1975857,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125181887",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.929668,
+                    "SubmissionNumber": 1975858,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1398125181952",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.010575,
+                    "SubmissionNumber": 1975859,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1398125182028",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 7.97291,
+                    "SubmissionNumber": 1975860,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1398125182079",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.36117,
+                    "SubmissionNumber": 1975861,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125182117",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.00628,
+                    "SubmissionNumber": 1975862,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2000.0,
+            "TotalScore": 15.369852000000002,
+            "state_score_percentile": 40,
+            "us_score_percentile": 34
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1399130589094",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.089578,
+                    "SubmissionNumber": 2039900,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130589118",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.933006,
+                    "SubmissionNumber": 2039902,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399130589132",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.010613,
+                    "SubmissionNumber": 2039904,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130589144",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.018909,
+                    "SubmissionNumber": 2039905,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1399130589157",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.38549,
+                    "SubmissionNumber": 2039906,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399130589169",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 8.00242,
+                    "SubmissionNumber": 2039907,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2500.0,
+            "TotalScore": 15.440016,
+            "state_score_percentile": 36,
+            "us_score_percentile": 37
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140385206",
+                    "MaxOnsite": "05",
+                    "Pounds": 750.0,
+                    "Score": 0.936345,
+                    "SubmissionNumber": 32905,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1300140385218",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.010651,
+                    "SubmissionNumber": 32906,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140385220",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.006326,
+                    "SubmissionNumber": 32907,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1300140385232",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 6.4098,
+                    "SubmissionNumber": 32908,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 7.363122,
+            "state_score_percentile": 40,
+            "us_score_percentile": 35
+        }
+    },
+    "FIPS": "72097",
+    "FRSID": "110000307766",
+    "FacilityID": "00709STRKSCARR3",
+    "FacilityNumber": 110324,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.233404,
+    "Longitude": -67.172512,
+    "Method": "ADDRESS MATCHING-STREET CENTERLINE",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 90,
+            "us_score_pct": 90
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 80,
+            "us_score_pct": 60
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 80,
+            "us_score_pct": 60
+        },
+        "naicscode": "311111",
+        "name": "Dog and Cat Food Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3111",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "PR0022012",
+    "Name": "STARKIST CARIBE INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004318846",
+    "ParentName": "H J HEINZ CO",
+    "PreferredLat": 18.21667,
+    "PreferredLong": 67.16667,
+    "PublicContactName": "RAUL PEREZ",
+    "PublicContactPhone": "7878342424",
+    "RCRANumber": "PR0022012",
+    "RadialDistance": 100993,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 90,
+            "us_score_pct": 95
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 85,
+            "us_score_pct": 64
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 80,
+            "us_score_pct": 73
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 86,
+            "us_score_pct": 73
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 64
+        },
+        "name": "Dog and cat food",
+        "siccode": "2047"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 99,
+            "us_pounds_pct": 84,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 82,
+            "us_pounds_pct": 76,
+            "us_score_pct": 51
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 83,
+            "us_pounds_pct": 61,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 72,
+            "us_pounds_pct": 56,
+            "us_score_pct": 54
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 70,
+            "us_pounds_pct": 47,
+            "us_score_pct": 42
+        },
+        "name": "Prepared feeds and feed ingredients for animals and fowls, except dogs and cats",
+        "siccode": "2048"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "name": "Canned and cured fish and seafoods",
+        "siccode": "2091"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "204",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 17.6784,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 1.936,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "3051 RD. 64",
+    "SubmitLat": 18.21667,
+    "SubmitLong": 67.16667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -120,
+    "Y": 32,
+    "ZIP9": "00680",
+    "ZIPCode": "00680"
+}

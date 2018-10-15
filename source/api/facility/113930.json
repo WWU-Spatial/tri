@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TORRINGTON",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "141954870",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38827.873435,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1305203942305",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.7,
+                    "Score": 394.963,
+                    "SubmissionNumber": 548492,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.7,
+            "TotalScore": 394.963,
+            "state_score_percentile": 14,
+            "us_score_percentile": 6
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306204601049",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.4,
+                    "Score": 226.443,
+                    "SubmissionNumber": 607530,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.4,
+            "TotalScore": 226.443,
+            "state_score_percentile": 12,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110016734621",
+    "FacilityID": "06790RBCRC669PR",
+    "FacilityNumber": 113930,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.810695,
+    "Longitude": -73.122568,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 3,
+            "us_score_pct": 69
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 3,
+            "us_score_pct": 59
+        },
+        "naicscode": "332991",
+        "name": "Ball and Roller Bearing Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RBC AIRCRAFT PRODUCTS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "011689150",
+    "ParentName": "RBC BEARINGS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT H. THOMSON",
+    "PublicContactPhone": "8604964131",
+    "RCRANumber": "CTR000504100",
+    "RadialDistance": 2975885,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 3,
+            "us_score_pct": 72
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 3,
+            "us_score_pct": 59
+        },
+        "name": "Ball and roller bearings",
+        "siccode": "3562"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "669 PROSPECT ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2307,
+    "Y": 2859,
+    "ZIP9": "06790",
+    "ZIPCode": "06790"
+}

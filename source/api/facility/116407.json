@@ -1,0 +1,312 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SCHENECTADY",
+    "County": "NY,SCHENECTADY",
+    "DUNS": "001367960",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13032.022561,
+    "DistanceToReach": 1128.647546,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100422979",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 2663.671,
+                    "SubmissionNumber": 1783434,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100422981",
+                    "MaxOnsite": "03",
+                    "Pounds": 21400.0,
+                    "Score": 81.3755,
+                    "SubmissionNumber": 1783435,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 21410.0,
+            "TotalScore": 2745.0465,
+            "state_score_percentile": 76,
+            "us_score_percentile": 65
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110487966",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 2662.036,
+                    "SubmissionNumber": 1865275,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110488018",
+                    "MaxOnsite": "03",
+                    "Pounds": 18405.0,
+                    "Score": 65.565025,
+                    "SubmissionNumber": 1865280,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 18415.0,
+            "TotalScore": 2727.601025,
+            "state_score_percentile": 72,
+            "us_score_percentile": 63
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120295555",
+                    "MaxOnsite": "03",
+                    "Pounds": 16607.0,
+                    "Score": 64.2223,
+                    "SubmissionNumber": 1923572,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 16607.0,
+            "TotalScore": 64.2223,
+            "state_score_percentile": 72,
+            "us_score_percentile": 62
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130106824",
+                    "MaxOnsite": "03",
+                    "Pounds": 12370.0,
+                    "Score": 47.84968,
+                    "SubmissionNumber": 1999418,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 12370.0,
+            "TotalScore": 47.84968,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140201551",
+                    "MaxOnsite": "03",
+                    "Pounds": 16567.0,
+                    "Score": 58.955980000000004,
+                    "SubmissionNumber": 18198,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 16567.0,
+            "TotalScore": 58.955980000000004,
+            "state_score_percentile": 77,
+            "us_score_percentile": 65
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301150236558",
+                    "MaxOnsite": "03",
+                    "Pounds": 15489.0,
+                    "Score": 56.36965,
+                    "SubmissionNumber": 115766,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 15489.0,
+            "TotalScore": 56.36965,
+            "state_score_percentile": 77,
+            "us_score_percentile": 68
+        }
+    },
+    "FIPS": "36093",
+    "FRSID": "110000324578",
+    "FacilityID": "12345GNRLL1NOTT",
+    "FacilityNumber": 116407,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.81504,
+    "Longitude": -73.93297,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 22,
+            "us_pounds_pct": 86,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 86,
+            "us_score_pct": 59
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 23,
+            "us_pounds_pct": 82,
+            "us_score_pct": 30
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 95,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 26,
+            "us_pounds_pct": 92,
+            "us_score_pct": 34
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 26,
+            "us_pounds_pct": 96,
+            "us_score_pct": 26
+        },
+        "naicscode": "333611",
+        "name": "Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3336",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0007021",
+    "Name": "GE CO",
+    "NearComID": 22744343,
+    "NearReach": "02020004000022",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.82361,
+    "PreferredLong": 73.93722,
+    "PublicContactName": "JANICE A. SMITH",
+    "PublicContactPhone": "5183853072",
+    "RCRANumber": "NYD002084192",
+    "RadialDistance": 2994500,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 19,
+            "us_pounds_pct": 94,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 100,
+            "us_score_pct": 52
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 20,
+            "us_pounds_pct": 100,
+            "us_score_pct": 20
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 20,
+            "us_pounds_pct": 95,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 22,
+            "us_pounds_pct": 100,
+            "us_score_pct": 27
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 95,
+            "us_score_pct": 25
+        },
+        "name": "Steam, gas and hydraulic turbines, and turbine generator set units",
+        "siccode": "3511"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "351",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6538,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1836,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1 NOTT ST",
+    "SubmitLat": 42.80694,
+    "SubmitLong": 73.93722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2195,
+    "Y": 2975,
+    "ZIP9": "12345",
+    "ZIPCode": "12345"
+}

@@ -1,0 +1,823 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WOONSOCKET",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 29824.16723,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396100302835",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 529.576,
+                    "SubmissionNumber": 1774046,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100302847",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.051141,
+                    "SubmissionNumber": 1774047,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1250.0,
+            "TotalScore": 529.627141,
+            "state_score_percentile": 38,
+            "us_score_percentile": 30
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1398120375732",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 537.194,
+                    "SubmissionNumber": 1929265,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120375757",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.051887,
+                    "SubmissionNumber": 1929267,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1250.0,
+            "TotalScore": 537.2458869999999,
+            "state_score_percentile": 40,
+            "us_score_percentile": 29
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1399130037981",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8201,
+                    "SubmissionNumber": 1993570,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130037993",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.052262,
+                    "SubmissionNumber": 1993571,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1005.0,
+            "TotalScore": 10.872362,
+            "state_score_percentile": 45,
+            "us_score_percentile": 29
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1300140030192",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 544.813,
+                    "SubmissionNumber": 2711,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140030204",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.052635,
+                    "SubmissionNumber": 2712,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1250.0,
+            "TotalScore": 544.865635,
+            "state_score_percentile": 47,
+            "us_score_percentile": 34
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1301150510598",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8945,
+                    "SubmissionNumber": 139876,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301150510600",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.031003999999999997,
+                    "SubmissionNumber": 139877,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 505.0,
+            "TotalScore": 10.925504,
+            "state_score_percentile": 49,
+            "us_score_percentile": 33
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1302200894867",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030952,
+                    "SubmissionNumber": 272749,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1302200895050",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8928,
+                    "SubmissionNumber": 272761,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 505.0,
+            "TotalScore": 10.923751999999999,
+            "state_score_percentile": 45,
+            "us_score_percentile": 34
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1303201731736",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8911,
+                    "SubmissionNumber": 348805,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303201731751",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.0309,
+                    "SubmissionNumber": 348807,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201731775",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.190331,
+                    "SubmissionNumber": 348809,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 515.0,
+            "TotalScore": 11.112331000000001,
+            "state_score_percentile": 51,
+            "us_score_percentile": 35
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1304202747907",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8894,
+                    "SubmissionNumber": 439870,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304202747921",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030847,
+                    "SubmissionNumber": 439872,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304202747945",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.19000899999999998,
+                    "SubmissionNumber": 439874,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 515.0,
+            "TotalScore": 11.110256,
+            "state_score_percentile": 52,
+            "us_score_percentile": 37
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1305203979442",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8877,
+                    "SubmissionNumber": 551923,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305203979467",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030794,
+                    "SubmissionNumber": 551925,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1305203979481",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 3.43914,
+                    "SubmissionNumber": 551927,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 760.0,
+            "TotalScore": 14.357634000000001,
+            "state_score_percentile": 56,
+            "us_score_percentile": 41
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1306204898187",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.886,
+                    "SubmissionNumber": 634714,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204898201",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030742,
+                    "SubmissionNumber": 634716,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1306204898225",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 3.438406,
+                    "SubmissionNumber": 634718,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 760.0,
+            "TotalScore": 14.355148,
+            "state_score_percentile": 52,
+            "us_score_percentile": 42
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1307205515303",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8843,
+                    "SubmissionNumber": 688278,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307205515327",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030689,
+                    "SubmissionNumber": 688280,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205515341",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 3.437681,
+                    "SubmissionNumber": 688282,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 760.0,
+            "TotalScore": 14.35267,
+            "state_score_percentile": 57,
+            "us_score_percentile": 43
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1308206999839",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8826,
+                    "SubmissionNumber": 820093,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1308206999854",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030636,
+                    "SubmissionNumber": 820095,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206999878",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 3.436956,
+                    "SubmissionNumber": 820097,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 760.0,
+            "TotalScore": 14.350192,
+            "state_score_percentile": 56,
+            "us_score_percentile": 45
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1309207524226",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 10.8808,
+                    "SubmissionNumber": 865388,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207524240",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.030583000000000003,
+                    "SubmissionNumber": 865390,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207524265",
+                    "MaxOnsite": "03",
+                    "Pounds": 20.0,
+                    "Score": 0.320959,
+                    "SubmissionNumber": 865392,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 525.0,
+            "TotalScore": 11.232342000000001,
+            "state_score_percentile": 50,
+            "us_score_percentile": 44
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1310208884407",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 30.2603,
+                    "SubmissionNumber": 987855,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "302012",
+                    "Chemical": "Hydrazine",
+                    "ChemicalNumber": 329,
+                    "DCN": "1310208884419",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1746,
+                    "Score": 162.0932,
+                    "SubmissionNumber": 987856,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208884433",
+                    "MaxOnsite": "03",
+                    "Pounds": 5330.0,
+                    "Score": 0.36321200000000003,
+                    "SubmissionNumber": 987858,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208884458",
+                    "MaxOnsite": "03",
+                    "Pounds": 48.0,
+                    "Score": 0.6917530000000001,
+                    "SubmissionNumber": 987860,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5388.1746,
+            "TotalScore": 193.408465,
+            "state_score_percentile": 80,
+            "us_score_percentile": 65
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110000496062",
+    "FacilityID": "02895TCHNC300PA",
+    "FacilityNumber": 112233,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.9999,
+    "Longitude": -71.471,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 320,
+            "us_pounds_pct": 50,
+            "us_score_pct": 63
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 71,
+            "us_count": 332,
+            "us_pounds_pct": 48,
+            "us_score_pct": 62
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 42,
+            "us_count": 335,
+            "us_pounds_pct": 45,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 71,
+            "us_count": 343,
+            "us_pounds_pct": 51,
+            "us_score_pct": 65
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 55,
+            "us_count": 346,
+            "us_pounds_pct": 37,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 356,
+            "us_pounds_pct": 40,
+            "us_score_pct": 43
+        },
+        "2003": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 71,
+            "us_count": 341,
+            "us_pounds_pct": 38,
+            "us_score_pct": 44
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 335,
+            "us_pounds_pct": 36,
+            "us_score_pct": 43
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 336,
+            "us_pounds_pct": 41,
+            "us_score_pct": 47
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 316,
+            "us_pounds_pct": 40,
+            "us_score_pct": 46
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 312,
+            "us_pounds_pct": 41,
+            "us_score_pct": 44
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 322,
+            "us_pounds_pct": 42,
+            "us_score_pct": 45
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 331,
+            "us_pounds_pct": 40,
+            "us_score_pct": 45
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 328,
+            "us_pounds_pct": 70,
+            "us_score_pct": 63
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TECHNIC INC ENGINEERED POWDE RS DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "TECHNIC INC",
+    "PreferredLat": 41.99889,
+    "PreferredLong": 71.47444,
+    "PublicContactName": "WAYNE GANIM",
+    "PublicContactPhone": "4017816100",
+    "RCRANumber": "RID987489473",
+    "RadialDistance": 3098172,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 65,
+            "us_pounds_pct": 52,
+            "us_score_pct": 56
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 68,
+            "us_pounds_pct": 56,
+            "us_score_pct": 54
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 53,
+            "us_score_pct": 27
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 62,
+            "us_pounds_pct": 59,
+            "us_score_pct": 54
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 52,
+            "us_score_pct": 39
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 60,
+            "us_pounds_pct": 56,
+            "us_score_pct": 38
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 52,
+            "us_score_pct": 36
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 54,
+            "us_score_pct": 36
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 60,
+            "us_score_pct": 38
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 61,
+            "us_score_pct": 35
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 62,
+            "us_score_pct": 43
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 60,
+            "us_score_pct": 35
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 58,
+            "us_score_pct": 37
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 77,
+            "us_score_pct": 68
+        },
+        "name": "Rolling, drawing, and extruding of nonferrous metals, except copper and aluminum",
+        "siccode": "3356"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 1.0374,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.7434,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "RI",
+    "Street": "300 PARK E DR",
+    "SubmitLat": 41.99889,
+    "SubmitLong": 71.47444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2464,
+    "Y": 2926,
+    "ZIP9": "02895",
+    "ZIPCode": "02895"
+}

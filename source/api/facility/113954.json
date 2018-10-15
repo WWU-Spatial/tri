@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERTOWN",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "161333869",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 49217.591185,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105347696",
+                    "MaxOnsite": "04",
+                    "Pounds": 21600.0,
+                    "Score": 46724.8,
+                    "SubmissionNumber": 1813485,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21600.0,
+            "TotalScore": 46724.8,
+            "state_score_percentile": 74,
+            "us_score_percentile": 65
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1397115237291",
+                    "MaxOnsite": "04",
+                    "Pounds": 43283.0,
+                    "Score": 135831.0,
+                    "SubmissionNumber": 1888270,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 43283.0,
+            "TotalScore": 135831.0,
+            "state_score_percentile": 85,
+            "us_score_percentile": 76
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1398125005874",
+                    "MaxOnsite": "04",
+                    "Pounds": 40671.0,
+                    "Score": 128065.0,
+                    "SubmissionNumber": 1967703,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40671.0,
+            "TotalScore": 128065.0,
+            "state_score_percentile": 82,
+            "us_score_percentile": 75
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110000317559",
+    "FacilityID": "06795YLTTL40CAL",
+    "FacilityNumber": 113954,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.611547,
+    "Longitude": -73.091572,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 90,
+            "us_score_pct": 81
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 100,
+            "us_score_pct": 90
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 100,
+            "us_score_pct": 85
+        },
+        "naicscode": "333513",
+        "name": "Machine Tool (Metal Forming Types) Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "EYELET TOOLMAKERS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.61083,
+    "PreferredLong": 73.09194,
+    "PublicContactName": "ZIG KONANS",
+    "PublicContactPhone": "8602745298",
+    "RCRANumber": "CTD001171594",
+    "RadialDistance": 2964483,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 80,
+            "us_score_pct": 88
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 78,
+            "us_score_pct": 91
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 85,
+            "us_score_pct": 88
+        },
+        "name": "Industrial and commercial machinery and equipment, n.e.c",
+        "siccode": "3599"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "359",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.3315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "40 CALLENDER RD",
+    "SubmitLat": 41.61083,
+    "SubmitLong": 73.09194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2317,
+    "Y": 2833,
+    "ZIP9": "06795",
+    "ZIPCode": "06795"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WILMINGTON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "837773613",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26752.822276,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203812045",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.05,
+                    "Score": 0.04184,
+                    "SubmissionNumber": 536678,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.05,
+            "TotalScore": 0.04184,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204724381",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.2,
+                    "Score": 1.84455,
+                    "SubmissionNumber": 618935,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.2,
+            "TotalScore": 1.84455,
+            "state_score_percentile": 23,
+            "us_score_percentile": 10
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110024311163",
+    "FacilityID": "01887DVNCD1UPTN",
+    "FacilityNumber": 111322,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.592259,
+    "Longitude": -71.148227,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 16
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "naicscode": "334517",
+        "name": "Irradiation Apparatus Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ADVANCED ELECTRON BEAMS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TIM BRANDON",
+    "PublicContactPhone": "9786588600",
+    "RCRANumber": "NA",
+    "RadialDistance": 3158076,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "name": "X-ray apparatus and tubes and related irradiation apparatus",
+        "siccode": "3844"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "10 UPTON DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2474,
+    "Y": 3013,
+    "ZIP9": "018874401",
+    "ZIPCode": "01887"
+}

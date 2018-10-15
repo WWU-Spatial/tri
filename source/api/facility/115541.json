@@ -1,0 +1,301 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MILFORD",
+    "County": "NJ,HUNTERDON",
+    "DUNS": "071452551",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24597.242748,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140341140",
+                    "MaxOnsite": "04",
+                    "Pounds": 22.0,
+                    "Score": 105.121,
+                    "SubmissionNumber": 29880,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 22.0,
+            "TotalScore": 105.121,
+            "state_score_percentile": 12,
+            "us_score_percentile": 11
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301155154750",
+                    "MaxOnsite": "04",
+                    "Pounds": 35.7,
+                    "Score": 171.569,
+                    "SubmissionNumber": 181807,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 35.7,
+            "TotalScore": 171.569,
+            "state_score_percentile": 20,
+            "us_score_percentile": 19
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200526921",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.6,
+                    "Score": 85.0694,
+                    "SubmissionNumber": 240569,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 17.6,
+            "TotalScore": 85.0694,
+            "state_score_percentile": 20,
+            "us_score_percentile": 17
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201689522",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.6,
+                    "Score": 85.5559,
+                    "SubmissionNumber": 344851,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1303201689534",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.5e-05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 344852,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 17.600055,
+            "TotalScore": 85.5559,
+            "state_score_percentile": 18,
+            "us_score_percentile": 17
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202459665",
+                    "MaxOnsite": "04",
+                    "Pounds": 29.5,
+                    "Score": 144.219,
+                    "SubmissionNumber": 413332,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 29.5,
+            "TotalScore": 144.219,
+            "state_score_percentile": 21,
+            "us_score_percentile": 21
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203374602",
+                    "MaxOnsite": "04",
+                    "Pounds": 26.7,
+                    "Score": 131.268,
+                    "SubmissionNumber": 495967,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 26.7,
+            "TotalScore": 131.268,
+            "state_score_percentile": 23,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "34019",
+    "FRSID": "110000734359",
+    "FacilityID": "08848GLBRT315RI",
+    "FacilityNumber": 115541,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14737,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.565361,
+    "Longitude": -75.163583,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 18,
+            "state_pounds_pct": 16,
+            "state_score_pct": 44,
+            "us_count": 623,
+            "us_pounds_pct": 6,
+            "us_score_pct": 23
+        },
+        "2001": {
+            "state_count": 17,
+            "state_pounds_pct": 11,
+            "state_score_pct": 41,
+            "us_count": 630,
+            "us_pounds_pct": 6,
+            "us_score_pct": 28
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 11,
+            "state_score_pct": 35,
+            "us_count": 624,
+            "us_pounds_pct": 4,
+            "us_score_pct": 23
+        },
+        "2003": {
+            "state_count": 19,
+            "state_pounds_pct": 10,
+            "state_score_pct": 36,
+            "us_count": 633,
+            "us_pounds_pct": 3,
+            "us_score_pct": 24
+        },
+        "2004": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 37,
+            "us_count": 620,
+            "us_pounds_pct": 3,
+            "us_score_pct": 27
+        },
+        "2005": {
+            "state_count": 15,
+            "state_pounds_pct": 6,
+            "state_score_pct": 40,
+            "us_count": 621,
+            "us_pounds_pct": 4,
+            "us_score_pct": 27
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0005517",
+    "Name": "RELIANT ENERGY GILBERT POWER PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "082679788",
+    "ParentName": "RELIANT ENERGY INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "STEVE DAVIES",
+    "PublicContactPhone": "7245978362",
+    "RCRANumber": "NJD071452551",
+    "RadialDistance": 2756220,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 16,
+            "state_pounds_pct": 31,
+            "state_score_pct": 37,
+            "us_count": 631,
+            "us_pounds_pct": 9,
+            "us_score_pct": 25
+        },
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 26,
+            "state_score_pct": 40,
+            "us_count": 638,
+            "us_pounds_pct": 8,
+            "us_score_pct": 30
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 25,
+            "state_score_pct": 31,
+            "us_count": 623,
+            "us_pounds_pct": 6,
+            "us_score_pct": 24
+        },
+        "2003": {
+            "state_count": 16,
+            "state_pounds_pct": 25,
+            "state_score_pct": 31,
+            "us_count": 632,
+            "us_pounds_pct": 6,
+            "us_score_pct": 25
+        },
+        "2004": {
+            "state_count": 15,
+            "state_pounds_pct": 33,
+            "state_score_pct": 46,
+            "us_count": 618,
+            "us_pounds_pct": 5,
+            "us_score_pct": 29
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 15,
+            "state_score_pct": 46,
+            "us_count": 612,
+            "us_pounds_pct": 5,
+            "us_score_pct": 27
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 3.7369,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 76.1878,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 17.0141,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "315 RIEGELSVILLE RD",
+    "SubmitLat": 40.56556,
+    "SubmitLong": 75.15944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2142,
+    "Y": 2644,
+    "ZIP9": "08848",
+    "ZIPCode": "08848"
+}

@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ORISKANY",
+    "County": "NY,ONEIDA",
+    "DUNS": "046560541",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59816.306934,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140344716",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 15353.55,
+                    "SubmissionNumber": 30139,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 15353.55,
+            "state_score_percentile": 35,
+            "us_score_percentile": 32
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150112290",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 15594.07,
+                    "SubmissionNumber": 104319,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150112302",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 4.5217,
+                    "SubmissionNumber": 104320,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 2000.0,
+            "TotalScore": 15598.591699999999,
+            "state_score_percentile": 49,
+            "us_score_percentile": 44
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200105411",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 15834.6,
+                    "SubmissionNumber": 201439,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200105423",
+                    "MaxOnsite": "02",
+                    "Pounds": 500.0,
+                    "Score": 2.4379999999999997,
+                    "SubmissionNumber": 201440,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 15837.038,
+            "state_score_percentile": 48,
+            "us_score_percentile": 43
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201509369",
+                    "MaxOnsite": "02",
+                    "Pounds": 434.0,
+                    "Score": 1.9408789999999998,
+                    "SubmissionNumber": 328499,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 434.0,
+            "TotalScore": 1.9408789999999998,
+            "state_score_percentile": 41,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110042018606",
+    "FacilityID": "13424HMQCH170BA",
+    "FacilityNumber": 116771,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.153292,
+    "Longitude": -75.381014,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 57,
+            "state_score_pct": 84,
+            "us_count": 508,
+            "us_pounds_pct": 55,
+            "us_score_pct": 70
+        },
+        "2001": {
+            "state_count": 17,
+            "state_pounds_pct": 58,
+            "state_score_pct": 70,
+            "us_count": 523,
+            "us_pounds_pct": 69,
+            "us_score_pct": 73
+        },
+        "2002": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 63,
+            "us_count": 506,
+            "us_pounds_pct": 68,
+            "us_score_pct": 76
+        },
+        "2003": {
+            "state_count": 15,
+            "state_pounds_pct": 46,
+            "state_score_pct": 33,
+            "us_count": 497,
+            "us_pounds_pct": 52,
+            "us_score_pct": 17
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HMQ CHEMTECH LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "FREDERICK HAGER",
+    "PublicContactPhone": "3158663000",
+    "RCRANumber": "NYD986947133",
+    "RadialDistance": 2931998,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 50,
+            "state_score_pct": 86,
+            "us_count": 537,
+            "us_pounds_pct": 55,
+            "us_score_pct": 72
+        },
+        "2001": {
+            "state_count": 21,
+            "state_pounds_pct": 52,
+            "state_score_pct": 76,
+            "us_count": 553,
+            "us_pounds_pct": 69,
+            "us_score_pct": 74
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 58,
+            "state_score_pct": 76,
+            "us_count": 533,
+            "us_pounds_pct": 68,
+            "us_score_pct": 77
+        },
+        "2003": {
+            "state_count": 18,
+            "state_pounds_pct": 50,
+            "state_score_pct": 27,
+            "us_count": 516,
+            "us_pounds_pct": 51,
+            "us_score_pct": 16
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "170 BASE RD",
+    "SubmitLat": 43.14778,
+    "SubmitLong": 75.3825,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2043,
+    "Y": 2988,
+    "ZIP9": "134244204",
+    "ZIPCode": "13424"
+}

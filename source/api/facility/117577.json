@@ -1,0 +1,813 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HORSEHEADS",
+    "County": "NY,CHEMUNG",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 101503.217975,
+    "DistanceToReach": 1285.922314,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1396100388178",
+                    "MaxOnsite": "04",
+                    "Pounds": 4563.0,
+                    "Score": 29.26597,
+                    "SubmissionNumber": 1780883,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396100388180",
+                    "MaxOnsite": "05",
+                    "Pounds": 332.0,
+                    "Score": 208.4397,
+                    "SubmissionNumber": 1780884,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100388192",
+                    "MaxOnsite": "02",
+                    "Pounds": 375.0,
+                    "Score": 0.008622,
+                    "SubmissionNumber": 1780885,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100388204",
+                    "MaxOnsite": "01",
+                    "Pounds": 999.0,
+                    "Score": 0.017644999999999997,
+                    "SubmissionNumber": 1780886,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100388230",
+                    "MaxOnsite": "04",
+                    "Pounds": 2552.0,
+                    "Score": 24.75857,
+                    "SubmissionNumber": 1780889,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100388242",
+                    "MaxOnsite": "03",
+                    "Pounds": 467.0,
+                    "Score": 0.008322,
+                    "SubmissionNumber": 1780890,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396100388255",
+                    "MaxOnsite": "03",
+                    "Pounds": 125.0,
+                    "Score": 0.48145,
+                    "SubmissionNumber": 1780891,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 9413.0,
+            "TotalScore": 262.980279,
+            "state_score_percentile": 58,
+            "us_score_percentile": 50
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1397110440599",
+                    "MaxOnsite": "04",
+                    "Pounds": 4938.0,
+                    "Score": 31.30914,
+                    "SubmissionNumber": 1862292,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110440601",
+                    "MaxOnsite": "05",
+                    "Pounds": 298.0,
+                    "Score": 181.6225,
+                    "SubmissionNumber": 1862293,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110440613",
+                    "MaxOnsite": "01",
+                    "Pounds": 403.0,
+                    "Score": 0.009138,
+                    "SubmissionNumber": 1862294,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110440625",
+                    "MaxOnsite": "02",
+                    "Pounds": 446.0,
+                    "Score": 0.008012,
+                    "SubmissionNumber": 1862295,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110440652",
+                    "MaxOnsite": "03",
+                    "Pounds": 2801.0,
+                    "Score": 27.01597,
+                    "SubmissionNumber": 1862298,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110440664",
+                    "MaxOnsite": "03",
+                    "Pounds": 3691.0,
+                    "Score": 0.065413,
+                    "SubmissionNumber": 1862299,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12577.0,
+            "TotalScore": 240.03017300000005,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "128041",
+                    "Chemical": "Sodium dimethyldithiocarbamate",
+                    "ChemicalNumber": 512,
+                    "DCN": "1398125349290",
+                    "MaxOnsite": "03",
+                    "Pounds": 100.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1984157,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125349314",
+                    "MaxOnsite": "01",
+                    "Pounds": 209.0,
+                    "Score": 0.005000999999999999,
+                    "SubmissionNumber": 1984159,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125349338",
+                    "MaxOnsite": "03",
+                    "Pounds": 348.0,
+                    "Score": 0.00777,
+                    "SubmissionNumber": 1984161,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398125349353",
+                    "MaxOnsite": "04",
+                    "Pounds": 2700.0,
+                    "Score": 25.91544,
+                    "SubmissionNumber": 1984163,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398125349377",
+                    "MaxOnsite": "05",
+                    "Pounds": 370.0,
+                    "Score": 229.4248,
+                    "SubmissionNumber": 1984165,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1398125349389",
+                    "MaxOnsite": "04",
+                    "Pounds": 4849.0,
+                    "Score": 30.76342,
+                    "SubmissionNumber": 1984166,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8576.0,
+            "TotalScore": 286.11643100000003,
+            "state_score_percentile": 59,
+            "us_score_percentile": 50
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1399130053818",
+                    "MaxOnsite": "04",
+                    "Pounds": 7016.0,
+                    "Score": 43.919709999999995,
+                    "SubmissionNumber": 1994966,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130053820",
+                    "MaxOnsite": "05",
+                    "Pounds": 360.0,
+                    "Score": 223.6693,
+                    "SubmissionNumber": 1994967,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130053832",
+                    "MaxOnsite": "04",
+                    "Pounds": 2846.0,
+                    "Score": 26.730520000000002,
+                    "SubmissionNumber": 1994968,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130053844",
+                    "MaxOnsite": "03",
+                    "Pounds": 5302.0,
+                    "Score": 0.092321,
+                    "SubmissionNumber": 1994969,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15524.0,
+            "TotalScore": 294.411851,
+            "state_score_percentile": 71,
+            "us_score_percentile": 61
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1300140365469",
+                    "MaxOnsite": "03",
+                    "Pounds": 6340.0,
+                    "Score": 39.51923,
+                    "SubmissionNumber": 31523,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300140365471",
+                    "MaxOnsite": "04",
+                    "Pounds": 86.0,
+                    "Score": 38.97894,
+                    "SubmissionNumber": 31524,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140365483",
+                    "MaxOnsite": "03",
+                    "Pounds": 2582.0,
+                    "Score": 24.12294,
+                    "SubmissionNumber": 31525,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140365495",
+                    "MaxOnsite": "03",
+                    "Pounds": 325.0,
+                    "Score": 0.007291,
+                    "SubmissionNumber": 31526,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300140365545",
+                    "MaxOnsite": "02",
+                    "Pounds": 129.0,
+                    "Score": 0.0031190000000000002,
+                    "SubmissionNumber": 31531,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9462.0,
+            "TotalScore": 102.63152,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1301150694925",
+                    "MaxOnsite": "04",
+                    "Pounds": 9474.0,
+                    "Score": 58.54647000000001,
+                    "SubmissionNumber": 156292,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150694937",
+                    "MaxOnsite": "04",
+                    "Pounds": 99.0,
+                    "Score": 43.4282,
+                    "SubmissionNumber": 156293,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150694952",
+                    "MaxOnsite": "03",
+                    "Pounds": 2423.0,
+                    "Score": 23.047079999999998,
+                    "SubmissionNumber": 156295,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150694964",
+                    "MaxOnsite": "03",
+                    "Pounds": 605.0,
+                    "Score": 0.012003,
+                    "SubmissionNumber": 156296,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1301150694990",
+                    "MaxOnsite": "02",
+                    "Pounds": 161.0,
+                    "Score": 0.003659,
+                    "SubmissionNumber": 156299,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12762.0,
+            "TotalScore": 125.037412,
+            "state_score_percentile": 74,
+            "us_score_percentile": 65
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200613976",
+                    "MaxOnsite": "02",
+                    "Pounds": 1510.0,
+                    "Score": 0.030012999999999998,
+                    "SubmissionNumber": 248662,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200613988",
+                    "MaxOnsite": "02",
+                    "Pounds": 2420.0,
+                    "Score": 22.99888,
+                    "SubmissionNumber": 248663,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1302200614004",
+                    "MaxOnsite": "01",
+                    "Pounds": 240.0,
+                    "Score": 0.005457,
+                    "SubmissionNumber": 248665,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200614016",
+                    "MaxOnsite": "04",
+                    "Pounds": 1800.0,
+                    "Score": 788.237,
+                    "SubmissionNumber": 248666,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1302200614028",
+                    "MaxOnsite": "02",
+                    "Pounds": 8630.0,
+                    "Score": 53.24718,
+                    "SubmissionNumber": 248667,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14600.0,
+            "TotalScore": 864.5185299999999,
+            "state_score_percentile": 77,
+            "us_score_percentile": 68
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1303201347871",
+                    "MaxOnsite": "04",
+                    "Pounds": 8630.0,
+                    "Score": 53.15604,
+                    "SubmissionNumber": 313883,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201347883",
+                    "MaxOnsite": "04",
+                    "Pounds": 1800.0,
+                    "Score": 786.87,
+                    "SubmissionNumber": 313884,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1303201347895",
+                    "MaxOnsite": "03",
+                    "Pounds": 240.0,
+                    "Score": 0.00545,
+                    "SubmissionNumber": 313885,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201347919",
+                    "MaxOnsite": "03",
+                    "Pounds": 350.0,
+                    "Score": 3.3247929999999997,
+                    "SubmissionNumber": 313887,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1303201347921",
+                    "MaxOnsite": "04",
+                    "Pounds": 1500.0,
+                    "Score": 0.029711,
+                    "SubmissionNumber": 313888,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 12520.0,
+            "TotalScore": 843.385994,
+            "state_score_percentile": 75,
+            "us_score_percentile": 67
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1304202251106",
+                    "MaxOnsite": "04",
+                    "Pounds": 8630.0,
+                    "Score": 53.06501,
+                    "SubmissionNumber": 394116,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202251118",
+                    "MaxOnsite": "04",
+                    "Pounds": 1800.0,
+                    "Score": 785.503,
+                    "SubmissionNumber": 394117,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304202251144",
+                    "MaxOnsite": "03",
+                    "Pounds": 360.0,
+                    "Score": 3.421641,
+                    "SubmissionNumber": 394119,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304202251157",
+                    "MaxOnsite": "04",
+                    "Pounds": 1500.0,
+                    "Score": 0.029668,
+                    "SubmissionNumber": 394120,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 12290.0,
+            "TotalScore": 842.0193190000001,
+            "state_score_percentile": 78,
+            "us_score_percentile": 68
+        }
+    },
+    "FIPS": "36015",
+    "FRSID": "110000498382",
+    "FacilityID": "14845TSHBWWESTI",
+    "FacilityNumber": 117577,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14778,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.161663,
+    "Longitude": -76.840377,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 18,
+            "us_pounds_pct": 44,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 53,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 33,
+            "us_score_pct": 66
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 53,
+            "us_score_pct": 80
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 42,
+            "us_score_pct": 57
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 38,
+            "us_score_pct": 61
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 78
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 66,
+            "us_score_pct": 91
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 63,
+            "us_score_pct": 90
+        },
+        "naicscode": "334411",
+        "name": "Electron Tube Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0161616",
+    "Name": "MATSUSHITA TOSHIBA PICTURE DISPLAY CORP OF AMERICA (NEW YORK",
+    "NearComID": 8117811,
+    "NearReach": "02050105000726",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "MATSUSHITA TOSHIBA PICTURE DISPLAY CO LTD",
+    "PreferredLat": 42.15944,
+    "PreferredLong": 76.83861,
+    "PublicContactName": "MIKE LENZNER",
+    "PublicContactPhone": "6077963528",
+    "RCRANumber": "NYD981484785",
+    "RadialDistance": 2769448,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 20,
+            "us_pounds_pct": 50,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 56,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 37,
+            "us_score_pct": 62
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 56,
+            "us_score_pct": 75
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 46,
+            "us_score_pct": 53
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 42,
+            "us_score_pct": 57
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 78
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 92
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 66,
+            "us_score_pct": 91
+        },
+        "name": "Electron tubes",
+        "siccode": "3671"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6776,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.2633,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.7654,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "100 WESTINGHOUSE CIR",
+    "SubmitLat": 42.15944,
+    "SubmitLong": 76.83861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1928,
+    "Y": 2823,
+    "ZIP9": "14845",
+    "ZIPCode": "14845"
+}

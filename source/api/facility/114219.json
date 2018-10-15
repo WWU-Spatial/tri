@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH KEARNY",
+    "County": "NJ,HUDSON",
+    "DUNS": "602877151",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6227.964896,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105046407",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.8136680000000001,
+                    "SubmissionNumber": 1793715,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.8136680000000001,
+            "state_score_percentile": 5,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115040418",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.8268960000000001,
+                    "SubmissionNumber": 1878091,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.8268960000000001,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "34017",
+    "FRSID": "110000858992",
+    "FacilityID": "07032STNSN2HACK",
+    "FacilityNumber": 114219,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.72917,
+    "Longitude": -74.10386,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 27,
+            "state_score_pct": 22,
+            "us_count": 122,
+            "us_pounds_pct": 11,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 27,
+            "state_score_pct": 22,
+            "us_count": 96,
+            "us_pounds_pct": 9,
+            "us_score_pct": 25
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "POLLITT INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.79944,
+    "PreferredLong": 74.11611,
+    "PublicContactName": "RICHARD RANDAZZO",
+    "PublicContactPhone": "9733448666",
+    "RCRANumber": "NJN008019614",
+    "RadialDistance": 2837764,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 113,
+            "us_pounds_pct": 10,
+            "us_score_pct": 24
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 87,
+            "us_pounds_pct": 8,
+            "us_score_pct": 22
+        },
+        "name": "Soap and other detergents, except specialty cleaners",
+        "siccode": "2841"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "2 N. HACKENSACK AVE.",
+    "SubmitLat": 74.11611,
+    "SubmitLong": 40.79944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2244,
+    "Y": 2690,
+    "ZIP9": "07032",
+    "ZIPCode": "07032"
+}

@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CUTLER",
+    "County": "ME,WASHINGTON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 267317.671657,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "92524",
+                    "Chemical": "Biphenyl",
+                    "ChemicalNumber": 60,
+                    "DCN": "1304202808539",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.0021650000000000003,
+                    "SubmissionNumber": 445299,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1336363",
+                    "Chemical": "Polychlorinated biphenyls (PCBs)",
+                    "ChemicalNumber": 474,
+                    "DCN": "1304202809000",
+                    "MaxOnsite": "02",
+                    "Pounds": 14.0,
+                    "Score": 2.92578,
+                    "SubmissionNumber": 445342,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304202809125",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.008438,
+                    "SubmissionNumber": 445353,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304202809339",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 2.81263,
+                    "SubmissionNumber": 445374,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1269.0,
+            "TotalScore": 5.749013,
+            "state_score_percentile": 47,
+            "us_score_percentile": 45
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "1336363",
+                    "Chemical": "Polychlorinated biphenyls (PCBs)",
+                    "ChemicalNumber": 474,
+                    "DCN": "1305203368105",
+                    "MaxOnsite": "02",
+                    "Pounds": 18.0,
+                    "Score": 3.73949,
+                    "SubmissionNumber": 495333,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18.0,
+            "TotalScore": 3.73949,
+            "state_score_percentile": 27,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "23029",
+    "FRSID": "110000601714",
+    "FacilityID": "04626NVLCMRTE19",
+    "FacilityNumber": 112960,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.666854,
+    "Longitude": -67.277724,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 155,
+            "us_pounds_pct": 74,
+            "us_score_pct": 39
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 150,
+            "us_pounds_pct": 26,
+            "us_score_pct": 32
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "US NAVY NCTAMS LANT DET CUTLER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": 44.6375,
+    "PreferredLong": 67.29306,
+    "PublicContactName": "LISA M. JOY",
+    "PublicContactPhone": "2079211720",
+    "RCRANumber": "ME5170024355",
+    "RadialDistance": 3545476,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 145,
+            "us_pounds_pct": 75,
+            "us_score_pct": 39
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 142,
+            "us_pounds_pct": 25,
+            "us_score_pct": 32
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.8352,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 14.1133,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.0496,
+    "StackVelocitySource": "Fac Spec",
+    "State": "ME",
+    "Street": "173 RIDGE RD",
+    "SubmitLat": 44.6375,
+    "SubmitLong": 67.29306,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2764,
+    "Y": 3394,
+    "ZIP9": "04626",
+    "ZIPCode": "04626"
+}

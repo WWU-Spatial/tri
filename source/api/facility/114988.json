@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 2586331,
+    "AssignedReach": "02040105000507",
+    "City": "HACKETTSTOWN",
+    "County": "NJ,WARREN",
+    "DUNS": "003001757",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 56112.267303,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105233581",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.017125,
+                    "SubmissionNumber": 1806125,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.017125,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110151483",
+                    "MaxOnsite": "03",
+                    "Pounds": 15.0,
+                    "Score": 0.051943,
+                    "SubmissionNumber": 1837335,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 0.051943,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "34041",
+    "FRSID": "110000320714",
+    "FacilityID": "07840MMMRSHIGHS",
+    "FacilityNumber": 114988,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14737,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.86127,
+    "Longitude": -74.82752,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "311330",
+        "name": "Confectionery Manufacturing from Purchased Chocolate"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3113",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MARS CHOCOLATE NORTH AMERICA LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.8625,
+    "PreferredLong": 74.825,
+    "PublicContactName": "LAUREN NODZAK",
+    "PublicContactPhone": "9088521000",
+    "RCRANumber": "NJD003001757",
+    "RadialDistance": 2798872,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 30,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "name": "Candy and other confectionary products",
+        "siccode": "2064"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "206",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 17.6784,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "700 HIGH ST",
+    "SubmitLat": 40.8625,
+    "SubmitLong": 74.825,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2167,
+    "Y": 2691,
+    "ZIP9": "07840",
+    "ZIPCode": "07840"
+}

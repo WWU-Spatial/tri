@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ISABELA",
+    "County": "PR,ISABELA",
+    "DUNS": "066754250",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 108652.781579,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105177998",
+                    "MaxOnsite": "03",
+                    "Pounds": 15485.0,
+                    "Score": 0.690676,
+                    "SubmissionNumber": 1802453,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105178002",
+                    "MaxOnsite": "03",
+                    "Pounds": 27930.0,
+                    "Score": 1.25152,
+                    "SubmissionNumber": 1802454,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 43415.0,
+            "TotalScore": 1.942196,
+            "state_score_percentile": 82,
+            "us_score_percentile": 76
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115255287",
+                    "MaxOnsite": "03",
+                    "Pounds": 12758.0,
+                    "Score": 0.578658,
+                    "SubmissionNumber": 1889371,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115255299",
+                    "MaxOnsite": "03",
+                    "Pounds": 16584.0,
+                    "Score": 0.748732,
+                    "SubmissionNumber": 1889372,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29342.0,
+            "TotalScore": 1.3273899999999998,
+            "state_score_percentile": 79,
+            "us_score_percentile": 70
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300145172401",
+                    "MaxOnsite": "03",
+                    "Pounds": 10800.0,
+                    "Score": 0.505252,
+                    "SubmissionNumber": 85795,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1300145172413",
+                    "MaxOnsite": "03",
+                    "Pounds": 22800.0,
+                    "Score": 1.07156,
+                    "SubmissionNumber": 85796,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 33600.0,
+            "TotalScore": 1.576812,
+            "state_score_percentile": 77,
+            "us_score_percentile": 75
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1301150056190",
+                    "MaxOnsite": "04",
+                    "Pounds": 13860.0,
+                    "Score": 0.659297,
+                    "SubmissionNumber": 99277,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150056202",
+                    "MaxOnsite": "03",
+                    "Pounds": 4400.0,
+                    "Score": 0.208348,
+                    "SubmissionNumber": 99278,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18260.0,
+            "TotalScore": 0.867645,
+            "state_score_percentile": 76,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "72071",
+    "FRSID": "110000858858",
+    "FacilityID": "00662TDRFTRD112",
+    "FacilityNumber": 110266,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.482277,
+    "Longitude": -67.029516,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 87,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 64
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 81,
+            "us_score_pct": 90
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 55,
+            "us_score_pct": 77
+        },
+        "naicscode": "316213",
+        "name": "Men's Footwear (except Athletic) Manufacturing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3162",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "OUTDOOR FOOTWEAR CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "066754250",
+    "ParentName": "TIMBERLAND CO",
+    "PreferredLat": 18.4825,
+    "PreferredLong": 67.02917,
+    "PublicContactName": "EDDY FONTANA",
+    "PublicContactPhone": "7878722140",
+    "RCRANumber": "PRD101790020",
+    "RadialDistance": 98214,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 87,
+            "us_score_pct": 68
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 64
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 80,
+            "us_score_pct": 90
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 55,
+            "us_score_pct": 77
+        },
+        "name": "Men's footwear, except athletic",
+        "siccode": "3143"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "314",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.9827,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "STATE RD. 112 KM 2.1 MORA WARD",
+    "SubmitLat": 18.4825,
+    "SubmitLong": 67.02917,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -102,
+    "Y": 66,
+    "ZIP9": "00662",
+    "ZIPCode": "00662"
+}

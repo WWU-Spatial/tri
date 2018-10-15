@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CANTON",
+    "County": "NY,ST LAWRENCE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 149605.819762,
+    "DistanceToReach": 61.920908,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120744103",
+                    "MaxOnsite": "03",
+                    "Pounds": 43.0,
+                    "Score": 2.1769,
+                    "SubmissionNumber": 1956283,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120744115",
+                    "MaxOnsite": "05",
+                    "Pounds": 3881.0,
+                    "Score": 1.09154,
+                    "SubmissionNumber": 1956284,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3924.0,
+            "TotalScore": 3.26844,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130314608",
+                    "MaxOnsite": "03",
+                    "Pounds": 64.0,
+                    "Score": 3.26605,
+                    "SubmissionNumber": 2016826,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399130314610",
+                    "MaxOnsite": "05",
+                    "Pounds": 3443.0,
+                    "Score": 0.976128,
+                    "SubmissionNumber": 2016827,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3507.0,
+            "TotalScore": 4.242178,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "36089",
+    "FRSID": "110000326040",
+    "FacilityID": "13617ZCMNS5398C",
+    "FacilityNumber": 116847,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.51177,
+    "Longitude": -75.036273,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 58,
+            "us_score_pct": 25
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 52,
+            "us_score_pct": 30
+        },
+        "naicscode": "212231",
+        "name": "Lead Ore and Zinc Ore Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2122",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 4,
+    "NPDESPermit": "NY0109126",
+    "Name": "ZINC CORPORATION OF AMERICA MINES INC PIERREPONT MINE",
+    "NearComID": 15476085,
+    "NearReach": "04150304000292",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "609074703",
+    "ParentName": "HORSEHEAD INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WILLIAM TRAINER",
+    "PublicContactPhone": "7247741020",
+    "RCRANumber": "NY0109126",
+    "RadialDistance": 3057074,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 54,
+            "us_score_pct": 29
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 47,
+            "us_score_pct": 30
+        },
+        "name": "Lead and zinc ores",
+        "siccode": "1031"
+    },
+    "SICCode2Digit": "10",
+    "SICCode3Digit": "103",
+    "SICCodeSame2Digit": "10",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3444,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.6286,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "5398 COUNTY RTE. 24",
+    "SubmitLat": 44.51056,
+    "SubmitLong": 75.03444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2036,
+    "Y": 3178,
+    "ZIP9": "13617",
+    "ZIPCode": "13617"
+}

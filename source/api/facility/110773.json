@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FITCHBURG",
+    "County": "MA,WORCESTER",
+    "DUNS": "188123996",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64798.845962,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140664475",
+                    "MaxOnsite": "01",
+                    "Pounds": 2904.0,
+                    "Score": 83419.1,
+                    "SubmissionNumber": 51114,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140664487",
+                    "MaxOnsite": "01",
+                    "Pounds": 31.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 51115,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 2935.0,
+            "TotalScore": 83419.1,
+            "state_score_percentile": 55,
+            "us_score_percentile": 42
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206469948",
+                    "MaxOnsite": "01",
+                    "Pounds": 12.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 770984,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206469963",
+                    "MaxOnsite": "01",
+                    "Pounds": 1119.0,
+                    "Score": 31909.0,
+                    "SubmissionNumber": 770986,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 1131.0,
+            "TotalScore": 31909.0,
+            "state_score_percentile": 63,
+            "us_score_percentile": 48
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000308685",
+    "FacilityID": "01420SMNDS100IN",
+    "FacilityNumber": 110773,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.569807,
+    "Longitude": -71.774196,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 71,
+            "us_score_pct": 85
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 6,
+            "us_pounds_pct": 100,
+            "us_score_pct": 83
+        },
+        "naicscode": "332213",
+        "name": "Saw Blade and Handsaw Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3322",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIMONDS INTERNATIONAL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "188123996",
+    "ParentName": "SIMONDS INDUSTRIES INC",
+    "PreferredLat": 42.56889,
+    "PreferredLong": 71.75222,
+    "PublicContactName": "JOHN VOGT",
+    "PublicContactPhone": "9784240233",
+    "RCRANumber": "MAD019367176",
+    "RadialDistance": 3115320,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 62,
+            "us_score_pct": 87
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 7,
+            "us_pounds_pct": 85,
+            "us_score_pct": 85
+        },
+        "name": "Handsaws and saw blades",
+        "siccode": "3425"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "342",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.7069,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 30.48,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.048,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "135 INTERVALE RD",
+    "SubmitLat": 42.56861,
+    "SubmitLong": 71.77417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2414,
+    "Y": 2994,
+    "ZIP9": "01420",
+    "ZIPCode": "01420"
+}

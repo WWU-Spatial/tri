@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELIZABETH",
+    "County": "NJ,UNION",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4554.886394,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1304202886610",
+                    "MaxOnsite": "03",
+                    "Pounds": 16335.0,
+                    "Score": 42.4092,
+                    "SubmissionNumber": 452350,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16335.0,
+            "TotalScore": 42.4092,
+            "state_score_percentile": 84,
+            "us_score_percentile": 72
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1305203676628",
+                    "MaxOnsite": "07",
+                    "Pounds": 14400.0,
+                    "Score": 37.4851,
+                    "SubmissionNumber": 524235,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 14400.0,
+            "TotalScore": 37.4851,
+            "state_score_percentile": 85,
+            "us_score_percentile": 71
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1306205110051",
+                    "MaxOnsite": "03",
+                    "Pounds": 13200.0,
+                    "Score": 34.4526,
+                    "SubmissionNumber": 650666,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 13200.0,
+            "TotalScore": 34.4526,
+            "state_score_percentile": 84,
+            "us_score_percentile": 70
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110022522153",
+    "FacilityID": "07201PKMCH52YRK",
+    "FacilityNumber": 114619,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.663507,
+    "Longitude": -74.191617,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 45,
+            "us_pounds_pct": 82,
+            "us_score_pct": 60
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 77,
+            "us_score_pct": 63
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 76,
+            "us_score_pct": 60
+        },
+        "naicscode": "327215",
+        "name": "Glass Product Manufacturing Made of Purchased Glass"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3272",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PIKE DOORS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ANTHONY INTERNATIONAL",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ANDERSON",
+    "PublicContactPhone": "9083520020",
+    "RCRANumber": "NA",
+    "RadialDistance": 2827466,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 615,
+            "us_pounds_pct": 59,
+            "us_score_pct": 82
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 610,
+            "us_pounds_pct": 58,
+            "us_score_pct": 83
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 85,
+            "us_count": 569,
+            "us_pounds_pct": 57,
+            "us_score_pct": 83
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "502 YORK ST",
+    "SubmitLat": 40.65111,
+    "SubmitLong": 74.18861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2679,
+    "ZIP9": "07201",
+    "ZIPCode": "07201"
+}

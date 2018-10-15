@@ -1,0 +1,353 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLAINSBORO",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "071611743",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55953.948522,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100075706",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.019691,
+                    "SubmissionNumber": 1754662,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1396100075718",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1.688514,
+                    "SubmissionNumber": 1754663,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1.708205,
+            "state_score_percentile": 34,
+            "us_score_percentile": 28
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110088806",
+                    "MaxOnsite": "03",
+                    "Pounds": 222.0,
+                    "Score": 0.008343,
+                    "SubmissionNumber": 1831743,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 222.0,
+            "TotalScore": 0.008343,
+            "state_score_percentile": 13,
+            "us_score_percentile": 13
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "98953",
+                    "Chemical": "Nitrobenzene",
+                    "ChemicalNumber": 414,
+                    "DCN": "1398120141890",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 11.70532,
+                    "SubmissionNumber": 1911302,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 11.70532,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "98953",
+                    "Chemical": "Nitrobenzene",
+                    "ChemicalNumber": 414,
+                    "DCN": "1399130087859",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 11.88465,
+                    "SubmissionNumber": 1997792,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 11.88465,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140303088",
+                    "MaxOnsite": "04",
+                    "Pounds": 7522.0,
+                    "Score": 0.352348,
+                    "SubmissionNumber": 27246,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7522.0,
+            "TotalScore": 0.352348,
+            "state_score_percentile": 66,
+            "us_score_percentile": 53
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1301150366300",
+                    "MaxOnsite": "04",
+                    "Pounds": 2729.0,
+                    "Score": 0.129505,
+                    "SubmissionNumber": 127078,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2729.0,
+            "TotalScore": 0.129505,
+            "state_score_percentile": 56,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000582209",
+    "FacilityID": "08536FMCCRPLAIN",
+    "FacilityNumber": 115356,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.335556,
+    "Longitude": -74.624083,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 145,
+            "us_pounds_pct": 27,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 144,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 135,
+            "us_pounds_pct": 19,
+            "us_score_pct": 22
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 131,
+            "us_pounds_pct": 22,
+            "us_score_pct": 25
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 134,
+            "us_pounds_pct": 68,
+            "us_score_pct": 16
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 123,
+            "us_pounds_pct": 55,
+            "us_score_pct": 8
+        },
+        "naicscode": "325320",
+        "name": "Pesticide and Other Agricultural Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3253",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0127736",
+    "Name": "FMC CORP. CHEMICAL R&D CENTER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "009146945",
+    "ParentName": "FMC CORP",
+    "PreferredLat": 40.33333,
+    "PreferredLong": 74.625,
+    "PublicContactName": "BARBARA RITCHIE",
+    "PublicContactPhone": "6099513818",
+    "RCRANumber": "NJD000586164",
+    "RadialDistance": 2776329,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 30,
+            "us_score_pct": 15
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 149,
+            "us_pounds_pct": 10,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 141,
+            "us_pounds_pct": 20,
+            "us_score_pct": 24
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 138,
+            "us_pounds_pct": 23,
+            "us_score_pct": 26
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 68,
+            "us_score_pct": 15
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 128,
+            "us_pounds_pct": 54,
+            "us_score_pct": 7
+        },
+        "name": "Pesticides and agricultural chemicals, n.e.c.",
+        "siccode": "2879"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 20,
+            "state_pounds_pct": 30,
+            "state_score_pct": 5,
+            "us_count": 459,
+            "us_pounds_pct": 35,
+            "us_score_pct": 14
+        },
+        "1997": {
+            "state_count": 19,
+            "state_pounds_pct": 21,
+            "state_score_pct": 5,
+            "us_count": 453,
+            "us_pounds_pct": 18,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 33,
+            "state_score_pct": 23,
+            "us_count": 454,
+            "us_pounds_pct": 26,
+            "us_score_pct": 22
+        },
+        "1999": {
+            "state_count": 20,
+            "state_pounds_pct": 40,
+            "state_score_pct": 30,
+            "us_count": 463,
+            "us_pounds_pct": 29,
+            "us_score_pct": 23
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 63,
+            "state_score_pct": 5,
+            "us_count": 470,
+            "us_pounds_pct": 58,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 21,
+            "state_pounds_pct": 66,
+            "state_score_pct": 4,
+            "us_count": 460,
+            "us_pounds_pct": 49,
+            "us_score_pct": 3
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "287",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.143,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.24,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.4681,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "US RTE. 1 & PLAINSBORO RD.",
+    "SubmitLat": 40.33333,
+    "SubmitLong": 74.625,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2204,
+    "Y": 2625,
+    "ZIP9": "085360293",
+    "ZIPCode": "08536"
+}

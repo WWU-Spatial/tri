@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST BABYLON",
+    "County": "NY,SUFFOLK",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65785.007848,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203927417",
+                    "MaxOnsite": "03",
+                    "Pounds": 2611.0,
+                    "Score": 2.499533,
+                    "SubmissionNumber": 547113,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2611.0,
+            "TotalScore": 2.499533,
+            "state_score_percentile": 61,
+            "us_score_percentile": 52
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204588913",
+                    "MaxOnsite": "03",
+                    "Pounds": 21195.0,
+                    "Score": 20.112911999999998,
+                    "SubmissionNumber": 606407,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21195.0,
+            "TotalScore": 20.112911999999998,
+            "state_score_percentile": 85,
+            "us_score_percentile": 76
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205400207",
+                    "MaxOnsite": "03",
+                    "Pounds": 5373.0,
+                    "Score": 5.117971,
+                    "SubmissionNumber": 677558,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1307205400219",
+                    "MaxOnsite": "03",
+                    "Pounds": 7.0,
+                    "Score": 2.14278,
+                    "SubmissionNumber": 677559,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5380.0,
+            "TotalScore": 7.260751,
+            "state_score_percentile": 70,
+            "us_score_percentile": 61
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206326542",
+                    "MaxOnsite": "03",
+                    "Pounds": 7203.0,
+                    "Score": 6.853219,
+                    "SubmissionNumber": 757377,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7203.0,
+            "TotalScore": 6.853219,
+            "state_score_percentile": 76,
+            "us_score_percentile": 66
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207479282",
+                    "MaxOnsite": "03",
+                    "Pounds": 3856.0,
+                    "Score": 3.680788,
+                    "SubmissionNumber": 861193,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3856.0,
+            "TotalScore": 3.680788,
+            "state_score_percentile": 72,
+            "us_score_percentile": 62
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110023138451",
+    "FacilityID": "11704PNLWN38PAT",
+    "FacilityNumber": 116112,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.737313,
+    "Longitude": -73.387444,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 33,
+            "state_pounds_pct": 21,
+            "state_score_pct": 3,
+            "us_count": 621,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "2006": {
+            "state_count": 31,
+            "state_pounds_pct": 38,
+            "state_score_pct": 19,
+            "us_count": 610,
+            "us_pounds_pct": 20,
+            "us_score_pct": 18
+        },
+        "2007": {
+            "state_count": 31,
+            "state_pounds_pct": 25,
+            "state_score_pct": 9,
+            "us_count": 633,
+            "us_pounds_pct": 15,
+            "us_score_pct": 15
+        },
+        "2008": {
+            "state_count": 29,
+            "state_pounds_pct": 44,
+            "state_score_pct": 20,
+            "us_count": 622,
+            "us_pounds_pct": 16,
+            "us_score_pct": 14
+        },
+        "2009": {
+            "state_count": 30,
+            "state_pounds_pct": 40,
+            "state_score_pct": 13,
+            "us_count": 614,
+            "us_pounds_pct": 16,
+            "us_score_pct": 13
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PINELAWN POWER",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "PINELAWN POWER LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KENNETH FORD",
+    "PublicContactPhone": "6316431560",
+    "RCRANumber": "NYR000129080",
+    "RadialDistance": 2886607,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2005": {
+            "state_count": 32,
+            "state_pounds_pct": 25,
+            "state_score_pct": 6,
+            "us_count": 612,
+            "us_pounds_pct": 12,
+            "us_score_pct": 9
+        },
+        "2006": {
+            "state_count": 29,
+            "state_pounds_pct": 37,
+            "state_score_pct": 20,
+            "us_count": 588,
+            "us_pounds_pct": 20,
+            "us_score_pct": 18
+        },
+        "2007": {
+            "state_count": 29,
+            "state_pounds_pct": 20,
+            "state_score_pct": 10,
+            "us_count": 607,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 27,
+            "state_pounds_pct": 40,
+            "state_score_pct": 22,
+            "us_count": 596,
+            "us_pounds_pct": 15,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 29,
+            "state_pounds_pct": 41,
+            "state_score_pct": 17,
+            "us_count": 585,
+            "us_pounds_pct": 16,
+            "us_score_pct": 12
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NY",
+    "Street": "380 PATTON AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2316,
+    "Y": 2708,
+    "ZIP9": "11704",
+    "ZIPCode": "11704"
+}

@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEYMOUTH",
+    "County": "MA,NORFOLK",
+    "DUNS": "167520381",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 14957.135597,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204827188",
+                    "MaxOnsite": "05",
+                    "Pounds": 47656.0,
+                    "Score": 24.171028,
+                    "SubmissionNumber": 628466,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204827190",
+                    "MaxOnsite": "02",
+                    "Pounds": 282.5,
+                    "Score": 73.2977,
+                    "SubmissionNumber": 628467,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204827226",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.6,
+                    "Score": 9.52755,
+                    "SubmissionNumber": 628470,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 47939.1,
+            "TotalScore": 106.996278,
+            "state_score_percentile": 97,
+            "us_score_percentile": 84
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205806742",
+                    "MaxOnsite": "05",
+                    "Pounds": 13463.0,
+                    "Score": 6.8378749999999995,
+                    "SubmissionNumber": 713602,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13463.0,
+            "TotalScore": 6.8378749999999995,
+            "state_score_percentile": 91,
+            "us_score_percentile": 72
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206851723",
+                    "MaxOnsite": "04",
+                    "Pounds": 11470.0,
+                    "Score": 5.834776000000001,
+                    "SubmissionNumber": 806689,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11470.0,
+            "TotalScore": 5.834776000000001,
+            "state_score_percentile": 89,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110024352289",
+    "FacilityID": "02191FRRVR9BRID",
+    "FacilityNumber": 111725,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.243028,
+    "Longitude": -70.962106,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 53,
+            "us_count": 610,
+            "us_pounds_pct": 28,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 31,
+            "us_count": 633,
+            "us_pounds_pct": 19,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 15,
+            "state_pounds_pct": 60,
+            "state_score_pct": 26,
+            "us_count": 622,
+            "us_pounds_pct": 19,
+            "us_score_pct": 13
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FORE RIVER STATION",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "150723745",
+    "ParentName": "FORE RIVER DEVELOPMENT LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GARY J. BASILESCO",
+    "PublicContactPhone": "6173812335",
+    "RCRANumber": "MAD000842393",
+    "RadialDistance": 3148005,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 14,
+            "state_pounds_pct": 57,
+            "state_score_pct": 50,
+            "us_count": 588,
+            "us_pounds_pct": 27,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 15,
+            "state_pounds_pct": 53,
+            "state_score_pct": 26,
+            "us_count": 607,
+            "us_pounds_pct": 18,
+            "us_score_pct": 14
+        },
+        "2008": {
+            "state_count": 14,
+            "state_pounds_pct": 57,
+            "state_score_pct": 28,
+            "us_count": 596,
+            "us_pounds_pct": 18,
+            "us_score_pct": 13
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "MA",
+    "Street": "9 BRIDGE ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2505,
+    "Y": 2972,
+    "ZIP9": "02191",
+    "ZIPCode": "02191"
+}

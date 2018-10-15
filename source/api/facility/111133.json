@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WOBURN",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "092194869",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18555.923406,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105066106",
+                    "MaxOnsite": "03",
+                    "Pounds": 13.0,
+                    "Score": 12825.9,
+                    "SubmissionNumber": 1795107,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105066118",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 38915.9,
+                    "SubmissionNumber": 1795108,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396105066120",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 37.41421,
+                    "SubmissionNumber": 1795109,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 519.0,
+            "TotalScore": 51779.214210000006,
+            "state_score_percentile": 25,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1397115182735",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 32.2387,
+                    "SubmissionNumber": 1885704,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 32.2387,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110009588696",
+    "FacilityID": "01801LCKMN44SIX",
+    "FacilityNumber": 111133,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.510633,
+    "Longitude": -71.148417,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 79,
+            "us_pounds_pct": 26,
+            "us_score_pct": 69
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 76,
+            "us_pounds_pct": 5,
+            "us_score_pct": 17
+        },
+        "naicscode": "336412",
+        "name": "Aircraft Engine and Engine Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "LKM INDUSTRIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.5102,
+    "PreferredLong": 71.1475,
+    "PublicContactName": "WILLIAM E. NUNNELLEY",
+    "PublicContactPhone": "7819359210",
+    "RCRANumber": "MAD092194869",
+    "RadialDistance": 3152757,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 76,
+            "us_pounds_pct": 28,
+            "us_score_pct": 69
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 75,
+            "us_pounds_pct": 6,
+            "us_score_pct": 20
+        },
+        "name": "Aircraft engines and engine parts",
+        "siccode": "3724"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "44 SIXTH RD.",
+    "SubmitLat": 42.50278,
+    "SubmitLong": 71.25,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2477,
+    "Y": 3002,
+    "ZIP9": "01801",
+    "ZIPCode": "01801"
+}

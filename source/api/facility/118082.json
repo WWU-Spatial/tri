@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PUNXSUTAWNEY",
+    "County": "PA,JEFFERSON",
+    "DUNS": "148634632",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 115116.142223,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399135032237",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.021322,
+                    "SubmissionNumber": 2060279,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.021322,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300145149415",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 0.004227,
+                    "SubmissionNumber": 84485,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.004227,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "42065",
+    "FRSID": "110042030548",
+    "FacilityID": "15767BFGLC500CH",
+    "FacilityNumber": 118082,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.947489,
+    "Longitude": -78.984134,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 19,
+            "state_pounds_pct": 15,
+            "state_score_pct": 10,
+            "us_count": 47,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2000": {
+            "state_count": 18,
+            "state_pounds_pct": 8,
+            "state_score_pct": 5,
+            "us_count": 46,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "naicscode": "332117",
+        "name": "Powder Metallurgy Part Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SINTERGY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.94556,
+    "PreferredLong": 78.98528,
+    "PublicContactName": "RICK YOUNG",
+    "PublicContactPhone": "8146539640",
+    "RCRANumber": "PAD987393725",
+    "RadialDistance": 2547913,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1999": {
+            "state_count": 31,
+            "state_pounds_pct": 14,
+            "state_score_pct": 6,
+            "us_count": 534,
+            "us_pounds_pct": 5,
+            "us_score_pct": 1
+        },
+        "2000": {
+            "state_count": 31,
+            "state_pounds_pct": 3,
+            "state_score_pct": 3,
+            "us_count": 537,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "500 CHESTNUT ST",
+    "SubmitLat": 40.9475,
+    "SubmitLong": 78.98417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1745,
+    "Y": 2617,
+    "ZIP9": "15767",
+    "ZIPCode": "15767"
+}

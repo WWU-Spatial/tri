@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "198429920",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11617.156121,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105225433",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 3038.87,
+                    "SubmissionNumber": 1805578,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 3038.87,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397115154977",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 3023.33,
+                    "SubmissionNumber": 1884461,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 3023.33,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1300140237621",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.002381,
+                    "Score": 0.0,
+                    "SubmissionNumber": 21370,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300145186565",
+                    "MaxOnsite": "01",
+                    "Pounds": 86.225,
+                    "Score": 79.7789,
+                    "SubmissionNumber": 86754,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 86.227381,
+            "TotalScore": 79.7789,
+            "state_score_percentile": 16,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110001100175",
+    "FacilityID": "15225KSMSC200NE",
+    "FacilityNumber": 117850,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.49214,
+    "Longitude": -80.07991,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 59,
+            "us_pounds_pct": 17,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 85,
+            "us_count": 61,
+            "us_pounds_pct": 11,
+            "us_score_pct": 72
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 45,
+            "us_count": 109,
+            "us_pounds_pct": 27,
+            "us_score_pct": 38
+        },
+        "naicscode": "327310",
+        "name": "Cement Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "PA0091774",
+    "Name": "KOSMOS CEMENT CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.48333,
+    "PreferredLong": 80.06667,
+    "PublicContactName": "DAN HEINTZ",
+    "PublicContactPhone": "7136536956",
+    "RCRANumber": "PAD084365956",
+    "RadialDistance": 2447866,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 61,
+            "us_pounds_pct": 17,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 85,
+            "us_count": 63,
+            "us_pounds_pct": 11,
+            "us_score_pct": 73
+        },
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 45,
+            "us_count": 108,
+            "us_pounds_pct": 25,
+            "us_score_pct": 37
+        },
+        "name": "Cement, hydraulic",
+        "siccode": "3241"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "324",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 15.24,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.24,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "200 NEVILLE RD.",
+    "SubmitLat": 40.49139,
+    "SubmitLong": 80.06778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1644,
+    "Y": 2536,
+    "ZIP9": "15225",
+    "ZIPCode": "15225"
+}

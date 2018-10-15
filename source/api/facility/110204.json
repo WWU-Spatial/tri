@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CAROLINA",
+    "County": "PR,SAN JUAN",
+    "DUNS": "091103309",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5484.363236,
+    "DistanceToReach": 180.482895,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1396100118203",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 4.31436,
+                    "SubmissionNumber": 1758354,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 4.31436,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1397110084682",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 4.3275,
+                    "SubmissionNumber": 1831366,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 4.3275,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1398125202604",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 10.8516,
+                    "SubmissionNumber": 1976975,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 10.8516,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "72127",
+    "FRSID": "110007807604",
+    "FacilityID": "00630BXTRHBOSAN",
+    "FacilityNumber": 110204,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.387117,
+    "Longitude": -65.980834,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 27,
+            "state_pounds_pct": 3,
+            "state_score_pct": 29,
+            "us_count": 150,
+            "us_pounds_pct": 1,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 20,
+            "state_pounds_pct": 5,
+            "state_score_pct": 25,
+            "us_count": 139,
+            "us_pounds_pct": 0,
+            "us_score_pct": 41
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 10,
+            "state_score_pct": 43,
+            "us_count": 137,
+            "us_pounds_pct": 3,
+            "us_score_pct": 54
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 21,
+    "NPDESPermit": "PR0000451",
+    "Name": "BAXTER HEALTHCARE CORP. OF PR",
+    "NearComID": 26435432,
+    "NearReach": "21010005003287",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "180532558",
+    "ParentName": "BAXTER SALES CORP",
+    "PreferredLat": 18.38917,
+    "PreferredLong": 65.97778,
+    "PublicContactName": "ROBERTO PICCIONI",
+    "PublicContactPhone": "8472704522",
+    "RCRANumber": "PRD091199331",
+    "RadialDistance": 51446,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 25,
+            "state_pounds_pct": 4,
+            "state_score_pct": 28,
+            "us_count": 146,
+            "us_pounds_pct": 0,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 5,
+            "state_score_pct": 22,
+            "us_count": 136,
+            "us_pounds_pct": 0,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 11,
+            "state_score_pct": 42,
+            "us_count": 135,
+            "us_pounds_pct": 4,
+            "us_score_pct": 54
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.716,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 2.6079,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "BO. SAN ANTON RD. 887 KM 1.2",
+    "SubmitLat": 18.38917,
+    "SubmitLong": 65.97778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 35,
+    "Y": 53,
+    "ZIP9": "00987",
+    "ZIPCode": "00987"
+}

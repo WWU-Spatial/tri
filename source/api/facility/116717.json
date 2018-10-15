@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 15512710,
+    "AssignedReach": "04150101000262",
+    "City": "BEAVER FALLS",
+    "County": "NY,LEWIS",
+    "DUNS": "926081712",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 101833.46021,
+    "DistanceToReach": 193.158867,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1309207670593",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.57009,
+                    "SubmissionNumber": 879214,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 0.57009,
+            "state_score_percentile": 58,
+            "us_score_percentile": 49
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208552950",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 0.5602579999999999,
+                    "SubmissionNumber": 957097,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 0.5602579999999999,
+            "state_score_percentile": 58,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "36049",
+    "FRSID": "110014425069",
+    "FacilityID": "13305BSCSCMAINS",
+    "FacilityNumber": 116717,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.88547,
+    "Longitude": -75.42864,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 24,
+            "us_pounds_pct": 54,
+            "us_score_pct": 54
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 25,
+            "us_pounds_pct": 44,
+            "us_score_pct": 56
+        },
+        "naicscode": "339991",
+        "name": "Gasket, Packing, and Sealing Device Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": 4,
+    "NPDESPermit": "NA",
+    "Name": "INTERFACE SOLUTIONS INC",
+    "NearComID": 15514782,
+    "NearReach": "04150101000262",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUSQUEHANNA CAPITAL ACQUISITION CO",
+    "PreferredLat": 43.88611,
+    "PreferredLong": 75.43611,
+    "PublicContactName": "JOHN TABOLT",
+    "PublicContactPhone": "3153463232",
+    "RCRANumber": "NYR000002741",
+    "RadialDistance": 2985808,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 37,
+            "us_score_pct": 28
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 36,
+            "us_score_pct": 26
+        },
+        "name": "Paperboard mills",
+        "siccode": "2631"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "263",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.2802,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.9352,
+    "StackHeightSource": "New York",
+    "StackVelocity": 2.7,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "MAIN ST   PO BOX 520",
+    "SubmitLat": 43.89806,
+    "SubmitLong": 75.44056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2017,
+    "Y": 3085,
+    "ZIP9": "13305",
+    "ZIPCode": "13305"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FARMINGDALE",
+    "County": "NJ,MONMOUTH",
+    "DUNS": "087082850",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 54137.041676,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202830283",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001368,
+                    "Score": 0.001009,
+                    "SubmissionNumber": 447269,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.001368,
+            "TotalScore": 0.001009,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203642487",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001286,
+                    "Score": 0.000955,
+                    "SubmissionNumber": 520988,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.001286,
+            "TotalScore": 0.000955,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "34025",
+    "FRSID": "110017883502",
+    "FacilityID": "07727KRRCN89YEL",
+    "FacilityNumber": 114933,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.213228,
+    "Longitude": -74.193656,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 49,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 56,
+            "us_pounds_pct": 5,
+            "us_score_pct": 5
+        },
+        "naicscode": "327332",
+        "name": "Concrete Pipe Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KERR CONCRETE PIPE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "037176591",
+    "ParentName": "OLDCASTLE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CARL WUITSCHICK",
+    "PublicContactPhone": "2538332777",
+    "RCRANumber": "NA",
+    "RadialDistance": 2797272,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 167,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 167,
+            "us_pounds_pct": 11,
+            "us_score_pct": 5
+        },
+        "name": "Concrete products, except block and brick",
+        "siccode": "3272"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "89 YELLOWBROOK RD",
+    "SubmitLat": 40.21361,
+    "SubmitLong": 74.19167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2252,
+    "Y": 2619,
+    "ZIP9": "07727",
+    "ZIPCode": "07727"
+}

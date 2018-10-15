@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NAUGATUCK",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "199015140",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59147.608888,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145034904",
+                    "MaxOnsite": "02",
+                    "Pounds": 764.4,
+                    "Score": 55427.2,
+                    "SubmissionNumber": 78154,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 764.4,
+            "TotalScore": 55427.2,
+            "state_score_percentile": 35,
+            "us_score_percentile": 30
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150373506",
+                    "MaxOnsite": "01",
+                    "Pounds": 40.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 127740,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150373518",
+                    "MaxOnsite": "01",
+                    "Pounds": 3724.9,
+                    "Score": 270588.0,
+                    "SubmissionNumber": 127741,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3765.0,
+            "TotalScore": 270588.0,
+            "state_score_percentile": 60,
+            "us_score_percentile": 51
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110016680741",
+    "FacilityID": "06770HRSHY889NE",
+    "FacilityNumber": 113888,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.471612,
+    "Longitude": -73.038507,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "311340",
+        "name": "Nonchocolate Confectionery Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3113",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HERSHEY FOODS INC. PETER PAUL DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003002052",
+    "ParentName": "HERSHEY FOODS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANTHONY R. EDWARDS",
+    "PublicContactPhone": "2037204200",
+    "RCRANumber": "NA",
+    "RadialDistance": 2958634,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 100
+        },
+        "name": "Candy and other confectionary products",
+        "siccode": "2064"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "206",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 17.6784,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "889 NEW HAVEN RD.",
+    "SubmitLat": 41.47083,
+    "SubmitLong": 73.03806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2327,
+    "Y": 2816,
+    "ZIP9": "06770",
+    "ZIPCode": "06770"
+}

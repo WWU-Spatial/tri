@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BALDWINSVILLE",
+    "County": "NY,ONONDAGA",
+    "DUNS": "035009163",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16156.648953,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206951840",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.9,
+                    "Score": 1.44474,
+                    "SubmissionNumber": 815850,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.9,
+            "TotalScore": 1.44474,
+            "state_score_percentile": 16,
+            "us_score_percentile": 10
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207313382",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.1,
+                    "Score": 1.09782,
+                    "SubmissionNumber": 846000,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.1,
+            "TotalScore": 1.09782,
+            "state_score_percentile": 17,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208694531",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 0.526634,
+                    "SubmissionNumber": 970574,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.526634,
+            "state_score_percentile": 14,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110004399106",
+    "FacilityID": "13027SSCNC8242L",
+    "FacilityNumber": 116570,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.169761,
+    "Longitude": -76.30269,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 35,
+            "us_score_pct": 35
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 43,
+            "us_score_pct": 43
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 31,
+            "us_pounds_pct": 38,
+            "us_score_pct": 48
+        },
+        "naicscode": "335314",
+        "name": "Relay and Industrial Control Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3353",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SSAC LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROB SOUTHWORTH",
+    "PublicContactPhone": "3158570209",
+    "RCRANumber": "NYD981132780",
+    "RadialDistance": 2879637,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 26,
+            "us_pounds_pct": 30,
+            "us_score_pct": 34
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 37,
+            "us_score_pct": 44
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 26,
+            "us_pounds_pct": 36,
+            "us_score_pct": 46
+        },
+        "name": "Relays and industrial controls",
+        "siccode": "3625"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "362",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.8392,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1288,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "8242 LOOP RD",
+    "SubmitLat": 43.17028,
+    "SubmitLong": 76.3025,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1953,
+    "Y": 2971,
+    "ZIP9": "13027",
+    "ZIPCode": "13027"
+}

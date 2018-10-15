@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GENEVA",
+    "County": "NY,ONTARIO",
+    "DUNS": "008920605",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 73635.356783,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105049466",
+                    "MaxOnsite": "04",
+                    "Pounds": 750.0,
+                    "Score": 0.37896,
+                    "SubmissionNumber": 1793947,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.37896,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115134898",
+                    "MaxOnsite": "04",
+                    "Pounds": 750.0,
+                    "Score": 0.546668,
+                    "SubmissionNumber": 1883301,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.546668,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125058103",
+                    "MaxOnsite": "04",
+                    "Pounds": 750.0,
+                    "Score": 0.380586,
+                    "SubmissionNumber": 1970301,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.380586,
+            "state_score_percentile": 29,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36069",
+    "FRSID": "110000327646",
+    "FacilityID": "14456ZTSNTPOBOX",
+    "FacilityNumber": 117311,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.885697,
+    "Longitude": -76.966116,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 100,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 75
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "325600",
+        "name": ""
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ZOTOS INTL. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "126501261",
+    "ParentName": "SHISEIDO INC",
+    "PreferredLat": 42.8829,
+    "PreferredLong": 76.9898,
+    "PublicContactName": "ALLEN W. HAWKER JR.",
+    "PublicContactPhone": "3157898001",
+    "RCRANumber": "NYD013596556",
+    "RadialDistance": 2819218,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 59,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 47,
+            "us_score_pct": 45
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 48,
+            "us_score_pct": 24
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 6.7056,
+    "StackHeightSource": "New York",
+    "StackVelocity": 9.2,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "300 FORGE AVE.",
+    "SubmitLat": 42.88111,
+    "SubmitLong": 76.99972,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1896,
+    "Y": 2919,
+    "ZIP9": "14456",
+    "ZIPCode": "14456"
+}

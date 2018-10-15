@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HINGHAM",
+    "County": "MA,PLYMOUTH",
+    "DUNS": "001015429",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 23528.612352,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1309207824677",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 15.6536,
+                    "SubmissionNumber": 893489,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 15.6536,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1310208845331",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 15.6606,
+                    "SubmissionNumber": 984934,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 15.6606,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "25023",
+    "FRSID": "110000310609",
+    "FacilityID": "02043RSSLC99IND",
+    "FacilityNumber": 111490,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.17432,
+    "Longitude": -70.91435,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 32,
+            "us_score_pct": 62
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 32,
+            "us_score_pct": 59
+        },
+        "naicscode": "335313",
+        "name": "Switchgear and Switchboard Apparatus Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3353",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RUSSELECTRIC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001015429",
+    "ParentName": "RUSSELECTRIC INC",
+    "PreferredLat": 42.17513,
+    "PreferredLong": 70.91457,
+    "PublicContactName": "HERBERT KAY",
+    "PublicContactPhone": "7817496000",
+    "RCRANumber": "MAD001015429",
+    "RadialDistance": 3146854,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 36,
+            "us_score_pct": 65
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 36,
+            "us_score_pct": 62
+        },
+        "name": "Switchgear and switchboard apparatus",
+        "siccode": "3613"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "361",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1836,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "99 INDUSTRIAL PARK RD",
+    "SubmitLat": 42.22083,
+    "SubmitLong": 70.90278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2512,
+    "Y": 2964,
+    "ZIP9": "02043",
+    "ZIPCode": "02043"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "006481899",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26202.843437,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110459839",
+                    "MaxOnsite": "03",
+                    "Pounds": 20000.0,
+                    "Score": 168.303,
+                    "SubmissionNumber": 1863977,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20000.0,
+            "TotalScore": 168.303,
+            "state_score_percentile": 74,
+            "us_score_percentile": 64
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208869836",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.503202,
+                    "SubmissionNumber": 986815,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.503202,
+            "state_score_percentile": 29,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315720",
+    "FacilityID": "06111HPHDN100MI",
+    "FacilityNumber": 113367,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.702597,
+    "Longitude": -72.750348,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 90,
+            "us_score_pct": 96
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 32,
+            "us_score_pct": 40
+        },
+        "naicscode": "311511",
+        "name": "Fluid Milk Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KOHLER MIX SPECIALTIES LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "929182210",
+    "ParentName": "DEAN FOODS CO",
+    "PreferredLat": 41.70417,
+    "PreferredLong": 72.75278,
+    "PublicContactName": "RAJU BANGALORE",
+    "PublicContactPhone": "8606661511",
+    "RCRANumber": "NA",
+    "RadialDistance": 2993186,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 82,
+            "us_score_pct": 97
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 27,
+            "us_score_pct": 62
+        },
+        "name": "Dry, condensed, and evaporated dairy products",
+        "siccode": "2023"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "100 MILK LN",
+    "SubmitLat": 41.70417,
+    "SubmitLong": 72.75278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2348,
+    "Y": 2854,
+    "ZIP9": "06111",
+    "ZIPCode": "06111"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LAKEWOOD",
+    "County": "NJ,OCEAN",
+    "DUNS": "001398445",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 69806.241684,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206781508",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.61508,
+                    "SubmissionNumber": 800227,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.61508,
+            "state_score_percentile": 15,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207695709",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.621953,
+                    "SubmissionNumber": 881434,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.621953,
+            "state_score_percentile": 15,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208779645",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.628827,
+                    "SubmissionNumber": 978727,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.628827,
+            "state_score_percentile": 16,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "34029",
+    "FRSID": "110024886916",
+    "FacilityID": "08701FLXBR1969R",
+    "FacilityNumber": 115415,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.071809,
+    "Longitude": -74.161324,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 148,
+            "us_pounds_pct": 17,
+            "us_score_pct": 28
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 137,
+            "us_pounds_pct": 16,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 126,
+            "us_pounds_pct": 15,
+            "us_score_pct": 29
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FLEXABAR CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANDREW GUGLIELMO",
+    "PublicContactPhone": "7329016500",
+    "RCRANumber": "NJR000038869",
+    "RadialDistance": 2790167,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 161,
+            "us_pounds_pct": 16,
+            "us_score_pct": 31
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 148,
+            "us_pounds_pct": 15,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 138,
+            "us_pounds_pct": 15,
+            "us_score_pct": 28
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1969 RUTGERS UNIVERSITY BLVD",
+    "SubmitLat": 40.07611,
+    "SubmitLong": 74.15861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2259,
+    "Y": 2600,
+    "ZIP9": "08701",
+    "ZIPCode": "08701"
+}

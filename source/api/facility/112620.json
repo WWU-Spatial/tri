@@ -1,0 +1,230 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KEENE",
+    "County": "NH,CHESHIRE",
+    "DUNS": "001082981",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 115510.24889,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150093324",
+                    "MaxOnsite": "02",
+                    "Pounds": 5.0,
+                    "Score": 3.3033,
+                    "SubmissionNumber": 102649,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 3.3033,
+            "state_score_percentile": 23,
+            "us_score_percentile": 9
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1307205513880",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 1.28602,
+                    "SubmissionNumber": 688148,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 1.28602,
+            "state_score_percentile": 33,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "33005",
+    "FRSID": "110001521559",
+    "FacilityID": "03431KNGSB80LAU",
+    "FacilityNumber": 112620,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.926265,
+    "Longitude": -72.267594,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 15,
+            "us_score_pct": 31
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "naicscode": "333512",
+        "name": "Machine Tool (Metal Cutting Types) Manufacturing"
+    },
+    "NAICS2": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 12,
+            "us_score_pct": 24
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 16,
+            "us_score_pct": 10
+        },
+        "naicscode": "332710",
+        "name": "Machine Shops"
+    },
+    "NAICS3": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 19,
+            "us_score_pct": 31
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 27,
+            "us_score_pct": 23
+        },
+        "naicscode": "332721",
+        "name": "Precision Turned Product Manufacturing"
+    },
+    "NAICS4": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 104,
+            "us_pounds_pct": 5,
+            "us_score_pct": 42
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 96,
+            "us_pounds_pct": 5,
+            "us_score_pct": 31
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KINGSBURY CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "966788572",
+    "ParentName": "VENTURA INDUSTRIES",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "IRIS MITROPOULIS",
+    "PublicContactPhone": "6033525212",
+    "RCRANumber": "NHD001082981",
+    "RadialDistance": 3107400,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 2,
+            "us_score_pct": 16
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 2,
+            "us_score_pct": 10
+        },
+        "name": "Motor vehicles and passenger car bodies",
+        "siccode": "3711"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 20,
+            "us_score_pct": 30
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 27,
+            "us_score_pct": 16
+        },
+        "name": "Machine tools, metal cutting types",
+        "siccode": "3541"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "80 LAUREL ST",
+    "SubmitLat": 42.91861,
+    "SubmitLong": 72.27333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2354,
+    "Y": 3029,
+    "ZIP9": "03431",
+    "ZIPCode": "03431"
+}

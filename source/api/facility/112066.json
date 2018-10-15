@@ -1,0 +1,275 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH KINGSTOWN",
+    "County": "RI,WASHINGTON",
+    "DUNS": "144922077",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11654.314906,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1300140289404",
+                    "MaxOnsite": "03",
+                    "Pounds": 13.0,
+                    "Score": 43.4551,
+                    "SubmissionNumber": 26041,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300140289416",
+                    "MaxOnsite": "03",
+                    "Pounds": 8600.0,
+                    "Score": 0.276447,
+                    "SubmissionNumber": 26042,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140289428",
+                    "MaxOnsite": "03",
+                    "Pounds": 9400.0,
+                    "Score": 14.69695,
+                    "SubmissionNumber": 26043,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18013.0,
+            "TotalScore": 58.428497,
+            "state_score_percentile": 82,
+            "us_score_percentile": 66
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1301150012553",
+                    "MaxOnsite": "03",
+                    "Pounds": 16.0,
+                    "Score": 52.5603,
+                    "SubmissionNumber": 95291,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150012565",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1208.27,
+                    "SubmissionNumber": 95292,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17.0,
+            "TotalScore": 1260.8303,
+            "state_score_percentile": 25,
+            "us_score_percentile": 16
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200795856",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.2,
+                    "Score": 8.03799,
+                    "SubmissionNumber": 265373,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200795868",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.3,
+                    "Score": 1737.253,
+                    "SubmissionNumber": 265374,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.5,
+            "TotalScore": 1745.29099,
+            "state_score_percentile": 12,
+            "us_score_percentile": 6
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308206828396",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.22,
+                    "Score": 288.7451,
+                    "SubmissionNumber": 804504,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308206828408",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.02,
+                    "Score": 0.802163,
+                    "SubmissionNumber": 804505,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.24,
+            "TotalScore": 289.547263,
+            "state_score_percentile": 8,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "44009",
+    "FRSID": "110008053499",
+    "FacilityID": "02852NVLNT160FR",
+    "FacilityNumber": 112066,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.631681,
+    "Longitude": -71.469285,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 182,
+            "us_pounds_pct": 75,
+            "us_score_pct": 36
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 181,
+            "us_pounds_pct": 23,
+            "us_score_pct": 59
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 171,
+            "us_pounds_pct": 5,
+            "us_score_pct": 64
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 151,
+            "us_pounds_pct": 4,
+            "us_score_pct": 56
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ANVIL INTERNATIONAL LP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "003501079",
+    "ParentName": "MUELLER WATER PRODUCTS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WILLIAM GOLINI",
+    "PublicContactPhone": "4018863030",
+    "RCRANumber": "RIR000012229",
+    "RadialDistance": 3074778,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 95,
+            "us_score_pct": 28
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 29,
+            "us_score_pct": 46
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 49,
+            "us_pounds_pct": 6,
+            "us_score_pct": 48
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 3,
+            "us_score_pct": 45
+        },
+        "name": "Valves and pipe fittings, n.e.c.",
+        "siccode": "3494"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "160 FRENCHTOWN RD PRECISION PARK",
+    "SubmitLat": 41.63278,
+    "SubmitLong": 71.46722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2477,
+    "Y": 2877,
+    "ZIP9": "028521782",
+    "ZIPCode": "02852"
+}

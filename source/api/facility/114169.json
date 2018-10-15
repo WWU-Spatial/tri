@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GARFIELD",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20874.56382,
+    "DistanceToReach": 118.390484,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1300140606702",
+                    "MaxOnsite": "01",
+                    "Pounds": 8.4e-05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 47831,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140606714",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.4,
+                    "Score": 281.486,
+                    "SubmissionNumber": 47832,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.4000839999999999,
+            "TotalScore": 281.486,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150547141",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 143029,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1301150547154",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.2e-05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 143030,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150547166",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.3,
+                    "Score": 261.794,
+                    "SubmissionNumber": 143031,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.350022,
+            "TotalScore": 261.794,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110001529249",
+    "FacilityID": "07026GRDNS950RI",
+    "FacilityNumber": 114169,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.88555,
+    "Longitude": -74.12824,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 22,
+            "us_score_pct": 44
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "naicscode": "322120",
+        "name": ""
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0088315",
+    "Name": "GARDEN STATE PAPER CO. L.L.C.",
+    "NearComID": 6251098,
+    "NearReach": "02030103000038",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "791182710",
+    "ParentName": "ENRON NA",
+    "PreferredLat": 40.88611,
+    "PreferredLong": 74.12944,
+    "PublicContactName": "LOUIS FAUCHEAUX",
+    "PublicContactPhone": "9737728700",
+    "RCRANumber": "NJD084011477",
+    "RadialDistance": 2846707,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 194,
+            "us_pounds_pct": 8,
+            "us_score_pct": 32
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 184,
+            "us_pounds_pct": 7,
+            "us_score_pct": 35
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.3411,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 31.5468,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.0584,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "950 RIVER DR.",
+    "SubmitLat": 40.88722,
+    "SubmitLong": 74.12472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2237,
+    "Y": 2711,
+    "ZIP9": "070263580",
+    "ZIPCode": "07026"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DUNKIRK",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 75172.402761,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105017899",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.004601,
+                    "SubmissionNumber": 1791749,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.004601,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397115033603",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.004591,
+                    "SubmissionNumber": 1877582,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.004591,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110007997926",
+    "FacilityID": "14048CPSCREASTL",
+    "FacilityNumber": 116991,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.44615,
+    "Longitude": -79.41174,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 92,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 84,
+            "us_pounds_pct": 3,
+            "us_score_pct": 2
+        },
+        "naicscode": "325910",
+        "name": "Printing Ink Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CPS CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "051065035",
+    "ParentName": "INX GROUP LTD",
+    "PreferredLat": 42.49167,
+    "PreferredLong": 79.30833,
+    "PublicContactName": "DAVID J. MATERNOWSKI",
+    "PublicContactPhone": "7163666010",
+    "RCRANumber": "NYD002102002",
+    "RadialDistance": 2648233,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 94,
+            "us_pounds_pct": 2,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 84,
+            "us_pounds_pct": 3,
+            "us_score_pct": 2
+        },
+        "name": "Printing ink",
+        "siccode": "2893"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "New York",
+    "StackVelocity": 7.3,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "E. LAKE RD. RTE. 5",
+    "SubmitLat": 42.49167,
+    "SubmitLong": 79.30833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1666,
+    "Y": 2813,
+    "ZIP9": "14048",
+    "ZIPCode": "14048"
+}

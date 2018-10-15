@@ -1,0 +1,275 @@
+{
+    "AssignedComID": 6115916,
+    "AssignedReach": "01090003000101",
+    "City": "NORTHBRIDGE",
+    "County": "MA,WORCESTER",
+    "DUNS": "825981632",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 50372.150636,
+    "DistanceToReach": 111.902555,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1396105254989",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.060403,
+                    "SubmissionNumber": 1807314,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1396105254991",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 7.77327,
+                    "SubmissionNumber": 1807315,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 7.833673,
+            "state_score_percentile": 7,
+            "us_score_percentile": 8
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1397115235691",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 7.83254,
+                    "SubmissionNumber": 1888211,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 7.83254,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1398120368307",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 7.89179,
+                    "SubmissionNumber": 1928662,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1398120368319",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.061324,
+                    "SubmissionNumber": 1928663,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120368321",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.043843,
+                    "SubmissionNumber": 1928664,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 7.996957,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1399130457866",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 7.95106,
+                    "SubmissionNumber": 2029007,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1399130457878",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.061784000000000006,
+                    "SubmissionNumber": 2029008,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130457880",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 7.95106,
+                    "SubmissionNumber": 2029009,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 15.963904,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110024347508",
+    "FacilityID": "01534CZDVFPROVI",
+    "FacilityNumber": 110901,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.155748,
+    "Longitude": -71.653004,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 28,
+            "us_count": 152,
+            "us_pounds_pct": 13,
+            "us_score_pct": 48
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 140,
+            "us_pounds_pct": 9,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 139,
+            "us_pounds_pct": 18,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 152,
+            "us_pounds_pct": 20,
+            "us_score_pct": 57
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 1,
+    "NPDESPermit": "MA0032549",
+    "Name": "COZ PLASTICS INC.",
+    "NearComID": 6116708,
+    "NearReach": "01090003000099",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "076191519",
+    "ParentName": "PMC INC",
+    "PreferredLat": 42.15528,
+    "PreferredLong": 71.65361,
+    "PublicContactName": "DR. ROGER WHITE",
+    "PublicContactPhone": "8885497822",
+    "RCRANumber": "MAD982190548",
+    "RadialDistance": 3096071,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 167,
+            "us_pounds_pct": 12,
+            "us_score_pct": 50
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 151,
+            "us_pounds_pct": 8,
+            "us_score_pct": 51
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 152,
+            "us_pounds_pct": 17,
+            "us_score_pct": 52
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 166,
+            "us_pounds_pct": 19,
+            "us_score_pct": 57
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.0374,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.7434,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "2401 PROVIDENCE RD.",
+    "SubmitLat": 42.15528,
+    "SubmitLong": 71.65361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2440,
+    "Y": 2942,
+    "ZIP9": "01534",
+    "ZIPCode": "01534"
+}

@@ -1,0 +1,161 @@
+{
+    "AssignedComID": 26439268,
+    "AssignedReach": "21010005003550",
+    "City": "SAN JUAN",
+    "County": "PR,SAN JUAN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16067.961838,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105070611",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.057865,
+                    "SubmissionNumber": 1795431,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105070623",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.057133,
+                    "SubmissionNumber": 1795432,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 0.114998,
+            "state_score_percentile": 24,
+            "us_score_percentile": 17
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115151918",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.058019,
+                    "SubmissionNumber": 1884191,
+                    "Use": ""
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.058019,
+            "state_score_percentile": 20,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "72127",
+    "FRSID": "110000851613",
+    "FacilityID": "00958LNPNTMINIL",
+    "FacilityNumber": 110488,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.373838,
+    "Longitude": -66.139055,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 50,
+            "state_score_pct": 44,
+            "us_count": 634,
+            "us_pounds_pct": 9,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 30,
+            "us_count": 600,
+            "us_pounds_pct": 8,
+            "us_score_pct": 4
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "LUNA PAINTS CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 18.37583,
+    "PreferredLong": 66.13944,
+    "PublicContactName": "RAMON M. GUZMAN",
+    "PublicContactPhone": "7877549070",
+    "RCRANumber": "PRN008008831",
+    "RadialDistance": 43010,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 43,
+            "state_score_pct": 50,
+            "us_count": 613,
+            "us_pounds_pct": 10,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 579,
+            "us_pounds_pct": 8,
+            "us_score_pct": 5
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "MINILLAS INDL. PARK",
+    "SubmitLat": 18.37583,
+    "SubmitLong": 66.13944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 14,
+    "Y": 51,
+    "ZIP9": "009364051",
+    "ZIPCode": "00936"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MC KEESPORT",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 33951.979005,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308208665051",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.02,
+                    "Score": 0.014829,
+                    "SubmissionNumber": 831222,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.02,
+            "TotalScore": 0.014829,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309208680114",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.01,
+                    "Score": 0.007333,
+                    "SubmissionNumber": 910895,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.01,
+            "TotalScore": 0.007333,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208687362",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.01,
+                    "Score": 0.007252,
+                    "SubmissionNumber": 969877,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.01,
+            "TotalScore": 0.007252,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110043593956",
+    "FacilityID": "1513WMCKSP314TH",
+    "FacilityNumber": 117787,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.351806,
+    "Longitude": -79.865997,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 75,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 74,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 9,
+            "us_count": 70,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "naicscode": "331210",
+        "name": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3312",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "MCKEESPORT TUBULAR OPERATIONS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "029990699",
+    "ParentName": "US STEEL CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "COURTNEY BOONE",
+    "PublicContactPhone": "4124336791",
+    "RCRANumber": "",
+    "RadialDistance": 2448601,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 67,
+            "us_pounds_pct": 2,
+            "us_score_pct": 1
+        },
+        "2009": {
+            "state_count": 13,
+            "state_pounds_pct": 7,
+            "state_score_pct": 7,
+            "us_count": 62,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 10,
+            "us_count": 60,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "name": "Steel pipe and tubes",
+        "siccode": "3317"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 1.7678,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.336,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1321,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "301 4TH AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1669,
+    "Y": 2520,
+    "ZIP9": "15132",
+    "ZIPCode": "15132"
+}

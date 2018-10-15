@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HARTFORD",
+    "County": "CT,HARTFORD",
+    "DUNS": "293041292",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 15723.434886,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145065761",
+                    "MaxOnsite": "05",
+                    "Pounds": 9.5,
+                    "Score": 0.0,
+                    "SubmissionNumber": 79954,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145065898",
+                    "MaxOnsite": "05",
+                    "Pounds": 878.1,
+                    "Score": 177474.0,
+                    "SubmissionNumber": 79960,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 887.6,
+            "TotalScore": 177474.0,
+            "state_score_percentile": 35,
+            "us_score_percentile": 31
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301155110000",
+                    "MaxOnsite": "05",
+                    "Pounds": 708.9,
+                    "Score": 143125.0,
+                    "SubmissionNumber": 179051,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 708.9,
+            "TotalScore": 143125.0,
+            "state_score_percentile": 42,
+            "us_score_percentile": 35
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110011370382",
+    "FacilityID": "06141MSWFT10LOV",
+    "FacilityNumber": 113385,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.791506,
+    "Longitude": -72.681312,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 182,
+            "us_pounds_pct": 39,
+            "us_score_pct": 94
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 181,
+            "us_pounds_pct": 41,
+            "us_score_pct": 92
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "CT0100251",
+    "Name": "M. SWIFT & SONS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.79194,
+    "PreferredLong": 72.68083,
+    "PublicContactName": "MARCIE SANTA ANA",
+    "PublicContactPhone": "8605221181",
+    "RCRANumber": "CTD001139054",
+    "RadialDistance": 3003690,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 25,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 31,
+            "us_score_pct": 100
+        },
+        "name": "Metal foil and leaf",
+        "siccode": "3497"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.24,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.3152,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "10 LOVE LN.",
+    "SubmitLat": 41.79194,
+    "SubmitLong": 72.68083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2352,
+    "Y": 2867,
+    "ZIP9": "061410150",
+    "ZIPCode": "06141"
+}

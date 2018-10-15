@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH BETHLEHEM",
+    "County": "NY,ALBANY",
+    "DUNS": "094222143",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 25341.262461,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206342091",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0016,
+                    "Score": 0.000565,
+                    "SubmissionNumber": 758834,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0016,
+            "TotalScore": 0.000565,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207275203",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0018,
+                    "Score": 0.000637,
+                    "SubmissionNumber": 842476,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0018,
+            "TotalScore": 0.000637,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208371791",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0023,
+                    "Score": 0.0008139999999999999,
+                    "SubmissionNumber": 941057,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0023,
+            "TotalScore": 0.0008139999999999999,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110020578007",
+    "FacilityID": "12161LDCST123CU",
+    "FacilityNumber": 116346,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.525,
+    "Longitude": -73.850556,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 99,
+            "us_pounds_pct": 12,
+            "us_score_pct": 6
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 79,
+            "us_pounds_pct": 8,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 74,
+            "us_pounds_pct": 18,
+            "us_score_pct": 8
+        },
+        "naicscode": "327390",
+        "name": "Other Concrete Product Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "OLDCASTLE PRECAST INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "037176591",
+    "ParentName": "OLDCASTLE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CARL WUITSCHICK",
+    "PublicContactPhone": "2538332777",
+    "RCRANumber": "NYR000129478",
+    "RadialDistance": 2978825,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 151,
+            "us_pounds_pct": 9,
+            "us_score_pct": 4
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 118,
+            "us_pounds_pct": 8,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 116,
+            "us_pounds_pct": 15,
+            "us_score_pct": 7
+        },
+        "name": "Concrete products, except block and brick",
+        "siccode": "3272"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "123 COUNTY RT 101",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2213,
+    "Y": 2938,
+    "ZIP9": "12161",
+    "ZIPCode": "12161"
+}

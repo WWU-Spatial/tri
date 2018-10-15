@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIDGEWATER",
+    "County": "NJ,SOMERSET",
+    "DUNS": "825901759",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38208.703669,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304202694004",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0003,
+                    "Score": 0.0,
+                    "SubmissionNumber": 435052,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202694016",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0013,
+                    "Score": 0.119556,
+                    "SubmissionNumber": 435053,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0015999999999999999,
+            "TotalScore": 0.119556,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1305203550189",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0003,
+                    "Score": 0.0,
+                    "SubmissionNumber": 512461,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203550191",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0013,
+                    "Score": 0.119527,
+                    "SubmissionNumber": 512462,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0015999999999999999,
+            "TotalScore": 0.119527,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205780036",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 711715,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205780048",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0005,
+                    "Score": 0.045949,
+                    "SubmissionNumber": 711716,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0007,
+            "TotalScore": 0.045949,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207179553",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.47,
+                    "Score": 0.0,
+                    "SubmissionNumber": 834060,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207179565",
+                    "MaxOnsite": "02",
+                    "Pounds": 229.59,
+                    "Score": 21088.7,
+                    "SubmissionNumber": 834061,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 232.06,
+            "TotalScore": 21088.7,
+            "state_score_percentile": 42,
+            "us_score_percentile": 36
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110020515316",
+    "FacilityID": "08807NTNLS1FIND",
+    "FacilityNumber": 115445,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 40.55777,
+    "Longitude": -74.57949,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 13,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 9,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 69,
+            "us_score_pct": 100
+        },
+        "naicscode": "541712",
+        "name": ""
+    },
+    "NAICSCode3Digit": "541",
+    "NAICSCode4Digit": "5417",
+    "NAICSCodeSame3Digit": "541",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AKZO NOBEL",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "825901759",
+    "ParentName": "AKZO NOBEL INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GORDON YATES",
+    "PublicContactPhone": "9086855403",
+    "RCRANumber": "NJR000076810",
+    "RadialDistance": 2794384,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 10,
+            "state_score_pct": 20,
+            "us_count": 165,
+            "us_pounds_pct": 1,
+            "us_score_pct": 15
+        },
+        "2005": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 16,
+            "us_count": 168,
+            "us_pounds_pct": 1,
+            "us_score_pct": 12
+        },
+        "2007": {
+            "state_count": 12,
+            "state_pounds_pct": 8,
+            "state_score_pct": 8,
+            "us_count": 151,
+            "us_pounds_pct": 0,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 156,
+            "us_pounds_pct": 20,
+            "us_score_pct": 98
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5073,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.4535,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.9924,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "10 FINDERNE AVE",
+    "SubmitLat": 40.5575,
+    "SubmitLong": 74.58028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2202,
+    "Y": 2656,
+    "ZIP9": "08807",
+    "ZIPCode": "08807"
+}

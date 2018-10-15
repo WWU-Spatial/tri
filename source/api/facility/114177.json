@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GARWOOD",
+    "County": "NJ,UNION",
+    "DUNS": "038475133",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 14649.923951,
+    "DistanceToReach": 1700.762482,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396105242010",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.893494,
+                    "SubmissionNumber": 1806645,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105242022",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.127792,
+                    "SubmissionNumber": 1806646,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 1.021286,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120512367",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.12958,
+                    "SubmissionNumber": 1939785,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.12958,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110000318255",
+    "FacilityID": "07027DMNDC500NO",
+    "FacilityNumber": 114177,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.652684,
+    "Longitude": -74.329256,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 22,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 8,
+            "us_score_pct": 17
+        },
+        "naicscode": "335932",
+        "name": "Noncurrent-Carrying Wiring Device Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "THOMAS & BETTS GARWOOD PLANT",
+    "NearComID": 6261542,
+    "NearReach": "02030104000056",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002154433",
+    "ParentName": "THOMAS & BETTS CORP",
+    "PreferredLat": 40.65306,
+    "PreferredLong": 74.31222,
+    "PublicContactName": "OM CHOPRA",
+    "PublicContactPhone": "8008880211",
+    "RCRANumber": "NJD038475133",
+    "RadialDistance": 2817528,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 350,
+            "us_pounds_pct": 5,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 332,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "500 NORTH  AVE.",
+    "SubmitLat": 40.65306,
+    "SubmitLong": 74.31222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2224,
+    "Y": 2675,
+    "ZIP9": "07027",
+    "ZIPCode": "07027"
+}

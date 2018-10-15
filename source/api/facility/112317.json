@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PROVIDENCE",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10406.492153,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300140180377",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 12.4232,
+                    "SubmissionNumber": 16361,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1300140180389",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 24.8463,
+                    "SubmissionNumber": 16362,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440439",
+                    "Chemical": "Cadmium and cadmium compounds",
+                    "ChemicalNumber": 108,
+                    "DCN": "1300140180391",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 19490.83,
+                    "SubmissionNumber": 16363,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 19528.0995,
+            "state_score_percentile": 17,
+            "us_score_percentile": 11
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1301150710301",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 2.48439,
+                    "SubmissionNumber": 157540,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150710325",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.4,
+                    "Score": 5.96252,
+                    "SubmissionNumber": 157542,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.4,
+            "TotalScore": 8.446909999999999,
+            "state_score_percentile": 15,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110000313018",
+    "FacilityID": "02909STRLL50SIM",
+    "FacilityNumber": 112317,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 41.82665,
+    "Longitude": -71.43356,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 21,
+            "us_score_pct": 84
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 69,
+            "us_pounds_pct": 13,
+            "us_score_pct": 37
+        },
+        "naicscode": "331491",
+        "name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "OSTER ALLOYS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "089352983",
+    "ParentName": "FRY TECH",
+    "PreferredLat": 41.8325,
+    "PreferredLong": 71.43611,
+    "PublicContactName": "JOHN BALDWIN",
+    "PublicContactPhone": "4012151703",
+    "RCRANumber": "RID001785278",
+    "RadialDistance": 3089601,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 62,
+            "us_pounds_pct": 18,
+            "us_score_pct": 85
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 61,
+            "us_pounds_pct": 14,
+            "us_score_pct": 36
+        },
+        "name": "Rolling, drawing, and extruding of nonferrous metals, except copper and aluminum",
+        "siccode": "3356"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 1.0374,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 17.7434,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "RI",
+    "Street": "50 SIMS AVE.",
+    "SubmitLat": 41.8325,
+    "SubmitLong": 71.43611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2473,
+    "Y": 2904,
+    "ZIP9": "02909",
+    "ZIPCode": "02909"
+}

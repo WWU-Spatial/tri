@@ -1,0 +1,310 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BURLINGTON",
+    "County": "NJ,BURLINGTON",
+    "DUNS": "800967705",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43596.792171,
+    "DistanceToReach": 357.550017,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145192872",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001542,
+                    "Score": 0.0,
+                    "SubmissionNumber": 87085,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145192884",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.011258,
+                    "Score": 0.686097,
+                    "SubmissionNumber": 87086,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0128,
+            "TotalScore": 0.686097,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150411003",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.014,
+                    "Score": 0.854807,
+                    "SubmissionNumber": 131052,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150411015",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 131053,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150411027",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 4.738110000000001,
+                    "SubmissionNumber": 131054,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4.016,
+            "TotalScore": 5.592917000000001,
+            "state_score_percentile": 8,
+            "us_score_percentile": 8
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200506160",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000923,
+                    "Score": 0.0,
+                    "SubmissionNumber": 238664,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200506208",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.8399999999999999,
+                    "Score": 2.288969,
+                    "SubmissionNumber": 238668,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200506210",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.006738,
+                    "Score": 0.412161,
+                    "SubmissionNumber": 238669,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.8476609999999998,
+            "TotalScore": 2.70113,
+            "state_score_percentile": 6,
+            "us_score_percentile": 6
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201619689",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.228,
+                    "Score": 1.49854,
+                    "SubmissionNumber": 338521,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.228,
+            "TotalScore": 1.49854,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202758355",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.2,
+                    "Score": 0.25794,
+                    "SubmissionNumber": 440808,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.25794,
+            "state_score_percentile": 3,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "34005",
+    "FRSID": "110000320947",
+    "FacilityID": "08016CCDNTRIVER",
+    "FacilityNumber": 115091,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.107186,
+    "Longitude": -74.829714,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 82,
+            "us_pounds_pct": 1,
+            "us_score_pct": 20
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 85,
+            "us_pounds_pct": 4,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 86,
+            "us_pounds_pct": 5,
+            "us_score_pct": 36
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 78,
+            "us_pounds_pct": 6,
+            "us_score_pct": 29
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 81,
+            "us_pounds_pct": 5,
+            "us_score_pct": 16
+        },
+        "naicscode": "326113",
+        "name": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": 2,
+    "NPDESPermit": "NJ0004235",
+    "Name": "POLYONE CORP",
+    "NearComID": 4481865,
+    "NearReach": "02040201000679",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "800967705",
+    "ParentName": "POLYONE CORP",
+    "PreferredLat": 40.0695,
+    "PreferredLong": 74.8801,
+    "PublicContactName": "JAMES LEWIS",
+    "PublicContactPhone": "4409303032",
+    "RCRANumber": "NJD043973122",
+    "RadialDistance": 2747068,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 98,
+            "us_pounds_pct": 1,
+            "us_score_pct": 19
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 98,
+            "us_pounds_pct": 4,
+            "us_score_pct": 40
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 99,
+            "us_pounds_pct": 4,
+            "us_score_pct": 34
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 87,
+            "us_pounds_pct": 4,
+            "us_score_pct": 27
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 89,
+            "us_pounds_pct": 4,
+            "us_score_pct": 15
+        },
+        "name": "Unsupported plastics film and sheet",
+        "siccode": "3081"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5401,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.3642,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.4865,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "1804 RIVER RD",
+    "SubmitLat": 40.105,
+    "SubmitLong": 74.82556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2190,
+    "Y": 2589,
+    "ZIP9": "08016",
+    "ZIPCode": "08016"
+}

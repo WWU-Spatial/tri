@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERSET",
+    "County": "NJ,SOMERSET",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 36604.014998,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105122941",
+                    "MaxOnsite": "03",
+                    "Pounds": 31.0,
+                    "Score": 0.281253,
+                    "SubmissionNumber": 1798895,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105122954",
+                    "MaxOnsite": "03",
+                    "Pounds": 95.0,
+                    "Score": 155.143,
+                    "SubmissionNumber": 1798896,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105122966",
+                    "MaxOnsite": "03",
+                    "Pounds": 42.0,
+                    "Score": 55709.8,
+                    "SubmissionNumber": 1798897,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 168.0,
+            "TotalScore": 55865.224253,
+            "state_score_percentile": 13,
+            "us_score_percentile": 13
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150672590",
+                    "MaxOnsite": "03",
+                    "Pounds": 119.9,
+                    "Score": 205.208,
+                    "SubmissionNumber": 154290,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 119.9,
+            "TotalScore": 205.208,
+            "state_score_percentile": 26,
+            "us_score_percentile": 22
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200294472",
+                    "MaxOnsite": "02",
+                    "Pounds": 13.1,
+                    "Score": 22.6039,
+                    "SubmissionNumber": 218946,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 13.1,
+            "TotalScore": 22.6039,
+            "state_score_percentile": 17,
+            "us_score_percentile": 15
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110000322419",
+    "FacilityID": "08873PMSCN109NE",
+    "FacilityNumber": 115622,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.528379,
+    "Longitude": -74.537396,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 152,
+            "us_pounds_pct": 24,
+            "us_score_pct": 91
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 71,
+            "us_count": 175,
+            "us_pounds_pct": 37,
+            "us_score_pct": 76
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 71,
+            "us_count": 164,
+            "us_pounds_pct": 18,
+            "us_score_pct": 68
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "POLYONE CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001943802",
+    "ParentName": "POLYONE CORP",
+    "PreferredLat": 40.52111,
+    "PreferredLong": 74.52472,
+    "PublicContactName": "EDWARD MATTINGLY",
+    "PublicContactPhone": "8002210892",
+    "RCRANumber": "NJD002138188",
+    "RadialDistance": 2795196,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 167,
+            "us_pounds_pct": 23,
+            "us_score_pct": 91
+        },
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 196,
+            "us_pounds_pct": 34,
+            "us_score_pct": 76
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 184,
+            "us_pounds_pct": 17,
+            "us_score_pct": 68
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6333,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.4052,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8561,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "789 NEW BRUNSWICK RD.",
+    "SubmitLat": 40.52111,
+    "SubmitLong": 74.52472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2207,
+    "Y": 2653,
+    "ZIP9": "08873",
+    "ZIPCode": "08873"
+}

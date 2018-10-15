@@ -1,0 +1,240 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BINGHAMTON",
+    "County": "NY,BROOME",
+    "DUNS": "606448660",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 113051.767943,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100180328",
+                    "MaxOnsite": "04",
+                    "Pounds": 50000.0,
+                    "Score": 4.141018,
+                    "SubmissionNumber": 1763819,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100180342",
+                    "MaxOnsite": "05",
+                    "Pounds": 60.0,
+                    "Score": 0.212034,
+                    "SubmissionNumber": 1763821,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1396100180367",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.025249,
+                    "SubmissionNumber": 1763823,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 50070.0,
+            "TotalScore": 4.3783009999999996,
+            "state_score_percentile": 85,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110137395",
+                    "MaxOnsite": "04",
+                    "Pounds": 56900.0,
+                    "Score": 4.640924,
+                    "SubmissionNumber": 1836076,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110137419",
+                    "MaxOnsite": "05",
+                    "Pounds": 37.0,
+                    "Score": 0.134597,
+                    "SubmissionNumber": 1836078,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1397110137433",
+                    "MaxOnsite": "05",
+                    "Pounds": 36.0,
+                    "Score": 0.084334,
+                    "SubmissionNumber": 1836080,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 56973.0,
+            "TotalScore": 4.8598550000000005,
+            "state_score_percentile": 86,
+            "us_score_percentile": 80
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120389580",
+                    "MaxOnsite": "04",
+                    "Pounds": 28226.0,
+                    "Score": 2.271457,
+                    "SubmissionNumber": 1930447,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1398120389592",
+                    "MaxOnsite": "05",
+                    "Pounds": 1.0,
+                    "Score": 0.004265,
+                    "SubmissionNumber": 1930448,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 28227.0,
+            "TotalScore": 2.275722,
+            "state_score_percentile": 79,
+            "us_score_percentile": 70
+        }
+    },
+    "FIPS": "36007",
+    "FRSID": "110012387586",
+    "FacilityID": "13902NTCMG40CHA",
+    "FacilityNumber": 116938,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.109142,
+    "Longitude": -75.928253,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 72,
+            "us_score_pct": 39
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 72,
+            "us_score_pct": 44
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 65,
+            "us_score_pct": 34
+        },
+        "naicscode": "325992",
+        "name": "Photographic Film, Paper, Plate, and Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0004022",
+    "Name": "KODAK POLYCHROME GRAPHICS CO. LTD.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004198888",
+    "ParentName": "KODAK POLYCHROME GRAPHICS LLC",
+    "PreferredLat": 42.10889,
+    "PreferredLong": 75.92722,
+    "PublicContactName": "MAUREEN T. HOKE, P.E.",
+    "PublicContactPhone": "6073364840",
+    "RCRANumber": "NYD010779098",
+    "RadialDistance": 2819953,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 44,
+            "us_pounds_pct": 65,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 40,
+            "us_pounds_pct": 70,
+            "us_score_pct": 45
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 39,
+            "us_pounds_pct": 61,
+            "us_score_pct": 38
+        },
+        "name": "Photographic equipment and supplies",
+        "siccode": "3861"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "386",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.954,
+    "StackHeightSource": "New York",
+    "StackVelocity": 3.19,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "40 CHARLES ST.",
+    "SubmitLat": 42.10889,
+    "SubmitLong": 75.92722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2020,
+    "Y": 2835,
+    "ZIP9": "13902",
+    "ZIPCode": "13902"
+}

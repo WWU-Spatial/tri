@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WILMINGTON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "030807358",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27123.90373,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1301155119516",
+                    "MaxOnsite": "03",
+                    "Pounds": 2656.0,
+                    "Score": 1961.83,
+                    "SubmissionNumber": 179599,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2656.0,
+            "TotalScore": 1961.83,
+            "state_score_percentile": 61,
+            "us_score_percentile": 47
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1309207618012",
+                    "MaxOnsite": "",
+                    "Pounds": 8464.0,
+                    "Score": 6373.49,
+                    "SubmissionNumber": 874217,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8464.0,
+            "TotalScore": 6373.49,
+            "state_score_percentile": 89,
+            "us_score_percentile": 71
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110003486282",
+    "FacilityID": "01887STFFR256AN",
+    "FacilityNumber": 111338,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.596366,
+    "Longitude": -71.146235,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 86,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 92,
+            "us_score_pct": 84
+        },
+        "naicscode": "333613",
+        "name": "Mechanical Power Transmission Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3336",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STAFFORD MANUFACTURING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "",
+    "PublicContactPhone": "",
+    "RCRANumber": "MAD985269794",
+    "RadialDistance": 3158475,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 78,
+            "us_score_pct": 73
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 92,
+            "us_score_pct": 85
+        },
+        "name": "Mechanical power transmission equipment, n.e.c.",
+        "siccode": "3568"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "356",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.681,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "256 ANDOVER ST",
+    "SubmitLat": 42.59611,
+    "SubmitLong": 71.14861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2474,
+    "Y": 3014,
+    "ZIP9": "01887",
+    "ZIPCode": "01887"
+}

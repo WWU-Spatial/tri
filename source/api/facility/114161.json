@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CLIFTON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 16876.495894,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1309207396680",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 293.21799999999996,
+                    "SubmissionNumber": 853444,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1309207396692",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.144079,
+                    "SubmissionNumber": 853445,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 12.0,
+            "TotalScore": 293.36207899999994,
+            "state_score_percentile": 22,
+            "us_score_percentile": 21
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1310208652089",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 0.316476,
+                    "SubmissionNumber": 966515,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 19.0,
+            "TotalScore": 0.316476,
+            "state_score_percentile": 26,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110041625765",
+    "FacilityID": "0701WDRTCF6WEBR",
+    "FacilityNumber": 114161,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.851713,
+    "Longitude": -74.157702,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 21,
+            "state_score_pct": 78,
+            "us_count": 151,
+            "us_pounds_pct": 8,
+            "us_score_pct": 78
+        },
+        "2010": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 18,
+            "us_count": 146,
+            "us_pounds_pct": 10,
+            "us_score_pct": 23
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "DRITAC FLOORING PRODUCTS LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "YALE BLOCK",
+    "PublicContactPhone": "9736149000",
+    "RCRANumber": "",
+    "RadialDistance": 2842452,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 12,
+            "state_pounds_pct": 25,
+            "state_score_pct": 83,
+            "us_count": 156,
+            "us_pounds_pct": 9,
+            "us_score_pct": 79
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 147,
+            "us_pounds_pct": 10,
+            "us_score_pct": 21
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "60 WEBRO RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2235,
+    "Y": 2705,
+    "ZIP9": "07012",
+    "ZIPCode": "07012"
+}

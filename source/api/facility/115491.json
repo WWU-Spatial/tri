@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EDISON",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "001773183",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26483.755025,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100400528",
+                    "MaxOnsite": "04",
+                    "Pounds": 35000.0,
+                    "Score": 4.98597,
+                    "SubmissionNumber": 1781684,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 35000.0,
+            "TotalScore": 4.98597,
+            "state_score_percentile": 84,
+            "us_score_percentile": 73
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397110407665",
+                    "MaxOnsite": "04",
+                    "Pounds": 8400.0,
+                    "Score": 1.214199,
+                    "SubmissionNumber": 1859536,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8400.0,
+            "TotalScore": 1.214199,
+            "state_score_percentile": 63,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000322044",
+    "FacilityID": "08818MTXCR970NE",
+    "FacilityNumber": 115491,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.543119,
+    "Longitude": -74.403383,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 87,
+            "us_score_pct": 28
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 53,
+            "us_score_pct": 18
+        },
+        "naicscode": "332618",
+        "name": "Other Fabricated Wire Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3326",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "METAL TEXTILES CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "056864259",
+    "ParentName": "UNITED CAPITAL CORP",
+    "PreferredLat": 40.5429,
+    "PreferredLong": 74.40311,
+    "PublicContactName": "DAVID ANDERSON",
+    "PublicContactPhone": "7322870800",
+    "RCRANumber": "NJD001773183",
+    "RadialDistance": 2805159,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 84,
+            "us_pounds_pct": 90,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 74,
+            "us_pounds_pct": 64,
+            "us_score_pct": 14
+        },
+        "name": "Miscellaneous fabricated wire products",
+        "siccode": "3496"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "970 NEW DURHAM RD",
+    "SubmitLat": 40.54028,
+    "SubmitLong": 74.37083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2220,
+    "Y": 2658,
+    "ZIP9": "08818",
+    "ZIPCode": "08818"
+}

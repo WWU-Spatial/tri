@@ -1,0 +1,174 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GUAYNABO",
+    "County": "PR,GUAYNABO",
+    "DUNS": "131446098",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13190.094663,
+    "DistanceToReach": 295.480939,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105381242",
+                    "MaxOnsite": "04",
+                    "Pounds": 17400.0,
+                    "Score": 5.82015,
+                    "SubmissionNumber": 1816258,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "92524",
+                    "Chemical": "Biphenyl",
+                    "ChemicalNumber": 60,
+                    "DCN": "1396105381255",
+                    "MaxOnsite": "04",
+                    "Pounds": 2908.0,
+                    "Score": 13.8452,
+                    "SubmissionNumber": 1816259,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 20308.0,
+            "TotalScore": 19.66535,
+            "state_score_percentile": 70,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "72061",
+    "FRSID": "110001133835",
+    "FacilityID": "00657LYMPCPR20K",
+    "FacilityNumber": 110249,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.373005,
+    "Longitude": -66.107944,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "T",
+    "MultiplePrimarySIC": 1,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "naicscode": "313000",
+        "name": ""
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 62,
+            "us_score_pct": 62
+        },
+        "naicscode": "313312",
+        "name": "Textile and Fabric Finishing (except Broadwoven Fabric) Mills"
+    },
+    "NAICS3": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "315192",
+        "name": "Underwear and Nightwear Knitting Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3130",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 21,
+    "NPDESPermit": "",
+    "Name": "OLYMPIC MILLS CORPORATION",
+    "NearComID": 26442008,
+    "NearReach": "21010005003452",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "150383990",
+    "ParentName": "COACHMAN CORP",
+    "PreferredLat": 18.375,
+    "PreferredLong": 66.10833,
+    "PublicContactName": "MANUEL MERCADO",
+    "PublicContactPhone": "7877201000",
+    "RCRANumber": "",
+    "RadialDistance": 43936,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "Knit underwear and nightwear mills",
+        "siccode": "2254"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "Weft knit fabric mills",
+        "siccode": "2257"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 80,
+            "us_score_pct": 60
+        },
+        "name": "Knitting mills, n.e.c.",
+        "siccode": "2259"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "225",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.8016,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.7854,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "RD 20  KM 3.8 MARTINEZ NADAL AVE",
+    "SubmitLat": 18.375,
+    "SubmitLong": 66.10833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 19,
+    "Y": 51,
+    "ZIP9": "009701669",
+    "ZIPCode": "00970"
+}

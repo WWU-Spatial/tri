@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 3823983,
+    "AssignedReach": "05030101001307",
+    "City": "MC DONALD",
+    "County": "PA,WASHINGTON",
+    "DUNS": "004320818",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13356.913412,
+    "DistanceToReach": 1138.807885,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1309207682574",
+                    "MaxOnsite": "02",
+                    "Pounds": 724.0,
+                    "Score": 3.49956,
+                    "SubmissionNumber": 880283,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 724.0,
+            "TotalScore": 3.49956,
+            "state_score_percentile": 51,
+            "us_score_percentile": 46
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1310208762979",
+                    "MaxOnsite": "02",
+                    "Pounds": 1342.0,
+                    "Score": 6.47065,
+                    "SubmissionNumber": 977100,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 1342.0,
+            "TotalScore": 6.47065,
+            "state_score_percentile": 55,
+            "us_score_percentile": 51
+        }
+    },
+    "FIPS": "42125",
+    "FRSID": "110010272800",
+    "FacilityID": "15057PTTMTSTATE",
+    "FacilityNumber": 117684,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.385713,
+    "Longitude": -80.265938,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 17,
+            "state_pounds_pct": 35,
+            "state_score_pct": 35,
+            "us_count": 330,
+            "us_pounds_pct": 34,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 35,
+            "us_count": 320,
+            "us_pounds_pct": 38,
+            "us_score_pct": 27
+        },
+        "naicscode": "325188",
+        "name": "All Other Basic Inorganic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 5,
+    "NPDESPermit": "PA0203661",
+    "Name": "REAXIS INC",
+    "NearComID": 3823983,
+    "NearReach": "05030101001307",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "GICC HOLDINGS INC",
+    "PreferredLat": 40.385,
+    "PreferredLong": 80.26611,
+    "PublicContactName": "DENISE L. HANCHULAK",
+    "PublicContactPhone": "7247961511",
+    "RCRANumber": "PA0000193334",
+    "RadialDistance": 2428509,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2009": {
+            "state_count": 22,
+            "state_pounds_pct": 31,
+            "state_score_pct": 27,
+            "us_count": 397,
+            "us_pounds_pct": 37,
+            "us_score_pct": 23
+        },
+        "2010": {
+            "state_count": 21,
+            "state_pounds_pct": 28,
+            "state_score_pct": 28,
+            "us_count": 393,
+            "us_pounds_pct": 42,
+            "us_score_pct": 26
+        },
+        "name": "Industrial inorganic chemicals, n.e.c.",
+        "siccode": "2819"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "941 ROBINSON HWY",
+    "SubmitLat": 40.385,
+    "SubmitLong": 80.26611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1627,
+    "Y": 2518,
+    "ZIP9": "15057",
+    "ZIPCode": "15057"
+}

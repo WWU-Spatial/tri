@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FITCHBURG",
+    "County": "MA,WORCESTER",
+    "DUNS": "",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 70093.752648,
+    "DistanceToReach": 121.126093,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105358410",
+                    "MaxOnsite": "04",
+                    "Pounds": 1204.0,
+                    "Score": 1.191065,
+                    "SubmissionNumber": 1814383,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396105358434",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 0.79913,
+                    "SubmissionNumber": 1814385,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1214.0,
+            "TotalScore": 1.990195,
+            "state_score_percentile": 33,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110001134246",
+    "FacilityID": "01420RCYCL85PRI",
+    "FacilityNumber": 110770,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.561723,
+    "Longitude": -71.846327,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "naicscode": "322100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 1,
+    "NPDESPermit": "MAR00B027",
+    "Name": "MRALP, RECYCLING & DEINKING FACILITY",
+    "NearComID": 6075697,
+    "NearReach": "01070004000401",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "MASSACHUSETTS RECYCLING ASSOCIATES LP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL GREEN",
+    "PublicContactPhone": "9783433051",
+    "RCRANumber": "MAR00B027",
+    "RadialDistance": 3110054,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 115,
+            "us_pounds_pct": 6,
+            "us_score_pct": 3
+        },
+        "name": "Pulp mills",
+        "siccode": "2611"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 42,
+            "us_count": 184,
+            "us_pounds_pct": 7,
+            "us_score_pct": 10
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 33,
+            "us_pounds_pct": 21,
+            "us_score_pct": 42
+        },
+        "name": "Converted paper and paperboard products, n.e.c.",
+        "siccode": "2679"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "261",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.2192,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 22.2504,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.4488,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "85 PRINCETON RD.",
+    "SubmitLat": 42.57139,
+    "SubmitLong": 72.84639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2407,
+    "Y": 2991,
+    "ZIP9": "01420",
+    "ZIPCode": "01420"
+}

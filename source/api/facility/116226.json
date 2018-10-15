@@ -1,0 +1,626 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HICKSVILLE",
+    "County": "NY,NASSAU",
+    "DUNS": "152084398",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55701.847583,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1396105111633",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.67769,
+                    "SubmissionNumber": 1798114,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105111645",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 900.36,
+                    "SubmissionNumber": 1798115,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105111658",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 27059.2,
+                    "SubmissionNumber": 1798116,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 27960.23769,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1397110320241",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 826732.0,
+                    "SubmissionNumber": 1851900,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 826732.0,
+            "state_score_percentile": 17,
+            "us_score_percentile": 15
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1398120620238",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 830554.0,
+                    "SubmissionNumber": 1947844,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120620240",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 1365530.0,
+                    "SubmissionNumber": 1947845,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 2196084.0,
+            "state_score_percentile": 26,
+            "us_score_percentile": 21
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130684095",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 49385.2,
+                    "SubmissionNumber": 2047358,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1399130684107",
+                    "MaxOnsite": "04",
+                    "Pounds": 83.0,
+                    "Score": 11.4064,
+                    "SubmissionNumber": 2047359,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399130684119",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 730.324,
+                    "SubmissionNumber": 2047360,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 96.0,
+            "TotalScore": 50126.9304,
+            "state_score_percentile": 14,
+            "us_score_percentile": 12
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140684440",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 733.669,
+                    "SubmissionNumber": 52480,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300140684453",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 49611.4,
+                    "SubmissionNumber": 52481,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1300140684465",
+                    "MaxOnsite": "04",
+                    "Pounds": 83.0,
+                    "Score": 11.4587,
+                    "SubmissionNumber": 52482,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1300140684477",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 10058.4,
+                    "SubmissionNumber": 52483,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 99.0,
+            "TotalScore": 60414.92770000001,
+            "state_score_percentile": 19,
+            "us_score_percentile": 15
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1301150534271",
+                    "MaxOnsite": "04",
+                    "Pounds": 23.0,
+                    "Score": 3.17491,
+                    "SubmissionNumber": 141969,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1301150534283",
+                    "MaxOnsite": "03",
+                    "Pounds": 32.0,
+                    "Score": 107277.0,
+                    "SubmissionNumber": 141970,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150534295",
+                    "MaxOnsite": "04",
+                    "Pounds": 58.0,
+                    "Score": 10636.9,
+                    "SubmissionNumber": 141971,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150534307",
+                    "MaxOnsite": "04",
+                    "Pounds": 37.0,
+                    "Score": 203934.0,
+                    "SubmissionNumber": 141972,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 150.0,
+            "TotalScore": 321851.07490999997,
+            "state_score_percentile": 26,
+            "us_score_percentile": 23
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1302200523177",
+                    "MaxOnsite": "04",
+                    "Pounds": 38.0,
+                    "Score": 5.24488,
+                    "SubmissionNumber": 240219,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1302200523189",
+                    "MaxOnsite": "03",
+                    "Pounds": 27.0,
+                    "Score": 90503.8,
+                    "SubmissionNumber": 240220,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1302200523191",
+                    "MaxOnsite": "04",
+                    "Pounds": 47.0,
+                    "Score": 8618.56,
+                    "SubmissionNumber": 240221,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200523203",
+                    "MaxOnsite": "04",
+                    "Pounds": 30.0,
+                    "Score": 165332.0,
+                    "SubmissionNumber": 240222,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 142.0,
+            "TotalScore": 264459.60488,
+            "state_score_percentile": 29,
+            "us_score_percentile": 25
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1303201607621",
+                    "MaxOnsite": "04",
+                    "Pounds": 23.0,
+                    "Score": 3.17416,
+                    "SubmissionNumber": 337476,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1303201607633",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 20109.6,
+                    "SubmissionNumber": 337477,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1303201607645",
+                    "MaxOnsite": "04",
+                    "Pounds": 45.0,
+                    "Score": 8250.83,
+                    "SubmissionNumber": 337478,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1303201607658",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 104698.0,
+                    "SubmissionNumber": 337479,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 93.0,
+            "TotalScore": 133061.60416,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1304202837314",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 1.79387,
+                    "SubmissionNumber": 447915,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1304202837326",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 49587.8,
+                    "SubmissionNumber": 447916,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1304202837338",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 38568.3,
+                    "SubmissionNumber": 447917,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1304202837340",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 16756.0,
+                    "SubmissionNumber": 447918,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1304202837353",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 3116.61,
+                    "SubmissionNumber": 447919,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 51.0,
+            "TotalScore": 108030.50387,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000324079",
+    "FacilityID": "11801PRKNL220MI",
+    "FacilityNumber": 116226,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.785253,
+    "Longitude": -73.515016,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 7,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 27,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 55,
+            "us_score_pct": 100
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 34,
+            "us_score_pct": 89
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 46,
+            "us_pounds_pct": 34,
+            "us_score_pct": 91
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 97
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 42,
+            "us_score_pct": 100
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 53,
+            "us_score_pct": 93
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 44,
+            "us_score_pct": 95
+        },
+        "naicscode": "332117",
+        "name": "Powder Metallurgy Part Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SULZER METCO (US) INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001826957",
+    "ParentName": "SULZER US INDUSTRIES HOLDING INC",
+    "PreferredLat": 40.7899,
+    "PreferredLong": 73.5164,
+    "PublicContactName": "W. GREGORY WUEST",
+    "PublicContactPhone": "5163382217",
+    "RCRANumber": "NYD981558570",
+    "RadialDistance": 2881117,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 90,
+            "us_count": 350,
+            "us_pounds_pct": 9,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 100,
+            "us_count": 325,
+            "us_pounds_pct": 16,
+            "us_score_pct": 97
+        },
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 100,
+            "us_count": 332,
+            "us_pounds_pct": 29,
+            "us_score_pct": 99
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 87,
+            "us_count": 306,
+            "us_pounds_pct": 18,
+            "us_score_pct": 89
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 85,
+            "us_count": 301,
+            "us_pounds_pct": 21,
+            "us_score_pct": 90
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 100,
+            "us_count": 287,
+            "us_pounds_pct": 29,
+            "us_score_pct": 94
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 100,
+            "us_count": 266,
+            "us_pounds_pct": 32,
+            "us_score_pct": 97
+        },
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 100,
+            "us_count": 250,
+            "us_pounds_pct": 33,
+            "us_score_pct": 94
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 249,
+            "us_pounds_pct": 31,
+            "us_score_pct": 94
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6033,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.2445,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.4172,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "220 MILLER PL",
+    "SubmitLat": 40.78611,
+    "SubmitLong": 73.51667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2302,
+    "Y": 2712,
+    "ZIP9": "11801",
+    "ZIPCode": "11801"
+}

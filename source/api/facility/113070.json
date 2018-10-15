@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTH BURLINGTON",
+    "County": "VT,CHITTENDEN",
+    "DUNS": "113631225",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 1414.528974,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205409131",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.04,
+                    "Score": 1.838377,
+                    "SubmissionNumber": 678393,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.04,
+            "TotalScore": 1.838377,
+            "state_score_percentile": 36,
+            "us_score_percentile": 12
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206299000",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.04,
+                    "Score": 1.851096,
+                    "SubmissionNumber": 754879,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.04,
+            "TotalScore": 1.851096,
+            "state_score_percentile": 35,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "50007",
+    "FRSID": "110037143310",
+    "FacilityID": "05403CPRCN6GREE",
+    "FacilityNumber": 113070,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.45644,
+    "Longitude": -73.14004,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 54,
+            "us_score_pct": 54
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 61,
+            "us_score_pct": 54
+        },
+        "naicscode": "335314",
+        "name": "Relay and Industrial Control Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3353",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COOPER CONTROLS PCI LIGHTING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "602755428",
+    "ParentName": "COOPER US INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DARREN SHEQUEN",
+    "PublicContactPhone": "2628962421",
+    "RCRANumber": "NA",
+    "RadialDistance": 3162644,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 53,
+            "us_score_pct": 46
+        },
+        "name": "Relays and industrial controls",
+        "siccode": "3625"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "362",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "50",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.8392,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1288,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "VT",
+    "Street": "6 GREEN TREE DR",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2219,
+    "Y": 3213,
+    "ZIP9": "05403",
+    "ZIPCode": "05403"
+}

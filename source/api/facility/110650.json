@@ -1,0 +1,520 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST SPRINGFIELD",
+    "County": "MA,HAMPDEN",
+    "DUNS": "154779748",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18843.772193,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100288582",
+                    "MaxOnsite": "03",
+                    "Pounds": 5965.0,
+                    "Score": 0.9401269999999999,
+                    "SubmissionNumber": 1772904,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5965.0,
+            "TotalScore": 0.9401269999999999,
+            "state_score_percentile": 53,
+            "us_score_percentile": 44
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120536432",
+                    "MaxOnsite": "03",
+                    "Pounds": 5425.0,
+                    "Score": 0.9270349999999999,
+                    "SubmissionNumber": 1941570,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5425.0,
+            "TotalScore": 0.9270349999999999,
+            "state_score_percentile": 54,
+            "us_score_percentile": 44
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130522030",
+                    "MaxOnsite": "03",
+                    "Pounds": 3210.0,
+                    "Score": 0.549267,
+                    "SubmissionNumber": 2034257,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3210.0,
+            "TotalScore": 0.549267,
+            "state_score_percentile": 49,
+            "us_score_percentile": 40
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300145117495",
+                    "MaxOnsite": "03",
+                    "Pounds": 13804.0,
+                    "Score": 2.366207,
+                    "SubmissionNumber": 82737,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145118016",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 82761,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145118030",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 31775.8,
+                    "SubmissionNumber": 82762,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14059.0,
+            "TotalScore": 31778.166207,
+            "state_score_percentile": 80,
+            "us_score_percentile": 62
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301150031728",
+                    "MaxOnsite": "03",
+                    "Pounds": 7448.0,
+                    "Score": 1.276665,
+                    "SubmissionNumber": 97042,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7448.0,
+            "TotalScore": 1.276665,
+            "state_score_percentile": 73,
+            "us_score_percentile": 58
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1302204059707",
+                    "MaxOnsite": "03",
+                    "Pounds": 7418.0,
+                    "Score": 1.449869,
+                    "SubmissionNumber": 287458,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7418.0,
+            "TotalScore": 1.449869,
+            "state_score_percentile": 74,
+            "us_score_percentile": 59
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000308257",
+    "FacilityID": "01089SHLTN96WIN",
+    "FacilityNumber": 110650,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.095356,
+    "Longitude": -72.61709,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 55,
+            "us_score_pct": 55
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 60,
+            "us_score_pct": 40
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 3,
+            "us_pounds_pct": 66,
+            "us_score_pct": 66
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 100,
+            "us_score_pct": 50
+        },
+        "naicscode": "339932",
+        "name": "Game, Toy, and Children's Vehicle Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 41,
+            "us_pounds_pct": 53,
+            "us_score_pct": 19
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 58,
+            "us_score_pct": 19
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 52,
+            "us_score_pct": 19
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 74,
+            "us_score_pct": 71
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 71,
+            "us_score_pct": 21
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 66,
+            "us_score_pct": 24
+        },
+        "naicscode": "339113",
+        "name": "Surgical Appliance and Supplies Manufacturing"
+    },
+    "NAICS3": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 54,
+            "us_pounds_pct": 35,
+            "us_score_pct": 29
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 50,
+            "us_pounds_pct": 38,
+            "us_score_pct": 26
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 48,
+            "us_pounds_pct": 35,
+            "us_score_pct": 25
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 57,
+            "us_score_pct": 96
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 47,
+            "us_pounds_pct": 44,
+            "us_score_pct": 27
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 49,
+            "us_pounds_pct": 48,
+            "us_score_pct": 34
+        },
+        "naicscode": "339920",
+        "name": "Sporting and Athletic Goods Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CYALUME TECHNOLOGIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.09536,
+    "PreferredLong": 72.61817,
+    "PublicContactName": "EARL CRANOR",
+    "PublicContactPhone": "4138582502",
+    "RCRANumber": "MAD985290865",
+    "RadialDistance": 3028283,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 41,
+            "us_score_pct": 41
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 28
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 28
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 100
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 25
+        },
+        "name": "Games, toys and children's vehicles; except dolls and bicycles",
+        "siccode": "3944"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 48,
+            "us_pounds_pct": 54,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 43,
+            "us_pounds_pct": 67,
+            "us_score_pct": 20
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 59,
+            "us_score_pct": 19
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 82,
+            "us_score_pct": 71
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 45,
+            "us_pounds_pct": 82,
+            "us_score_pct": 26
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 54,
+            "us_pounds_pct": 79,
+            "us_score_pct": 27
+        },
+        "name": "Orthopedic, prosthetic, and surgical appliances and supplies",
+        "siccode": "3842"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 56,
+            "us_pounds_pct": 37,
+            "us_score_pct": 32
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 52,
+            "us_pounds_pct": 34,
+            "us_score_pct": 23
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 49,
+            "us_pounds_pct": 30,
+            "us_score_pct": 22
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 52,
+            "us_pounds_pct": 55,
+            "us_score_pct": 94
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 46,
+            "us_pounds_pct": 41,
+            "us_score_pct": 19
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 48,
+            "us_pounds_pct": 43,
+            "us_score_pct": 25
+        },
+        "name": "Sporting and athletic goods, n.e.c.",
+        "siccode": "3949"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "394",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.8362,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.7729,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.3954,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "96 WINDSOR ST",
+    "SubmitLat": 42.09667,
+    "SubmitLong": 72.61806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2348,
+    "Y": 2910,
+    "ZIP9": "01089",
+    "ZIPCode": "01089"
+}

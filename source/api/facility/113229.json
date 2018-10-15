@@ -1,0 +1,587 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BRITAIN",
+    "County": "CT,HARTFORD",
+    "DUNS": "066602616",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30795.911167,
+    "DistanceToReach": 2460.391068,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1396100337690",
+                    "MaxOnsite": "02",
+                    "Pounds": 865.0,
+                    "Score": 3.0808,
+                    "SubmissionNumber": 1776936,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100337702",
+                    "MaxOnsite": "04",
+                    "Pounds": 11.0,
+                    "Score": 2.61646,
+                    "SubmissionNumber": 1776937,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396100337714",
+                    "MaxOnsite": "04",
+                    "Pounds": 1586.0,
+                    "Score": 540192.0,
+                    "SubmissionNumber": 1776938,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100337726",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 18256.9,
+                    "SubmissionNumber": 1776939,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100337738",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 0.176143,
+                    "SubmissionNumber": 1776940,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1396100337740",
+                    "MaxOnsite": "03",
+                    "Pounds": 8.0,
+                    "Score": 5.74691,
+                    "SubmissionNumber": 1776941,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396100337753",
+                    "MaxOnsite": "04",
+                    "Pounds": 3110.0,
+                    "Score": 89.16602999999999,
+                    "SubmissionNumber": 1776942,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5588.0,
+            "TotalScore": 558549.686343,
+            "state_score_percentile": 48,
+            "us_score_percentile": 44
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1397110027087",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 4.29651,
+                    "SubmissionNumber": 1826283,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110027099",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 22748.7,
+                    "SubmissionNumber": 1826284,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1397110027101",
+                    "MaxOnsite": "04",
+                    "Pounds": 951.0,
+                    "Score": 321688.0,
+                    "SubmissionNumber": 1826285,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110027113",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 1.89649,
+                    "SubmissionNumber": 1826286,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397110027125",
+                    "MaxOnsite": "02",
+                    "Pounds": 518.0,
+                    "Score": 1.83177,
+                    "SubmissionNumber": 1826287,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110027137",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 0.065113,
+                    "SubmissionNumber": 1826288,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110027149",
+                    "MaxOnsite": "03",
+                    "Pounds": 6.0,
+                    "Score": 0.263375,
+                    "SubmissionNumber": 1826289,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397110027152",
+                    "MaxOnsite": "04",
+                    "Pounds": 8002.0,
+                    "Score": 228.62879,
+                    "SubmissionNumber": 1826290,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9500.0,
+            "TotalScore": 344673.682048,
+            "state_score_percentile": 58,
+            "us_score_percentile": 50
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1398120306307",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 2.85522,
+                    "SubmissionNumber": 1924342,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120306319",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 31746.7,
+                    "SubmissionNumber": 1924343,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1398120306321",
+                    "MaxOnsite": "04",
+                    "Pounds": 950.0,
+                    "Score": 319129.0,
+                    "SubmissionNumber": 1924344,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120306333",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 1.65383,
+                    "SubmissionNumber": 1924345,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120306345",
+                    "MaxOnsite": "04",
+                    "Pounds": 11.0,
+                    "Score": 0.178489,
+                    "SubmissionNumber": 1924346,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120306358",
+                    "MaxOnsite": "04",
+                    "Pounds": 2334.0,
+                    "Score": 92.98769999999999,
+                    "SubmissionNumber": 1924347,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3313.0,
+            "TotalScore": 350973.375239,
+            "state_score_percentile": 45,
+            "us_score_percentile": 39
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1399130245145",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 3.55763,
+                    "SubmissionNumber": 2011095,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1399130245158",
+                    "MaxOnsite": "04",
+                    "Pounds": 779.0,
+                    "Score": 259864.0,
+                    "SubmissionNumber": 2011096,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130245160",
+                    "MaxOnsite": "05",
+                    "Pounds": 7.0,
+                    "Score": 1.64824,
+                    "SubmissionNumber": 2011097,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130245184",
+                    "MaxOnsite": "04",
+                    "Pounds": 2569.0,
+                    "Score": 96.78790000000001,
+                    "SubmissionNumber": 2011099,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3360.0,
+            "TotalScore": 259965.99377,
+            "state_score_percentile": 47,
+            "us_score_percentile": 41
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1300140432699",
+                    "MaxOnsite": "04",
+                    "Pounds": 1073.0,
+                    "Score": 332947.6,
+                    "SubmissionNumber": 36352,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140432701",
+                    "MaxOnsite": "04",
+                    "Pounds": 302.0,
+                    "Score": 70.8684,
+                    "SubmissionNumber": 36353,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300140432725",
+                    "MaxOnsite": "02",
+                    "Pounds": 11086.0,
+                    "Score": 419.48199999999997,
+                    "SubmissionNumber": 36355,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1300140432737",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 11.37912,
+                    "SubmissionNumber": 36356,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 12471.0,
+            "TotalScore": 333449.32951999997,
+            "state_score_percentile": 66,
+            "us_score_percentile": 60
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150359281",
+                    "MaxOnsite": "02",
+                    "Pounds": 1500.0,
+                    "Score": 67.1946,
+                    "SubmissionNumber": 126547,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150359293",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.06,
+                    "Score": 0.174513,
+                    "SubmissionNumber": 126548,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1301150359305",
+                    "MaxOnsite": "03",
+                    "Pounds": 165.0,
+                    "Score": 36046.2,
+                    "SubmissionNumber": 126549,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1301150359317",
+                    "MaxOnsite": "04",
+                    "Pounds": 93.0,
+                    "Score": 21.8715,
+                    "SubmissionNumber": 126550,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1758.06,
+            "TotalScore": 36135.440613,
+            "state_score_percentile": 52,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110024837042",
+    "FacilityID": "06050THSTN195LA",
+    "FacilityNumber": 113229,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.66837,
+    "Longitude": -72.79344,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 38,
+            "us_pounds_pct": 65,
+            "us_score_pct": 89
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 39,
+            "us_pounds_pct": 71,
+            "us_score_pct": 87
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 35,
+            "us_pounds_pct": 68,
+            "us_score_pct": 88
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 33,
+            "us_pounds_pct": 69,
+            "us_score_pct": 87
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 80,
+            "us_score_pct": 93
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 61,
+            "us_score_pct": 88
+        },
+        "naicscode": "332212",
+        "name": "Hand and Edge Tool Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3322",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "SP0000121",
+    "Name": "STANLEY WORKS HARDWARE DIV.",
+    "NearComID": 7700290,
+    "NearReach": "01080205000905",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001152461",
+    "ParentName": "STANLEY WORKS",
+    "PreferredLat": 41.66886,
+    "PreferredLong": 72.7942,
+    "PublicContactName": "TERRY CHRISTENSEN",
+    "PublicContactPhone": "8608275217",
+    "RCRANumber": "SP0000121",
+    "RadialDistance": 2988044,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 57,
+            "us_pounds_pct": 50,
+            "us_score_pct": 98
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 52,
+            "us_pounds_pct": 55,
+            "us_score_pct": 86
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 51,
+            "us_pounds_pct": 58,
+            "us_score_pct": 94
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 62,
+            "us_score_pct": 92
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 52,
+            "us_pounds_pct": 73,
+            "us_score_pct": 88
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 50,
+            "us_pounds_pct": 62,
+            "us_score_pct": 82
+        },
+        "name": "Hardware, n.e.c.",
+        "siccode": "3429"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "342",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "100 CURTIS ST.",
+    "SubmitLat": 41.675,
+    "SubmitLong": 72.59722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2345,
+    "Y": 2848,
+    "ZIP9": "06053",
+    "ZIPCode": "06053"
+}

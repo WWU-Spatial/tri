@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CRANSTON",
+    "County": "RI,PROVIDENCE",
+    "DUNS": "039991609",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4696.003258,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120122888",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 10.8965,
+                    "SubmissionNumber": 1909697,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 10.8965,
+            "state_score_percentile": 26,
+            "us_score_percentile": 15
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130330285",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 10.9301,
+                    "SubmissionNumber": 2018206,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 10.9301,
+            "state_score_percentile": 29,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "111422",
+                    "Chemical": "Diethanolamine",
+                    "ChemicalNumber": 238,
+                    "DCN": "1300140580491",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 64.9943,
+                    "SubmissionNumber": 46277,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300140580515",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 10.9637,
+                    "SubmissionNumber": 46279,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 75.958,
+            "state_score_percentile": 38,
+            "us_score_percentile": 25
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150192223",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 10.9659,
+                    "SubmissionNumber": 111691,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 10.9659,
+            "state_score_percentile": 39,
+            "us_score_percentile": 26
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1302200328173",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 10.9681,
+                    "SubmissionNumber": 222091,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 10.9681,
+            "state_score_percentile": 39,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "44007",
+    "FRSID": "110000313045",
+    "FacilityID": "02910JHNRH400ST",
+    "FacilityNumber": 112324,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.774879,
+    "Longitude": -71.425404,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 332,
+            "us_pounds_pct": 22,
+            "us_score_pct": 39
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 35,
+            "state_score_pct": 57,
+            "us_count": 335,
+            "us_pounds_pct": 20,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 78,
+            "state_score_pct": 57,
+            "us_count": 343,
+            "us_pounds_pct": 33,
+            "us_score_pct": 53
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 66,
+            "us_count": 346,
+            "us_pounds_pct": 25,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 356,
+            "us_pounds_pct": 28,
+            "us_score_pct": 43
+        },
+        "naicscode": "325998",
+        "name": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JOHN R HESS & CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TONY THOMPSON",
+    "PublicContactPhone": "4017859300",
+    "RCRANumber": "RID039991609",
+    "RadialDistance": 3086855,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 373,
+            "us_pounds_pct": 14,
+            "us_score_pct": 52
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 363,
+            "us_pounds_pct": 15,
+            "us_score_pct": 54
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 386,
+            "us_pounds_pct": 27,
+            "us_score_pct": 74
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 367,
+            "us_pounds_pct": 17,
+            "us_score_pct": 53
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 349,
+            "us_pounds_pct": 17,
+            "us_score_pct": 57
+        },
+        "name": "Chemicals and allied products, n.e.c. (wholesale trade)",
+        "siccode": "5169"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "516",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "44",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.6576,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "RI",
+    "Street": "400 STATION ST",
+    "SubmitLat": 41.77583,
+    "SubmitLong": 71.425,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2476,
+    "Y": 2897,
+    "ZIP9": "02910",
+    "ZIPCode": "02910"
+}

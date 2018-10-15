@@ -1,0 +1,196 @@
+{
+    "AssignedComID": 22744311,
+    "AssignedReach": "02020004000022",
+    "City": "GLENVILLE",
+    "County": "NY,SCHENECTADY",
+    "DUNS": "933549594",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18917.73318,
+    "DistanceToReach": 388.780961,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1300203053285",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 9.93961,
+                    "SubmissionNumber": 93412,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 9.93961,
+            "state_score_percentile": 8,
+            "us_score_percentile": 4
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1305203721485",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 505.877,
+                    "SubmissionNumber": 528510,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1305203721497",
+                    "MaxOnsite": "04",
+                    "Pounds": 10048.0,
+                    "Score": 0.859229,
+                    "SubmissionNumber": 528511,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10298.0,
+            "TotalScore": 506.73622900000004,
+            "state_score_percentile": 76,
+            "us_score_percentile": 66
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1306204752442",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 507.657,
+                    "SubmissionNumber": 621533,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 507.657,
+            "state_score_percentile": 38,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "36093",
+    "FRSID": "110004527254",
+    "FacilityID": "12302SPRST27THS",
+    "FacilityNumber": 116392,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.84209,
+    "Longitude": -73.99514,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 8,
+            "us_score_pct": 22
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 45,
+            "us_score_pct": 33
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 26,
+            "us_score_pct": 38
+        },
+        "naicscode": "336510",
+        "name": "Railroad Rolling Stock Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3365",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "SUPER STEEL SCHENECTADY INC",
+    "NearComID": 22746055,
+    "NearReach": "02020004000022",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006549141",
+    "ParentName": "SUPER STEEL PRODUCTS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KATHLEEN ROEBEN",
+    "PublicContactPhone": "5186883306",
+    "RCRANumber": "NYR000027581",
+    "RadialDistance": 2992605,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 5,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 58,
+            "us_score_pct": 41
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 31,
+            "us_score_pct": 40
+        },
+        "name": "Railroad equipment",
+        "siccode": "3743"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "374",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0584,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2000 7TH ST",
+    "SubmitLat": 42.83694,
+    "SubmitLong": 73.98583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2188,
+    "Y": 2977,
+    "ZIP9": "12302",
+    "ZIPCode": "12302"
+}

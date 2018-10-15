@@ -1,0 +1,170 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CANTON",
+    "County": "MA,NORFOLK",
+    "DUNS": "103955381",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26073.287012,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150601312",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.5,
+                    "Score": 2.27516,
+                    "SubmissionNumber": 147937,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.5,
+            "TotalScore": 2.27516,
+            "state_score_percentile": 12,
+            "us_score_percentile": 5
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302201093630",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 1.52136,
+                    "SubmissionNumber": 283653,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.52136,
+            "state_score_percentile": 14,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110001937520",
+    "FacilityID": "02021NDCMR152WI",
+    "FacilityNumber": 111460,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.142487,
+    "Longitude": -71.125132,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 8,
+            "us_score_pct": 45
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 6,
+            "us_score_pct": 34
+        },
+        "naicscode": "335312",
+        "name": "Motor and Generator Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3353",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "NIDEC AMERICA",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BETH PROCTOR",
+    "PublicContactPhone": "7815516803",
+    "RCRANumber": "MAD099199929",
+    "RadialDistance": 3130605,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 8,
+            "us_score_pct": 41
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 6,
+            "us_score_pct": 31
+        },
+        "name": "Motors and generators",
+        "siccode": "3621"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 29,
+            "us_score_pct": 45
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 28,
+            "us_score_pct": 47
+        },
+        "name": "Electrical industrial appliances, n.e.c.",
+        "siccode": "3629"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "362",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.8392,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1288,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "152 WILL DR",
+    "SubmitLat": 42.14167,
+    "SubmitLong": 71.12611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2493,
+    "Y": 2954,
+    "ZIP9": "02021",
+    "ZIPCode": "02021"
+}

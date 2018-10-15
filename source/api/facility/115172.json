@@ -1,0 +1,292 @@
+{
+    "AssignedComID": 4495654,
+    "AssignedReach": "02040202000079",
+    "City": "PALMYRA",
+    "County": "NJ,BURLINGTON",
+    "DUNS": "002329621",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22585.971937,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307205811437",
+                    "MaxOnsite": "04",
+                    "Pounds": 9.0,
+                    "Score": 2.5193,
+                    "SubmissionNumber": 714056,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 9.0,
+            "TotalScore": 2.5193,
+            "state_score_percentile": 16,
+            "us_score_percentile": 16
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206425074",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 3.64756,
+                    "SubmissionNumber": 766721,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 13.0,
+            "TotalScore": 3.64756,
+            "state_score_percentile": 22,
+            "us_score_percentile": 20
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207483470",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 3.65614,
+                    "SubmissionNumber": 861563,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 13.0,
+            "TotalScore": 3.65614,
+            "state_score_percentile": 22,
+            "us_score_percentile": 21
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208332686",
+                    "MaxOnsite": "04",
+                    "Pounds": 13.0,
+                    "Score": 3.66471,
+                    "SubmissionNumber": 937240,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 13.0,
+            "TotalScore": 3.66471,
+            "state_score_percentile": 22,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "34005",
+    "FRSID": "110042074064",
+    "FacilityID": "08065RMTKN701PU",
+    "FacilityNumber": 115172,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.996772,
+    "Longitude": -75.03032,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 42,
+            "us_count": 461,
+            "us_pounds_pct": 15,
+            "us_score_pct": 21
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 438,
+            "us_pounds_pct": 24,
+            "us_score_pct": 23
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 50,
+            "us_count": 413,
+            "us_pounds_pct": 25,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 42,
+            "us_count": 422,
+            "us_pounds_pct": 22,
+            "us_score_pct": 26
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICS2": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 25,
+            "us_pounds_pct": 16,
+            "us_score_pct": 32
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 24,
+            "us_pounds_pct": 12,
+            "us_score_pct": 29
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 16,
+            "us_score_pct": 29
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 18,
+            "us_score_pct": 27
+        },
+        "naicscode": "323122",
+        "name": "Prepress Services"
+    },
+    "NAICS3": {
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 11,
+            "us_count": 318,
+            "us_pounds_pct": 6,
+            "us_score_pct": 24
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 314,
+            "us_pounds_pct": 8,
+            "us_score_pct": 25
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 55,
+            "us_count": 304,
+            "us_pounds_pct": 10,
+            "us_score_pct": 29
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 298,
+            "us_pounds_pct": 9,
+            "us_score_pct": 26
+        },
+        "naicscode": "332812",
+        "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ARMOTEK INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "PAMARCO INC",
+    "PreferredLat": 39.99667,
+    "PreferredLong": 75.03,
+    "PublicContactName": "GARY WHITE",
+    "PublicContactPhone": "8568294585",
+    "RCRANumber": "NJD002329621",
+    "RadialDistance": 2726076,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 20,
+            "us_score_pct": 30
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 29
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 22,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 25,
+            "us_score_pct": 31
+        },
+        "name": "Platemaking and related services",
+        "siccode": "2796"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "279",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.729,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1 ROTO AVE",
+    "SubmitLat": 39.99667,
+    "SubmitLong": 75.03,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2173,
+    "Y": 2570,
+    "ZIP9": "08065",
+    "ZIPCode": "08065"
+}

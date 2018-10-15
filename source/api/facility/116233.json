@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLAINVIEW",
+    "County": "NY,NASSAU",
+    "DUNS": "799379714",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59736.726893,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1396105174015",
+                    "MaxOnsite": "04",
+                    "Pounds": 180.0,
+                    "Score": 25.36961,
+                    "SubmissionNumber": 1802140,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105174027",
+                    "MaxOnsite": "04",
+                    "Pounds": 1500.0,
+                    "Score": 0.168627,
+                    "SubmissionNumber": 1802141,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105174039",
+                    "MaxOnsite": "04",
+                    "Pounds": 770.0,
+                    "Score": 4.32037,
+                    "SubmissionNumber": 1802142,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2450.0,
+            "TotalScore": 29.858607000000003,
+            "state_score_percentile": 43,
+            "us_score_percentile": 36
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1397115177863",
+                    "MaxOnsite": "04",
+                    "Pounds": 150.0,
+                    "Score": 21.40447,
+                    "SubmissionNumber": 1885455,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115177875",
+                    "MaxOnsite": "04",
+                    "Pounds": 1400.0,
+                    "Score": 0.159149,
+                    "SubmissionNumber": 1885456,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115177887",
+                    "MaxOnsite": "04",
+                    "Pounds": 770.0,
+                    "Score": 4.335623,
+                    "SubmissionNumber": 1885457,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2320.0,
+            "TotalScore": 25.899242,
+            "state_score_percentile": 45,
+            "us_score_percentile": 35
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1398125043048",
+                    "MaxOnsite": "04",
+                    "Pounds": 130.0,
+                    "Score": 18.47785,
+                    "SubmissionNumber": 1969626,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125043164",
+                    "MaxOnsite": "04",
+                    "Pounds": 1200.0,
+                    "Score": 0.135948,
+                    "SubmissionNumber": 1969635,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125043265",
+                    "MaxOnsite": "04",
+                    "Pounds": 590.0,
+                    "Score": 3.33663,
+                    "SubmissionNumber": 1969643,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1920.0,
+            "TotalScore": 21.950428,
+            "state_score_percentile": 41,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "36059",
+    "FRSID": "110000324097",
+    "FacilityID": "11803FSRCN55SKY",
+    "FacilityNumber": 116233,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.787099,
+    "Longitude": -73.466816,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 42,
+            "state_score_pct": 69,
+            "us_count": 634,
+            "us_pounds_pct": 34,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 22,
+            "state_pounds_pct": 45,
+            "state_score_pct": 68,
+            "us_count": 600,
+            "us_pounds_pct": 32,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 52,
+            "state_score_pct": 60,
+            "us_count": 608,
+            "us_pounds_pct": 30,
+            "us_score_pct": 50
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FOSROC INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "058370685",
+    "ParentName": "FOSROC INC",
+    "PreferredLat": 40.78389,
+    "PreferredLong": 73.46528,
+    "PublicContactName": "BRENDA HOLDREN",
+    "PublicContactPhone": "5028636800",
+    "RCRANumber": "NYD052783396",
+    "RadialDistance": 2884499,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 42,
+            "state_score_pct": 69,
+            "us_count": 613,
+            "us_pounds_pct": 34,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 23,
+            "state_pounds_pct": 47,
+            "state_score_pct": 69,
+            "us_count": 579,
+            "us_pounds_pct": 32,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 24,
+            "state_pounds_pct": 50,
+            "state_score_pct": 62,
+            "us_count": 580,
+            "us_pounds_pct": 29,
+            "us_score_pct": 50
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "55 SKYLINE DR.",
+    "SubmitLat": 40.78389,
+    "SubmitLong": 73.46528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2307,
+    "Y": 2713,
+    "ZIP9": "11803",
+    "ZIPCode": "11803"
+}

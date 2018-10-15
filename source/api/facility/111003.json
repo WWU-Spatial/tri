@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WORCESTER",
+    "County": "MA,WORCESTER",
+    "DUNS": "001438084",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 63743.795339,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1308208523516",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 36.8254,
+                    "SubmissionNumber": 831167,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 36.8254,
+            "state_score_percentile": 25,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1309208523478",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 36.888,
+                    "SubmissionNumber": 910698,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 36.888,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1310208523340",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 36.9507,
+                    "SubmissionNumber": 954359,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 36.9507,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000846737",
+    "FacilityID": "01606WRGHT160GO",
+    "FacilityNumber": 111003,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.293351,
+    "Longitude": -71.80254,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 29,
+            "us_score_pct": 47
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 29,
+            "us_score_pct": 47
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 33,
+            "us_score_pct": 53
+        },
+        "naicscode": "337214",
+        "name": "Office Furniture (except Wood) Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3372",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "MAR00A021",
+    "Name": "WRIGHT LINE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004155818",
+    "ParentName": "EATON CORP",
+    "PreferredLat": 42.29167,
+    "PreferredLong": 71.81333,
+    "PublicContactName": "JAMIE RICHMOND",
+    "PublicContactPhone": "5089266063",
+    "RCRANumber": "MAD001438084",
+    "RadialDistance": 3095151,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 33,
+            "us_score_pct": 46
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 33,
+            "us_score_pct": 46
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 30,
+            "us_score_pct": 53
+        },
+        "name": "Office furniture, except wood",
+        "siccode": "2522"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "252",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7315,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1559,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "160 GOLD STAR BLVD",
+    "SubmitLat": 42.29167,
+    "SubmitLong": 71.81333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2421,
+    "Y": 2956,
+    "ZIP9": "01606",
+    "ZIPCode": "01606"
+}

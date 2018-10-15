@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GIBBSTOWN",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "064977424",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7085.426951,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130576539",
+                    "MaxOnsite": "01",
+                    "Pounds": 10660.0,
+                    "Score": 36.7303,
+                    "SubmissionNumber": 2038860,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10660.0,
+            "TotalScore": 36.7303,
+            "state_score_percentile": 66,
+            "us_score_percentile": 55
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150227902",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.8781519999999999,
+                    "SubmissionNumber": 114959,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 0.8781519999999999,
+            "state_score_percentile": 29,
+            "us_score_percentile": 27
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203970126",
+                    "MaxOnsite": "03",
+                    "Pounds": 12899.0,
+                    "Score": 44.4739,
+                    "SubmissionNumber": 551055,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 12899.0,
+            "TotalScore": 44.4739,
+            "state_score_percentile": 82,
+            "us_score_percentile": 69
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1306204489443",
+                    "MaxOnsite": "04",
+                    "Pounds": 12592.0,
+                    "Score": 43.4143,
+                    "SubmissionNumber": 597249,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 12592.0,
+            "TotalScore": 43.4143,
+            "state_score_percentile": 83,
+            "us_score_percentile": 69
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110002340217",
+    "FacilityID": "08027CRDXCALINE",
+    "FacilityNumber": 115105,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.830929,
+    "Longitude": -75.297942,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 77,
+            "us_pounds_pct": 44,
+            "us_score_pct": 54
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 82,
+            "us_pounds_pct": 17,
+            "us_score_pct": 29
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 74,
+            "us_pounds_pct": 51,
+            "us_score_pct": 50
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 74,
+            "us_pounds_pct": 48,
+            "us_score_pct": 54
+        },
+        "naicscode": "325120",
+        "name": "Industrial Gas Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AIR LIQUIDE INDUSTRIAL US  L.P.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "064977424",
+    "ParentName": "AIR LIQUIDE INDUSTRIAL US  LP",
+    "PreferredLat": 39.83167,
+    "PreferredLong": 75.29778,
+    "PublicContactName": "SCOTT HARTMAN",
+    "PublicContactPhone": "7136248227",
+    "RCRANumber": "NJD981494347",
+    "RadialDistance": 2696780,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 60,
+            "us_pounds_pct": 58,
+            "us_score_pct": 65
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 66,
+            "us_pounds_pct": 21,
+            "us_score_pct": 36
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 62,
+            "us_score_pct": 57
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 60,
+            "us_score_pct": 60
+        },
+        "name": "Industrial gases",
+        "siccode": "2813"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "281",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7899,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "A LINE RD",
+    "SubmitLat": 39.82861,
+    "SubmitLong": 75.29278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2151,
+    "Y": 2541,
+    "ZIP9": "08027",
+    "ZIPCode": "08027"
+}

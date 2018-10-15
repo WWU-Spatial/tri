@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOUTHINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "001152222",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43866.879642,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105053262",
+                    "MaxOnsite": "03",
+                    "Pounds": 24500.0,
+                    "Score": 13.58097,
+                    "SubmissionNumber": 1794168,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105053274",
+                    "MaxOnsite": "04",
+                    "Pounds": 5000.0,
+                    "Score": 0.323568,
+                    "SubmissionNumber": 1794169,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29500.0,
+            "TotalScore": 13.904538,
+            "state_score_percentile": 79,
+            "us_score_percentile": 70
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115003218",
+                    "MaxOnsite": "03",
+                    "Pounds": 13000.0,
+                    "Score": 7.2274199999999995,
+                    "SubmissionNumber": 1875524,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13000.0,
+            "TotalScore": 7.2274199999999995,
+            "state_score_percentile": 65,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398125054445",
+                    "MaxOnsite": "03",
+                    "Pounds": 10590.0,
+                    "Score": 14595.78,
+                    "SubmissionNumber": 1970126,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10590.0,
+            "TotalScore": 14595.78,
+            "state_score_percentile": 64,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000316596",
+    "FacilityID": "06489LKYLT170CA",
+    "FacilityNumber": 113653,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.573305,
+    "Longitude": -72.901058,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 60,
+            "us_count": 113,
+            "us_pounds_pct": 72,
+            "us_score_pct": 57
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 102,
+            "us_pounds_pct": 56,
+            "us_score_pct": 47
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 97,
+            "us_pounds_pct": 50,
+            "us_score_pct": 89
+        },
+        "naicscode": "339999",
+        "name": "All Other Miscellaneous Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "LAKE EYELET MANUFACTURING CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.58861,
+    "PreferredLong": 72.9025,
+    "PublicContactName": "GLENN DANIELS",
+    "PublicContactPhone": "8606285543",
+    "RCRANumber": "CTD001152222",
+    "RadialDistance": 2974558,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 119,
+            "us_pounds_pct": 73,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 110,
+            "us_pounds_pct": 51,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 105,
+            "us_pounds_pct": 41,
+            "us_score_pct": 88
+        },
+        "name": "Manufacturing industries, n.e.c.",
+        "siccode": "3999"
+    },
+    "SICCode2Digit": "39",
+    "SICCode3Digit": "399",
+    "SICCodeSame2Digit": "39",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6706,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.967,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "170 CANAL ST.",
+    "SubmitLat": 41.58861,
+    "SubmitLong": 72.9025,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2337,
+    "Y": 2833,
+    "ZIP9": "064890431",
+    "ZIPCode": "06489"
+}

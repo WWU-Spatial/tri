@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PALMER",
+    "County": "MA,HAMPDEN",
+    "DUNS": "001120385",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 40182.691883,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1399130675503",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 18.6905,
+                    "SubmissionNumber": 2046739,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 18.6905,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1300140167192",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 37.8914,
+                    "SubmissionNumber": 15106,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 37.8914,
+            "state_score_percentile": 7,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1302200541656",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.76,
+                    "Score": 14.0938,
+                    "SubmissionNumber": 241902,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.76,
+            "TotalScore": 14.0938,
+            "state_score_percentile": 13,
+            "us_score_percentile": 4
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1303201905751",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.76,
+                    "Score": 13.9414,
+                    "SubmissionNumber": 363977,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.76,
+            "TotalScore": 13.9414,
+            "state_score_percentile": 16,
+            "us_score_percentile": 5
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1304203073123",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.11,
+                    "Score": 20.1391,
+                    "SubmissionNumber": 467353,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.11,
+            "TotalScore": 20.1391,
+            "state_score_percentile": 18,
+            "us_score_percentile": 7
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1305203842606",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 17.9427,
+                    "SubmissionNumber": 539381,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 17.9427,
+            "state_score_percentile": 21,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110008053266",
+    "FacilityID": "01069PLMRF22MTD",
+    "FacilityNumber": 110605,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.177167,
+    "Longitude": -72.323759,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 77,
+            "us_pounds_pct": 1,
+            "us_score_pct": 20
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 1,
+            "us_score_pct": 40
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 84,
+            "us_pounds_pct": 7,
+            "us_score_pct": 29
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 82,
+            "us_pounds_pct": 7,
+            "us_score_pct": 37
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 11,
+            "us_score_pct": 44
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 12,
+            "us_score_pct": 37
+        },
+        "naicscode": "331524",
+        "name": "Aluminum Foundries (except Die-Casting)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3315",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PALMER FOUNDRY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DIANE MUNRO",
+    "PublicContactPhone": "4132832976",
+    "RCRANumber": "NA",
+    "RadialDistance": 3053043,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 92,
+            "us_pounds_pct": 1,
+            "us_score_pct": 22
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 1,
+            "us_score_pct": 38
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 101,
+            "us_pounds_pct": 5,
+            "us_score_pct": 26
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 102,
+            "us_pounds_pct": 6,
+            "us_score_pct": 35
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 106,
+            "us_pounds_pct": 10,
+            "us_score_pct": 40
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 101,
+            "us_pounds_pct": 9,
+            "us_score_pct": 31
+        },
+        "name": "Aluminum foundries",
+        "siccode": "3365"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "336",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.2964,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "22 MT DUMPLIN RD",
+    "SubmitLat": 42.17639,
+    "SubmitLong": 72.32278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2374,
+    "Y": 2928,
+    "ZIP9": "01069",
+    "ZIPCode": "01069"
+}

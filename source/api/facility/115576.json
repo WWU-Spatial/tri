@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 9514916,
+    "AssignedReach": "02030105000260",
+    "City": "OLD BRIDGE",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "797271186",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 34861.779155,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200642320",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.0,
+                    "Score": 10.7627,
+                    "SubmissionNumber": 251281,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 10.7627,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207039850",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 2.17244,
+                    "SubmissionNumber": 823423,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 2.17244,
+            "state_score_percentile": 7,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110000867857",
+    "FacilityID": "08857QGLYCBORDE",
+    "FacilityNumber": 115576,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.42094,
+    "Longitude": -74.355704,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 15,
+            "us_score_pct": 26
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 15,
+            "us_score_pct": 25
+        },
+        "naicscode": "327125",
+        "name": "Nonclay Refractory Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3271",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MINTEQ INTERNATIONAL INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "797271186",
+    "ParentName": "MINTEQ INTERNATIONAL INC",
+    "PreferredLat": 40.425,
+    "PreferredLong": 74.35833,
+    "PublicContactName": "JEFF CARLTON",
+    "PublicContactPhone": "6108613490",
+    "RCRANumber": "NJ0000363911",
+    "RadialDistance": 2800132,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 14,
+            "us_score_pct": 35
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 14,
+            "us_score_pct": 25
+        },
+        "name": "Nonclay refractories",
+        "siccode": "3297"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "329",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.874,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.728,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.3116,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "6001 BORDENTOWN AVE",
+    "SubmitLat": 40.425,
+    "SubmitLong": 74.35833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2229,
+    "Y": 2643,
+    "ZIP9": "08857",
+    "ZIPCode": "08857"
+}

@@ -1,0 +1,310 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "YARDVILLE",
+    "County": "NJ,MERCER",
+    "DUNS": "002386027",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58968.546633,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1300203125707",
+                    "MaxOnsite": "03",
+                    "Pounds": 473.0,
+                    "Score": 0.089494,
+                    "SubmissionNumber": 93662,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1300203125719",
+                    "MaxOnsite": "03",
+                    "Pounds": 473.0,
+                    "Score": 0.138507,
+                    "SubmissionNumber": 93663,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 946.0,
+            "TotalScore": 0.228001,
+            "state_score_percentile": 36,
+            "us_score_percentile": 31
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1302203125733",
+                    "MaxOnsite": "03",
+                    "Pounds": 481.0,
+                    "Score": 0.141626,
+                    "SubmissionNumber": 286886,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1302203125745",
+                    "MaxOnsite": "03",
+                    "Pounds": 481.0,
+                    "Score": 0.091454,
+                    "SubmissionNumber": 286887,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 962.0,
+            "TotalScore": 0.23308,
+            "state_score_percentile": 42,
+            "us_score_percentile": 39
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1303203125758",
+                    "MaxOnsite": "03",
+                    "Pounds": 607.0,
+                    "Score": 0.179216,
+                    "SubmissionNumber": 379972,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1303203125760",
+                    "MaxOnsite": "03",
+                    "Pounds": 607.0,
+                    "Score": 0.115693,
+                    "SubmissionNumber": 379973,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1214.0,
+            "TotalScore": 0.294909,
+            "state_score_percentile": 46,
+            "us_score_percentile": 42
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1306204180689",
+                    "MaxOnsite": "04",
+                    "Pounds": 534.3000000000001,
+                    "Score": 0.159584,
+                    "SubmissionNumber": 568972,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1306204180691",
+                    "MaxOnsite": "04",
+                    "Pounds": 534.3000000000001,
+                    "Score": 0.102935,
+                    "SubmissionNumber": 568973,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 1068.6000000000001,
+            "TotalScore": 0.262519,
+            "state_score_percentile": 49,
+            "us_score_percentile": 45
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1310208043974",
+                    "MaxOnsite": "03",
+                    "Pounds": 610.0,
+                    "Score": 0.184262,
+                    "SubmissionNumber": 912076,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "100425",
+                    "Chemical": "Styrene",
+                    "ChemicalNumber": 519,
+                    "DCN": "1310208043986",
+                    "MaxOnsite": "03",
+                    "Pounds": 610.0,
+                    "Score": 0.118716,
+                    "SubmissionNumber": 912077,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1220.0,
+            "TotalScore": 0.302978,
+            "state_score_percentile": 57,
+            "us_score_percentile": 50
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110024887425",
+    "FacilityID": "08620CLYTN111MA",
+    "FacilityNumber": 115389,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.180173,
+    "Longitude": -74.675792,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 40,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 40,
+            "us_pounds_pct": 82,
+            "us_score_pct": 52
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 77,
+            "us_score_pct": 45
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 90,
+            "us_score_pct": 54
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 92,
+            "us_score_pct": 79
+        },
+        "naicscode": "327331",
+        "name": "Concrete Block and Brick Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CLAYTON BLOCK CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002386027",
+    "ParentName": "CLAYTON BLOCK CO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRUCE M. GOODWIN",
+    "PublicContactPhone": "6095811587",
+    "RCRANumber": "NJD002330934",
+    "RadialDistance": 2762372,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 30,
+            "us_score_pct": 10
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 38,
+            "us_pounds_pct": 81,
+            "us_score_pct": 55
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 76,
+            "us_score_pct": 47
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 89,
+            "us_score_pct": 52
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 91,
+            "us_score_pct": 78
+        },
+        "name": "Concrete block and brick",
+        "siccode": "3271"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "4407 S BROAD ST",
+    "SubmitLat": 40.17944,
+    "SubmitLong": 74.67556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2204,
+    "Y": 2603,
+    "ZIP9": "08620",
+    "ZIPCode": "08620"
+}

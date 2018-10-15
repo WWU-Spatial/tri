@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ASTORIA",
+    "County": "NY,QUEENS",
+    "DUNS": "144135639",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24395.703106,
+    "DistanceToReach": 1872.770423,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1399130101886",
+                    "MaxOnsite": "06",
+                    "Pounds": 5.0,
+                    "Score": 4785.71,
+                    "SubmissionNumber": 1999004,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 4785.71,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140073661",
+                    "MaxOnsite": "06",
+                    "Pounds": 2.1,
+                    "Score": 2034.3007,
+                    "SubmissionNumber": 6529,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.1,
+            "TotalScore": 2034.3007,
+            "state_score_percentile": 5,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "36081",
+    "FRSID": "110004367569",
+    "FacilityID": "11105CSTLS1710S",
+    "FacilityNumber": 115895,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.78009,
+    "Longitude": -73.89721,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 45,
+            "state_pounds_pct": 2,
+            "state_score_pct": 77,
+            "us_count": 492,
+            "us_pounds_pct": 0,
+            "us_score_pct": 80
+        },
+        "2000": {
+            "state_count": 49,
+            "state_pounds_pct": 2,
+            "state_score_pct": 67,
+            "us_count": 503,
+            "us_pounds_pct": 1,
+            "us_score_pct": 62
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0028002",
+    "Name": "CASTLE ASTORIA TERMINALS INC",
+    "NearComID": 26408402,
+    "NearReach": "02030101001970",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "144135639",
+    "ParentName": "CASTLE OIL CO",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM CAREY",
+    "PublicContactPhone": "7189328816",
+    "RCRANumber": "NYD986971927",
+    "RadialDistance": 2855031,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 45,
+            "state_pounds_pct": 2,
+            "state_score_pct": 77,
+            "us_count": 502,
+            "us_pounds_pct": 0,
+            "us_score_pct": 81
+        },
+        "2000": {
+            "state_count": 49,
+            "state_pounds_pct": 2,
+            "state_score_pct": 67,
+            "us_count": 513,
+            "us_pounds_pct": 1,
+            "us_score_pct": 63
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "17-10 STEINWAY ST",
+    "SubmitLat": 40.78111,
+    "SubmitLong": 73.89889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2264,
+    "Y": 2702,
+    "ZIP9": "11105",
+    "ZIPCode": "11105"
+}

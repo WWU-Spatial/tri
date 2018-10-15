@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTON",
+    "County": "MA,BRISTOL",
+    "DUNS": "001025766",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30690.862507,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202270245",
+                    "MaxOnsite": "02",
+                    "Pounds": 28.0,
+                    "Score": 1335.98,
+                    "SubmissionNumber": 395863,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 28.0,
+            "TotalScore": 1335.98,
+            "state_score_percentile": 35,
+            "us_score_percentile": 21
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203671007",
+                    "MaxOnsite": "04",
+                    "Pounds": 28.0,
+                    "Score": 1336.81,
+                    "SubmissionNumber": 523739,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 28.0,
+            "TotalScore": 1336.81,
+            "state_score_percentile": 39,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110024377618",
+    "FacilityID": "02766TWVNC138BA",
+    "FacilityNumber": 111987,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.945656,
+    "Longitude": -71.196438,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 19,
+            "us_score_pct": 76
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 23,
+            "us_score_pct": 76
+        },
+        "naicscode": "313210",
+        "name": "Broadwoven Fabric Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3132",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TWEAVE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BILL DECOUTA",
+    "PublicContactPhone": "5082856701",
+    "RCRANumber": "NA",
+    "RadialDistance": 3113244,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 80
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 75
+        },
+        "name": "Broadwoven fabric mills, manmade fiber and silk",
+        "siccode": "2221"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "222",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.621,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "138 BARROWS ST",
+    "SubmitLat": 41.94472,
+    "SubmitLong": 72.20167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2493,
+    "Y": 2926,
+    "ZIP9": "02766",
+    "ZIPCode": "02766"
+}

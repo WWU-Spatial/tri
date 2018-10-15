@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHEEKTOWAGA",
+    "County": "NY,ERIE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4515.598733,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309208925228",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.4,
+                    "Score": 0.06634,
+                    "SubmissionNumber": 911398,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.4,
+            "TotalScore": 0.06634,
+            "state_score_percentile": 15,
+            "us_score_percentile": 10
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208925230",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.26,
+                    "Score": 0.059166,
+                    "SubmissionNumber": 990688,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.26,
+            "TotalScore": 0.059166,
+            "state_score_percentile": 15,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110012534935",
+    "FacilityID": "14225PSTTM1730D",
+    "FacilityNumber": 117218,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.904803,
+    "Longitude": -78.772959,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 36,
+            "us_pounds_pct": 8,
+            "us_score_pct": 13
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 37,
+            "us_pounds_pct": 8,
+            "us_score_pct": 13
+        },
+        "naicscode": "311511",
+        "name": "Fluid Milk Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UPSTATE NIAGARA COOPERATIVE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.9,
+    "PreferredLong": 78.76667,
+    "PublicContactName": "ROBERT KORN",
+    "PublicContactPhone": "7168923156",
+    "RCRANumber": "NYD986933075",
+    "RadialDistance": 2721050,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 32,
+            "us_pounds_pct": 9,
+            "us_score_pct": 12
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 31,
+            "us_pounds_pct": 9,
+            "us_score_pct": 16
+        },
+        "name": "Fluid milk",
+        "siccode": "2026"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1730 DALE RD",
+    "SubmitLat": 42.9,
+    "SubmitLong": 78.76667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1718,
+    "Y": 2887,
+    "ZIP9": "142250650",
+    "ZIPCode": "14225"
+}

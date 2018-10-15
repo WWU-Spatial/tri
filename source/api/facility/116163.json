@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLTSVILLE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "053106352",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 93567.821542,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125337434",
+                    "MaxOnsite": "04",
+                    "Pounds": 50.0,
+                    "Score": 0.000532,
+                    "SubmissionNumber": 1983329,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 50.0,
+            "TotalScore": 0.000532,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130136930",
+                    "MaxOnsite": "04",
+                    "Pounds": 150.0,
+                    "Score": 0.001608,
+                    "SubmissionNumber": 2001976,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 150.0,
+            "TotalScore": 0.001608,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140386552",
+                    "MaxOnsite": "04",
+                    "Pounds": 50.0,
+                    "Score": 0.005323,
+                    "SubmissionNumber": 33012,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 50.0,
+            "TotalScore": 0.005323,
+            "state_score_percentile": 17,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000744856",
+    "FacilityID": "11742HLTSVUNION",
+    "FacilityNumber": 116163,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.814722,
+    "Longitude": -73.065722,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 20,
+            "us_score_pct": 20
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 16
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 46,
+            "us_score_pct": 23
+        },
+        "naicscode": "221100",
+        "name": ""
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0109193",
+    "Name": "KEYSPAN ENERGY HOLTSVILLE LNG FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "844749010",
+    "ParentName": "KEYSPAN CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT MAHONY",
+    "PublicContactPhone": "7184032522",
+    "RCRANumber": "NYD980648240",
+    "RadialDistance": 2913543,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 3,
+            "state_score_pct": 3,
+            "us_count": 555,
+            "us_pounds_pct": 0,
+            "us_score_pct": 0
+        },
+        "1999": {
+            "state_count": 29,
+            "state_pounds_pct": 3,
+            "state_score_pct": 3,
+            "us_count": 558,
+            "us_pounds_pct": 1,
+            "us_score_pct": 0
+        },
+        "2000": {
+            "state_count": 34,
+            "state_pounds_pct": 14,
+            "state_score_pct": 2,
+            "us_count": 631,
+            "us_pounds_pct": 9,
+            "us_score_pct": 1
+        },
+        "name": "Electric services",
+        "siccode": "4911"
+    },
+    "SIC2": {
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "name": "",
+        "siccode": "4922"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "491",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "NY",
+    "Street": "UNION AVE.",
+    "SubmitLat": 40.81528,
+    "SubmitLong": 73.06639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2346,
+    "Y": 2727,
+    "ZIP9": "11742",
+    "ZIPCode": "11742"
+}

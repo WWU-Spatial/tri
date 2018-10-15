@@ -1,0 +1,784 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELMIRA",
+    "County": "NY,CHEMUNG",
+    "DUNS": "002204063",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 99429.170982,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100155884",
+                    "MaxOnsite": "02",
+                    "Pounds": 3431.0,
+                    "Score": 0.160293,
+                    "SubmissionNumber": 1761609,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100155896",
+                    "MaxOnsite": "02",
+                    "Pounds": 6058.0,
+                    "Score": 0.27653700000000003,
+                    "SubmissionNumber": 1761610,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9489.0,
+            "TotalScore": 0.43683000000000005,
+            "state_score_percentile": 59,
+            "us_score_percentile": 50
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110336056",
+                    "MaxOnsite": "02",
+                    "Pounds": 5233.0,
+                    "Score": 0.23571799999999998,
+                    "SubmissionNumber": 1853278,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110336068",
+                    "MaxOnsite": "02",
+                    "Pounds": 8381.0,
+                    "Score": 0.379967,
+                    "SubmissionNumber": 1853279,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13614.0,
+            "TotalScore": 0.615685,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120440464",
+                    "MaxOnsite": "02",
+                    "Pounds": 5341.0,
+                    "Score": 0.23893399999999998,
+                    "SubmissionNumber": 1934225,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398120440476",
+                    "MaxOnsite": "02",
+                    "Pounds": 9394.0,
+                    "Score": 0.422962,
+                    "SubmissionNumber": 1934226,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14735.0,
+            "TotalScore": 0.661896,
+            "state_score_percentile": 70,
+            "us_score_percentile": 59
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150436412",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.58323,
+                    "SubmissionNumber": 133307,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.58323,
+            "state_score_percentile": 5,
+            "us_score_percentile": 4
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200070175",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.57622,
+                    "SubmissionNumber": 198214,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.57622,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201107404",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.56921,
+                    "SubmissionNumber": 291647,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.56921,
+            "state_score_percentile": 6,
+            "us_score_percentile": 6
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202238972",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.56219,
+                    "SubmissionNumber": 393023,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.56219,
+            "state_score_percentile": 8,
+            "us_score_percentile": 7
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203232398",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 3.11037,
+                    "SubmissionNumber": 482668,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 3.11037,
+            "state_score_percentile": 12,
+            "us_score_percentile": 10
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204216838",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 3.09634,
+                    "SubmissionNumber": 571888,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 3.09634,
+            "state_score_percentile": 12,
+            "us_score_percentile": 10
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205255666",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.54116,
+                    "SubmissionNumber": 664200,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.54116,
+            "state_score_percentile": 9,
+            "us_score_percentile": 8
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206264893",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 3.0683,
+                    "SubmissionNumber": 751827,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 3.0683,
+            "state_score_percentile": 17,
+            "us_score_percentile": 10
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207259488",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.52714,
+                    "SubmissionNumber": 841014,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.52714,
+            "state_score_percentile": 14,
+            "us_score_percentile": 9
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208163067",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.0,
+                    "Score": 1.52013,
+                    "SubmissionNumber": 921027,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.52013,
+            "state_score_percentile": 14,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "36015",
+    "FRSID": "110000328495",
+    "FacilityID": "14845HRDNG3575O",
+    "FacilityNumber": 117573,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14778,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.141998,
+    "Longitude": -76.822389,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 58,
+            "us_score_pct": 29
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 66,
+            "us_score_pct": 23
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 72,
+            "us_score_pct": 33
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 12
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 5,
+            "us_score_pct": 17
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 8,
+            "us_score_pct": 22
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 8,
+            "us_score_pct": 27
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 5,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 6,
+            "us_score_pct": 20
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 5,
+            "us_score_pct": 11
+        },
+        "naicscode": "333512",
+        "name": "Machine Tool (Metal Cutting Types) Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 52,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 62,
+            "us_score_pct": 12
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 75,
+            "us_score_pct": 10
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 7,
+            "us_score_pct": 15
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 21
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 13,
+            "us_score_pct": 10
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 27,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 21,
+            "us_score_pct": 26
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 16,
+            "us_score_pct": 16
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 17,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 15,
+            "us_score_pct": 18
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 15,
+            "us_score_pct": 18
+        },
+        "naicscode": "333515",
+        "name": "Cutting Tool and Machine Tool Accessory Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HARDINGE INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.14444,
+    "PreferredLong": 76.825,
+    "PublicContactName": "DOUGLAS C. TIFFT",
+    "PublicContactPhone": "6077342281",
+    "RCRANumber": "NYD980646103",
+    "RadialDistance": 2768979,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 30,
+            "us_pounds_pct": 73,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 28,
+            "us_pounds_pct": 75,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 25,
+            "us_pounds_pct": 84,
+            "us_score_pct": 28
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 5,
+            "us_score_pct": 15
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 5,
+            "us_score_pct": 21
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 20,
+            "us_pounds_pct": 10,
+            "us_score_pct": 20
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 13,
+            "us_score_pct": 13
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 14,
+            "us_score_pct": 17
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 13,
+            "us_score_pct": 22
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 16,
+            "us_score_pct": 22
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 13,
+            "us_score_pct": 20
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 14
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 13,
+            "us_score_pct": 13
+        },
+        "name": "Machine tools, metal cutting types",
+        "siccode": "3541"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 70,
+            "us_score_pct": 6
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 78,
+            "us_score_pct": 9
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 85,
+            "us_score_pct": 7
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 8,
+            "us_score_pct": 8
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 5,
+            "us_score_pct": 11
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 8,
+            "us_score_pct": 16
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 6,
+            "us_score_pct": 9
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 21,
+            "us_score_pct": 19
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 15,
+            "us_score_pct": 20
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 15
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 8,
+            "us_score_pct": 11
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 12
+        },
+        "name": "Cutting tools, machine tool accessories, and machinists' measuring devices",
+        "siccode": "3545"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "354",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.2542,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "ONE HARDINGE DR PO BOX 1507",
+    "SubmitLat": 42.14444,
+    "SubmitLong": 76.825,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1931,
+    "Y": 2821,
+    "ZIP9": "149011507",
+    "ZIPCode": "14901"
+}

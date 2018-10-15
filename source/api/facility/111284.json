@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LOWELL",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "051802627",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 41134.707923,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150673539",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.91,
+                    "Score": 6.818142,
+                    "SubmissionNumber": 154381,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.91,
+            "TotalScore": 6.818142,
+            "state_score_percentile": 16,
+            "us_score_percentile": 7
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200317028",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.1,
+                    "Score": 5.42239,
+                    "SubmissionNumber": 221021,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.1,
+            "TotalScore": 5.42239,
+            "state_score_percentile": 19,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110040446390",
+    "FacilityID": "01854WNGLB1001P",
+    "FacilityNumber": 111284,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 42.6412,
+    "Longitude": -71.37034,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 43,
+            "us_score_pct": 75
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 47,
+            "us_score_pct": 82
+        },
+        "naicscode": "334111",
+        "name": "Electronic Computer Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3341",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CELESTICA CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.65083,
+    "PreferredLong": 71.38083,
+    "PublicContactName": "NORMAN BOISSE",
+    "PublicContactPhone": "6038908042",
+    "RCRANumber": "MAD985307560",
+    "RadialDistance": 3146594,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 50,
+            "us_score_pct": 60
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 50,
+            "us_score_pct": 66
+        },
+        "name": "Electronic computers",
+        "siccode": "3571"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "357",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6432,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.1059,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.1737,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "1001 PAWTUCKET BLVD",
+    "SubmitLat": 42.64861,
+    "SubmitLong": 71.33667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2451,
+    "Y": 3014,
+    "ZIP9": "01854",
+    "ZIPCode": "01854"
+}

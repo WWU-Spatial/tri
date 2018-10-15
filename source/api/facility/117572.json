@@ -1,0 +1,781 @@
+{
+    "AssignedComID": 8117811,
+    "AssignedReach": "02050105000726",
+    "City": "HORSEHEADS",
+    "County": "NY,CHEMUNG",
+    "DUNS": "079678108",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 101330.318636,
+    "DistanceToReach": 1412.438053,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100078916",
+                    "MaxOnsite": "02",
+                    "Pounds": 500.0,
+                    "Score": 0.013929,
+                    "SubmissionNumber": 1754945,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396100078967",
+                    "MaxOnsite": "03",
+                    "Pounds": 24780.0,
+                    "Score": 11107.99,
+                    "SubmissionNumber": 1754946,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100449370",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 5.100689,
+                    "SubmissionNumber": 1785667,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 26035.0,
+            "TotalScore": 11113.104618000001,
+            "state_score_percentile": 78,
+            "us_score_percentile": 68
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110436603",
+                    "MaxOnsite": "02",
+                    "Pounds": 500.0,
+                    "Score": 0.013850000000000001,
+                    "SubmissionNumber": 1861979,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397110436615",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 235.25920000000002,
+                    "SubmissionNumber": 1861980,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110436639",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 9.415277000000001,
+                    "SubmissionNumber": 1861981,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110520513",
+                    "MaxOnsite": "03",
+                    "Pounds": 1105.0,
+                    "Score": 7.416546,
+                    "SubmissionNumber": 1867846,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2360.0,
+            "TotalScore": 252.10487300000003,
+            "state_score_percentile": 45,
+            "us_score_percentile": 35
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120745272",
+                    "MaxOnsite": "03",
+                    "Pounds": 1105.0,
+                    "Score": 7.376312,
+                    "SubmissionNumber": 1956378,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1105.0,
+            "TotalScore": 7.376312,
+            "state_score_percentile": 34,
+            "us_score_percentile": 29
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130682800",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 5.018117999999999,
+                    "SubmissionNumber": 2047258,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 755.0,
+            "TotalScore": 5.018117999999999,
+            "state_score_percentile": 32,
+            "us_score_percentile": 27
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140395284",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 4.990594,
+                    "SubmissionNumber": 33695,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 755.0,
+            "TotalScore": 4.990594,
+            "state_score_percentile": 34,
+            "us_score_percentile": 30
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150228930",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 4.982005,
+                    "SubmissionNumber": 115058,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1301155182239",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 9.245373,
+                    "SubmissionNumber": 183610,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1010.0,
+            "TotalScore": 14.227378000000002,
+            "state_score_percentile": 43,
+            "us_score_percentile": 39
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200266777",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 4.973425,
+                    "SubmissionNumber": 216333,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 755.0,
+            "TotalScore": 4.973425,
+            "state_score_percentile": 42,
+            "us_score_percentile": 37
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201957040",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 4.964836,
+                    "SubmissionNumber": 368135,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 755.0,
+            "TotalScore": 4.964836,
+            "state_score_percentile": 46,
+            "us_score_percentile": 38
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1304202925970",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 22.60327,
+                    "SubmissionNumber": 455786,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304202926945",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 4.956256000000001,
+                    "SubmissionNumber": 455879,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1255.0,
+            "TotalScore": 27.559525999999998,
+            "state_score_percentile": 53,
+            "us_score_percentile": 45
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1305203711041",
+                    "MaxOnsite": "05",
+                    "Pounds": 3446.0,
+                    "Score": 169.6031,
+                    "SubmissionNumber": 527546,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3446.0,
+            "TotalScore": 169.6031,
+            "state_score_percentile": 64,
+            "us_score_percentile": 54
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306204302297",
+                    "MaxOnsite": "05",
+                    "Pounds": 1500.0,
+                    "Score": 67.6281,
+                    "SubmissionNumber": 579796,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 67.6281,
+            "state_score_percentile": 57,
+            "us_score_percentile": 47
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307205840010",
+                    "MaxOnsite": "05",
+                    "Pounds": 1500.0,
+                    "Score": 67.5374,
+                    "SubmissionNumber": 716589,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 67.5374,
+            "state_score_percentile": 56,
+            "us_score_percentile": 48
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1308206903938",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 4483.74,
+                    "SubmissionNumber": 811560,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206903940",
+                    "MaxOnsite": "05",
+                    "Pounds": 255.0,
+                    "Score": 9.137001,
+                    "SubmissionNumber": 811561,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308206903953",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 285.218,
+                    "SubmissionNumber": 811562,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206903965",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 1.674139,
+                    "SubmissionNumber": 811563,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 530.0,
+            "TotalScore": 4779.769139999999,
+            "state_score_percentile": 51,
+            "us_score_percentile": 42
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1309207853692",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 4477.44,
+                    "SubmissionNumber": 896235,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207853704",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 0.449038,
+                    "SubmissionNumber": 896236,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309207853716",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 284.817,
+                    "SubmissionNumber": 896237,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207853728",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 1.6712390000000001,
+                    "SubmissionNumber": 896238,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 285.0,
+            "TotalScore": 4764.377277,
+            "state_score_percentile": 47,
+            "us_score_percentile": 39
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1310208727317",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 4471.12,
+                    "SubmissionNumber": 973696,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208727331",
+                    "MaxOnsite": "05",
+                    "Pounds": 10.0,
+                    "Score": 0.448434,
+                    "SubmissionNumber": 973698,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208727356",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 284.414,
+                    "SubmissionNumber": 973700,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208727370",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 1.66834,
+                    "SubmissionNumber": 973702,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 285.0,
+            "TotalScore": 4757.650774,
+            "state_score_percentile": 47,
+            "us_score_percentile": 38
+        }
+    },
+    "FIPS": "36015",
+    "FRSID": "110000328486",
+    "FacilityID": "14845CTLRH200WE",
+    "FacilityNumber": 117572,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14778,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.160111,
+    "Longitude": -76.840528,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 72,
+            "us_score_pct": 66
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 60
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 6,
+            "us_score_pct": 33
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 20,
+            "us_score_pct": 33
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 35
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 15,
+            "us_score_pct": 38
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 28,
+            "us_score_pct": 42
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 33,
+            "us_score_pct": 41
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 36,
+            "us_score_pct": 36
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 50
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 50,
+            "us_score_pct": 75
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 83
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "naicscode": "334411",
+        "name": "Electron Tube Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "EATON CORP",
+    "NearComID": 8117811,
+    "NearReach": "02050105000726",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004155818",
+    "ParentName": "EATON CORP",
+    "PreferredLat": 42.16111,
+    "PreferredLong": 76.83861,
+    "PublicContactName": "DALE WEBB",
+    "PublicContactPhone": "6077963319",
+    "RCRANumber": "NYD079678108",
+    "RadialDistance": 2769319,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 75,
+            "us_score_pct": 70
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 56
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 6,
+            "us_score_pct": 31
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 16,
+            "us_pounds_pct": 18,
+            "us_score_pct": 31
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 15,
+            "us_pounds_pct": 13,
+            "us_score_pct": 33
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 14,
+            "us_score_pct": 35
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 14,
+            "us_pounds_pct": 21,
+            "us_score_pct": 35
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 13,
+            "us_pounds_pct": 30,
+            "us_score_pct": 38
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 12,
+            "us_pounds_pct": 33,
+            "us_score_pct": 41
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 57
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 55,
+            "us_score_pct": 77
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 66,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 66,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "name": "Electron tubes",
+        "siccode": "3671"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "New York",
+    "StackVelocity": 5.5,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "200 WESTINGHOUSE CIR",
+    "SubmitLat": 42.16111,
+    "SubmitLong": 76.83861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1928,
+    "Y": 2823,
+    "ZIP9": "14845",
+    "ZIPCode": "14845"
+}

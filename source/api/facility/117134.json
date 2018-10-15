@@ -1,0 +1,207 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "059959429",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 11909.530201,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108054",
+                    "Chemical": "Vinyl acetate",
+                    "ChemicalNumber": 584,
+                    "DCN": "1301150742435",
+                    "MaxOnsite": "04",
+                    "Pounds": 64.0,
+                    "Score": 0.308074,
+                    "SubmissionNumber": 160194,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 64.0,
+            "TotalScore": 0.308074,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207807900",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.95,
+                    "Score": 4.5339,
+                    "SubmissionNumber": 891965,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207808217",
+                    "MaxOnsite": "02",
+                    "Pounds": 2100.0,
+                    "Score": 0.386409,
+                    "SubmissionNumber": 891994,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2100.95,
+            "TotalScore": 4.920309,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208323586",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.43,
+                    "Score": 2.04069,
+                    "SubmissionNumber": 936364,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208323598",
+                    "MaxOnsite": "02",
+                    "Pounds": 2860.0,
+                    "Score": 0.523305,
+                    "SubmissionNumber": 936365,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2860.43,
+            "TotalScore": 2.5639950000000002,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110004316847",
+    "FacilityID": "14207MDPCC1801E",
+    "FacilityNumber": 117134,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.946235,
+    "Longitude": -78.878282,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 38,
+            "us_score_pct": 38
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 62,
+            "us_score_pct": 62
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 8,
+            "us_pounds_pct": 75,
+            "us_score_pct": 50
+        },
+        "naicscode": "323119",
+        "name": "Other Commercial Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MOD-PAC CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DAVID LUPP",
+    "PublicContactPhone": "7168730640",
+    "RCRANumber": "NYD000379248",
+    "RadialDistance": 2718934,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 30,
+            "us_pounds_pct": 16,
+            "us_score_pct": 33
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 63,
+            "us_score_pct": 63
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 22,
+            "us_pounds_pct": 63,
+            "us_score_pct": 45
+        },
+        "name": "Commercial printing, n.e.c.",
+        "siccode": "2759"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1498,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1801 ELMWOOD AVE",
+    "SubmitLat": 42.94583,
+    "SubmitLong": 78.87806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1706,
+    "Y": 2891,
+    "ZIP9": "14207",
+    "ZIPCode": "14207"
+}

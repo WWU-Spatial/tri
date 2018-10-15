@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LEBANON",
+    "County": "NH,GRAFTON",
+    "DUNS": "056329527",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 115002.298329,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207076100",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.06,
+                    "Score": 0.256292,
+                    "SubmissionNumber": 825758,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.06,
+            "TotalScore": 0.256292,
+            "state_score_percentile": 22,
+            "us_score_percentile": 9
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207365646",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.214,
+                    "Score": 0.051952,
+                    "SubmissionNumber": 850577,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.214,
+            "TotalScore": 0.051952,
+            "state_score_percentile": 13,
+            "us_score_percentile": 5
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208405276",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.11,
+                    "Score": 0.026813,
+                    "SubmissionNumber": 943149,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.11,
+            "TotalScore": 0.026813,
+            "state_score_percentile": 8,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "33009",
+    "FRSID": "110004089520",
+    "FacilityID": "0376WHYPRT88ETN",
+    "FacilityNumber": 112680,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.663257,
+    "Longitude": -72.242595,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 11,
+            "us_score_pct": 14
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 8,
+            "us_score_pct": 16
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 12,
+            "us_score_pct": 18
+        },
+        "naicscode": "332721",
+        "name": "Precision Turned Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "HYPERTHERM INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "056329527",
+    "ParentName": "HYPERTHERM INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KENNETH DECOSTA",
+    "PublicContactPhone": "6036433441",
+    "RCRANumber": "NHD040248254",
+    "RadialDistance": 3160116,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 11,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 8,
+            "us_score_pct": 13
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 8,
+            "us_score_pct": 11
+        },
+        "name": "Screw machine products",
+        "siccode": "3451"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "345",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "88 ETNA RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2331,
+    "Y": 3128,
+    "ZIP9": "03766",
+    "ZIPCode": "03766"
+}

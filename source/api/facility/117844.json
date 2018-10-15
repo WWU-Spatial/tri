@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PITTSBURGH",
+    "County": "PA,ALLEGHENY",
+    "DUNS": "004397311",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18590.979757,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105383614",
+                    "MaxOnsite": "04",
+                    "Pounds": 84.0,
+                    "Score": 307.869,
+                    "SubmissionNumber": 1816435,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105383626",
+                    "MaxOnsite": "05",
+                    "Pounds": 440.0,
+                    "Score": 127.72630000000001,
+                    "SubmissionNumber": 1816436,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 524.0,
+            "TotalScore": 435.59530000000007,
+            "state_score_percentile": 29,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110234200",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 151.61509999999998,
+                    "SubmissionNumber": 1844324,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110234212",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1847.889,
+                    "SubmissionNumber": 1844325,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1999.5040999999999,
+            "state_score_percentile": 34,
+            "us_score_percentile": 28
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120498112",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 150.7214,
+                    "SubmissionNumber": 1938636,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120498124",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1837.0439999999999,
+                    "SubmissionNumber": 1938637,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1987.7653999999998,
+            "state_score_percentile": 35,
+            "us_score_percentile": 27
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130507686",
+                    "MaxOnsite": "05",
+                    "Pounds": 500.0,
+                    "Score": 149.82760000000002,
+                    "SubmissionNumber": 2033079,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1399130507698",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1826.199,
+                    "SubmissionNumber": 2033080,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 1976.0266000000001,
+            "state_score_percentile": 36,
+            "us_score_percentile": 29
+        }
+    },
+    "FIPS": "42003",
+    "FRSID": "110000329608",
+    "FacilityID": "15220NVRSL1000S",
+    "FacilityNumber": 117844,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.42583,
+    "Longitude": -80.01989,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 86,
+            "us_pounds_pct": 22,
+            "us_score_pct": 62
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 75,
+            "us_pounds_pct": 30,
+            "us_score_pct": 65
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 59,
+            "us_pounds_pct": 35,
+            "us_score_pct": 69
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 52,
+            "us_pounds_pct": 40,
+            "us_score_pct": 69
+        },
+        "naicscode": "336000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3360",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UNIVERSAL AUTO RADIATOR MANUFACTURING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.42472,
+    "PreferredLong": 80.02806,
+    "PublicContactName": "DAVID RICHARDSON",
+    "PublicContactPhone": "4124819440",
+    "RCRANumber": "NA",
+    "RadialDistance": 2445826,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 543,
+            "us_pounds_pct": 28,
+            "us_score_pct": 64
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 77,
+            "us_count": 515,
+            "us_pounds_pct": 33,
+            "us_score_pct": 71
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 75,
+            "us_count": 520,
+            "us_pounds_pct": 35,
+            "us_score_pct": 74
+        },
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 66,
+            "us_count": 512,
+            "us_pounds_pct": 38,
+            "us_score_pct": 72
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1000 SAW MILL RUN BLVD.",
+    "SubmitLat": 40.42472,
+    "SubmitLong": 80.02806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1652,
+    "Y": 2528,
+    "ZIP9": "152206246",
+    "ZIPCode": "15220"
+}

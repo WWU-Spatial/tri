@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HOLYOKE",
+    "County": "MA,HAMPDEN",
+    "DUNS": "001115526",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31223.851695,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105105718",
+                    "MaxOnsite": "03",
+                    "Pounds": 17369.0,
+                    "Score": 564.442,
+                    "SubmissionNumber": 1797691,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 17369.0,
+            "TotalScore": 564.442,
+            "state_score_percentile": 72,
+            "us_score_percentile": 61
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1397110233917",
+                    "MaxOnsite": "03",
+                    "Pounds": 19199.0,
+                    "Score": 621.553,
+                    "SubmissionNumber": 1844296,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 19199.0,
+            "TotalScore": 621.553,
+            "state_score_percentile": 77,
+            "us_score_percentile": 63
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398125056349",
+                    "MaxOnsite": "03",
+                    "Pounds": 18779.0,
+                    "Score": 605.649,
+                    "SubmissionNumber": 1970208,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18779.0,
+            "TotalScore": 605.649,
+            "state_score_percentile": 76,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110000308042",
+    "FacilityID": "01040HMPDN100WA",
+    "FacilityNumber": 110568,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.206074,
+    "Longitude": -72.593773,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 25,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 38,
+            "us_pounds_pct": 31,
+            "us_score_pct": 86
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 37,
+            "us_pounds_pct": 35,
+            "us_score_pct": 89
+        },
+        "naicscode": "322221",
+        "name": "Coated and Laminated Packaging Paper and Plastics Film Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "MAG250881",
+    "Name": "HAMPDEN PAPERS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.20749,
+    "PreferredLong": 72.59433,
+    "PublicContactName": "MIKE ARCHAMBEULT",
+    "PublicContactPhone": "4135361000",
+    "RCRANumber": "MAD001115526",
+    "RadialDistance": 3037275,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 34,
+            "us_score_pct": 93
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 41,
+            "us_score_pct": 93
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 65,
+            "us_pounds_pct": 46,
+            "us_score_pct": 93
+        },
+        "name": "Packaging paper and plastics film, coated and laminated",
+        "siccode": "2671"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.8496,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.4394,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "100 WATER ST",
+    "SubmitLat": 42.19583,
+    "SubmitLong": 72.61083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2346,
+    "Y": 2925,
+    "ZIP9": "01041",
+    "ZIPCode": "01041"
+}

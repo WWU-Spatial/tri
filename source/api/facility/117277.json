@@ -1,0 +1,231 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ALBION",
+    "County": "NY,ORLEANS",
+    "DUNS": "013410444",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 54638.600647,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304203072107",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 0.0036390000000000003,
+                    "SubmissionNumber": 467303,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1304203072119",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.007199,
+                    "SubmissionNumber": 467304,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 265.0,
+            "TotalScore": 0.010838,
+            "state_score_percentile": 40,
+            "us_score_percentile": 33
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206419297",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.066,
+                    "Score": 1.423284,
+                    "SubmissionNumber": 766148,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.066,
+            "TotalScore": 1.423284,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207244740",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.063,
+                    "Score": 1.359459,
+                    "SubmissionNumber": 839676,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.063,
+            "TotalScore": 1.359459,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208314450",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.033,
+                    "Score": 0.715258,
+                    "SubmissionNumber": 935489,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.033,
+            "TotalScore": 0.715258,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "36073",
+    "FRSID": "110022522242",
+    "FacilityID": "14411GRFFT3819A",
+    "FacilityNumber": 117277,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.22779,
+    "Longitude": -78.19419,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 2,
+            "us_count": 458,
+            "us_pounds_pct": 11,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 7,
+            "us_count": 479,
+            "us_pounds_pct": 1,
+            "us_score_pct": 10
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 11,
+            "us_count": 433,
+            "us_pounds_pct": 0,
+            "us_score_pct": 9
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 2,
+            "state_score_pct": 9,
+            "us_count": 443,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GRIFFITH ENERGY ALBION",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS ENERGY SERVICES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NA",
+    "RadialDistance": 2779125,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 42,
+            "state_pounds_pct": 11,
+            "state_score_pct": 2,
+            "us_count": 472,
+            "us_pounds_pct": 13,
+            "us_score_pct": 0
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 7,
+            "us_count": 488,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 11,
+            "us_count": 445,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 2,
+            "state_score_pct": 9,
+            "us_count": 456,
+            "us_pounds_pct": 0,
+            "us_score_pct": 9
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3819 OAK ORCHARD RD",
+    "SubmitLat": 43.22833,
+    "SubmitLong": 78.19389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1766,
+    "Y": 2941,
+    "ZIP9": "14411",
+    "ZIPCode": "14411"
+}

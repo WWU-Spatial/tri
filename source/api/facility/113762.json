@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BETHANY",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "001168343",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65213.760343,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396105142739",
+                    "MaxOnsite": "04",
+                    "Pounds": 2271.0,
+                    "Score": 1.92234,
+                    "SubmissionNumber": 1800094,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2271.0,
+            "TotalScore": 1.92234,
+            "state_score_percentile": 42,
+            "us_score_percentile": 35
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397115245615",
+                    "MaxOnsite": "04",
+                    "Pounds": 885.0,
+                    "Score": 0.751432,
+                    "SubmissionNumber": 1888920,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 885.0,
+            "TotalScore": 0.751432,
+            "state_score_percentile": 35,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110009129175",
+    "FacilityID": "06525LTCRT91AMI",
+    "FacilityNumber": 113762,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.396265,
+    "Longitude": -73.000735,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 50,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 42
+        },
+        "naicscode": "327000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3270",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "LATICRETE INTERNATIONAL INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001168343",
+    "ParentName": "NA",
+    "PreferredLat": 41.39583,
+    "PreferredLong": 73.0,
+    "PublicContactName": "RONALD M IMBIMBO",
+    "PublicContactPhone": "2033930015",
+    "RCRANumber": "",
+    "RadialDistance": 2956137,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 42,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 20,
+            "us_score_pct": 16
+        },
+        "name": "Concrete products, except block and brick",
+        "siccode": "3272"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "91 AMITY RD",
+    "SubmitLat": 41.39583,
+    "SubmitLong": 73.0,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2333,
+    "Y": 2806,
+    "ZIP9": "06524",
+    "ZIPCode": "06524"
+}

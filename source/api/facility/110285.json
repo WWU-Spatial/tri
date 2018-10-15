@@ -1,0 +1,934 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MANATI",
+    "County": "PR,MANATI",
+    "DUNS": "090399718",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 53408.04809,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1398120365960",
+                    "MaxOnsite": "05",
+                    "Pounds": 1348.0,
+                    "Score": 3.331,
+                    "SubmissionNumber": 1928494,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120365972",
+                    "MaxOnsite": "06",
+                    "Pounds": 198074.0,
+                    "Score": 53.80355,
+                    "SubmissionNumber": 1928495,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398120365996",
+                    "MaxOnsite": "05",
+                    "Pounds": 18356.0,
+                    "Score": 29.147190000000002,
+                    "SubmissionNumber": 1928496,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398125342675",
+                    "MaxOnsite": "05",
+                    "Pounds": 17151.0,
+                    "Score": 0.697608,
+                    "SubmissionNumber": 1983680,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 234929.0,
+            "TotalScore": 86.97934800000002,
+            "state_score_percentile": 89,
+            "us_score_percentile": 91
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1399130672393",
+                    "MaxOnsite": "05",
+                    "Pounds": 7485.0,
+                    "Score": 2.097143,
+                    "SubmissionNumber": 2046484,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1399130672405",
+                    "MaxOnsite": "05",
+                    "Pounds": 637.0,
+                    "Score": 1.74941,
+                    "SubmissionNumber": 2046485,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67663",
+                    "Chemical": "Chloroform",
+                    "ChemicalNumber": 140,
+                    "DCN": "1399130672417",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 58.2517,
+                    "SubmissionNumber": 2046486,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1399130672443",
+                    "MaxOnsite": "05",
+                    "Pounds": 66.0,
+                    "Score": 0.361529,
+                    "SubmissionNumber": 2046489,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1399130672456",
+                    "MaxOnsite": "05",
+                    "Pounds": 67.0,
+                    "Score": 2.78104,
+                    "SubmissionNumber": 2046490,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130672470",
+                    "MaxOnsite": "05",
+                    "Pounds": 1055.0,
+                    "Score": 0.043891,
+                    "SubmissionNumber": 2046492,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1399130672482",
+                    "MaxOnsite": "04",
+                    "Pounds": 52.0,
+                    "Score": 0.002864,
+                    "SubmissionNumber": 2046493,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130672518",
+                    "MaxOnsite": "05",
+                    "Pounds": 95.0,
+                    "Score": 0.003108,
+                    "SubmissionNumber": 2046496,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399130672520",
+                    "MaxOnsite": "05",
+                    "Pounds": 420.0,
+                    "Score": 0.676769,
+                    "SubmissionNumber": 2046497,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130672532",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.024903,
+                    "SubmissionNumber": 2046498,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9895.0,
+            "TotalScore": 65.99235699999998,
+            "state_score_percentile": 58,
+            "us_score_percentile": 53
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1300140836899",
+                    "MaxOnsite": "05",
+                    "Pounds": 10246.0,
+                    "Score": 2.66531,
+                    "SubmissionNumber": 64529,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1300140836901",
+                    "MaxOnsite": "04",
+                    "Pounds": 395.0,
+                    "Score": 0.963588,
+                    "SubmissionNumber": 64530,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1300140836913",
+                    "MaxOnsite": "05",
+                    "Pounds": 39.0,
+                    "Score": 1.4153040000000001,
+                    "SubmissionNumber": 64531,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140836925",
+                    "MaxOnsite": "06",
+                    "Pounds": 1003.0,
+                    "Score": 0.039428,
+                    "SubmissionNumber": 64532,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300140836937",
+                    "MaxOnsite": "05",
+                    "Pounds": 541.0,
+                    "Score": 0.838142,
+                    "SubmissionNumber": 64533,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 12224.0,
+            "TotalScore": 5.921772000000001,
+            "state_score_percentile": 65,
+            "us_score_percentile": 60
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1301150497598",
+                    "MaxOnsite": "04",
+                    "Pounds": 846.0,
+                    "Score": 2.285046,
+                    "SubmissionNumber": 138667,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301150497600",
+                    "MaxOnsite": "05",
+                    "Pounds": 8563.0,
+                    "Score": 2.091697,
+                    "SubmissionNumber": 138668,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1301150497612",
+                    "MaxOnsite": "05",
+                    "Pounds": 223.0,
+                    "Score": 0.355114,
+                    "SubmissionNumber": 138669,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150497624",
+                    "MaxOnsite": "01",
+                    "Pounds": 250.6,
+                    "Score": 179.272,
+                    "SubmissionNumber": 138670,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301150497636",
+                    "MaxOnsite": "06",
+                    "Pounds": 1527.0,
+                    "Score": 0.058235999999999996,
+                    "SubmissionNumber": 138671,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11409.6,
+            "TotalScore": 184.06209299999998,
+            "state_score_percentile": 70,
+            "us_score_percentile": 64
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200572636",
+                    "MaxOnsite": "02",
+                    "Pounds": 182.0,
+                    "Score": 7762.89,
+                    "SubmissionNumber": 244765,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1302201009988",
+                    "MaxOnsite": "05",
+                    "Pounds": 2005.0,
+                    "Score": 0.553191,
+                    "SubmissionNumber": 280346,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1302201009990",
+                    "MaxOnsite": "04",
+                    "Pounds": 2565.0,
+                    "Score": 7.130172,
+                    "SubmissionNumber": 280347,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1302201010004",
+                    "MaxOnsite": "06",
+                    "Pounds": 463.56,
+                    "Score": 0.019414,
+                    "SubmissionNumber": 280348,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1302201010016",
+                    "MaxOnsite": "05",
+                    "Pounds": 126.0,
+                    "Score": 0.209787,
+                    "SubmissionNumber": 280349,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5341.56,
+            "TotalScore": 7770.8025640000005,
+            "state_score_percentile": 59,
+            "us_score_percentile": 55
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1303201653211",
+                    "MaxOnsite": "06",
+                    "Pounds": 8324.4,
+                    "Score": 2.48688,
+                    "SubmissionNumber": 341450,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1303201653223",
+                    "MaxOnsite": "06",
+                    "Pounds": 6125.4,
+                    "Score": 17.72825,
+                    "SubmissionNumber": 341451,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303201653235",
+                    "MaxOnsite": "05",
+                    "Pounds": 509.5,
+                    "Score": 0.022289,
+                    "SubmissionNumber": 341452,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201653247",
+                    "MaxOnsite": "02",
+                    "Pounds": 138.27,
+                    "Score": 5938.9,
+                    "SubmissionNumber": 341453,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 15097.57,
+            "TotalScore": 5959.137419,
+            "state_score_percentile": 74,
+            "us_score_percentile": 70
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1304202651814",
+                    "MaxOnsite": "06",
+                    "Pounds": 5557.0,
+                    "Score": 16.296504,
+                    "SubmissionNumber": 431156,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1304202651826",
+                    "MaxOnsite": "06",
+                    "Pounds": 8140.0,
+                    "Score": 2.463804,
+                    "SubmissionNumber": 431157,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304202651838",
+                    "MaxOnsite": "05",
+                    "Pounds": 509.0,
+                    "Score": 0.022564,
+                    "SubmissionNumber": 431158,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304202651840",
+                    "MaxOnsite": "04",
+                    "Pounds": 7251.0,
+                    "Score": 3390.7540000000004,
+                    "SubmissionNumber": 431159,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202651853",
+                    "MaxOnsite": "02",
+                    "Pounds": 166.0,
+                    "Score": 7179.46,
+                    "SubmissionNumber": 431160,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 21623.0,
+            "TotalScore": 10588.996872,
+            "state_score_percentile": 81,
+            "us_score_percentile": 75
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1305203756705",
+                    "MaxOnsite": "05",
+                    "Pounds": 4817.0,
+                    "Score": 12.39707,
+                    "SubmissionNumber": 531798,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1305203756717",
+                    "MaxOnsite": "06",
+                    "Pounds": 4560.0,
+                    "Score": 1.10941,
+                    "SubmissionNumber": 531799,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305203756729",
+                    "MaxOnsite": "05",
+                    "Pounds": 347.0,
+                    "Score": 0.012355,
+                    "SubmissionNumber": 531800,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1305203756731",
+                    "MaxOnsite": "05",
+                    "Pounds": 120.0,
+                    "Score": 55.681,
+                    "SubmissionNumber": 531801,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203756743",
+                    "MaxOnsite": "04",
+                    "Pounds": 120.0,
+                    "Score": 5225.77,
+                    "SubmissionNumber": 531802,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1305203756756",
+                    "MaxOnsite": "05",
+                    "Pounds": 44.0,
+                    "Score": 0.20602,
+                    "SubmissionNumber": 531803,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1305203756770",
+                    "MaxOnsite": "05",
+                    "Pounds": 9.0,
+                    "Score": 0.003156,
+                    "SubmissionNumber": 531805,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1305203756782",
+                    "MaxOnsite": "04",
+                    "Pounds": 11.0,
+                    "Score": 0.39043,
+                    "SubmissionNumber": 531806,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305203756794",
+                    "MaxOnsite": "04",
+                    "Pounds": 87.0,
+                    "Score": 0.017418,
+                    "SubmissionNumber": 531807,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1305203756806",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 531808,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203756818",
+                    "MaxOnsite": "05",
+                    "Pounds": 30.0,
+                    "Score": 0.00084,
+                    "SubmissionNumber": 531809,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10151.0,
+            "TotalScore": 5295.587699000001,
+            "state_score_percentile": 72,
+            "us_score_percentile": 66
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1306204783880",
+                    "MaxOnsite": "05",
+                    "Pounds": 4672.0,
+                    "Score": 12.15734,
+                    "SubmissionNumber": 624470,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204783892",
+                    "MaxOnsite": "05",
+                    "Pounds": 216.0,
+                    "Score": 0.00773,
+                    "SubmissionNumber": 624471,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1306204783916",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.100626,
+                    "SubmissionNumber": 624473,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1306204783928",
+                    "MaxOnsite": "04",
+                    "Pounds": 6.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 624474,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204783930",
+                    "MaxOnsite": "05",
+                    "Pounds": 8.0,
+                    "Score": 0.000225,
+                    "SubmissionNumber": 624475,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "100414",
+                    "Chemical": "Ethylbenzene",
+                    "ChemicalNumber": 290,
+                    "DCN": "1306204783942",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.178389,
+                    "SubmissionNumber": 624476,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "68122",
+                    "Chemical": "N,N-Dimethylformamide",
+                    "ChemicalNumber": 397,
+                    "DCN": "1306204783955",
+                    "MaxOnsite": "05",
+                    "Pounds": 251.0,
+                    "Score": 1.18167,
+                    "SubmissionNumber": 624477,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1306204783967",
+                    "MaxOnsite": "05",
+                    "Pounds": 120.0,
+                    "Score": 55.9877,
+                    "SubmissionNumber": 624478,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204783979",
+                    "MaxOnsite": "04",
+                    "Pounds": 120.0,
+                    "Score": 5261.56,
+                    "SubmissionNumber": 624479,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5898.0,
+            "TotalScore": 5331.173680000001,
+            "state_score_percentile": 63,
+            "us_score_percentile": 60
+        }
+    },
+    "FIPS": "72091",
+    "FRSID": "110000744507",
+    "FacilityID": "00674SFTYKKM510",
+    "FacilityNumber": 110285,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.430874,
+    "Longitude": -66.506619,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 100,
+            "us_score_pct": 83
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 98,
+            "us_score_pct": 86
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 98,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 98,
+            "us_score_pct": 87
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 79,
+            "us_pounds_pct": 97,
+            "us_score_pct": 93
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 98,
+            "us_score_pct": 94
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 78,
+            "us_pounds_pct": 98,
+            "us_score_pct": 96
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 76,
+            "us_pounds_pct": 98,
+            "us_score_pct": 96
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 98,
+            "us_score_pct": 97
+        },
+        "naicscode": "562112",
+        "name": "Hazardous Waste Collection"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5621",
+    "NAICSCodeSame3Digit": "562",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SAFETY-KLEEN ENVIROSYSTEM CO OF PUERTO RICO,INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "053976551",
+    "ParentName": "SAFETY-KLEEN CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ANGEL ROSA",
+    "PublicContactPhone": "7878541090",
+    "RCRANumber": "PRD090399718",
+    "RadialDistance": 54874,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 107,
+            "us_pounds_pct": 100,
+            "us_score_pct": 64
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 106,
+            "us_pounds_pct": 83,
+            "us_score_pct": 66
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 119,
+            "us_pounds_pct": 92,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 90,
+            "us_score_pct": 72
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 84,
+            "us_score_pct": 89
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 93,
+            "us_score_pct": 89
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 112,
+            "us_pounds_pct": 96,
+            "us_score_pct": 91
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 110,
+            "us_pounds_pct": 91,
+            "us_score_pct": 89
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 106,
+            "us_pounds_pct": 84,
+            "us_score_pct": 87
+        },
+        "name": "Business services, n.e.c.",
+        "siccode": "7389"
+    },
+    "SICCode2Digit": "73",
+    "SICCode3Digit": "738",
+    "SICCodeSame2Digit": "73",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.5377,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 7.803,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.4291,
+    "StackVelocitySource": "Fac Spec",
+    "State": "PR",
+    "Street": "HWY #2 KM. 51",
+    "SubmitLat": 18.43333,
+    "SubmitLong": 66.50667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -33,
+    "Y": 59,
+    "ZIP9": "00674",
+    "ZIPCode": "00674"
+}

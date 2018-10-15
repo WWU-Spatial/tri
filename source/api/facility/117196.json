@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUFFALO",
+    "County": "NY,ERIE",
+    "DUNS": "131687790",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 13395.950349,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206327241",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.0436,
+                    "SubmissionNumber": 757443,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.0436,
+            "state_score_percentile": 13,
+            "us_score_percentile": 8
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207342686",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.043224,
+                    "SubmissionNumber": 848768,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.043224,
+            "state_score_percentile": 14,
+            "us_score_percentile": 9
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208323651",
+                    "MaxOnsite": "04",
+                    "Pounds": 24.0,
+                    "Score": 1.02834,
+                    "SubmissionNumber": 936371,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 24.0,
+            "TotalScore": 1.02834,
+            "state_score_percentile": 32,
+            "us_score_percentile": 24
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110000327183",
+    "FacilityID": "14220SRRNT2375S",
+    "FacilityNumber": 117196,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.833056,
+    "Longitude": -78.825,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 42,
+            "us_pounds_pct": 14,
+            "us_score_pct": 23
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 71,
+            "us_count": 42,
+            "us_pounds_pct": 14,
+            "us_score_pct": 30
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 39,
+            "us_pounds_pct": 46,
+            "us_score_pct": 66
+        },
+        "naicscode": "311513",
+        "name": "Cheese Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SORRENTO LACTALIS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "009073503",
+    "ParentName": "LACTALIS AMERICAN CO INC",
+    "PreferredLat": 42.8337,
+    "PreferredLong": 78.8237,
+    "PublicContactName": "MIKE PALMER",
+    "PublicContactPhone": "7168236262",
+    "RCRANumber": "NYD986868420",
+    "RadialDistance": 2712232,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 41,
+            "us_pounds_pct": 14,
+            "us_score_pct": 24
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 71,
+            "us_count": 41,
+            "us_pounds_pct": 14,
+            "us_score_pct": 31
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 37,
+            "us_pounds_pct": 48,
+            "us_score_pct": 70
+        },
+        "name": "Natural, processed, and imitation cheese",
+        "siccode": "2022"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2375 S PARK AVE",
+    "SubmitLat": 42.83361,
+    "SubmitLong": 78.82417,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1714,
+    "Y": 2876,
+    "ZIP9": "14220",
+    "ZIPCode": "14220"
+}

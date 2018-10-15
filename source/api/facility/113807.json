@@ -1,0 +1,213 @@
+{
+    "AssignedComID": 7732071,
+    "AssignedReach": "01100006000806",
+    "City": "BRIDGEPORT",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 92251.792355,
+    "DistanceToReach": 201.597811,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100057456",
+                    "MaxOnsite": "03",
+                    "Pounds": 35000.0,
+                    "Score": 12.1327,
+                    "SubmissionNumber": 1753092,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 35000.0,
+            "TotalScore": 12.1327,
+            "state_score_percentile": 82,
+            "us_score_percentile": 73
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1301150572434",
+                    "MaxOnsite": "03",
+                    "Pounds": 1560.0,
+                    "Score": 6200.42,
+                    "SubmissionNumber": 145326,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1560.0,
+            "TotalScore": 6200.42,
+            "state_score_percentile": 50,
+            "us_score_percentile": 42
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1305203667415",
+                    "MaxOnsite": "03",
+                    "Pounds": 1915.0,
+                    "Score": 8236.63,
+                    "SubmissionNumber": 523395,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1915.0,
+            "TotalScore": 8236.63,
+            "state_score_percentile": 59,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110011370907",
+    "FacilityID": "06610LCYMN1146B",
+    "FacilityNumber": 113807,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.186577,
+    "Longitude": -73.168715,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 72,
+            "us_pounds_pct": 75,
+            "us_score_pct": 38
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 61,
+            "us_pounds_pct": 42,
+            "us_score_pct": 65
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 64,
+            "us_pounds_pct": 51,
+            "us_score_pct": 76
+        },
+        "naicscode": "339112",
+        "name": "Surgical and Medical Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "LACEY MANUFACTURING CO INC",
+    "NearComID": 7732155,
+    "NearReach": "01100006000806",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "049128598",
+    "ParentName": "SCHAEFFLER USA",
+    "PreferredLat": 41.19167,
+    "PreferredLong": 73.16667,
+    "PublicContactName": "JAMES ROGERS",
+    "PublicContactPhone": "2033367453",
+    "RCRANumber": "CTD046422432",
+    "RadialDistance": 2930982,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 66,
+            "us_pounds_pct": 72,
+            "us_score_pct": 45
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 56,
+            "us_pounds_pct": 41,
+            "us_score_pct": 69
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 53,
+            "us_pounds_pct": 50,
+            "us_score_pct": 79
+        },
+        "name": "Surgical and medical instruments and apparatus",
+        "siccode": "3841"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 18,
+            "us_count": 163,
+            "us_pounds_pct": 79,
+            "us_score_pct": 26
+        },
+        "2001": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 133,
+            "us_pounds_pct": 49,
+            "us_score_pct": 61
+        },
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 95,
+            "us_pounds_pct": 55,
+            "us_score_pct": 63
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "384",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0315,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "1146 BARNUM AVE",
+    "SubmitLat": 41.19167,
+    "SubmitLong": 73.16667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2323,
+    "Y": 2774,
+    "ZIP9": "06610",
+    "ZIPCode": "06610"
+}

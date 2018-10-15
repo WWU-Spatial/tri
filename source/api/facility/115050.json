@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MORRISTOWN",
+    "County": "NJ,MORRIS",
+    "DUNS": "087286787",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 28387.926032,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1396100030461",
+                    "MaxOnsite": "04",
+                    "Pounds": 30.0,
+                    "Score": 30.3552,
+                    "SubmissionNumber": 1750769,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 30.3552,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1397115134138",
+                    "MaxOnsite": "04",
+                    "Pounds": 30.0,
+                    "Score": 30.5999,
+                    "SubmissionNumber": 1883238,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 30.5999,
+            "state_score_percentile": 8,
+            "us_score_percentile": 9
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "117817",
+                    "Chemical": "Di(2-ethylhexyl) phthalate",
+                    "ChemicalNumber": 182,
+                    "DCN": "1398120581804",
+                    "MaxOnsite": "04",
+                    "Pounds": 30.0,
+                    "Score": 30.8446,
+                    "SubmissionNumber": 1945108,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 30.8446,
+            "state_score_percentile": 6,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110000581987",
+    "FacilityID": "07962FPTHRHANOV",
+    "FacilityNumber": 115050,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.812505,
+    "Longitude": -74.469794,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 7,
+            "state_score_pct": 35,
+            "us_count": 504,
+            "us_pounds_pct": 2,
+            "us_score_pct": 27
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 7,
+            "state_score_pct": 32,
+            "us_count": 490,
+            "us_pounds_pct": 1,
+            "us_score_pct": 27
+        },
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 7,
+            "state_score_pct": 32,
+            "us_count": 493,
+            "us_pounds_pct": 2,
+            "us_score_pct": 27
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FPI THERMOPLASTIC TECHNOLOGIES MORRISTOWN PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.8125,
+    "PreferredLong": 74.47056,
+    "PublicContactName": "ALFRED F. HANZL",
+    "PublicContactPhone": "9735394200",
+    "RCRANumber": "NJD980207690",
+    "RadialDistance": 2819067,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 83,
+            "us_count": 657,
+            "us_pounds_pct": 4,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 657,
+            "us_pounds_pct": 3,
+            "us_score_pct": 78
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 655,
+            "us_pounds_pct": 3,
+            "us_score_pct": 79
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "HANOVER AVE & HORSEHILL RD",
+    "SubmitLat": 40.8125,
+    "SubmitLong": 74.47056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2205,
+    "Y": 2693,
+    "ZIP9": "07962",
+    "ZIPCode": "07962"
+}

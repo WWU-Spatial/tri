@@ -1,0 +1,268 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LEOMINSTER",
+    "County": "MA,WORCESTER",
+    "DUNS": "838515534",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 60558.35125,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301155126459",
+                    "MaxOnsite": "03",
+                    "Pounds": 130.0,
+                    "Score": 0.004004,
+                    "SubmissionNumber": 180019,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1301155126523",
+                    "MaxOnsite": "03",
+                    "Pounds": 172.0,
+                    "Score": 0.589072,
+                    "SubmissionNumber": 180022,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1301155146689",
+                    "MaxOnsite": "03",
+                    "Pounds": 190.0,
+                    "Score": 0.0409,
+                    "SubmissionNumber": 181333,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 492.0,
+            "TotalScore": 0.6339760000000001,
+            "state_score_percentile": 45,
+            "us_score_percentile": 31
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1302200940361",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.125238,
+                    "SubmissionNumber": 276116,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1302200940486",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.204544,
+                    "SubmissionNumber": 276122,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1302200940524",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.024213,
+                    "SubmissionNumber": 276126,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1302200940738",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.014404,
+                    "SubmissionNumber": 276140,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2000.0,
+            "TotalScore": 0.36839900000000003,
+            "state_score_percentile": 62,
+            "us_score_percentile": 45
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304203032913",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.008732,
+                    "SubmissionNumber": 464565,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.008732,
+            "state_score_percentile": 47,
+            "us_score_percentile": 31
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110003496529",
+    "FacilityID": "01453PLYCR28ELM",
+    "FacilityNumber": 110830,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.512569,
+    "Longitude": -71.744642,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 137,
+            "us_pounds_pct": 24,
+            "us_score_pct": 24
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 62,
+            "us_count": 142,
+            "us_pounds_pct": 44,
+            "us_score_pct": 26
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 142,
+            "us_pounds_pct": 22,
+            "us_score_pct": 7
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "POLYCARBON INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "EDWARD PRICE",
+    "PublicContactPhone": "9787722111",
+    "RCRANumber": "MAR000007690",
+    "RadialDistance": 3113460,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 50,
+            "us_count": 130,
+            "us_pounds_pct": 26,
+            "us_score_pct": 24
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 55,
+            "us_count": 133,
+            "us_pounds_pct": 46,
+            "us_score_pct": 27
+        },
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 129,
+            "us_pounds_pct": 21,
+            "us_score_pct": 9
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SIC2": {
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 642,
+            "us_pounds_pct": 8,
+            "us_score_pct": 11
+        },
+        "2002": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 637,
+            "us_pounds_pct": 20,
+            "us_score_pct": 8
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 635,
+            "us_pounds_pct": 4,
+            "us_score_pct": 0
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7397,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 14.8754,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.7643,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "28 ELM HILL AVE",
+    "SubmitLat": 42.51222,
+    "SubmitLong": 71.74472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2419,
+    "Y": 2987,
+    "ZIP9": "01453",
+    "ZIPCode": "01453"
+}

@@ -1,0 +1,207 @@
+{
+    "AssignedComID": 6781257,
+    "AssignedReach": "01080201000413",
+    "City": "HOLYOKE",
+    "County": "MA,HAMPDEN",
+    "DUNS": "084650050",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30203.895168,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140093232",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0231,
+                    "Score": 0.24365,
+                    "SubmissionNumber": 8314,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140093244",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.003164,
+                    "Score": 0.0,
+                    "SubmissionNumber": 8315,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.026264,
+            "TotalScore": 0.24365,
+            "state_score_percentile": 3,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150021412",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00678,
+                    "Score": 0.0,
+                    "SubmissionNumber": 96107,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150021436",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0495,
+                    "Score": 0.522315,
+                    "SubmissionNumber": 96108,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.056280000000000004,
+            "TotalScore": 0.522315,
+            "state_score_percentile": 4,
+            "us_score_percentile": 1
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201073842",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.1,
+                    "Score": 1.05602,
+                    "SubmissionNumber": 289256,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 1.05602,
+            "state_score_percentile": 6,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110002060634",
+    "FacilityID": "01040CTYFH102CA",
+    "FacilityNumber": 110565,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.199536,
+    "Longitude": -72.611201,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 3,
+            "us_score_pct": 21
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 6,
+            "us_score_pct": 23
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 3,
+            "us_score_pct": 18
+        },
+        "naicscode": "221121",
+        "name": "Electric Bulk Power Transmission and Control"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CITY OF HOLYOKE GAS & ELECTRIC DEPARTMENT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CHARLES L. MARTEL",
+    "PublicContactPhone": "4135369392",
+    "RCRANumber": "MAD980671788",
+    "RadialDistance": 3035694,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 52,
+            "us_pounds_pct": 1,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 2,
+            "us_score_pct": 10
+        },
+        "name": "Electric and other services combined",
+        "siccode": "4931"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "493",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 4.08,
+    "StackDiameterSource": "EPRI med",
+    "StackHeight": 58.67,
+    "StackHeightSource": "EPRI med",
+    "StackVelocity": 17.07,
+    "StackVelocitySource": "EPRI med",
+    "State": "MA",
+    "Street": "102 CABOT ST",
+    "SubmitLat": 42.19972,
+    "SubmitLong": 72.61056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2345,
+    "Y": 2924,
+    "ZIP9": "01040",
+    "ZIPCode": "01040"
+}

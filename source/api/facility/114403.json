@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MOONACHIE",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17924.102116,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105157299",
+                    "MaxOnsite": "03",
+                    "Pounds": 19550.0,
+                    "Score": 5.518514,
+                    "SubmissionNumber": 1800975,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19550.0,
+            "TotalScore": 5.518514,
+            "state_score_percentile": 77,
+            "us_score_percentile": 63
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115082772",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 0.210467,
+                    "SubmissionNumber": 1880703,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 0.210467,
+            "state_score_percentile": 29,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000763353",
+    "FacilityID": "07074CRSNN20EMP",
+    "FacilityNumber": 114403,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.831539,
+    "Longitude": -74.043731,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 82,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 33,
+            "us_score_pct": 19
+        },
+        "naicscode": "333922",
+        "name": "Conveyor and Conveying Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3339",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "ACRISON INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.83194,
+    "PreferredLong": 74.04222,
+    "PublicContactName": "PAUL NUZZI",
+    "PublicContactPhone": "2014408300",
+    "RCRANumber": "NJD009715319",
+    "RadialDistance": 2848684,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 73,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 34,
+            "us_score_pct": 16
+        },
+        "name": "Conveyors and conveying equipment",
+        "siccode": "3535"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "353",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.7894,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3937,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "20 EMPIRE BLVD",
+    "SubmitLat": 40.83194,
+    "SubmitLong": 74.04222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2247,
+    "Y": 2705,
+    "ZIP9": "07074",
+    "ZIPCode": "07074"
+}

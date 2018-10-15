@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PHILLIPSBURG",
+    "County": "NJ,WARREN",
+    "DUNS": "106235138",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 24203.594863,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100030434",
+                    "MaxOnsite": "04",
+                    "Pounds": 149.0,
+                    "Score": 0.004174,
+                    "SubmissionNumber": 1750766,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396100030446",
+                    "MaxOnsite": "04",
+                    "Pounds": 1045.0,
+                    "Score": 618.534,
+                    "SubmissionNumber": 1750767,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1194.0,
+            "TotalScore": 618.538174,
+            "state_score_percentile": 38,
+            "us_score_percentile": 30
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397110008834",
+                    "MaxOnsite": "04",
+                    "Pounds": 990.0,
+                    "Score": 595.416,
+                    "SubmissionNumber": 1824680,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 990.0,
+            "TotalScore": 595.416,
+            "state_score_percentile": 33,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "34041",
+    "FRSID": "110000763317",
+    "FacilityID": "08865BHLRF85IND",
+    "FacilityNumber": 115594,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14737,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.664228,
+    "Longitude": -75.146494,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 36,
+            "us_score_pct": 45
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 30,
+            "us_score_pct": 60
+        },
+        "naicscode": "333513",
+        "name": "Machine Tool (Metal Forming Types) Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "BIHLER OF AMERICA INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "106235138",
+    "ParentName": "BIHLER OF AMERICA INC",
+    "PreferredLat": 40.66111,
+    "PreferredLong": 75.14444,
+    "PublicContactName": "DIAN CUCCHISI",
+    "PublicContactPhone": "9082139001",
+    "RCRANumber": "NJD986653152",
+    "RadialDistance": 2764235,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 57,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 42,
+            "us_score_pct": 57
+        },
+        "name": "Machine tools, metal forming types",
+        "siccode": "3542"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "354",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.2542,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "85 INDUSTRIAL DR.",
+    "SubmitLat": 40.66111,
+    "SubmitLong": 75.14444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2141,
+    "Y": 2657,
+    "ZIP9": "08865",
+    "ZIPCode": "08865"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MAYVILLE",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59097.6158,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100365790",
+                    "MaxOnsite": "03",
+                    "Pounds": 14548.0,
+                    "Score": 0.084959,
+                    "SubmissionNumber": 1779155,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14548.0,
+            "TotalScore": 0.084959,
+            "state_score_percentile": 68,
+            "us_score_percentile": 58
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110080405",
+                    "MaxOnsite": "04",
+                    "Pounds": 8670.0,
+                    "Score": 0.050138,
+                    "SubmissionNumber": 1830971,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8670.0,
+            "TotalScore": 0.050138,
+            "state_score_percentile": 60,
+            "us_score_percentile": 49
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110000763781",
+    "FacilityID": "14757MYVLL8BART",
+    "FacilityNumber": 117529,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.243577,
+    "Longitude": -79.498983,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 11,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 143,
+            "us_pounds_pct": 6,
+            "us_score_pct": 3
+        },
+        "naicscode": "337122",
+        "name": "Nonupholstered Wood Household Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NYR00B261",
+    "Name": "ETHAN ALLEN INC. MAYVILLE DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001213545",
+    "ParentName": "ETHAN ALLEN INC",
+    "PreferredLat": 42.24278,
+    "PreferredLong": 79.49083,
+    "PublicContactName": "RONALD P. BLOSE",
+    "PublicContactPhone": "7167532121",
+    "RCRANumber": "NYD002105195",
+    "RadialDistance": 2626403,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 50,
+            "us_count": 220,
+            "us_pounds_pct": 12,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 184,
+            "us_pounds_pct": 5,
+            "us_score_pct": 2
+        },
+        "name": "Wood household furniture, except upholstered",
+        "siccode": "2511"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.4112,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.4156,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "8 BARTON ST.",
+    "SubmitLat": 42.24278,
+    "SubmitLong": 79.49083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1662,
+    "Y": 2784,
+    "ZIP9": "147571308",
+    "ZIPCode": "14757"
+}

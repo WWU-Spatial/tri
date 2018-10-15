@@ -1,0 +1,285 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUDSON",
+    "County": "NY,COLUMBIA",
+    "DUNS": "000154638",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55721.613486,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396105123828",
+                    "MaxOnsite": "03",
+                    "Pounds": 15400.0,
+                    "Score": 0.727904,
+                    "SubmissionNumber": 1798967,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105123830",
+                    "MaxOnsite": "03",
+                    "Pounds": 23700.0,
+                    "Score": 0.657336,
+                    "SubmissionNumber": 1798968,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105123842",
+                    "MaxOnsite": "03",
+                    "Pounds": 12300.0,
+                    "Score": 16.9795,
+                    "SubmissionNumber": 1798969,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 51400.0,
+            "TotalScore": 18.36474,
+            "state_score_percentile": 85,
+            "us_score_percentile": 78
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397115049126",
+                    "MaxOnsite": "03",
+                    "Pounds": 12700.0,
+                    "Score": 0.594073,
+                    "SubmissionNumber": 1878504,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115049138",
+                    "MaxOnsite": "03",
+                    "Pounds": 14000.0,
+                    "Score": 0.384319,
+                    "SubmissionNumber": 1878505,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115049140",
+                    "MaxOnsite": "03",
+                    "Pounds": 16600.0,
+                    "Score": 22.6785,
+                    "SubmissionNumber": 1878506,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 43300.0,
+            "TotalScore": 23.656892,
+            "state_score_percentile": 84,
+            "us_score_percentile": 76
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125343350",
+                    "MaxOnsite": "03",
+                    "Pounds": 10300.0,
+                    "Score": 0.27982,
+                    "SubmissionNumber": 1983734,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10300.0,
+            "TotalScore": 0.27982,
+            "state_score_percentile": 62,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "36021",
+    "FRSID": "110019565442",
+    "FacilityID": "12534LBPRD99STH",
+    "FacilityNumber": 116440,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.24855,
+    "Longitude": -73.79716,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 54,
+            "us_pounds_pct": 70,
+            "us_score_pct": 61
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 43,
+            "us_pounds_pct": 74,
+            "us_score_pct": 69
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 19,
+            "us_score_pct": 15
+        },
+        "naicscode": "337127",
+        "name": "Institutional Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "L & B PRODUCTS CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001504638",
+    "ParentName": "L & B CONTRACT IND",
+    "PreferredLat": 42.25111,
+    "PreferredLong": 73.79861,
+    "PublicContactName": "CRAIG J. BANTA",
+    "PublicContactPhone": "5188281501",
+    "RCRANumber": "NYD002076073",
+    "RadialDistance": 2962588,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 70,
+            "us_score_pct": 67
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 75,
+            "us_score_pct": 68
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 32,
+            "us_score_pct": 19
+        },
+        "name": "Public building and related furniture",
+        "siccode": "2531"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 92,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 86,
+            "us_score_pct": 82
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 43,
+            "us_score_pct": 26
+        },
+        "name": "Furniture and fixtures, n.e.c.",
+        "siccode": "2599"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 36,
+            "us_count": 350,
+            "us_pounds_pct": 85,
+            "us_score_pct": 31
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 22,
+            "us_count": 325,
+            "us_pounds_pct": 81,
+            "us_score_pct": 32
+        },
+        "1998": {
+            "state_count": 12,
+            "state_pounds_pct": 66,
+            "state_score_pct": 8,
+            "us_count": 332,
+            "us_pounds_pct": 53,
+            "us_score_pct": 7
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "253",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 14.6304,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "99 S. 3RD ST.",
+    "SubmitLat": 42.25111,
+    "SubmitLong": 73.79861,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2227,
+    "Y": 2902,
+    "ZIP9": "12534",
+    "ZIPCode": "12534"
+}

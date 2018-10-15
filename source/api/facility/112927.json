@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BANGOR",
+    "County": "ME,PENOBSCOT",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 175403.458788,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1399130113931",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 3.30228,
+                    "SubmissionNumber": 2000042,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 3.30228,
+            "state_score_percentile": 5,
+            "us_score_percentile": 3
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1303201642651",
+                    "MaxOnsite": "05",
+                    "Pounds": 1.0,
+                    "Score": 0.665333,
+                    "SubmissionNumber": 340623,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.665333,
+            "state_score_percentile": 12,
+            "us_score_percentile": 6
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1304202752489",
+                    "MaxOnsite": "05",
+                    "Pounds": 1.0,
+                    "Score": 0.668202,
+                    "SubmissionNumber": 440294,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.668202,
+            "state_score_percentile": 12,
+            "us_score_percentile": 7
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "91203",
+                    "Chemical": "Naphthalene",
+                    "ChemicalNumber": 402,
+                    "DCN": "1308206563381",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.679677,
+                    "SubmissionNumber": 779829,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.679677,
+            "state_score_percentile": 15,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "23019",
+    "FRSID": "110025247800",
+    "FacilityID": "04401MNRNT103MA",
+    "FacilityNumber": 112927,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.800674,
+    "Longitude": -68.808977,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 9,
+            "us_score_pct": 41
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 144,
+            "us_pounds_pct": 10,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 155,
+            "us_pounds_pct": 10,
+            "us_score_pct": 18
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 173,
+            "us_pounds_pct": 10,
+            "us_score_pct": 20
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": "",
+    "NPDESPermit": "MER05A911",
+    "Name": "US DOD USAF BANGOR ANG",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MAJOR MARK CHAMPAGNE",
+    "PublicContactPhone": "2079907266",
+    "RCRANumber": "ME6572890022",
+    "RadialDistance": 3454371,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 10,
+            "us_score_pct": 40
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 136,
+            "us_pounds_pct": 9,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 145,
+            "us_pounds_pct": 9,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 167,
+            "us_pounds_pct": 11,
+            "us_score_pct": 20
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.0305,
+    "StackVelocitySource": "Fac Spec",
+    "State": "ME",
+    "Street": "101 ARW/EMB 99 GLENN AVE SUITE 494",
+    "SubmitLat": 45.83333,
+    "SubmitLong": 68.83333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2615,
+    "Y": 3369,
+    "ZIP9": "044013066",
+    "ZIPCode": "04401"
+}

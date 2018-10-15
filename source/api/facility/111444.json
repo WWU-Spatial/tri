@@ -1,0 +1,323 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SALEM",
+    "County": "MA,ESSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 20069.773892,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105301143",
+                    "MaxOnsite": "03",
+                    "Pounds": 48.0,
+                    "Score": 0.163476,
+                    "SubmissionNumber": 1810025,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105301168",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 9958.42,
+                    "SubmissionNumber": 1810027,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 55.0,
+            "TotalScore": 9958.583476,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110314756",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 7149.56,
+                    "SubmissionNumber": 1851408,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110314768",
+                    "MaxOnsite": "03",
+                    "Pounds": 51.0,
+                    "Score": 0.174582,
+                    "SubmissionNumber": 1851409,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 56.0,
+            "TotalScore": 7149.734582,
+            "state_score_percentile": 9,
+            "us_score_percentile": 10
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1398120632575",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 7185.95,
+                    "SubmissionNumber": 1948670,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 7185.95,
+            "state_score_percentile": 4,
+            "us_score_percentile": 2
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1399130584865",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 7222.35,
+                    "SubmissionNumber": 2039553,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130584877",
+                    "MaxOnsite": "03",
+                    "Pounds": 370.0,
+                    "Score": 1.27947,
+                    "SubmissionNumber": 2039554,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 375.0,
+            "TotalScore": 7223.629470000001,
+            "state_score_percentile": 24,
+            "us_score_percentile": 20
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1300145158352",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 7258.74,
+                    "SubmissionNumber": 85026,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 7258.74,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1301150720466",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 7251.21,
+                    "SubmissionNumber": 158333,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 7251.21,
+            "state_score_percentile": 19,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000310468",
+    "FacilityID": "01970SLMSD72FLI",
+    "FacilityNumber": 111444,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.521569,
+    "Longitude": -70.906386,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 49,
+            "us_pounds_pct": 2,
+            "us_score_pct": 77
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 46,
+            "us_pounds_pct": 4,
+            "us_score_pct": 71
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 43,
+            "us_pounds_pct": 2,
+            "us_score_pct": 69
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 40,
+            "us_pounds_pct": 10,
+            "us_score_pct": 67
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 5,
+            "us_score_pct": 69
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 6,
+            "us_score_pct": 75
+        },
+        "naicscode": "316110",
+        "name": "Leather and Hide Tanning and Finishing"
+    },
+    "NAICSCode3Digit": "316",
+    "NAICSCode4Digit": "3161",
+    "NAICSCodeSame3Digit": "316",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SALEM SUEDE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.52778,
+    "PreferredLong": 70.90972,
+    "PublicContactName": "DAVID ZION",
+    "PublicContactPhone": "9787441303",
+    "RCRANumber": "MAD001004647",
+    "RadialDistance": 3169589,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 1,
+            "us_score_pct": 78
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 48,
+            "us_pounds_pct": 4,
+            "us_score_pct": 72
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 45,
+            "us_pounds_pct": 2,
+            "us_score_pct": 71
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 42,
+            "us_pounds_pct": 9,
+            "us_score_pct": 69
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 5,
+            "us_score_pct": 70
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 39,
+            "us_pounds_pct": 6,
+            "us_score_pct": 76
+        },
+        "name": "Leather tanning and finishing",
+        "siccode": "3111"
+    },
+    "SICCode2Digit": "31",
+    "SICCode3Digit": "311",
+    "SICCodeSame2Digit": "31",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.2776,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "72 FLINT ST.",
+    "SubmitLat": 42.52778,
+    "SubmitLong": 70.90972,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2500,
+    "Y": 3010,
+    "ZIP9": "01970",
+    "ZIPCode": "01970"
+}

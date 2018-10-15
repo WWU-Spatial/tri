@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CLIFTON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "048806376",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21394.801482,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1398125299901",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 49273.8,
+                    "SubmissionNumber": 1981270,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 49273.8,
+            "state_score_percentile": 14,
+            "us_score_percentile": 15
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1399135202024",
+                    "MaxOnsite": "",
+                    "Pounds": 250.0,
+                    "Score": 49781.6,
+                    "SubmissionNumber": 2069674,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 49781.6,
+            "state_score_percentile": 18,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110000318184",
+    "FacilityID": "07015RMPCF61KIL",
+    "FacilityNumber": 114153,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.892535,
+    "Longitude": -74.165629,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 158,
+            "us_pounds_pct": 18,
+            "us_score_pct": 98
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 163,
+            "us_pounds_pct": 23,
+            "us_score_pct": 98
+        },
+        "naicscode": "326150",
+        "name": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "REMPAC FOAM CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.89165,
+    "PreferredLong": 74.16566,
+    "PublicContactName": "ALAN BUSHELL",
+    "PublicContactPhone": "9738818880",
+    "RCRANumber": "",
+    "RadialDistance": 2844696,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 43,
+            "state_score_pct": 87,
+            "us_count": 213,
+            "us_pounds_pct": 17,
+            "us_score_pct": 98
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 43,
+            "state_score_pct": 87,
+            "us_count": 210,
+            "us_pounds_pct": 23,
+            "us_score_pct": 98
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "61 KULLER RD.",
+    "SubmitLat": 40.89444,
+    "SubmitLong": 74.16639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2233,
+    "Y": 2711,
+    "ZIP9": "07015",
+    "ZIPCode": "07015"
+}

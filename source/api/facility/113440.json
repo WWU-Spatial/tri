@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 6170702,
+    "AssignedReach": "01100003000040",
+    "City": "GROTON",
+    "County": "CT,NEW LONDON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 65766.248957,
+    "DistanceToReach": 783.848807,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308207905744",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.4499999999999997,
+                    "Score": 1.868846,
+                    "SubmissionNumber": 829854,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.4499999999999997,
+            "TotalScore": 1.868846,
+            "state_score_percentile": 18,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208339578",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.2,
+                    "Score": 0.215651,
+                    "SubmissionNumber": 937907,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.215651,
+            "state_score_percentile": 12,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "09011",
+    "FRSID": "110006873954",
+    "FacilityID": "06349NVLSBCRYST",
+    "FacilityNumber": 113440,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.40013,
+    "Longitude": -72.08708,
+    "Method": "INTERPOLATION - DIGITAL MAP SRCE (TIGER)",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 173,
+            "us_pounds_pct": 17,
+            "us_score_pct": 30
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 174,
+            "us_pounds_pct": 5,
+            "us_score_pct": 12
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "US DOD NAVAL SUBMARINE BASE NEW LONDON",
+    "NearComID": 6170702,
+    "NearReach": "01100003000040",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": 41.38806,
+    "PreferredLong": 72.0875,
+    "PublicContactName": "MR. CHRISTOPHER ZENDAN",
+    "PublicContactPhone": "8606945684",
+    "RCRANumber": "CT4170022020",
+    "RadialDistance": 3017956,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 167,
+            "us_pounds_pct": 17,
+            "us_score_pct": 29
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 168,
+            "us_pounds_pct": 4,
+            "us_score_pct": 11
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "CT",
+    "Street": "CRYSTAL LAKE RD RT 12",
+    "SubmitLat": 41.38806,
+    "SubmitLong": 72.0875,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2424,
+    "Y": 2830,
+    "ZIP9": "063495000",
+    "ZIPCode": "06349"
+}

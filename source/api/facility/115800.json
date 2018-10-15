@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SUFFERN",
+    "County": "NY,ROCKLAND",
+    "DUNS": "001483494",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 46150.05778,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "84742",
+                    "Chemical": "Dibutyl phthalate",
+                    "ChemicalNumber": 195,
+                    "DCN": "1399130605619",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.006972,
+                    "SubmissionNumber": 2041320,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.006972,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "84742",
+                    "Chemical": "Dibutyl phthalate",
+                    "ChemicalNumber": 195,
+                    "DCN": "1300140095668",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.352541,
+                    "SubmissionNumber": 8544,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140095670",
+                    "MaxOnsite": "02",
+                    "Pounds": 177.0,
+                    "Score": 18059.5,
+                    "SubmissionNumber": 8545,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 427.0,
+            "TotalScore": 18059.852541,
+            "state_score_percentile": 28,
+            "us_score_percentile": 23
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "84742",
+                    "Chemical": "Dibutyl phthalate",
+                    "ChemicalNumber": 195,
+                    "DCN": "1301150236242",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.352797,
+                    "SubmissionNumber": 115735,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.352797,
+            "state_score_percentile": 29,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "36087",
+    "FRSID": "110007151090",
+    "FacilityID": "10901VNPRDDIVIS",
+    "FacilityNumber": 115800,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.11507,
+    "Longitude": -74.14804,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 5,
+            "us_score_pct": 7
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 51,
+            "us_score_pct": 96
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 37,
+            "us_score_pct": 29
+        },
+        "naicscode": "325620",
+        "name": "Toilet Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AVON PRODUCTS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001468693",
+    "ParentName": "AVON PRODUCTS INC",
+    "PreferredLat": 41.11639,
+    "PreferredLong": 74.14667,
+    "PublicContactName": "JEFF VENTOLA",
+    "PublicContactPhone": "8453692000",
+    "RCRANumber": "NYD001483494",
+    "RadialDistance": 2861043,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 32,
+            "us_pounds_pct": 7,
+            "us_score_pct": 6
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 36,
+            "us_pounds_pct": 55,
+            "us_score_pct": 94
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 46,
+            "us_score_pct": 36
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "AVON PL.",
+    "SubmitLat": 41.11639,
+    "SubmitLong": 74.14667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2228,
+    "Y": 2741,
+    "ZIP9": "109015605",
+    "ZIPCode": "10901"
+}

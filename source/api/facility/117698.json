@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 3820983,
+    "AssignedReach": "05030101000061",
+    "City": "MONACA",
+    "County": "PA,BEAVER",
+    "DUNS": "004328852",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21212.587257,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1397115294542",
+                    "MaxOnsite": "04",
+                    "Pounds": 6055.0,
+                    "Score": 1945.25,
+                    "SubmissionNumber": 1891990,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6055.0,
+            "TotalScore": 1945.25,
+            "state_score_percentile": 52,
+            "us_score_percentile": 45
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1398125306112",
+                    "MaxOnsite": "04",
+                    "Pounds": 6210.0,
+                    "Score": 1989.87,
+                    "SubmissionNumber": 1981522,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6210.0,
+            "TotalScore": 1989.87,
+            "state_score_percentile": 52,
+            "us_score_percentile": 46
+        }
+    },
+    "FIPS": "42007",
+    "FRSID": "110000329092",
+    "FacilityID": "15061SPRRD1585B",
+    "FacilityNumber": 117698,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.686117,
+    "Longitude": -80.272911,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 62,
+            "us_count": 106,
+            "us_pounds_pct": 69,
+            "us_score_pct": 74
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 71,
+            "us_count": 107,
+            "us_pounds_pct": 71,
+            "us_score_pct": 79
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "PA0034665",
+    "Name": "BEAVER VALLEY HEAT TREATING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004328852",
+    "ParentName": "MOLTRUP STEEL PRODUCTS CO",
+    "PreferredLat": 40.68611,
+    "PreferredLong": 80.27222,
+    "PublicContactName": "JEFF PFEIFER",
+    "PublicContactPhone": "7248363100",
+    "RCRANumber": "PAD004372421",
+    "RadialDistance": 2453087,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 91,
+            "us_count": 77,
+            "us_pounds_pct": 57,
+            "us_score_pct": 76
+        },
+        "1998": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 90,
+            "us_count": 78,
+            "us_pounds_pct": 65,
+            "us_score_pct": 83
+        },
+        "name": "Steel wiredrawing and steel nails and spikes",
+        "siccode": "3315"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 1.7678,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.336,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1321,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1585 BEAVER AVE",
+    "SubmitLat": 40.68611,
+    "SubmitLong": 80.27222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1620,
+    "Y": 2559,
+    "ZIP9": "15061",
+    "ZIPCode": "15061"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ORISKANY",
+    "County": "NY,ONEIDA",
+    "DUNS": "002215093",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 63945.85768,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206669246",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00088,
+                    "Score": 0.000708,
+                    "SubmissionNumber": 789758,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.00088,
+            "TotalScore": 0.000708,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207627011",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00109,
+                    "Score": 0.000875,
+                    "SubmissionNumber": 875077,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.00109,
+            "TotalScore": 0.000875,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208545943",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0022,
+                    "Score": 0.0017490000000000001,
+                    "SubmissionNumber": 956462,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0022,
+            "TotalScore": 0.0017490000000000001,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110039070867",
+    "FacilityID": "13424CLLNN8473S",
+    "FacilityNumber": 116770,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.15686,
+    "Longitude": -75.33028,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 30,
+            "us_count": 296,
+            "us_pounds_pct": 3,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 292,
+            "us_pounds_pct": 3,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 37,
+            "us_count": 287,
+            "us_pounds_pct": 12,
+            "us_score_pct": 13
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CALLANAN INDUSTRIES INC ORISKANY FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK CLEMENTE",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "NA",
+    "RadialDistance": 2935265,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 33,
+            "us_count": 297,
+            "us_pounds_pct": 2,
+            "us_score_pct": 4
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 291,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 42,
+            "us_count": 279,
+            "us_pounds_pct": 11,
+            "us_score_pct": 12
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "8473 STATE RT 69",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2048,
+    "Y": 2989,
+    "ZIP9": "13424",
+    "ZIPCode": "13424"
+}

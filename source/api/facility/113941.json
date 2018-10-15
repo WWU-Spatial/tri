@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERTOWN",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "001217736",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 48256.642814,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105096642",
+                    "MaxOnsite": "02",
+                    "Pounds": 572.0,
+                    "Score": 0.03272,
+                    "SubmissionNumber": 1797090,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105096655",
+                    "MaxOnsite": "03",
+                    "Pounds": 19290.0,
+                    "Score": 23450.2,
+                    "SubmissionNumber": 1797091,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19862.0,
+            "TotalScore": 23450.23272,
+            "state_score_percentile": 72,
+            "us_score_percentile": 63
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115062832",
+                    "MaxOnsite": "03",
+                    "Pounds": 17455.0,
+                    "Score": 21300.1,
+                    "SubmissionNumber": 1879099,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115062844",
+                    "MaxOnsite": "02",
+                    "Pounds": 952.0,
+                    "Score": 0.054663,
+                    "SubmissionNumber": 1879100,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 18407.0,
+            "TotalScore": 21300.154662999998,
+            "state_score_percentile": 71,
+            "us_score_percentile": 63
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125288047",
+                    "MaxOnsite": "02",
+                    "Pounds": 675.0,
+                    "Score": 0.038905,
+                    "SubmissionNumber": 1980684,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398125288151",
+                    "MaxOnsite": "04",
+                    "Pounds": 18487.0,
+                    "Score": 22644.9,
+                    "SubmissionNumber": 1980691,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19162.0,
+            "TotalScore": 22644.938905000003,
+            "state_score_percentile": 73,
+            "us_score_percentile": 64
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1399135082651",
+                    "MaxOnsite": "04",
+                    "Pounds": 11400.0,
+                    "Score": 14016.6,
+                    "SubmissionNumber": 2063124,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11400.0,
+            "TotalScore": 14016.6,
+            "state_score_percentile": 64,
+            "us_score_percentile": 56
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1300145087363",
+                    "MaxOnsite": "04",
+                    "Pounds": 22540.0,
+                    "Score": 27817.7,
+                    "SubmissionNumber": 81100,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 22540.0,
+            "TotalScore": 27817.7,
+            "state_score_percentile": 79,
+            "us_score_percentile": 69
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110000317489",
+    "FacilityID": "06795HNLPN401PA",
+    "FacilityNumber": 113941,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.62059,
+    "Longitude": -73.087501,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 83,
+            "us_count": 329,
+            "us_pounds_pct": 62,
+            "us_score_pct": 93
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 327,
+            "us_pounds_pct": 61,
+            "us_score_pct": 92
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 329,
+            "us_pounds_pct": 64,
+            "us_score_pct": 94
+        },
+        "1999": {
+            "state_count": 7,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 344,
+            "us_pounds_pct": 57,
+            "us_score_pct": 94
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 351,
+            "us_pounds_pct": 73,
+            "us_score_pct": 95
+        },
+        "naicscode": "332812",
+        "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HENLOPEN MANUFACTURING CO. INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001217736",
+    "ParentName": "HENLOPEN MANUFACTURING CO INC",
+    "PreferredLat": 41.62278,
+    "PreferredLong": 73.08778,
+    "PublicContactName": "RICH HALL",
+    "PublicContactPhone": "8602749215",
+    "RCRANumber": "CTD086652765",
+    "RadialDistance": 2965360,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 66,
+            "us_count": 402,
+            "us_pounds_pct": 63,
+            "us_score_pct": 91
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 388,
+            "us_pounds_pct": 61,
+            "us_score_pct": 91
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 100,
+            "us_count": 391,
+            "us_pounds_pct": 68,
+            "us_score_pct": 93
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 399,
+            "us_pounds_pct": 58,
+            "us_score_pct": 92
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 399,
+            "us_pounds_pct": 75,
+            "us_score_pct": 94
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.144,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "401 PARK RD.",
+    "SubmitLat": 41.62278,
+    "SubmitLong": 73.08778,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2317,
+    "Y": 2834,
+    "ZIP9": "06795",
+    "ZIPCode": "06795"
+}

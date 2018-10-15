@@ -1,0 +1,241 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SUTTON",
+    "County": "MA,WORCESTER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55172.836211,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202927137",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.2,
+                    "Score": 0.164825,
+                    "SubmissionNumber": 455896,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.164825,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203897501",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.1,
+                    "Score": 0.083024,
+                    "SubmissionNumber": 544345,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.083024,
+            "state_score_percentile": 8,
+            "us_score_percentile": 3
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204822670",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.083634,
+                    "SubmissionNumber": 628080,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.083634,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110024358568",
+    "FacilityID": "01590GGRGT71PRV",
+    "FacilityNumber": 110966,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.177587,
+    "Longitude": -71.730268,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 25,
+            "state_pounds_pct": 40,
+            "state_score_pct": 44,
+            "us_count": 219,
+            "us_pounds_pct": 63,
+            "us_score_pct": 68
+        },
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 18,
+            "state_score_pct": 37,
+            "us_count": 280,
+            "us_pounds_pct": 62,
+            "us_score_pct": 65
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 21,
+            "state_score_pct": 34,
+            "us_count": 278,
+            "us_pounds_pct": 59,
+            "us_score_pct": 57
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICS2": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 40,
+            "us_pounds_pct": 2,
+            "us_score_pct": 25
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 2,
+            "us_score_pct": 20
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 41,
+            "us_pounds_pct": 2,
+            "us_score_pct": 21
+        },
+        "naicscode": "212312",
+        "name": "Crushed and Broken Limestone Mining and Quarrying"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AGGREGATE INDUSTRIES NORTHEAST REGION INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "622258929",
+    "ParentName": "AGGREGATE INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBIN ELLIS",
+    "PublicContactPhone": "7819417200",
+    "RCRANumber": "MAD985275940",
+    "RadialDistance": 3092349,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 62,
+            "us_score_pct": 55
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 54,
+            "us_score_pct": 51
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 44,
+            "us_score_pct": 40
+        },
+        "name": "",
+        "siccode": "1442"
+    },
+    "SIC2": {
+        "2004": {
+            "state_count": 25,
+            "state_pounds_pct": 40,
+            "state_score_pct": 44,
+            "us_count": 234,
+            "us_pounds_pct": 61,
+            "us_score_pct": 67
+        },
+        "2005": {
+            "state_count": 29,
+            "state_pounds_pct": 18,
+            "state_score_pct": 37,
+            "us_count": 292,
+            "us_pounds_pct": 58,
+            "us_score_pct": 62
+        },
+        "2006": {
+            "state_count": 26,
+            "state_pounds_pct": 21,
+            "state_score_pct": 34,
+            "us_count": 286,
+            "us_pounds_pct": 56,
+            "us_score_pct": 55
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "14",
+    "SICCode3Digit": "144",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "MA",
+    "Street": "71 PROVIDENCE RD",
+    "SubmitLat": 42.17972,
+    "SubmitLong": 71.735,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2432,
+    "Y": 2943,
+    "ZIP9": "01590",
+    "ZIPCode": "01590"
+}

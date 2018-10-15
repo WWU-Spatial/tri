@@ -1,0 +1,935 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "YONKERS",
+    "County": "NY,WESTCHESTER",
+    "DUNS": "013415849",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39542.097711,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1396100447200",
+                    "MaxOnsite": "01",
+                    "Pounds": 10.0,
+                    "Score": 0.001572,
+                    "SubmissionNumber": 1785500,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1396100447224",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 13.3749,
+                    "SubmissionNumber": 1785502,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100447236",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 14.4268,
+                    "SubmissionNumber": 1785503,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 27.803272,
+            "state_score_percentile": 29,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1397110517719",
+                    "MaxOnsite": "01",
+                    "Pounds": 10.0,
+                    "Score": 0.001585,
+                    "SubmissionNumber": 1867641,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1397110517733",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.4767,
+                    "SubmissionNumber": 1867643,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110517745",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.5365,
+                    "SubmissionNumber": 1867644,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.014785,
+            "state_score_percentile": 28,
+            "us_score_percentile": 22
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120741222",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.6463,
+                    "SubmissionNumber": 1956085,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1398120741234",
+                    "MaxOnsite": "01",
+                    "Pounds": 10.0,
+                    "Score": 0.001598,
+                    "SubmissionNumber": 1956086,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1398120741259",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 13.5784,
+                    "SubmissionNumber": 1956088,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.226298,
+            "state_score_percentile": 28,
+            "us_score_percentile": 22
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1399130675996",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.6801,
+                    "SubmissionNumber": 2046785,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130676000",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.756,
+                    "SubmissionNumber": 2046786,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1399130676012",
+                    "MaxOnsite": "01",
+                    "Pounds": 10.0,
+                    "Score": 0.00161,
+                    "SubmissionNumber": 2046787,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.43771,
+            "state_score_percentile": 29,
+            "us_score_percentile": 24
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1300140237722",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7819,
+                    "SubmissionNumber": 21380,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140237734",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8657,
+                    "SubmissionNumber": 21381,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1300140237746",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 21382,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.649224,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1301150175848",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7852,
+                    "SubmissionNumber": 110147,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150175851",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8693,
+                    "SubmissionNumber": 110148,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1301150175863",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 110149,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.656124,
+            "state_score_percentile": 37,
+            "us_score_percentile": 33
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1302200120638",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7885,
+                    "SubmissionNumber": 202820,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1302200120640",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 202821,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200120665",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8728,
+                    "SubmissionNumber": 202823,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.662924,
+            "state_score_percentile": 40,
+            "us_score_percentile": 34
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1303201699788",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 345827,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1303201699790",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7918,
+                    "SubmissionNumber": 345828,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201699802",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8764,
+                    "SubmissionNumber": 345829,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.669824,
+            "state_score_percentile": 44,
+            "us_score_percentile": 35
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1304203036037",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 464837,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1304203036114",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7951,
+                    "SubmissionNumber": 464843,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304203036241",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8799,
+                    "SubmissionNumber": 464853,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.676623999999997,
+            "state_score_percentile": 44,
+            "us_score_percentile": 37
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1305203309962",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.7984,
+                    "SubmissionNumber": 489892,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1305203309974",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.001624,
+                    "SubmissionNumber": 489893,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1305203309986",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8835,
+                    "SubmissionNumber": 489894,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.683524,
+            "state_score_percentile": 43,
+            "us_score_percentile": 38
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1306204323024",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.8017,
+                    "SubmissionNumber": 581746,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1306204323036",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.0016250000000000001,
+                    "SubmissionNumber": 581747,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1306204323048",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.887,
+                    "SubmissionNumber": 581748,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.690325,
+            "state_score_percentile": 46,
+            "us_score_percentile": 39
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1307205311537",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.805,
+                    "SubmissionNumber": 669332,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1307205311549",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.0016250000000000001,
+                    "SubmissionNumber": 669333,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205311552",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8906,
+                    "SubmissionNumber": 669334,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.697225,
+            "state_score_percentile": 45,
+            "us_score_percentile": 40
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1308207001417",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.8083,
+                    "SubmissionNumber": 820248,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1308207001429",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.0016250000000000001,
+                    "SubmissionNumber": 820249,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308207001431",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8941,
+                    "SubmissionNumber": 820250,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.704025,
+            "state_score_percentile": 50,
+            "us_score_percentile": 41
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1309207258803",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.8116,
+                    "SubmissionNumber": 840966,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1309207258815",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.0016250000000000001,
+                    "SubmissionNumber": 840967,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207258827",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.8977,
+                    "SubmissionNumber": 840968,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.710925000000003,
+            "state_score_percentile": 52,
+            "us_score_percentile": 44
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664393",
+                    "Chemical": "Hydrogen fluoride",
+                    "ChemicalNumber": 333,
+                    "DCN": "1310208309702",
+                    "MaxOnsite": "02",
+                    "Pounds": 250.0,
+                    "Score": 13.8149,
+                    "SubmissionNumber": 935023,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N511",
+                    "Chemical": "Nitrate compounds",
+                    "ChemicalNumber": 409,
+                    "DCN": "1310208309714",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.0016250000000000001,
+                    "SubmissionNumber": 935024,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208309726",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 14.9012,
+                    "SubmissionNumber": 935025,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 28.717725,
+            "state_score_percentile": 51,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "36119",
+    "FRSID": "110011785693",
+    "FacilityID": "10710LCTRN21GRA",
+    "FacilityNumber": 115791,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.974657,
+    "Longitude": -73.86794,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 138,
+            "us_pounds_pct": 23,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 145,
+            "us_pounds_pct": 24,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 145,
+            "us_pounds_pct": 26,
+            "us_score_pct": 51
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 138,
+            "us_pounds_pct": 26,
+            "us_score_pct": 49
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 140,
+            "us_pounds_pct": 26,
+            "us_score_pct": 47
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 154,
+            "us_pounds_pct": 36,
+            "us_score_pct": 55
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 137,
+            "us_pounds_pct": 30,
+            "us_score_pct": 57
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 124,
+            "us_pounds_pct": 31,
+            "us_score_pct": 58
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 123,
+            "us_pounds_pct": 32,
+            "us_score_pct": 57
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 120,
+            "us_pounds_pct": 31,
+            "us_score_pct": 55
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 126,
+            "us_pounds_pct": 32,
+            "us_score_pct": 54
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 118,
+            "us_pounds_pct": 27,
+            "us_score_pct": 51
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 115,
+            "us_pounds_pct": 28,
+            "us_score_pct": 47
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 110,
+            "us_pounds_pct": 28,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 106,
+            "us_pounds_pct": 23,
+            "us_score_pct": 52
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ELECTRONIC DEVICES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ELECTRONIC DEVICES INC",
+    "PreferredLat": 40.975,
+    "PreferredLong": 73.86833,
+    "PublicContactName": "RAYMOND SLEDZINSKI",
+    "PublicContactPhone": "9149654400",
+    "RCRANumber": "NYD013415849",
+    "RadialDistance": 2870062,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 136,
+            "us_pounds_pct": 25,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 142,
+            "us_pounds_pct": 27,
+            "us_score_pct": 53
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 142,
+            "us_pounds_pct": 27,
+            "us_score_pct": 51
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 137,
+            "us_pounds_pct": 27,
+            "us_score_pct": 49
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 140,
+            "us_pounds_pct": 26,
+            "us_score_pct": 47
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 80,
+            "us_count": 157,
+            "us_pounds_pct": 37,
+            "us_score_pct": 57
+        },
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 139,
+            "us_pounds_pct": 31,
+            "us_score_pct": 58
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 124,
+            "us_pounds_pct": 32,
+            "us_score_pct": 58
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 124,
+            "us_pounds_pct": 33,
+            "us_score_pct": 58
+        },
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 122,
+            "us_pounds_pct": 32,
+            "us_score_pct": 54
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 128,
+            "us_pounds_pct": 35,
+            "us_score_pct": 55
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 121,
+            "us_pounds_pct": 29,
+            "us_score_pct": 52
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 121,
+            "us_pounds_pct": 33,
+            "us_score_pct": 51
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 114,
+            "us_pounds_pct": 30,
+            "us_score_pct": 52
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 110,
+            "us_pounds_pct": 25,
+            "us_score_pct": 55
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.893,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.5256,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 11.1346,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "21 GRAY OAKS AVE",
+    "SubmitLat": 40.975,
+    "SubmitLong": 73.86833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2260,
+    "Y": 2729,
+    "ZIP9": "10710",
+    "ZIPCode": "10710"
+}

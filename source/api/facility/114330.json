@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLAINFIELD",
+    "County": "NJ,UNION",
+    "DUNS": "927977256",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26335.223493,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100286246",
+                    "MaxOnsite": "03",
+                    "Pounds": 13700.0,
+                    "Score": 2.485032,
+                    "SubmissionNumber": 1772728,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1396100286259",
+                    "MaxOnsite": "03",
+                    "Pounds": 11300.0,
+                    "Score": 14.64902,
+                    "SubmissionNumber": 1772729,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 25000.0,
+            "TotalScore": 17.134052,
+            "state_score_percentile": 80,
+            "us_score_percentile": 67
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110166752",
+                    "MaxOnsite": "03",
+                    "Pounds": 17692.0,
+                    "Score": 3.253038,
+                    "SubmissionNumber": 1838534,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1397110166764",
+                    "MaxOnsite": "03",
+                    "Pounds": 14533.0,
+                    "Score": 19.095370000000003,
+                    "SubmissionNumber": 1838535,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 32225.0,
+            "TotalScore": 22.348408000000003,
+            "state_score_percentile": 82,
+            "us_score_percentile": 72
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110002360310",
+    "FacilityID": "07063THCNT1355W",
+    "FacilityNumber": 114330,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.600148,
+    "Longitude": -74.450295,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 35,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 51,
+            "us_score_pct": 39
+        },
+        "naicscode": "337214",
+        "name": "Office Furniture (except Wood) Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3372",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CENTERCORE GROUP INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "837618404",
+    "ParentName": "APOLLO GROUP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BOB DESANTIS",
+    "PublicContactPhone": "9085617662",
+    "RCRANumber": "NJ0000660365",
+    "RadialDistance": 2805884,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 36,
+            "us_score_pct": 36
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 52,
+            "us_score_pct": 38
+        },
+        "name": "Office furniture, except wood",
+        "siccode": "2522"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "252",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.7315,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1559,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1355 W. FRONT ST.",
+    "SubmitLat": 40.59806,
+    "SubmitLong": 74.4525,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2213,
+    "Y": 2665,
+    "ZIP9": "07063",
+    "ZIPCode": "07063"
+}

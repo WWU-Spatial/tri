@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ORANGE",
+    "County": "NJ,ESSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9731.133053,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1397110251648",
+                    "MaxOnsite": "03",
+                    "Pounds": 440.0,
+                    "Score": 1.84068,
+                    "SubmissionNumber": 1845892,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 440.0,
+            "TotalScore": 1.84068,
+            "state_score_percentile": 21,
+            "us_score_percentile": 19
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71363",
+                    "Chemical": "n-Butyl alcohol",
+                    "ChemicalNumber": 84,
+                    "DCN": "1398120478298",
+                    "MaxOnsite": "03",
+                    "Pounds": 874.0,
+                    "Score": 3.68064,
+                    "SubmissionNumber": 1937094,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 874.0,
+            "TotalScore": 3.68064,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000318629",
+    "FacilityID": "07051HRSMN377CR",
+    "FacilityNumber": 114286,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.771307,
+    "Longitude": -74.234091,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 11,
+            "state_score_pct": 16,
+            "us_count": 139,
+            "us_pounds_pct": 17,
+            "us_score_pct": 33
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 18,
+            "state_score_pct": 37,
+            "us_count": 137,
+            "us_pounds_pct": 23,
+            "us_score_pct": 42
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "H REISMAN CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL K. REUBEN",
+    "PublicContactPhone": "9736779200",
+    "RCRANumber": "NJD052789823",
+    "RadialDistance": 2831914,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 11,
+            "state_score_pct": 16,
+            "us_count": 136,
+            "us_pounds_pct": 17,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 16,
+            "state_pounds_pct": 25,
+            "state_score_pct": 37,
+            "us_count": 135,
+            "us_pounds_pct": 23,
+            "us_score_pct": 40
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "377 CRANE ST",
+    "SubmitLat": 40.77083,
+    "SubmitLong": 74.23333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2230,
+    "Y": 2693,
+    "ZIP9": "07051",
+    "ZIPCode": "07051"
+}

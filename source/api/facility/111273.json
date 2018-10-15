@@ -1,0 +1,213 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "LOWELL",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 37385.791719,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1300145131379",
+                    "MaxOnsite": "04",
+                    "Pounds": 1925.0,
+                    "Score": 0.67318,
+                    "SubmissionNumber": 83373,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1925.0,
+            "TotalScore": 0.67318,
+            "state_score_percentile": 51,
+            "us_score_percentile": 38
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207854581",
+                    "MaxOnsite": "04",
+                    "Pounds": 5293.0,
+                    "Score": 14.202810000000001,
+                    "SubmissionNumber": 896319,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 5293.0,
+            "TotalScore": 14.202810000000001,
+            "state_score_percentile": 82,
+            "us_score_percentile": 66
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208475715",
+                    "MaxOnsite": "04",
+                    "Pounds": 4354.0,
+                    "Score": 11.91133,
+                    "SubmissionNumber": 949873,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 4354.0,
+            "TotalScore": 11.91133,
+            "state_score_percentile": 79,
+            "us_score_percentile": 63
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110001959195",
+    "FacilityID": "01852LWLLP2TANN",
+    "FacilityNumber": 111273,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.63242,
+    "Longitude": -71.31343,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 17,
+            "state_pounds_pct": 29,
+            "state_score_pct": 11,
+            "us_count": 623,
+            "us_pounds_pct": 11,
+            "us_score_pct": 3
+        },
+        "2009": {
+            "state_count": 14,
+            "state_pounds_pct": 42,
+            "state_score_pct": 35,
+            "us_count": 614,
+            "us_pounds_pct": 17,
+            "us_score_pct": 20
+        },
+        "2010": {
+            "state_count": 12,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 602,
+            "us_pounds_pct": 15,
+            "us_score_pct": 17
+        },
+        "naicscode": "221112",
+        "name": "Fossil Fuel Electric Power Generation"
+    },
+    "NAICSCode3Digit": "221",
+    "NAICSCode4Digit": "2211",
+    "NAICSCodeSame3Digit": "221",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0033201",
+    "Name": "MONTGOMERY L'ENERGIA POWER PARTNERS LP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DOUGLAS F. MCGRATH",
+    "PublicContactPhone": "9784465095",
+    "RCRANumber": "MAD985289966",
+    "RadialDistance": 3149772,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 52,
+            "us_pounds_pct": 13,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 29,
+            "us_score_pct": 33
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 27,
+            "us_score_pct": 27
+        },
+        "name": "Electric and other services combined",
+        "siccode": "4931"
+    },
+    "SIC2": {
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 7,
+            "us_pounds_pct": 57,
+            "us_score_pct": 28
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 50,
+            "us_score_pct": 50
+        },
+        "name": "",
+        "siccode": "4961"
+    },
+    "SICCode2Digit": "49",
+    "SICCode3Digit": "493",
+    "SICCodeSame2Digit": "49",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 1.1096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 15.0277,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 13.9746,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "2 TANNER ST",
+    "SubmitLat": 42.63472,
+    "SubmitLong": 71.31333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2457,
+    "Y": 3014,
+    "ZIP9": "01852",
+    "ZIPCode": "01852"
+}

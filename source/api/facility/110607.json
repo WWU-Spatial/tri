@@ -1,0 +1,565 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PALMER",
+    "County": "MA,HAMPDEN",
+    "DUNS": "001437136",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39468.730588,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200876249",
+                    "MaxOnsite": "03",
+                    "Pounds": 30.0,
+                    "Score": 0.369413,
+                    "SubmissionNumber": 271429,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 0.369413,
+            "state_score_percentile": 31,
+            "us_score_percentile": 19
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201259203",
+                    "MaxOnsite": "03",
+                    "Pounds": 148.0,
+                    "Score": 1.714178,
+                    "SubmissionNumber": 305615,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 148.0,
+            "TotalScore": 1.714178,
+            "state_score_percentile": 41,
+            "us_score_percentile": 26
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304202628881",
+                    "MaxOnsite": "03",
+                    "Pounds": 132.0,
+                    "Score": 1.532915,
+                    "SubmissionNumber": 429025,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 132.0,
+            "TotalScore": 1.532915,
+            "state_score_percentile": 42,
+            "us_score_percentile": 27
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1305203317779",
+                    "MaxOnsite": "03",
+                    "Pounds": 192.0,
+                    "Score": 2.235595,
+                    "SubmissionNumber": 490613,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 192.0,
+            "TotalScore": 2.235595,
+            "state_score_percentile": 46,
+            "us_score_percentile": 30
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1306204470645",
+                    "MaxOnsite": "03",
+                    "Pounds": 247.0,
+                    "Score": 2.884377,
+                    "SubmissionNumber": 595568,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 247.0,
+            "TotalScore": 2.884377,
+            "state_score_percentile": 47,
+            "us_score_percentile": 32
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1307205646300",
+                    "MaxOnsite": "03",
+                    "Pounds": 145.0,
+                    "Score": 1.58124,
+                    "SubmissionNumber": 700335,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 145.0,
+            "TotalScore": 1.58124,
+            "state_score_percentile": 40,
+            "us_score_percentile": 30
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208129231",
+                    "MaxOnsite": "04",
+                    "Pounds": 241.0,
+                    "Score": 3.08586,
+                    "SubmissionNumber": 917835,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 241.0,
+            "TotalScore": 3.08586,
+            "state_score_percentile": 45,
+            "us_score_percentile": 36
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110001956811",
+    "FacilityID": "01069PRFLS7FIRS",
+    "FacilityNumber": 110607,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.15699,
+    "Longitude": -72.311799,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 75,
+            "us_pounds_pct": 25,
+            "us_score_pct": 10
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 75,
+            "us_pounds_pct": 32,
+            "us_score_pct": 24
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 70,
+            "us_pounds_pct": 37,
+            "us_score_pct": 24
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 65,
+            "us_pounds_pct": 30,
+            "us_score_pct": 23
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 66,
+            "us_pounds_pct": 33,
+            "us_score_pct": 24
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 63,
+            "us_pounds_pct": 34,
+            "us_score_pct": 17
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 40,
+            "us_score_pct": 30
+        },
+        "naicscode": "331421",
+        "name": "Copper Rolling, Drawing, and Extruding"
+    },
+    "NAICS2": {
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 55,
+            "us_pounds_pct": 61,
+            "us_score_pct": 23
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 51,
+            "us_pounds_pct": 64,
+            "us_score_pct": 37
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 52,
+            "us_pounds_pct": 73,
+            "us_score_pct": 36
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 54,
+            "us_pounds_pct": 75,
+            "us_score_pct": 48
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 52,
+            "us_pounds_pct": 75,
+            "us_score_pct": 55
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 53,
+            "us_pounds_pct": 71,
+            "us_score_pct": 49
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 73,
+            "us_score_pct": 55
+        },
+        "naicscode": "336322",
+        "name": "Other Motor Vehicle Electrical and Electronic Equipment Manufacturing"
+    },
+    "NAICS3": {
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 249,
+            "us_pounds_pct": 23,
+            "us_score_pct": 12
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 248,
+            "us_pounds_pct": 32,
+            "us_score_pct": 20
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 256,
+            "us_pounds_pct": 38,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 246,
+            "us_pounds_pct": 42,
+            "us_score_pct": 21
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 246,
+            "us_pounds_pct": 43,
+            "us_score_pct": 27
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 218,
+            "us_pounds_pct": 39,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 178,
+            "us_pounds_pct": 46,
+            "us_score_pct": 28
+        },
+        "naicscode": "336399",
+        "name": "All Other Motor Vehicle Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PROFILES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "THOMAS ALLARD",
+    "PublicContactPhone": "4132837790",
+    "RCRANumber": "MAR000500967",
+    "RadialDistance": 3052483,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 547,
+            "us_pounds_pct": 26,
+            "us_score_pct": 15
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 523,
+            "us_pounds_pct": 35,
+            "us_score_pct": 21
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 531,
+            "us_pounds_pct": 38,
+            "us_score_pct": 20
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 506,
+            "us_pounds_pct": 41,
+            "us_score_pct": 23
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 473,
+            "us_pounds_pct": 44,
+            "us_score_pct": 25
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 425,
+            "us_pounds_pct": 41,
+            "us_score_pct": 23
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 338,
+            "us_pounds_pct": 45,
+            "us_score_pct": 26
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SIC2": {
+        "2002": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 69,
+            "us_pounds_pct": 21,
+            "us_score_pct": 11
+        },
+        "2003": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 64,
+            "us_pounds_pct": 26,
+            "us_score_pct": 18
+        },
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 62,
+            "us_pounds_pct": 29,
+            "us_score_pct": 19
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 62,
+            "us_pounds_pct": 29,
+            "us_score_pct": 25
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 62,
+            "us_pounds_pct": 32,
+            "us_score_pct": 25
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 58,
+            "us_pounds_pct": 34,
+            "us_score_pct": 22
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 48,
+            "us_pounds_pct": 37,
+            "us_score_pct": 33
+        },
+        "name": "Rolling, drawing, and extruding of copper",
+        "siccode": "3351"
+    },
+    "SIC3": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 63,
+            "us_pounds_pct": 29,
+            "us_score_pct": 12
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 37,
+            "us_score_pct": 20
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 37,
+            "us_score_pct": 27
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 41,
+            "us_score_pct": 30
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 53,
+            "us_pounds_pct": 45,
+            "us_score_pct": 30
+        },
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 46,
+            "us_score_pct": 27
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 51,
+            "us_score_pct": 18
+        },
+        "name": "Miscellaneous fabricated wire products",
+        "siccode": "3496"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "7 FIRST ST",
+    "SubmitLat": 42.24444,
+    "SubmitLong": 72.27111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2376,
+    "Y": 2925,
+    "ZIP9": "01069",
+    "ZIPCode": "01069"
+}

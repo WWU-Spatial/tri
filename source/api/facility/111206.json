@@ -1,0 +1,328 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GROVELAND",
+    "County": "MA,ESSEX",
+    "DUNS": "001014562",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 41199.429472,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396105129668",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 322.62199999999996,
+                    "SubmissionNumber": 1799261,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 322.62199999999996,
+            "state_score_percentile": 23,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1397115100822",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 325.032,
+                    "SubmissionNumber": 1881577,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 325.032,
+            "state_score_percentile": 23,
+            "us_score_percentile": 21
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1399135108518",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 329.849,
+                    "SubmissionNumber": 2064512,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 329.849,
+            "state_score_percentile": 28,
+            "us_score_percentile": 22
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300145062509",
+                    "MaxOnsite": "04",
+                    "Pounds": 3274.0,
+                    "Score": 3.35971,
+                    "SubmissionNumber": 79833,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 3274.0,
+            "TotalScore": 3.35971,
+            "state_score_percentile": 56,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "25009",
+    "FRSID": "110000762853",
+    "FacilityID": "01834WCHST860SA",
+    "FacilityNumber": 111206,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.737765,
+    "Longitude": -71.032505,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 41,
+            "us_pounds_pct": 14,
+            "us_score_pct": 75
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 23,
+            "us_score_pct": 75
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 24,
+            "us_score_pct": 80
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 41,
+            "us_pounds_pct": 41,
+            "us_score_pct": 56
+        },
+        "naicscode": "339991",
+        "name": "Gasket, Packing, and Sealing Device Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 442,
+            "us_pounds_pct": 8,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 444,
+            "us_pounds_pct": 7,
+            "us_score_pct": 38
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 455,
+            "us_pounds_pct": 8,
+            "us_score_pct": 43
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 470,
+            "us_pounds_pct": 30,
+            "us_score_pct": 16
+        },
+        "naicscode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AW CHESTERTON CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.7378,
+    "PreferredLong": 71.0319,
+    "PublicContactName": "BRIAN O'DONNELL",
+    "PublicContactPhone": "9784696641",
+    "RCRANumber": "MAD053459673",
+    "RadialDistance": 3175218,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 57,
+            "us_count": 620,
+            "us_pounds_pct": 8,
+            "us_score_pct": 37
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 616,
+            "us_pounds_pct": 7,
+            "us_score_pct": 38
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 623,
+            "us_pounds_pct": 8,
+            "us_score_pct": 40
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 637,
+            "us_pounds_pct": 27,
+            "us_score_pct": 16
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 43,
+            "us_pounds_pct": 23,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 27,
+            "us_score_pct": 78
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 23,
+            "us_score_pct": 86
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 47,
+            "us_score_pct": 67
+        },
+        "name": "Gaskets, packing, and sealing devices",
+        "siccode": "3053"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 31,
+            "us_score_pct": 75
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 42,
+            "us_score_pct": 63
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 43,
+            "us_score_pct": 62
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 64,
+            "us_score_pct": 50
+        },
+        "name": "Air and gas compressors",
+        "siccode": "3563"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.144,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.62,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "860 SALEM ST",
+    "SubmitLat": 42.03417,
+    "SubmitLong": 71.73889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2480,
+    "Y": 3036,
+    "ZIP9": "01834",
+    "ZIPCode": "01834"
+}

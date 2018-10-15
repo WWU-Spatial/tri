@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWINGTON",
+    "County": "CT,HARTFORD",
+    "DUNS": "038003088",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 25696.66895,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105040024",
+                    "MaxOnsite": "03",
+                    "Pounds": 10890.0,
+                    "Score": 1.085672,
+                    "SubmissionNumber": 1793285,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10890.0,
+            "TotalScore": 1.085672,
+            "state_score_percentile": 57,
+            "us_score_percentile": 52
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115111977",
+                    "MaxOnsite": "03",
+                    "Pounds": 7260.0,
+                    "Score": 1.22186,
+                    "SubmissionNumber": 1882343,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7260.0,
+            "TotalScore": 1.22186,
+            "state_score_percentile": 52,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110021031462",
+    "FacilityID": "06111FNNMFFENNR",
+    "FacilityNumber": 113366,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.707093,
+    "Longitude": -72.749327,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 11,
+            "us_pounds_pct": 72,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 10,
+            "us_pounds_pct": 50,
+            "us_score_pct": 20
+        },
+        "naicscode": "333513",
+        "name": "Machine Tool (Metal Forming Types) Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3335",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "SP0001345",
+    "Name": "FENN MANUFACTURING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "038003088",
+    "ParentName": "UNITED DOMINION INDUSTRIES INC",
+    "PreferredLat": 41.70583,
+    "PreferredLong": 72.74667,
+    "PublicContactName": "JOSEPH ROBILLARD",
+    "PublicContactPhone": "8605944311",
+    "RCRANumber": "CTD043029644",
+    "RadialDistance": 2993553,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 37,
+            "us_count": 105,
+            "us_pounds_pct": 42,
+            "us_score_pct": 22
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 57,
+            "us_count": 102,
+            "us_pounds_pct": 37,
+            "us_score_pct": 29
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.8626,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.668,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.7419,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "300 FENN RD.",
+    "SubmitLat": 41.70583,
+    "SubmitLong": 72.74667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2348,
+    "Y": 2854,
+    "ZIP9": "06111",
+    "ZIPCode": "06111"
+}

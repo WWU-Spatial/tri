@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 22288035,
+    "AssignedReach": "02020003000122",
+    "City": "GREENWICH",
+    "County": "NY,WASHINGTON",
+    "DUNS": "001006360",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 47447.5978,
+    "DistanceToReach": 22.230474,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105084848",
+                    "MaxOnsite": "03",
+                    "Pounds": 20550.0,
+                    "Score": 0.076726,
+                    "SubmissionNumber": 1796213,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20550.0,
+            "TotalScore": 0.076726,
+            "state_score_percentile": 75,
+            "us_score_percentile": 64
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115103576",
+                    "MaxOnsite": "03",
+                    "Pounds": 20918.0,
+                    "Score": 0.078355,
+                    "SubmissionNumber": 1881818,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20918.0,
+            "TotalScore": 0.078355,
+            "state_score_percentile": 75,
+            "us_score_percentile": 65
+        }
+    },
+    "FIPS": "36115",
+    "FRSID": "110019201549",
+    "FacilityID": "12834HLLNGROUTE",
+    "FacilityNumber": 116518,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.096972,
+    "Longitude": -73.460139,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 152,
+            "us_pounds_pct": 22,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 12,
+            "us_count": 143,
+            "us_pounds_pct": 13,
+            "us_score_pct": 1
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "GREENWICH MILL",
+    "NearComID": 22288035,
+    "NearReach": "02020003000122",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.0949,
+    "PreferredLong": 73.4618,
+    "PublicContactName": "DINO ROSATI",
+    "PublicContactPhone": "5186958134",
+    "RCRANumber": "NYD990763443",
+    "RadialDistance": 3044135,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 10,
+            "us_count": 184,
+            "us_pounds_pct": 20,
+            "us_score_pct": 1
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 11,
+            "us_count": 174,
+            "us_pounds_pct": 13,
+            "us_score_pct": 1
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9007,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 20.2692,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.3913,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "2322 STATE RD RT 29",
+    "SubmitLat": 43.09528,
+    "SubmitLong": 73.45833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2232,
+    "Y": 3023,
+    "ZIP9": "12834",
+    "ZIPCode": "12834"
+}

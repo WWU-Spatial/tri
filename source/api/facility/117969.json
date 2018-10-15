@@ -1,0 +1,218 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BERLIN",
+    "County": "PA,SOMERSET",
+    "DUNS": "016089138",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 126453.980898,
+    "DistanceToReach": 497.074167,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150304741",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.13,
+                    "Score": 0.009058,
+                    "SubmissionNumber": 121721,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150304766",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.0047,
+                    "Score": 0.000218,
+                    "SubmissionNumber": 121723,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.13470000000000001,
+            "TotalScore": 0.009276,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200396075",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.1,
+                    "Score": 0.006944,
+                    "SubmissionNumber": 228389,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200396087",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.0037,
+                    "Score": 0.000171,
+                    "SubmissionNumber": 228390,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1037,
+            "TotalScore": 0.007115,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201532951",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.31,
+                    "Score": 0.021455,
+                    "SubmissionNumber": 330624,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1303201532963",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.011,
+                    "Score": 0.000508,
+                    "SubmissionNumber": 330625,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.321,
+            "TotalScore": 0.021963,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110012708542",
+    "FacilityID": "15530PBSCL585WA",
+    "FacilityNumber": 117969,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.877304,
+    "Longitude": -78.970101,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 42,
+            "us_pounds_pct": 7,
+            "us_score_pct": 23
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 40,
+            "us_pounds_pct": 10,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 42,
+            "us_pounds_pct": 21,
+            "us_score_pct": 21
+        },
+        "naicscode": "212111",
+        "name": "Bituminous Coal and Lignite Surface Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "PA0598666",
+    "Name": "PBS COALS STRIP COMPLEX (JOB 220)",
+    "NearComID": 3806607,
+    "NearReach": "05020006001245",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "PBS COALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RAYMOND MCGRAW",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "PA0598666",
+    "RadialDistance": 2463864,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 47,
+            "us_pounds_pct": 6,
+            "us_score_pct": 21
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 44,
+            "us_pounds_pct": 9,
+            "us_score_pct": 18
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 40,
+            "us_count": 46,
+            "us_pounds_pct": 19,
+            "us_score_pct": 19
+        },
+        "name": "Bituminous coal and lignite surface mining",
+        "siccode": "1221"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "585 WALKER SCHOOL RD",
+    "SubmitLat": 39.86917,
+    "SubmitLong": 78.9775,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1773,
+    "Y": 2472,
+    "ZIP9": "15530",
+    "ZIPCode": "15530"
+}

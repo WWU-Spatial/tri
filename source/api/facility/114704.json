@@ -1,0 +1,150 @@
+{
+    "AssignedComID": 6249966,
+    "AssignedReach": "02030103000588",
+    "City": "WEST PATERSON",
+    "County": "NJ,PASSAIC",
+    "DUNS": "195156500",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 21504.198515,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100367869",
+                    "MaxOnsite": "03",
+                    "Pounds": 4110.0,
+                    "Score": 0.7671049999999999,
+                    "SubmissionNumber": 1779298,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4110.0,
+            "TotalScore": 0.7671049999999999,
+            "state_score_percentile": 53,
+            "us_score_percentile": 41
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1717006",
+                    "Chemical": "1,1-Dichloro-1-fluoroethane",
+                    "ChemicalNumber": 212,
+                    "DCN": "1397110364787",
+                    "MaxOnsite": "03",
+                    "Pounds": 5870.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1855861,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5870.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 57,
+            "us_score_percentile": 44
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110000615647",
+    "FacilityID": "07424KRFTT1150M",
+    "FacilityNumber": 114704,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.890278,
+    "Longitude": -74.213611,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 30,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 71,
+            "us_score_pct": 7
+        },
+        "naicscode": "334511",
+        "name": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0021270",
+    "Name": "KEARFOTT GUIDANCE & NAVIGATION CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "006095921",
+    "ParentName": "ASTRONAUTICS CORP OF AMERICA",
+    "PreferredLat": 40.89163,
+    "PreferredLong": 74.21336,
+    "PublicContactName": "BLAISE A. RUSSO",
+    "PublicContactPhone": "9737856110",
+    "RCRANumber": "NJD002148484",
+    "RadialDistance": 2841357,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 29,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 61,
+            "us_score_pct": 7
+        },
+        "name": "Search, detection, navigation, guidance, aeronautical, and nautical systems and instruments",
+        "siccode": "3812"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "381",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.0015,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1150 MCBRIDE AVE.",
+    "SubmitLat": 43.89194,
+    "SubmitLong": 74.21556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2228,
+    "Y": 2709,
+    "ZIP9": "074240000",
+    "ZIPCode": "07424"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELMWOOD PARK",
+    "County": "NJ,BERGEN",
+    "DUNS": "198415242",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22724.132209,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1396105309963",
+                    "MaxOnsite": "03",
+                    "Pounds": 592.0,
+                    "Score": 13.074770000000001,
+                    "SubmissionNumber": 1810641,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 592.0,
+            "TotalScore": 13.074770000000001,
+            "state_score_percentile": 28,
+            "us_score_percentile": 24
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1397115203655",
+                    "MaxOnsite": "03",
+                    "Pounds": 1063.0,
+                    "Score": 23.643,
+                    "SubmissionNumber": 1886666,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1063.0,
+            "TotalScore": 23.643,
+            "state_score_percentile": 34,
+            "us_score_percentile": 29
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75058",
+                    "Chemical": "Acetonitrile",
+                    "ChemicalNumber": 5,
+                    "DCN": "1398125234866",
+                    "MaxOnsite": "03",
+                    "Pounds": 990.0,
+                    "Score": 22.17943,
+                    "SubmissionNumber": 1978213,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 990.0,
+            "TotalScore": 22.17943,
+            "state_score_percentile": 32,
+            "us_score_percentile": 27
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000581870",
+    "FacilityID": "07407PWRCN495BO",
+    "FacilityNumber": 114682,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.900856,
+    "Longitude": -74.116223,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 35,
+            "us_pounds_pct": 51,
+            "us_score_pct": 22
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 34,
+            "us_pounds_pct": 64,
+            "us_score_pct": 23
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 33,
+            "us_pounds_pct": 72,
+            "us_score_pct": 21
+        },
+        "naicscode": "335912",
+        "name": "Primary Battery Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0061531",
+    "Name": "POWER CONVERSION INC. (HAWKER ETERNACELL)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "INVENSYS",
+    "PreferredLat": 40.90139,
+    "PreferredLong": 74.11528,
+    "PublicContactName": "MARK SCHIMPF",
+    "PublicContactPhone": "2017964800",
+    "RCRANumber": "NJD054060884",
+    "RadialDistance": 2848544,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 50,
+            "us_score_pct": 33
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 54,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 68,
+            "us_score_pct": 31
+        },
+        "name": "Primary batteries, dry and wet",
+        "siccode": "3692"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "369",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7904,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "495 BLVD.",
+    "SubmitLat": 40.90139,
+    "SubmitLong": 74.11528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2238,
+    "Y": 2713,
+    "ZIP9": "07407",
+    "ZIPCode": "07407"
+}

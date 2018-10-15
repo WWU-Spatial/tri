@@ -1,0 +1,255 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BUDD LAKE",
+    "County": "NJ,MORRIS",
+    "DUNS": "884700329",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 52937.448997,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1300145092678",
+                    "MaxOnsite": "04",
+                    "Pounds": 45.0,
+                    "Score": 0.331159,
+                    "SubmissionNumber": 81407,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 45.0,
+            "TotalScore": 0.331159,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1301150134409",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 1.654954,
+                    "SubmissionNumber": 106324,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 255.0,
+            "TotalScore": 1.654954,
+            "state_score_percentile": 29,
+            "us_score_percentile": 27
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1302200187146",
+                    "MaxOnsite": "06",
+                    "Pounds": 526.0,
+                    "Score": 3.5995999999999997,
+                    "SubmissionNumber": 208930,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 526.0,
+            "TotalScore": 3.5995999999999997,
+            "state_score_percentile": 38,
+            "us_score_percentile": 35
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1303201465453",
+                    "MaxOnsite": "05",
+                    "Pounds": 208.0,
+                    "Score": 1.417481,
+                    "SubmissionNumber": 324648,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 208.0,
+            "TotalScore": 1.417481,
+            "state_score_percentile": 30,
+            "us_score_percentile": 27
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1304202337135",
+                    "MaxOnsite": "05",
+                    "Pounds": 216.0,
+                    "Score": 1.4721549999999999,
+                    "SubmissionNumber": 402022,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 216.0,
+            "TotalScore": 1.4721549999999999,
+            "state_score_percentile": 34,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "34027",
+    "FRSID": "110007032692",
+    "FacilityID": "07828GVDNF300WA",
+    "FacilityNumber": 114976,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.906821,
+    "Longitude": -74.733961,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 31,
+            "us_pounds_pct": 22,
+            "us_score_pct": 35
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 27,
+            "us_pounds_pct": 44,
+            "us_score_pct": 48
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 80,
+            "us_count": 24,
+            "us_pounds_pct": 62,
+            "us_score_pct": 45
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 27,
+            "us_pounds_pct": 37,
+            "us_score_pct": 33
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 27,
+            "us_pounds_pct": 33,
+            "us_score_pct": 29
+        },
+        "naicscode": "325620",
+        "name": "Toilet Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GIVAUDAN FRAGRANCES CORP - MOUNT OLIVE SITE",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "007804680",
+    "ParentName": "GIVAUDAN US INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN TROMBLEY",
+    "PublicContactPhone": "9734486510",
+    "RCRANumber": "NJR000025163",
+    "RadialDistance": 2808169,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 36,
+            "us_score_pct": 41
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 30,
+            "us_pounds_pct": 51,
+            "us_score_pct": 53
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 26,
+            "us_pounds_pct": 61,
+            "us_score_pct": 50
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 29,
+            "us_pounds_pct": 44,
+            "us_score_pct": 44
+        },
+        "2004": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 40,
+            "us_score_pct": 43
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3645,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.7703,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 3.7098,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "300 WATERLOO VALLEY RD",
+    "SubmitLat": 40.90694,
+    "SubmitLong": 74.73194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2175,
+    "Y": 2699,
+    "ZIP9": "07828",
+    "ZIPCode": "07828"
+}

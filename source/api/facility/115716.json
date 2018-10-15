@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRONX",
+    "County": "NY,BRONX",
+    "DUNS": "001306547",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 31094.425812,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105041887",
+                    "MaxOnsite": "03",
+                    "Pounds": 29630.0,
+                    "Score": 18.208,
+                    "SubmissionNumber": 1793417,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 29630.0,
+            "TotalScore": 18.208,
+            "state_score_percentile": 79,
+            "us_score_percentile": 70
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115004588",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.0,
+                    "Score": 0.00249,
+                    "SubmissionNumber": 1875617,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 0.00249,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125008906",
+                    "MaxOnsite": "03",
+                    "Pounds": 8894.0,
+                    "Score": 5.60641,
+                    "SubmissionNumber": 1967860,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8894.0,
+            "TotalScore": 5.60641,
+            "state_score_percentile": 59,
+            "us_score_percentile": 50
+        }
+    },
+    "FIPS": "36005",
+    "FRSID": "110000322730",
+    "FacilityID": "10462NDSTR1160C",
+    "FacilityNumber": 115716,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.83314,
+    "Longitude": -73.84203,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 61,
+            "us_pounds_pct": 62,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 57,
+            "us_pounds_pct": 1,
+            "us_score_pct": 7
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 58,
+            "us_pounds_pct": 32,
+            "us_score_pct": 25
+        },
+        "naicscode": "332321",
+        "name": "Metal Window and Door Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "INDUSTRIAL ACOUSTICS CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.83139,
+    "PreferredLong": 73.84278,
+    "PublicContactName": "ROBERT A. LO PINTO, P.E.",
+    "PublicContactPhone": "5167912300",
+    "RCRANumber": "NYD001306547",
+    "RadialDistance": 2862285,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 68,
+            "us_score_pct": 24
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 3,
+            "us_score_pct": 1
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 36,
+            "us_score_pct": 17
+        },
+        "name": "Sheet metal work",
+        "siccode": "3444"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1160 COMMERCE AVE",
+    "SubmitLat": 40.83028,
+    "SubmitLong": 73.84722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2267,
+    "Y": 2710,
+    "ZIP9": "10462",
+    "ZIPCode": "10462"
+}

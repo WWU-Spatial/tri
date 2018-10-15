@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DRACUT",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "072134786",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38061.467304,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204907137",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.880091,
+                    "SubmissionNumber": 635490,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.880091,
+            "state_score_percentile": 19,
+            "us_score_percentile": 8
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205494242",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.880334,
+                    "SubmissionNumber": 686301,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 0.880334,
+            "state_score_percentile": 17,
+            "us_score_percentile": 8
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206648596",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.88,
+                    "Score": 0.774908,
+                    "SubmissionNumber": 787823,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.88,
+            "TotalScore": 0.774908,
+            "state_score_percentile": 14,
+            "us_score_percentile": 8
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110001950103",
+    "FacilityID": "01826BRXND1471M",
+    "FacilityNumber": 111191,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.6719,
+    "Longitude": -71.24476,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 9,
+            "us_count": 192,
+            "us_pounds_pct": 47,
+            "us_score_pct": 7
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 10,
+            "us_count": 221,
+            "us_pounds_pct": 42,
+            "us_score_pct": 8
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 219,
+            "us_pounds_pct": 39,
+            "us_score_pct": 7
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BROX INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "BROX INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ERIK STEVENSON",
+    "PublicContactPhone": "9788059744",
+    "RCRANumber": "MAD985267798",
+    "RadialDistance": 3156893,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 12,
+            "state_pounds_pct": 58,
+            "state_score_pct": 16,
+            "us_count": 198,
+            "us_pounds_pct": 46,
+            "us_score_pct": 7
+        },
+        "2007": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 10,
+            "us_count": 218,
+            "us_pounds_pct": 41,
+            "us_score_pct": 9
+        },
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 12,
+            "us_count": 213,
+            "us_pounds_pct": 38,
+            "us_score_pct": 8
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5373,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1409,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.3069,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "1471 METHUEN ST",
+    "SubmitLat": 42.67056,
+    "SubmitLong": 71.24444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2462,
+    "Y": 3021,
+    "ZIP9": "01826",
+    "ZIPCode": "01826"
+}

@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FORT EDWARD",
+    "County": "NY,WASHINGTON",
+    "DUNS": "611208497",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 60369.116716,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105211522",
+                    "MaxOnsite": "04",
+                    "Pounds": 43950.0,
+                    "Score": 0.967401,
+                    "SubmissionNumber": 1804673,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105211534",
+                    "MaxOnsite": "04",
+                    "Pounds": 25820.0,
+                    "Score": 0.569831,
+                    "SubmissionNumber": 1804674,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 69770.0,
+            "TotalScore": 1.537232,
+            "state_score_percentile": 88,
+            "us_score_percentile": 82
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125251963",
+                    "MaxOnsite": "04",
+                    "Pounds": 27734.0,
+                    "Score": 0.594351,
+                    "SubmissionNumber": 1978880,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125262840",
+                    "MaxOnsite": "04",
+                    "Pounds": 46070.0,
+                    "Score": 0.985386,
+                    "SubmissionNumber": 1979443,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 73804.0,
+            "TotalScore": 1.579737,
+            "state_score_percentile": 87,
+            "us_score_percentile": 82
+        }
+    },
+    "FIPS": "36115",
+    "FRSID": "110019669697",
+    "FacilityID": "12828NTDMR1MILL",
+    "FacilityNumber": 116512,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.27076,
+    "Longitude": -73.58831,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 60,
+            "state_score_pct": 30,
+            "us_count": 113,
+            "us_pounds_pct": 57,
+            "us_score_pct": 23
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 33,
+            "us_count": 109,
+            "us_pounds_pct": 61,
+            "us_score_pct": 29
+        },
+        "naicscode": "322222",
+        "name": "Coated and Laminated Paper Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "DECORA MANUFACTURING",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "103462438",
+    "ParentName": "DECORA INDUSTRIES INC",
+    "PreferredLat": 43.2705,
+    "PreferredLong": 73.5906,
+    "PublicContactName": "RON SMITH",
+    "PublicContactPhone": "5187470681",
+    "RCRANumber": "NYD002067932",
+    "RadialDistance": 3048750,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 27,
+            "us_count": 121,
+            "us_pounds_pct": 57,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 33,
+            "us_count": 116,
+            "us_pounds_pct": 60,
+            "us_score_pct": 27
+        },
+        "name": "Coated and laminated paper, n.e.c.",
+        "siccode": "2672"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1744,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.3224,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "1 MILL ST.",
+    "SubmitLat": 43.27056,
+    "SubmitLong": 73.59056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2214,
+    "Y": 3044,
+    "ZIP9": "12828",
+    "ZIPCode": "12828"
+}

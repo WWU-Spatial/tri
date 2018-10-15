@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "DANBURY",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "106359359",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 87718.82871,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1717006",
+                    "Chemical": "1,1-Dichloro-1-fluoroethane",
+                    "ChemicalNumber": 212,
+                    "DCN": "1396100381452",
+                    "MaxOnsite": "03",
+                    "Pounds": 38250.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1780316,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100381488",
+                    "MaxOnsite": "04",
+                    "Pounds": 255.0,
+                    "Score": 1.3029249999999999,
+                    "SubmissionNumber": 1780319,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 38505.0,
+            "TotalScore": 1.3029249999999999,
+            "state_score_percentile": 82,
+            "us_score_percentile": 74
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115266658",
+                    "MaxOnsite": "04",
+                    "Pounds": 16427.0,
+                    "Score": 14.0723,
+                    "SubmissionNumber": 1890058,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 16427.0,
+            "TotalScore": 14.0723,
+            "state_score_percentile": 68,
+            "us_score_percentile": 61
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398120634807",
+                    "MaxOnsite": "04",
+                    "Pounds": 20827.0,
+                    "Score": 18.1069,
+                    "SubmissionNumber": 1948786,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 20827.0,
+            "TotalScore": 18.1069,
+            "state_score_percentile": 73,
+            "us_score_percentile": 65
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110000317639",
+    "FacilityID": "06810MPHNL1KENN",
+    "FacilityNumber": 113981,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.39611,
+    "Longitude": -73.45768,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 95,
+            "us_score_pct": 21
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 23,
+            "us_pounds_pct": 91,
+            "us_score_pct": 30
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 90,
+            "us_score_pct": 38
+        },
+        "naicscode": "334417",
+        "name": "Electronic Connector Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AMPHENOL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.39694,
+    "PreferredLong": 73.45833,
+    "PublicContactName": "JOHN MATULA",
+    "PublicContactPhone": "2032658760",
+    "RCRANumber": "CTD981073364",
+    "RadialDistance": 2925747,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 95,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 21,
+            "us_pounds_pct": 90,
+            "us_score_pct": 33
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 90,
+            "us_score_pct": 45
+        },
+        "name": "Electronic connectors",
+        "siccode": "3678"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "1 KENNEDY AVE",
+    "SubmitLat": 41.3975,
+    "SubmitLong": 73.46111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2288,
+    "Y": 2795,
+    "ZIP9": "06810",
+    "ZIPCode": "06810"
+}

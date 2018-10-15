@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BINGHAMTON",
+    "County": "NY,BROOME",
+    "DUNS": "049880769",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 114272.11822,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206253938",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.3,
+                    "Score": 0.763507,
+                    "SubmissionNumber": 750835,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.763507,
+            "state_score_percentile": 10,
+            "us_score_percentile": 5
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207253446",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.3,
+                    "Score": 0.765039,
+                    "SubmissionNumber": 840459,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.765039,
+            "state_score_percentile": 10,
+            "us_score_percentile": 5
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208089565",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.3,
+                    "Score": 0.766571,
+                    "SubmissionNumber": 914252,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.766571,
+            "state_score_percentile": 10,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "36007",
+    "FRSID": "110004357865",
+    "FacilityID": "1390WSHLTR2CURT",
+    "FacilityNumber": 116953,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.100626,
+    "Longitude": -75.904223,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 61,
+            "us_pounds_pct": 22,
+            "us_score_pct": 36
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 52,
+            "us_pounds_pct": 25,
+            "us_score_pct": 40
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 50,
+            "us_pounds_pct": 22,
+            "us_score_pct": 38
+        },
+        "naicscode": "334419",
+        "name": "Other Electronic Component Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "SHELTERED WORKSHOP FOR THE DISABLED INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JEFF HURLBURT",
+    "PublicContactPhone": "6077222364",
+    "RCRANumber": "NYD049889769",
+    "RadialDistance": 2820769,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 33,
+            "us_count": 134,
+            "us_pounds_pct": 25,
+            "us_score_pct": 39
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 42,
+            "us_count": 118,
+            "us_pounds_pct": 26,
+            "us_score_pct": 44
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 37,
+            "us_count": 116,
+            "us_pounds_pct": 26,
+            "us_score_pct": 41
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "200 CT ST",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2023,
+    "Y": 2835,
+    "ZIP9": "13902",
+    "ZIPCode": "13902"
+}

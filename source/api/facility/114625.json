@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROSELLE",
+    "County": "NJ,UNION",
+    "DUNS": "048410070",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 10868.541244,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105220824",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 6.652810000000001,
+                    "SubmissionNumber": 1805303,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 6.652810000000001,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115119861",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 6.69969,
+                    "SubmissionNumber": 1882569,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 6.69969,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398125096053",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 6.74657,
+                    "SubmissionNumber": 1972092,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 6.74657,
+            "state_score_percentile": 25,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110000319753",
+    "FacilityID": "07203RNBND304CO",
+    "FacilityNumber": 114625,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.653892,
+    "Longitude": -74.280739,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 109,
+            "us_pounds_pct": 32,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 106,
+            "us_pounds_pct": 35,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 107,
+            "us_pounds_pct": 34,
+            "us_score_pct": 40
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "IRONBOUND HEAT TREATING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "METAL IMPROVEMENT CO LLC",
+    "PreferredLat": 40.65403,
+    "PreferredLong": 74.2813,
+    "PublicContactName": "ROBERT LOBELL",
+    "PublicContactPhone": "9082450717",
+    "RCRANumber": "NJD002172278",
+    "RadialDistance": 2820853,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 117,
+            "us_pounds_pct": 31,
+            "us_score_pct": 34
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 114,
+            "us_pounds_pct": 33,
+            "us_score_pct": 34
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 115,
+            "us_pounds_pct": 31,
+            "us_score_pct": 36
+        },
+        "name": "Metal heat treating",
+        "siccode": "3398"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "339",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.8334,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "304 COX ST",
+    "SubmitLat": 40.65417,
+    "SubmitLong": 74.28139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2229,
+    "Y": 2676,
+    "ZIP9": "07203",
+    "ZIPCode": "07203"
+}

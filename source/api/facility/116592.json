@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CORTLAND",
+    "County": "NY,CORTLAND",
+    "DUNS": "111359712",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57548.192955,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1308207959990",
+                    "MaxOnsite": "03",
+                    "Pounds": 1288.0,
+                    "Score": 6560.48,
+                    "SubmissionNumber": 830110,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1288.0,
+            "TotalScore": 6560.48,
+            "state_score_percentile": 58,
+            "us_score_percentile": 49
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1309207296233",
+                    "MaxOnsite": "03",
+                    "Pounds": 1288.0,
+                    "Score": 6584.0,
+                    "SubmissionNumber": 844412,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1288.0,
+            "TotalScore": 6584.0,
+            "state_score_percentile": 61,
+            "us_score_percentile": 52
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1310208120129",
+                    "MaxOnsite": "03",
+                    "Pounds": 1288.0,
+                    "Score": 6607.53,
+                    "SubmissionNumber": 916984,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1288.0,
+            "TotalScore": 6607.53,
+            "state_score_percentile": 61,
+            "us_score_percentile": 51
+        }
+    },
+    "FIPS": "36023",
+    "FRSID": "110002321407",
+    "FacilityID": "13045RBBRM106CE",
+    "FacilityNumber": 116592,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.600542,
+    "Longitude": -76.169545,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 73,
+            "us_score_pct": 92
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 94,
+            "us_pounds_pct": 72,
+            "us_score_pct": 95
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 93,
+            "us_pounds_pct": 76,
+            "us_score_pct": 94
+        },
+        "naicscode": "325611",
+        "name": "Soap and Other Detergent Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3256",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "MARIETTA HOLDING CORP DBA CENTRAL AVENUE PROPERTIES",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "608714882",
+    "ParentName": "MARIETTA HOLDING CORP",
+    "PreferredLat": 42.59167,
+    "PreferredLong": 76.175,
+    "PublicContactName": "JAMES E. MATTHEWS",
+    "PublicContactPhone": "6077536746",
+    "RCRANumber": "NYD057025777",
+    "RadialDistance": 2843023,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 11,
+            "state_pounds_pct": 36,
+            "state_score_pct": 100,
+            "us_count": 470,
+            "us_pounds_pct": 17,
+            "us_score_pct": 96
+        },
+        "2009": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 424,
+            "us_pounds_pct": 20,
+            "us_score_pct": 96
+        },
+        "2010": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 100,
+            "us_count": 413,
+            "us_pounds_pct": 20,
+            "us_score_pct": 95
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "106 CENTRAL AVE",
+    "SubmitLat": 42.59167,
+    "SubmitLong": 76.175,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1982,
+    "Y": 2897,
+    "ZIP9": "13045",
+    "ZIPCode": "13045"
+}

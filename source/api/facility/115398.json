@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TRENTON",
+    "County": "NJ,MERCER",
+    "DUNS": "002323806",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 59330.96191,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105065092",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 7.69859,
+                    "SubmissionNumber": 1795015,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396105065128",
+                    "MaxOnsite": "05",
+                    "Pounds": 5.0,
+                    "Score": 0.04277,
+                    "SubmissionNumber": 1795018,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 7.74136,
+            "state_score_percentile": 5,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397115010249",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 1.54586,
+                    "SubmissionNumber": 1876008,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397115010276",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 0.008588,
+                    "SubmissionNumber": 1876011,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 1.554448,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120325372",
+                    "MaxOnsite": "04",
+                    "Pounds": 1.0,
+                    "Score": 1.55199,
+                    "SubmissionNumber": 1925795,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1.0,
+            "TotalScore": 1.55199,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150724019",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.2,
+                    "Score": 0.315028,
+                    "SubmissionNumber": 158532,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.2,
+            "TotalScore": 0.315028,
+            "state_score_percentile": 2,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110000321777",
+    "FacilityID": "08638NSSCH1008W",
+    "FacilityNumber": 115398,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.258611,
+    "Longitude": -74.754108,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 169,
+            "us_pounds_pct": 7,
+            "us_score_pct": 54
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 2,
+            "us_score_pct": 32
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 149,
+            "us_pounds_pct": 1,
+            "us_score_pct": 32
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 160,
+            "us_pounds_pct": 1,
+            "us_score_pct": 19
+        },
+        "naicscode": "326299",
+        "name": "All Other Rubber Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3262",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RHEIN CHEMIE CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "145858770",
+    "ParentName": "LANXESS CORP",
+    "PreferredLat": 40.25833,
+    "PreferredLong": 74.75306,
+    "PublicContactName": "ROLAND VOGG",
+    "PublicContactPhone": "4402792362",
+    "RCRANumber": "NJD002502466",
+    "RadialDistance": 2762389,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 215,
+            "us_pounds_pct": 7,
+            "us_score_pct": 51
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 57,
+            "us_count": 204,
+            "us_pounds_pct": 2,
+            "us_score_pct": 33
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 42,
+            "us_count": 196,
+            "us_pounds_pct": 1,
+            "us_score_pct": 32
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 60,
+            "us_count": 200,
+            "us_pounds_pct": 1,
+            "us_score_pct": 17
+        },
+        "name": "Fabricated rubber products, n.e.c.",
+        "siccode": "3069"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "306",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "1008 WHITEHEAD RD EXTENSION",
+    "SubmitLat": 40.25972,
+    "SubmitLong": 74.75944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2193,
+    "Y": 2612,
+    "ZIP9": "08638",
+    "ZIPCode": "08638"
+}

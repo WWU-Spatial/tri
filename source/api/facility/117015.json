@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HAMBURG",
+    "County": "NY,ERIE",
+    "DUNS": "623144321",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 22786.807927,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1306204984621",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.406,
+                    "Score": 388.277,
+                    "SubmissionNumber": 642458,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1306204984633",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.212,
+                    "Score": 17.5398,
+                    "SubmissionNumber": 642459,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.618,
+            "TotalScore": 405.8168,
+            "state_score_percentile": 7,
+            "us_score_percentile": 6
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1307205631866",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.457,
+                    "Score": 436.012,
+                    "SubmissionNumber": 699030,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1307205631878",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.239,
+                    "Score": 19.7267,
+                    "SubmissionNumber": 699031,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.696,
+            "TotalScore": 455.7387,
+            "state_score_percentile": 8,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "36029",
+    "FRSID": "110031020348",
+    "FacilityID": "14075MRCNLS476C",
+    "FacilityNumber": 117015,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.7478,
+    "Longitude": -78.85308,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 9,
+            "us_score_pct": 72
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 10,
+            "us_score_pct": 70
+        },
+        "naicscode": "336120",
+        "name": "Heavy Duty Truck Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3361",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "AMERICAN LAFRANCE LLC HAMBURG",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "623144321",
+    "ParentName": "AMERICAN LAFRANCE LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JEFF DAVIS",
+    "PublicContactPhone": "7166481907",
+    "RCRANumber": "NA",
+    "RadialDistance": 2703558,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 85,
+            "us_pounds_pct": 1,
+            "us_score_pct": 35
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 80,
+            "us_pounds_pct": 1,
+            "us_score_pct": 35
+        },
+        "name": "Motor vehicles and passenger car bodies",
+        "siccode": "3711"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "S-4760 CAMP RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1714,
+    "Y": 2864,
+    "ZIP9": "14075",
+    "ZIPCode": "14075"
+}

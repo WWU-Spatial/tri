@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WATERVLIET",
+    "County": "NY,ALBANY",
+    "DUNS": "057022303",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 7342.64856,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206669261",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.32899999999999996,
+                    "Score": 33.49229,
+                    "SubmissionNumber": 789760,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.32899999999999996,
+            "TotalScore": 33.49229,
+            "state_score_percentile": 10,
+            "us_score_percentile": 6
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207626969",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.30000000000000004,
+                    "Score": 30.81074,
+                    "SubmissionNumber": 875072,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.30000000000000004,
+            "TotalScore": 30.81074,
+            "state_score_percentile": 10,
+            "us_score_percentile": 6
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208546200",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.29900000000000004,
+                    "Score": 30.935859999999998,
+                    "SubmissionNumber": 956488,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.29900000000000004,
+            "TotalScore": 30.935859999999998,
+            "state_score_percentile": 9,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "36001",
+    "FRSID": "110030922312",
+    "FacilityID": "12189CLLNN1CRAB",
+    "FacilityNumber": 116363,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.742078,
+    "Longitude": -73.710669,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 219,
+            "us_pounds_pct": 26,
+            "us_score_pct": 41
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 62,
+            "us_count": 220,
+            "us_pounds_pct": 24,
+            "us_score_pct": 38
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 58,
+            "state_score_pct": 64,
+            "us_count": 219,
+            "us_pounds_pct": 21,
+            "us_score_pct": 36
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CALLANAN INDUSTRIES WATERVLIET FACILITY",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK CLEMENTE",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "NA",
+    "RadialDistance": 3003103,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 213,
+            "us_pounds_pct": 26,
+            "us_score_pct": 41
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 56,
+            "state_score_pct": 62,
+            "us_count": 210,
+            "us_pounds_pct": 25,
+            "us_score_pct": 39
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 58,
+            "state_score_pct": 64,
+            "us_count": 211,
+            "us_pounds_pct": 21,
+            "us_score_pct": 37
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "100 CRABAPPLE LN",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2219,
+    "Y": 2970,
+    "ZIP9": "12189",
+    "ZIPCode": "12189"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BOHEMIA",
+    "County": "NY,SUFFOLK",
+    "DUNS": "054978952",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 89918.237006,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100209788",
+                    "MaxOnsite": "03",
+                    "Pounds": 11780.0,
+                    "Score": 0.6687,
+                    "SubmissionNumber": 1766307,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11780.0,
+            "TotalScore": 0.6687,
+            "state_score_percentile": 63,
+            "us_score_percentile": 54
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397110043902",
+                    "MaxOnsite": "03",
+                    "Pounds": 5206.0,
+                    "Score": 0.299179,
+                    "SubmissionNumber": 1827766,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5206.0,
+            "TotalScore": 0.299179,
+            "state_score_percentile": 54,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110000823173",
+    "FacilityID": "11716LCDTD105WI",
+    "FacilityNumber": 116130,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.778361,
+    "Longitude": -73.104028,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 33,
+            "us_count": 138,
+            "us_pounds_pct": 78,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 16,
+            "us_count": 145,
+            "us_pounds_pct": 57,
+            "us_score_pct": 12
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0178152",
+    "Name": "ILC DATA DEVICE CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "054978952",
+    "ParentName": "ILC IND",
+    "PreferredLat": 40.7781,
+    "PreferredLong": 73.1057,
+    "PublicContactName": "DON DEGUISEPPE",
+    "PublicContactPhone": "5165675600",
+    "RCRANumber": "NYD054978952",
+    "RadialDistance": 2908570,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 33,
+            "us_count": 136,
+            "us_pounds_pct": 80,
+            "us_score_pct": 13
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 16,
+            "us_count": 142,
+            "us_pounds_pct": 60,
+            "us_score_pct": 12
+        },
+        "name": "Semiconductors and related devices",
+        "siccode": "3674"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "105 WILBUR PL.",
+    "SubmitLat": 40.77806,
+    "SubmitLong": 73.10583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2343,
+    "Y": 2721,
+    "ZIP9": "117162482",
+    "ZIPCode": "11716"
+}

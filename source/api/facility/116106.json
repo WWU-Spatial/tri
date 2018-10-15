@@ -1,0 +1,314 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "AMITYVILLE",
+    "County": "NY,SUFFOLK",
+    "DUNS": "053976551",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 64816.404376,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1307205719368",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.018325,
+                    "SubmissionNumber": 706769,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.018325,
+            "state_score_percentile": 23,
+            "us_score_percentile": 17
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1308206677647",
+                    "MaxOnsite": "04",
+                    "Pounds": 20.0,
+                    "Score": 0.037045,
+                    "SubmissionNumber": 790565,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 20.0,
+            "TotalScore": 0.037045,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1309207545361",
+                    "MaxOnsite": "04",
+                    "Pounds": 15.0,
+                    "Score": 0.027191,
+                    "SubmissionNumber": 867366,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 0.027191,
+            "state_score_percentile": 30,
+            "us_score_percentile": 22
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1310208894550",
+                    "MaxOnsite": "04",
+                    "Pounds": 27.0,
+                    "Score": 0.046488,
+                    "SubmissionNumber": 988841,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208894574",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.332787,
+                    "Score": 58.61847,
+                    "SubmissionNumber": 988843,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208894586",
+                    "MaxOnsite": "02",
+                    "Pounds": 1.0,
+                    "Score": 0.016543,
+                    "SubmissionNumber": 988844,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 28.332787,
+            "TotalScore": 58.681501,
+            "state_score_percentile": 33,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "36103",
+    "FRSID": "110019416577",
+    "FacilityID": "11701SFTYK8SEAB",
+    "FacilityNumber": 116106,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.71379,
+    "Longitude": -73.397743,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 70,
+            "us_pounds_pct": 58,
+            "us_score_pct": 84
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 74,
+            "us_pounds_pct": 71,
+            "us_score_pct": 82
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 71,
+            "us_pounds_pct": 58,
+            "us_score_pct": 80
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 69,
+            "us_pounds_pct": 63,
+            "us_score_pct": 94
+        },
+        "naicscode": "562112",
+        "name": "Hazardous Waste Collection"
+    },
+    "NAICS2": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 67,
+            "us_pounds_pct": 59,
+            "us_score_pct": 88
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 71,
+            "us_pounds_pct": 73,
+            "us_score_pct": 85
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 69,
+            "us_pounds_pct": 58,
+            "us_score_pct": 82
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 64,
+            "us_score_pct": 100
+        },
+        "naicscode": "484220",
+        "name": "Specialized Freight (except Used Goods) Trucking, Local"
+    },
+    "NAICS3": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 64,
+            "us_pounds_pct": 62,
+            "us_score_pct": 92
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 80,
+            "us_count": 68,
+            "us_pounds_pct": 76,
+            "us_score_pct": 89
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 75,
+            "us_count": 66,
+            "us_pounds_pct": 61,
+            "us_score_pct": 86
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 67,
+            "us_score_pct": 100
+        },
+        "naicscode": "484230",
+        "name": "Specialized Freight (except Used Goods) Trucking, Long-Distance"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5621",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SAFETY-KLEEN SYSTEMS (211808)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "053976551",
+    "ParentName": "SAFETY-KLEEN HOLDCO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "BRIAN JANTZEN",
+    "PublicContactPhone": "6318426311",
+    "RCRANumber": "NYD000708198",
+    "RadialDistance": 2884365,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 43,
+            "us_score_pct": 62
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 57,
+            "us_score_pct": 78
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 42,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 13,
+            "us_pounds_pct": 61,
+            "us_score_pct": 100
+        },
+        "name": "",
+        "siccode": "4212"
+    },
+    "SICCode2Digit": "42",
+    "SICCode3Digit": "421",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "NY",
+    "Street": "80 SEABRO AVE",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2316,
+    "Y": 2705,
+    "ZIP9": "11701",
+    "ZIPCode": "11701"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "002207751",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 98182.214103,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100365129",
+                    "MaxOnsite": "03",
+                    "Pounds": 150.0,
+                    "Score": 6.52648,
+                    "SubmissionNumber": 1779118,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 150.0,
+            "TotalScore": 6.52648,
+            "state_score_percentile": 16,
+            "us_score_percentile": 13
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110132709",
+                    "MaxOnsite": "03",
+                    "Pounds": 150.0,
+                    "Score": 6.52819,
+                    "SubmissionNumber": 1835713,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 150.0,
+            "TotalScore": 6.52819,
+            "state_score_percentile": 15,
+            "us_score_percentile": 12
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000774895",
+    "FacilityID": "14692BSCHL1400N",
+    "FacilityNumber": 117465,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.180062,
+    "Longitude": -77.571981,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 11,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 22,
+            "us_score_pct": 55
+        },
+        "naicscode": "339115",
+        "name": "Ophthalmic Goods Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3391",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BAUSCH & LOMB INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002207751",
+    "ParentName": "BAUSCH & LOMB INC",
+    "PreferredLat": 43.17889,
+    "PreferredLong": 77.57556,
+    "PublicContactName": "MICHAEL MCDOUGALL",
+    "PublicContactPhone": "5853385469",
+    "RCRANumber": "NYR000048991",
+    "RadialDistance": 2809058,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 10,
+            "us_score_pct": 52
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 19,
+            "us_pounds_pct": 15,
+            "us_score_pct": 63
+        },
+        "name": "Ophthalmic goods",
+        "siccode": "3851"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "385",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4267,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 6.096,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.85,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "1400 N GOODMAN ST",
+    "SubmitLat": 43.17889,
+    "SubmitLong": 77.57556,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1829,
+    "Y": 2947,
+    "ZIP9": "14609",
+    "ZIPCode": "14609"
+}

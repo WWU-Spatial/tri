@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEBSTER",
+    "County": "NY,MONROE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 103670.21519,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105199626",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.00023300000000000003,
+                    "SubmissionNumber": 1803998,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.00023300000000000003,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110318286",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.00023700000000000001,
+                    "SubmissionNumber": 1851717,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.00023700000000000001,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120615568",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 0.00023999999999999998,
+                    "SubmissionNumber": 1947497,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.00023999999999999998,
+            "state_score_percentile": 6,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000327780",
+    "FacilityID": "14580RDXND700BA",
+    "FacilityNumber": 117368,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.226704,
+    "Longitude": -77.38738,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 54,
+            "us_pounds_pct": 12,
+            "us_score_pct": 3
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 50,
+            "us_pounds_pct": 13,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 13,
+            "us_score_pct": 2
+        },
+        "naicscode": "332721",
+        "name": "Precision Turned Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3327",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "RADAX INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.23,
+    "PreferredLong": 77.39,
+    "PublicContactName": "ANDY MCOMBER",
+    "PublicContactPhone": "7162652055",
+    "RCRANumber": "NYD041296286",
+    "RadialDistance": 2823054,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 56,
+            "us_pounds_pct": 9,
+            "us_score_pct": 5
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 50,
+            "us_pounds_pct": 7,
+            "us_score_pct": 2
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 46,
+            "us_pounds_pct": 8,
+            "us_score_pct": 2
+        },
+        "name": "Screw machine products",
+        "siccode": "3451"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "345",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "700 BASKET RD.",
+    "SubmitLat": 43.23,
+    "SubmitLong": 77.39,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1845,
+    "Y": 2957,
+    "ZIP9": "145809724",
+    "ZIPCode": "14580"
+}

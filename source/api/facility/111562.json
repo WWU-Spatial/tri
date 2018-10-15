@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BOSTON",
+    "County": "MA,SUFFOLK",
+    "DUNS": "001017490",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 3447.682141,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200862783",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.001,
+                    "Score": 0.335227,
+                    "SubmissionNumber": 270457,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.001,
+            "TotalScore": 0.335227,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201206392",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.001,
+                    "Score": 0.339499,
+                    "SubmissionNumber": 300752,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.001,
+            "TotalScore": 0.339499,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202338822",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.001,
+                    "Score": 0.34377,
+                    "SubmissionNumber": 402171,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.001,
+            "TotalScore": 0.34377,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203190715",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.001,
+                    "Score": 0.348042,
+                    "SubmissionNumber": 478914,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.001,
+            "TotalScore": 0.348042,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1306204190146",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 569636,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204190159",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.002,
+                    "Score": 0.704626,
+                    "SubmissionNumber": 569637,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.0022,
+            "TotalScore": 0.704626,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110002014551",
+    "FacilityID": "02108TRDYN321HA",
+    "FacilityNumber": 111562,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.345649,
+    "Longitude": -71.063464,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 15,
+            "state_pounds_pct": 10,
+            "state_score_pct": 26,
+            "us_count": 137,
+            "us_pounds_pct": 1,
+            "us_score_pct": 10
+        },
+        "2003": {
+            "state_count": 13,
+            "state_pounds_pct": 11,
+            "state_score_pct": 46,
+            "us_count": 124,
+            "us_pounds_pct": 1,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 10,
+            "state_score_pct": 35,
+            "us_count": 123,
+            "us_pounds_pct": 1,
+            "us_score_pct": 14
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 10,
+            "state_score_pct": 42,
+            "us_count": 120,
+            "us_pounds_pct": 1,
+            "us_score_pct": 15
+        },
+        "2006": {
+            "state_count": 13,
+            "state_pounds_pct": 15,
+            "state_score_pct": 46,
+            "us_count": 126,
+            "us_pounds_pct": 1,
+            "us_score_pct": 23
+        },
+        "naicscode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TERADYNE, INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK CAPPI",
+    "PublicContactPhone": "9783703676",
+    "RCRANumber": "MAD980910418",
+    "RadialDistance": 3147769,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 18,
+            "state_score_pct": 25,
+            "us_count": 145,
+            "us_pounds_pct": 2,
+            "us_score_pct": 28
+        },
+        "2003": {
+            "state_count": 11,
+            "state_pounds_pct": 13,
+            "state_score_pct": 27,
+            "us_count": 155,
+            "us_pounds_pct": 1,
+            "us_score_pct": 27
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 13,
+            "state_score_pct": 27,
+            "us_count": 152,
+            "us_pounds_pct": 2,
+            "us_score_pct": 27
+        },
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 10,
+            "state_score_pct": 42,
+            "us_count": 162,
+            "us_pounds_pct": 2,
+            "us_score_pct": 28
+        },
+        "2006": {
+            "state_count": 10,
+            "state_pounds_pct": 30,
+            "state_score_pct": 70,
+            "us_count": 150,
+            "us_pounds_pct": 4,
+            "us_score_pct": 31
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.666,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.218,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8218,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "321 HARRISON AVE",
+    "SubmitLat": 42.34583,
+    "SubmitLong": 71.06333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2491,
+    "Y": 2983,
+    "ZIP9": "02118",
+    "ZIPCode": "02118"
+}

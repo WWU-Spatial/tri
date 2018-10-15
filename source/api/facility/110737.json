@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATHOL",
+    "County": "MA,WORCESTER",
+    "DUNS": "001129568",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 81762.360534,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105310953",
+                    "MaxOnsite": "03",
+                    "Pounds": 14100.0,
+                    "Score": 25.796480000000003,
+                    "SubmissionNumber": 1810708,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 14100.0,
+            "TotalScore": 25.796480000000003,
+            "state_score_percentile": 67,
+            "us_score_percentile": 57
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397110327261",
+                    "MaxOnsite": "03",
+                    "Pounds": 11200.0,
+                    "Score": 20.500429999999998,
+                    "SubmissionNumber": 1852502,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 11200.0,
+            "TotalScore": 20.500429999999998,
+            "state_score_percentile": 62,
+            "us_score_percentile": 53
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000762737",
+    "FacilityID": "01331THLTB151HA",
+    "FacilityNumber": 110737,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.59004,
+    "Longitude": -72.235453,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 10,
+            "us_score_pct": 64
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 143,
+            "us_pounds_pct": 11,
+            "us_score_pct": 74
+        },
+        "naicscode": "337122",
+        "name": "Nonupholstered Wood Household Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "ATHOL TABLE MANUFACTURING CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.59111,
+    "PreferredLong": 72.23889,
+    "PublicContactName": "STEVEN A NINTEAU",
+    "PublicContactPhone": "9782493264",
+    "RCRANumber": "MAD001129568",
+    "RadialDistance": 3086577,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 220,
+            "us_pounds_pct": 11,
+            "us_score_pct": 69
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 184,
+            "us_pounds_pct": 9,
+            "us_score_pct": 72
+        },
+        "name": "Wood household furniture, except upholstered",
+        "siccode": "2511"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.5278,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "151 HARRISON ST",
+    "SubmitLat": 42.59111,
+    "SubmitLong": 72.23889,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2368,
+    "Y": 2985,
+    "ZIP9": "01331",
+    "ZIPCode": "01331"
+}

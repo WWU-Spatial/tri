@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BARRE",
+    "County": "VT,WASHINGTON",
+    "DUNS": "053976551",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58248.503892,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1310208896605",
+                    "MaxOnsite": "03",
+                    "Pounds": 75.0,
+                    "Score": 0.041376,
+                    "SubmissionNumber": 989040,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208896617",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.11019599999999999,
+                    "Score": 0.072899,
+                    "SubmissionNumber": 989041,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208896629",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.398505,
+                    "Score": 16.576259999999998,
+                    "SubmissionNumber": 989042,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1310208896631",
+                    "MaxOnsite": "01",
+                    "Pounds": 1.0,
+                    "Score": 0.002893,
+                    "SubmissionNumber": 989043,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 76.508701,
+            "TotalScore": 16.693427999999997,
+            "state_score_percentile": 47,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "50023",
+    "FRSID": "110000620392",
+    "FacilityID": "05641SFTYK23WSE",
+    "FacilityNumber": 113105,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.2069,
+    "Longitude": -72.51369,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 69,
+            "us_pounds_pct": 73,
+            "us_score_pct": 92
+        },
+        "naicscode": "562112",
+        "name": "Hazardous Waste Collection"
+    },
+    "NAICS2": {
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 67,
+            "us_pounds_pct": 74,
+            "us_score_pct": 97
+        },
+        "naicscode": "484220",
+        "name": "Specialized Freight (except Used Goods) Trucking, Local"
+    },
+    "NAICS3": {
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 64,
+            "us_pounds_pct": 76,
+            "us_score_pct": 98
+        },
+        "naicscode": "484230",
+        "name": "Specialized Freight (except Used Goods) Trucking, Long-Distance"
+    },
+    "NAICSCode3Digit": "562",
+    "NAICSCode4Digit": "5621",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SAFETY-KLEEN SYSTEMS (210501)",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "053976551",
+    "ParentName": "SAFETY-KLEEN HOLDCO INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ERIC BAILEY",
+    "PublicContactPhone": "8024791200",
+    "RCRANumber": "VTD000791699",
+    "RadialDistance": 3182071,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 44,
+            "us_score_pct": 69
+        },
+        "name": "Business services, n.e.c.",
+        "siccode": "7389"
+    },
+    "SICCode2Digit": "73",
+    "SICCode3Digit": "738",
+    "SICCodeSame2Digit": "73",
+    "SK": "",
+    "STFIPS": "50",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.3152,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.0772,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "VT",
+    "Street": "23 W SECOND ST",
+    "SubmitLat": 44.20556,
+    "SubmitLong": 72.51528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2287,
+    "Y": 3194,
+    "ZIP9": "05641",
+    "ZIPCode": "05641"
+}

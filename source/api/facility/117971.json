@@ -1,0 +1,264 @@
+{
+    "AssignedComID": 4754524,
+    "AssignedReach": "05010007000990",
+    "City": "BOSWELL",
+    "County": "PA,SOMERSET",
+    "DUNS": "016089138",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 101522.784511,
+    "DistanceToReach": 361.493935,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150304739",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.1,
+                    "Score": 0.010182,
+                    "SubmissionNumber": 121720,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150304754",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.003,
+                    "Score": 0.000204,
+                    "SubmissionNumber": 121722,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.10300000000000001,
+            "TotalScore": 0.010386,
+            "state_score_percentile": 2,
+            "us_score_percentile": 1
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200396467",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.018,
+                    "Score": 0.00183,
+                    "SubmissionNumber": 228428,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1302200396479",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.0006,
+                    "Score": 4.1e-05,
+                    "SubmissionNumber": 228429,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.0186,
+            "TotalScore": 0.001871,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202326866",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.013,
+                    "Score": 0.001317,
+                    "SubmissionNumber": 401056,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1304202326878",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.00045,
+                    "Score": 3e-05,
+                    "SubmissionNumber": 401057,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.01345,
+            "TotalScore": 0.001347,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203799376",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.01,
+                    "Score": 0.001011,
+                    "SubmissionNumber": 535568,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1305203799388",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.00035,
+                    "Score": 2.4e-05,
+                    "SubmissionNumber": 535569,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.01035,
+            "TotalScore": 0.001035,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110012708454",
+    "FacilityID": "15531PBSCL1639K",
+    "FacilityNumber": 117971,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.179251,
+    "Longitude": -79.094638,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 42,
+            "us_pounds_pct": 4,
+            "us_score_pct": 26
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 40,
+            "us_pounds_pct": 2,
+            "us_score_pct": 17
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 33,
+            "us_pounds_pct": 6,
+            "us_score_pct": 18
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 29,
+            "us_pounds_pct": 6,
+            "us_score_pct": 31
+        },
+        "naicscode": "212111",
+        "name": "Bituminous Coal and Lignite Surface Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "PBS COALS - SARAH MINE",
+    "NearComID": 4754524,
+    "NearReach": "05010007000990",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "PBS COALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RAYMOND MCGRAW",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "NA",
+    "RadialDistance": 2480058,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 60,
+            "us_count": 47,
+            "us_pounds_pct": 4,
+            "us_score_pct": 23
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 44,
+            "us_pounds_pct": 2,
+            "us_score_pct": 15
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 38,
+            "us_pounds_pct": 5,
+            "us_score_pct": 15
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 32,
+            "us_pounds_pct": 6,
+            "us_score_pct": 28
+        },
+        "name": "Bituminous coal and lignite surface mining",
+        "siccode": "1221"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1639 KLINES MILL RD",
+    "SubmitLat": 40.17944,
+    "SubmitLong": 79.09222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1752,
+    "Y": 2511,
+    "ZIP9": "15531",
+    "ZIPCode": "15531"
+}

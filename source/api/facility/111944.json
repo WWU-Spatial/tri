@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BEDFORD",
+    "County": "MA,BRISTOL",
+    "DUNS": "009687930",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 39401.050022,
+    "DistanceToReach": 3314.51473,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1304202601706",
+                    "MaxOnsite": "06",
+                    "Pounds": 524.0,
+                    "Score": 27.1569,
+                    "SubmissionNumber": 426504,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 524.0,
+            "TotalScore": 27.1569,
+            "state_score_percentile": 55,
+            "us_score_percentile": 38
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306204656336",
+                    "MaxOnsite": "07",
+                    "Pounds": 250.0,
+                    "Score": 12.9639,
+                    "SubmissionNumber": 612573,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 12.9639,
+            "state_score_percentile": 48,
+            "us_score_percentile": 32
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000739684",
+    "FacilityID": "02745FCDVN55SAM",
+    "FacilityNumber": 111944,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.71971,
+    "Longitude": -70.958235,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 51,
+            "us_score_pct": 63
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 39,
+            "us_pounds_pct": 56,
+            "us_score_pct": 58
+        },
+        "naicscode": "335929",
+        "name": "Other Communication and Energy Wire Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "AFC CABLE SYSTEMS INC",
+    "NearComID": 900450048,
+    "NearReach": "01090004033219",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.71944,
+    "PreferredLong": 70.96111,
+    "PublicContactName": "EILEEN P. TIERNEY",
+    "PublicContactPhone": "7082252077",
+    "RCRANumber": "MAD001733054",
+    "RadialDistance": 3115253,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 79,
+            "us_pounds_pct": 58,
+            "us_score_pct": 64
+        },
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 71,
+            "us_pounds_pct": 53,
+            "us_score_pct": 53
+        },
+        "name": "Drawing and insulating of nonferrous wire",
+        "siccode": "3357"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "55 SAMUEL BARNET BVD",
+    "SubmitLat": 41.71917,
+    "SubmitLong": 70.95278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2524,
+    "Y": 2902,
+    "ZIP9": "02745",
+    "ZIPCode": "02745"
+}

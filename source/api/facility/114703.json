@@ -1,0 +1,255 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HASKELL",
+    "County": "NJ,PASSAIC",
+    "DUNS": "065794307",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38140.323072,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1396100038987",
+                    "MaxOnsite": "06",
+                    "Pounds": 3150.0,
+                    "Score": 279.36,
+                    "SubmissionNumber": 1751489,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 3150.0,
+            "TotalScore": 279.36,
+            "state_score_percentile": 49,
+            "us_score_percentile": 38
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1301155053313",
+                    "MaxOnsite": "05",
+                    "Pounds": 2250.0,
+                    "Score": 205.244,
+                    "SubmissionNumber": 175624,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 2250.0,
+            "TotalScore": 205.244,
+            "state_score_percentile": 52,
+            "us_score_percentile": 45
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1303201941438",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 22.8497,
+                    "SubmissionNumber": 366942,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 22.8497,
+            "state_score_percentile": 32,
+            "us_score_percentile": 29
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1304202791455",
+                    "MaxOnsite": "05",
+                    "Pounds": 1500.0,
+                    "Score": 137.233,
+                    "SubmissionNumber": 443830,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1500.0,
+            "TotalScore": 137.233,
+            "state_score_percentile": 55,
+            "us_score_percentile": 46
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7429905",
+                    "Chemical": "Aluminum (fume or dust)",
+                    "ChemicalNumber": 19,
+                    "DCN": "1305204059303",
+                    "MaxOnsite": "05",
+                    "Pounds": 1200.0,
+                    "Score": 109.894,
+                    "SubmissionNumber": 558485,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 1200.0,
+            "TotalScore": 109.894,
+            "state_score_percentile": 52,
+            "us_score_percentile": 45
+        }
+    },
+    "FIPS": "34031",
+    "FRSID": "110001134558",
+    "FacilityID": "07420SLMNM86FOU",
+    "FacilityNumber": 114703,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.02977,
+    "Longitude": -74.292879,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 84,
+            "us_pounds_pct": 46,
+            "us_score_pct": 53
+        },
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 105,
+            "us_pounds_pct": 44,
+            "us_score_pct": 54
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 107,
+            "us_pounds_pct": 25,
+            "us_score_pct": 34
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 109,
+            "us_pounds_pct": 42,
+            "us_score_pct": 50
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 109,
+            "us_pounds_pct": 39,
+            "us_score_pct": 44
+        },
+        "naicscode": "331314",
+        "name": "Secondary Smelting and Alloying of Aluminum"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3313",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "US ALUMINUM INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002344190",
+    "ParentName": "U S BRONZE POWDERS INC",
+    "PreferredLat": 41.02968,
+    "PreferredLong": 74.29392,
+    "PublicContactName": "ARUN K CHATTOPADHYAY",
+    "PublicContactPhone": "9738390380",
+    "RCRANumber": "NJD986591485",
+    "RadialDistance": 2845649,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 12,
+            "us_count": 90,
+            "us_pounds_pct": 55,
+            "us_score_pct": 54
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 89,
+            "us_pounds_pct": 64,
+            "us_score_pct": 48
+        },
+        "2003": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 85,
+            "us_pounds_pct": 35,
+            "us_score_pct": 22
+        },
+        "2004": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 25,
+            "us_count": 78,
+            "us_pounds_pct": 57,
+            "us_score_pct": 32
+        },
+        "2005": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 37,
+            "us_count": 75,
+            "us_pounds_pct": 49,
+            "us_score_pct": 34
+        },
+        "name": "Primary metal products, n.e.c.",
+        "siccode": "3399"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "339",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.8334,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "86 4TH AVE",
+    "SubmitLat": 44.02889,
+    "SubmitLong": 74.29167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2216,
+    "Y": 2726,
+    "ZIP9": "07420",
+    "ZIPCode": "07420"
+}

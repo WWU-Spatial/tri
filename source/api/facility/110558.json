@@ -1,0 +1,323 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST LONGMEADOW",
+    "County": "MA,HAMPDEN",
+    "DUNS": "807540745",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17529.955438,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1302200930725",
+                    "MaxOnsite": "04",
+                    "Pounds": 4464.0,
+                    "Score": 94.23464,
+                    "SubmissionNumber": 275429,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1302200930788",
+                    "MaxOnsite": "04",
+                    "Pounds": 4464.0,
+                    "Score": 4.740558,
+                    "SubmissionNumber": 275435,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8928.0,
+            "TotalScore": 98.975198,
+            "state_score_percentile": 77,
+            "us_score_percentile": 61
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1303201980341",
+                    "MaxOnsite": "04",
+                    "Pounds": 4946.0,
+                    "Score": 5.317526,
+                    "SubmissionNumber": 369919,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1303201980428",
+                    "MaxOnsite": "04",
+                    "Pounds": 4946.0,
+                    "Score": 105.68256,
+                    "SubmissionNumber": 369924,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9892.0,
+            "TotalScore": 111.000086,
+            "state_score_percentile": 79,
+            "us_score_percentile": 63
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1304203022696",
+                    "MaxOnsite": "04",
+                    "Pounds": 3266.0,
+                    "Score": 69.81084,
+                    "SubmissionNumber": 463740,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1304203022746",
+                    "MaxOnsite": "04",
+                    "Pounds": 2942.0,
+                    "Score": 3.1642,
+                    "SubmissionNumber": 463743,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6208.0,
+            "TotalScore": 72.97503999999999,
+            "state_score_percentile": 77,
+            "us_score_percentile": 60
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1305203753076",
+                    "MaxOnsite": "04",
+                    "Pounds": 5997.0,
+                    "Score": 127.36553,
+                    "SubmissionNumber": 531448,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5997.0,
+            "TotalScore": 127.36553,
+            "state_score_percentile": 80,
+            "us_score_percentile": 60
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1306205045812",
+                    "MaxOnsite": "04",
+                    "Pounds": 5764.0,
+                    "Score": 122.30451000000001,
+                    "SubmissionNumber": 647148,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5764.0,
+            "TotalScore": 122.30451000000001,
+            "state_score_percentile": 79,
+            "us_score_percentile": 60
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1310208472860",
+                    "MaxOnsite": "03",
+                    "Pounds": 4729.0,
+                    "Score": 101.26447,
+                    "SubmissionNumber": 949604,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4729.0,
+            "TotalScore": 101.26447,
+            "state_score_percentile": 81,
+            "us_score_percentile": 63
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110015784999",
+    "FacilityID": "01028VRTSN245BE",
+    "FacilityNumber": 110558,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.043785,
+    "Longitude": -72.531897,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 40,
+            "us_score_pct": 69
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 43,
+            "us_score_pct": 71
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 89,
+            "us_pounds_pct": 42,
+            "us_score_pct": 60
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 40,
+            "us_score_pct": 72
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 75,
+            "us_pounds_pct": 38,
+            "us_score_pct": 70
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 73,
+            "us_pounds_pct": 28,
+            "us_score_pct": 71
+        },
+        "naicscode": "323110",
+        "name": "Commercial Lithographic Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "VERTIS INC RNS SPRINGFIELD DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "807540745",
+    "ParentName": "VERTIS COMMUNICATIONS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GLENN SHAFFER",
+    "PublicContactPhone": "7176992598",
+    "RCRANumber": "MAD985278969",
+    "RadialDistance": 3030419,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 94,
+            "us_pounds_pct": 44,
+            "us_score_pct": 70
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 83,
+            "us_pounds_pct": 45,
+            "us_score_pct": 69
+        },
+        "2004": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 83,
+            "us_pounds_pct": 42,
+            "us_score_pct": 61
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 81,
+            "us_pounds_pct": 38,
+            "us_score_pct": 71
+        },
+        "2006": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 69,
+            "us_pounds_pct": 37,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 56,
+            "us_pounds_pct": 23,
+            "us_score_pct": 69
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6595,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.3085,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.2766,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "245 BENTON DR",
+    "SubmitLat": 42.04028,
+    "SubmitLong": 72.53,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2358,
+    "Y": 2905,
+    "ZIP9": "01028",
+    "ZIPCode": "01028"
+}

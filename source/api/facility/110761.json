@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FITCHBURG",
+    "County": "MA,WORCESTER",
+    "DUNS": "809178742",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 69579.304198,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140810680",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00967,
+                    "Score": 0.172894,
+                    "SubmissionNumber": 62360,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300140810692",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000572,
+                    "Score": 0.0,
+                    "SubmissionNumber": 62361,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.010242,
+            "TotalScore": 0.172894,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301155160676",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0108,
+                    "Score": 0.193748,
+                    "SubmissionNumber": 182168,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301155160688",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00122,
+                    "Score": 0.0,
+                    "SubmissionNumber": 182169,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 0.012020000000000001,
+            "TotalScore": 0.193748,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110001938725",
+    "FacilityID": "01420CSTMP1OLDP",
+    "FacilityNumber": 110761,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.553923,
+    "Longitude": -71.843059,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 86,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "naicscode": "322110",
+        "name": "Pulp Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "MAR05C217",
+    "Name": "FIBERMARK",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.55306,
+    "PreferredLong": 71.84111,
+    "PublicContactName": "BRIAN MALOY",
+    "PublicContactPhone": "8022575982",
+    "RCRANumber": "MAD065777344",
+    "RadialDistance": 3109749,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 30,
+            "us_count": 194,
+            "us_pounds_pct": 3,
+            "us_score_pct": 7
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 44,
+            "state_score_pct": 44,
+            "us_count": 184,
+            "us_pounds_pct": 3,
+            "us_score_pct": 8
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 28.956,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.288,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "44 OLD PRINCETON RD.",
+    "SubmitLat": 42.55306,
+    "SubmitLong": 71.84111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2408,
+    "Y": 2990,
+    "ZIP9": "01420",
+    "ZIPCode": "01420"
+}

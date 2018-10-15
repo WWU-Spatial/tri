@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHERRYFIELD",
+    "County": "ME,WASHINGTON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 217476.823033,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307206486692",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000195,
+                    "Score": 0.0,
+                    "SubmissionNumber": 742022,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307206486704",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00142,
+                    "Score": 0.002849,
+                    "SubmissionNumber": 742023,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.0016150000000000001,
+            "TotalScore": 0.002849,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206491096",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.000207,
+                    "Score": 0.0,
+                    "SubmissionNumber": 772977,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206491108",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00151,
+                    "Score": 0.003028,
+                    "SubmissionNumber": 772978,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.001717,
+            "TotalScore": 0.003028,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207629181",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 875290,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207629193",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.00148,
+                    "Score": 0.002967,
+                    "SubmissionNumber": 875291,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 0.00168,
+            "TotalScore": 0.002967,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208457390",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 948129,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208457402",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.0017,
+                    "Score": 0.003406,
+                    "SubmissionNumber": 948130,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.0019,
+            "TotalScore": 0.003406,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "23029",
+    "FRSID": "110007273501",
+    "FacilityID": "04622JSPRWRTE19",
+    "FacilityNumber": 112959,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.545273,
+    "Longitude": -67.893438,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 42,
+            "us_pounds_pct": 2,
+            "us_score_pct": 4
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 36,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 38,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 35,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "naicscode": "311411",
+        "name": "Frozen Fruit, Juice, and Vegetable Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3114",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "JASPER WYMAN & SON",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "JASPER WYMAN & SON",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT STANLEY",
+    "PublicContactPhone": "2075463381",
+    "RCRANumber": "NA",
+    "RadialDistance": 3497431,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 39,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 33,
+            "us_pounds_pct": 3,
+            "us_score_pct": 6
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 35,
+            "us_pounds_pct": 2,
+            "us_score_pct": 5
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 35,
+            "us_pounds_pct": 2,
+            "us_score_pct": 2
+        },
+        "name": "Frozen fruits, fruit juices, and vegetables",
+        "siccode": "2037"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "203",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.035,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "178 MAIN ST",
+    "SubmitLat": 44.61,
+    "SubmitLong": 67.92639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2711,
+    "Y": 3361,
+    "ZIP9": "04622",
+    "ZIPCode": "04622"
+}

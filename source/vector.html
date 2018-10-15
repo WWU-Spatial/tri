@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.js'></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+
+        /*! jQuery UI - v1.12.1 - 2016-10-10
+* http://jqueryui.com
+* Includes: core.css, tabs.css
+* Copyright jQuery Foundation and other contributors; Licensed MIT */
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-hidden {
+    display: none;
+}
+.ui-helper-hidden-accessible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.ui-helper-reset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    line-height: 1.3;
+    text-decoration: none;
+    font-size: 100%;
+    list-style: none;
+}
+.ui-helper-clearfix:before,
+.ui-helper-clearfix:after {
+    content: "";
+    display: table;
+    border-collapse: collapse;
+}
+.ui-helper-clearfix:after {
+    clear: both;
+}
+.ui-helper-zfix {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    filter:Alpha(Opacity=0); /* support: IE8 */
+}
+
+.ui-front {
+    z-index: 100;
+}
+
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-disabled {
+    cursor: default !important;
+    pointer-events: none;
+}
+
+
+/* Icons
+----------------------------------*/
+.ui-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -.25em;
+    position: relative;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+.ui-widget-icon-block {
+    left: 50%;
+    margin-left: -8px;
+    display: block;
+}
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.ui-tabs {
+    position: relative;/* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+    padding: .2em;
+}
+.ui-tabs .ui-tabs-nav {
+    margin: 0;
+    padding: .2em .2em 0;
+}
+.ui-tabs .ui-tabs-nav li {
+    list-style: none;
+    float: left;
+    position: relative;
+    top: 0;
+    margin: 1px .2em 0 0;
+    border-bottom-width: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+    float: left;
+    padding: .5em 1em;
+    text-decoration: none;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: -1px;
+    padding-bottom: 1px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
+.ui-tabs .ui-tabs-nav li.ui-state-disabled .ui-tabs-anchor,
+.ui-tabs .ui-tabs-nav li.ui-tabs-loading .ui-tabs-anchor {
+    cursor: text;
+}
+.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor {
+    cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    border-width: 0;
+    padding: 1em 1.4em;
+    background: none;
+}
+
+.non-reporting {
+    position: absolute;
+    right: 10px;
+    top: 62px;
+    background: white;
+}
+
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<div id="topbar" class="transition-slow noselect">
+    
+    <h1 id="title" class="yesselect transition-slow ">Toxic Trends Mapper</h1>
+    <h2 id="sub-title" class="yesselect transition-slow ">In partnership with the Huxley Spatial Institute</h2>
+    
+    <div id="map-year-toggle-container" class="noselect transition-slow">
+        <div id="map-year-down"></div>
+        <div id="map-year" class="master-year-label">2013</div>
+        <div id="map-year-up"></div>
+    </div> 
+
+    <div class="non-reporting"><label><input type="checkbox">Non-Reporting Facilities</label></div>
+        
+    <div id="searchbox-container" class="transition-slow ">
+        <input type="text" id="searchbox" value="Search for a facility" class="yesselect">
+        <input id="search-button" type="button" value=">" >
+    </div>
+
+    <div id="hover" class="dropshadow"></div>
+
+    <div id="facility-tabs" class="noselect dropshadow transition-slow " style="display: none;">
+        <div id="popup-close" class="transition-slow">X</div>
+        <ul class="yesselect">
+            <li id="general-tab-btn">
+                <a href="#general-tab">General</a>
+            </li>
+            <li>
+                <a href="#chemical-tab">Chemical</a>
+            </li>
+            <li>
+                <a href="#industry-tab">Industry</a>
+            </li>
+        </ul>
+        <div id="general-tab" class="tab yesselect">
+            <div id="info-title"></div>
+            <div id='info-graph'></div>
+            <div id='info-industry'></div>
+            <div id='info-address'></div>
+            <div id='info-contact'></div>
+            <div class="zoom-to transition-slow">
+                Zoom to Facility
+            </div>
+        </div>
+        <div id="chemical-tab" class="tab">
+            <div class="popup-year-toggle">
+                <div class="popup-year-left"></div>
+                <div id="chemical-tab-year" class="popup-year-label"></div>
+                <div class="popup-year-right"></div>
+            </div>
+            <div id="chemical-list" class="popup-list yesselect"></div>
+        </div>
+        <div id="industry-tab" class="tab">
+            <div class="popup-year-toggle">
+                <div class="popup-year-left"></div>
+                <div id="industry-tab-year" class="popup-year-label"></div>
+                <div class="popup-year-right"></div>
+            </div>
+            <div id="industry-list" class="popup-list yesselect"></div>
+        </div>
+    </div>
+
+
+    
+</div>
+
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibGVzc2VyaiIsImEiOiJ3QVJGcnRrIn0.IareeNjDWE5pwv7ykwLNsw';
+
+//Modify number prototype with format function to add commas and truncate long decimals
+Number.prototype.format = function() {
+    try {
+        var number = this;
+        var numArray = number.toString().split('.');
+        // If no decimal place, return no decimal
+        if (numArray.length === 1) {
+            return number.toFixed(0).replace(/(\d)(?=(\d{3})+$)/g, "$1,");
+        } else {
+            // If one decimal place, return one decimal
+            if (numArray[1].length === 1) {
+                return number.toFixed(1).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+            } else {
+                //If two or more decimals, return two decimal
+                return number.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+            }
+        }
+    } catch (e) {
+        return this;
+    }
+}; 
+
+google.load('visualization', '1', {
+                'callback' : 'var nothing',
+                'packages' : ['corechart']
+            });
+
+var style;
+var map;
+var windowYear = 2013;
+var mapYear = 2013;
+var maxYear = 2014;
+var minYear = 1988;
+
+var stateLookup = {
+        "AK":"Alaska",
+        "AL":"Alabama",
+        "AR":"Arkansas",
+        "AS":"American Samoa",
+        "AZ":"Arizona",
+        "CA":"California",
+        "CO":"Colorado",
+        "CT":"Connecticut",
+        "DC":"District of Columbia",
+        "DE":"Delaware",
+        "FL":"Florida",
+        "GA":"Georgia",
+        "GU":"Guam",
+        "HI":"Hawaii",
+        "IA":"Iowa",
+        "ID":"Idaho",
+        "IL":"Illinois",
+        "IN":"Indiana",
+        "KS":"Kansas",
+        "KY":"Kentucky",
+        "LA":"Louisiana",
+        "MA":"Massachusetts",
+        "MD":"Maryland",
+        "ME":"Maine",
+        "MI":"Michigan",
+        "MN":"Minnesota",
+        "MO":"Missouri",
+        "MP":"Northern Mariana Islands",
+        "MS":"Mississippi",
+        "MT":"Montana",
+        "NC":"North Carolina",
+        "ND":"North Dakota",
+        "NE":"Nebraska",
+        "NH":"New Hampshire",
+        "NJ":"New Jersey",
+        "NM":"New Mexico",
+        "NV":"Nevada",
+        "NY":"New York",
+        "OH":"Ohio",
+        "OK":"Oklahoma",
+        "OR":"Oregon",
+        "PA":"Pennsylvania",
+        "PR":"Puerto Rico",
+        "RI":"Rhode Island",
+        "SC":"South Carolina",
+        "SD":"South Dakota",
+        "TN":"Tennessee",
+        "TX":"Texas",
+        "UT":"Utah",
+        "VA":"Virginia",
+        "VI":"Virgin Islands",
+        "VT":"Vermont",
+        "WA":"Washington",
+        "WI":"Wisconsin",
+        "WV":"West Virginia",
+        "WY":"Wyoming"
+    };
+
+$.ajax({
+    dataType: 'json',
+    url: 'style.json',
+    success: function(data) {
+        style = data;
+
+        style.layers.push({
+            "layout": {
+                "visibility": "visible"
+            },
+            "filter": ["all", [">", mapYear + "TotLbs", 0]],
+            "type": "circle",
+            "source": "tri",
+            "id": "facilities",
+            "paint": {
+                "circle-radius": {
+                    "base": 1.1,
+                    "property": mapYear + "TotScr",
+                    "stops": [
+                            [{zoom: 0, value: 0}, 2],
+                            [{zoom: 0, value: 1000000}, 2],
+                            [{zoom: 3, value: 0}, 2],
+                            [{zoom: 3, value: 1000000}, 2],
+                            [{zoom: 4, value: 0}, 1],
+                            [{zoom: 4, value: 1000000}, 6.5],
+                            [{zoom: 16, value: 0}, 14],
+                            [{zoom: 16, value: 1000000}, 46],
+
+                        ]
+                },
+                "circle-color": {
+                    "property": mapYear + "TotLbs",
+                    "stops": [
+                        [0,'rgb(254,227,145)'],
+                        [10,'rgb(254,196,79)'],
+                        [100,'rgb(254,153,41)'],
+                        [1000,'rgb(236,112,20)'],
+                        [10000,'rgb(204,76,2)'],
+                        [100000,'rgb(153,52,4)'],
+                        [1000000,'rgb(102,37,6)']
+                    ]
+                }
+            },
+            "source-layer": "facilities",
+            "interactive": true
+        },
+        {
+            "id": "facility-hover",
+            "type": "circle",
+            "source": "tri",
+            "layout": {},
+            "paint": {
+                "circle-color": "rgb(255,0,0)"
+            },
+            "filter": ["==", "id", ""],
+            "source-layer": "facilities"
+        });
+        
+        prepmap();
+    }
+})
+
+function prepmap() {
+
+    map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: style, //stylesheet location
+        center: [-99,40], // starting position
+        zoom: 3 // starting zoom
+    });
+
+    map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {layers: ["facilities", "Facilities Inactive"]});
+        if (features.length) {
+            map.getCanvas().style.cursor = "pointer";
+            $('#hover').html(features[features.length-1].properties.Name);
+            $('#hover').css({
+                'top' : e.originalEvent.pageY + 5,
+                'left' : e.originalEvent.pageX + 10
+            }).show();
+            //https://www.mapbox.com/mapbox-gl-js/example/hover-styles/
+            //map.setFilter("facility-hover", ["==", "ID", features[features.length-1].properties.ID]);
+        } else {
+            $('#hover').hide();
+            //map.setFilter("facility-hover", ["==", "ID", ""]);
+            map.getCanvas().style.cursor = "";
+        }
+    });
+
+    map.on('mouseout', function() {
+        $('#hover').hide();
+        //map.setFilter("facility-hover", ["==", "ID", ""]);
+        map.getCanvas().style.cursor = "";
+    })
+
+    map.on('click', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {layers: ["facilities", "Facilities Inactive"]});
+        // if the features have no info, return nothing
+        if (!features.length) {
+            return;
+        }
+
+        var feature = features[features.length-1];
+
+        loadPopup(features[features.length-1].properties.ID);
+    })
+
+    $(".non-reporting").on("change", function() {
+        if ($(".non-reporting input").is(":checked")) {
+            map.setLayoutProperty("Facilities Inactive", 'visibility', 'visible');
+        } else {
+            map.setLayoutProperty("Facilities Inactive", 'visibility', 'none');
+        }
+    })
+
+    $("#facility-tabs").tabs();
+
+    $('#popup-close').on('click', function() {
+        $('#facility-tabs').hide();
+    });
+}
+
+function changeYear(year) {
+    map.setFilter("facilities", ["all", [">", year + "TotLbs", 0]]);
+    map.setFilter("Facilities Inactive", ["all", ["==", "$type", "Point"],
+        ["any", ["!has", year + "TotLbs"],
+            ["<=", year + "TotLbs", 0]
+        ]
+    ]);
+    map.setPaintProperty("facilities", "circle-color", {
+        "property": year + "TotLbs",
+        "stops": [
+            [0,'rgb(254,227,145)'],
+            [10,'rgb(254,196,79)'],
+            [100,'rgb(254,153,41)'],
+            [1000,'rgb(236,112,20)'],
+            [10000,'rgb(204,76,2)'],
+            [100000,'rgb(153,52,4)'],
+            [1000000,'rgb(102,37,6)']
+        ]
+    });
+    map.setPaintProperty("facilities", "circle-radius", {
+        "base": 1.1,
+        "property": year + "TotScr",
+        "stops": [
+            [{zoom: 0, value: 0}, 1],
+            [{zoom: 0, value: 1000000}, 2],
+            [{zoom: 3, value: 0}, 1],
+            [{zoom: 3, value: 1000000}, 2],
+            [{zoom: 4, value: 0}, 2],
+            [{zoom: 4, value: 1000000}, 6.5],
+            [{zoom: 16, value: 0}, 14],
+            [{zoom: 16, value: 1000000}, 46],
+        ]
+    })
+    
+}
+
+$('#map-year-up').bind('click', function() {
+    toggleUp();
+});
+$('#map-year-down').bind('click', function() {
+    toggleDown();
+});
+var toggleUp = function() {
+    if (mapYear < maxYear) {
+        mapYear += 1;
+        changeYear(mapYear);
+        $('#map-year').html(mapYear);
+        //ga('send', 'event', 'Map', 'Year', mapYear);
+    }
+};
+
+var toggleDown = function() {
+    if (mapYear > minYear) {
+        mapYear -= 1;
+        changeYear(mapYear);
+        $('#map-year').html(mapYear);
+        //ga('send', 'event', 'Map', 'Year', mapYear);
+    }
+};
+
+function loadPopup(facility_number){
+    var url = '//toxictrends.org/api/v3/facility/' + facility_number + '.json';
+    var startTime = new Date().getTime();
+    
+    //Set info window year to current year
+    document.getElementById('chemical-tab-year').innerHTML = windowYear;
+    document.getElementById('industry-tab-year').innerHTML = windowYear;
+
+    $.ajax({
+        dataType : "json",
+        url : url,
+        success : function(facility_record) {
+            windowYear = mapYear;
+            cleanPopup();
+            parseFacility(facility_record);
+            parseChemicals(facility_record);
+            parseIndustry(facility_record);
+
+            // FIXME
+            if ($("#general-tab-btn").attr('aria-expanded') === 'true') {
+                loadChart(facility_record);
+            } else {
+                $("#general-tab-btn").on('click.draw_chart', function() {
+                    loadChart(facility_record);
+                    $("#general-tab-btn").off('click.draw_chart');
+                });
+            }
+
+            // END FIXME
+
+            initChemListListener();
+            initYearChangers(facility_record);
+        },
+        error : function(request){
+            //ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
+        }
+    }).done(function(){
+        var totalTime = new Date().getTime()-startTime;
+        //ga('send', 'timing', 'api', 'facility', totalTime);
+    });
+        
+    
+}
+
+function cleanPopup() {
+            //Remove event listeners to prevent multiple copies
+            $("#chemical-list").off('click.chemdetails');
+    
+            document.getElementById('info-graph').innerHTML = '';
+            document.getElementById('info-title').innerHTML = '';
+            document.getElementById('info-industry').innerHTML = '';
+            document.getElementById('info-address').innerHTML = '';
+            document.getElementById('info-contact').innerHTML = '';
+            document.getElementById('chemical-list').innerHTML = '';
+            document.getElementById('industry-list').innerHTML = '';
+    
+        }
+
+function parseFacility(facility_record) {
+    console.log(facility_record)
+            $("#facility-tabs").show();
+            document.getElementById('info-title').innerHTML = '<STRONG>' + facility_record.FacilityName + '</STRONG>';
+            if(facility_record.NAICS1 !== undefined && facility_record.NAICS1.name !== undefined){
+                document.getElementById('info-industry').innerHTML = 'Industry: ' + facility_record.NAICS1.name;
+            }
+            document.getElementById('info-address').innerHTML = '<p>' + facility_record.Street + '<br />' + facility_record.City + ' ' + facility_record.State + ', ' + facility_record.ZIPCode + '<br />' + facility_record.Latitude + ' ' + facility_record.Longitude + '</p>';
+            document.getElementById('info-contact').innerHTML = '<p>' + facility_record.PublicContactName + '<br />' + facility_record.PublicContactPhone.replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+    
+            //remove previous zoomto listner
+            $(".zoom-to").off('click.zoom');
+    
+            //Add zoom to listner
+            $(".zoom-to").on('click.zoom', function() {
+                zoomToFacility(facility_record.Latitude, facility_record.Longitude);
+            });
+    
+        }
+    
+        function parseChemicals(facility_record) {
+            var chemList = document.getElementById('chemical-list');
+            var emissions;
+            //Remove stale content
+            chemList.innerHTML = '';
+            //Parse record
+            if (facility_record.Emissions !== undefined && facility_record.Emissions[windowYear] !== undefined && facility_record.Emissions[windowYear].Submissions !== undefined) {
+                emissions = facility_record.Emissions[windowYear].Submissions;
+            } else {
+                emissions = 'NoData';
+            }
+            if (emissions !== 'NoData') {
+                emissions.sort(function(a, b) {
+                    //http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
+                    //Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
+                    if (a.Score < b.Score) {
+                        return 1;
+                    }
+                    if (a.Score > b.Score) {
+                        return -1;
+                    }
+                    return 0;
+                });
+                for (var emission in emissions) {
+                    if(emissions.hasOwnProperty(emission)){
+                        var div = document.createElement('div');
+                        div.className = 'chemical_row';
+                        div.id = 'cas' + emissions[emission].CASNumber;
+                        div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + (emissions[emission].Pounds).format() + ' Risk Score: ' + (emissions[emission].Score).format() + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+                        chemList.appendChild(div);
+                    }
+                }
+            } else {
+                chemList.innerHTML = 'No Chemical Air Releases in ' + windowYear;
+            }
+        }
+    
+        function parseIndustry(facility_record) {
+            var industryList = document.getElementById('industry-list');
+    
+            //Remove stale content
+            industryList.innerHTML = '';
+    
+            //parse record
+            for (var i = 1; i < 10; i++) {
+                if (facility_record['NAICS' + i]) {
+                    var div = document.createElement('div');
+                    var html = "";
+                    div.setAttribute('class', 'industry_row');
+                    html += '<strong>' + facility_record['NAICS' + i].name + '</strong><br />';
+                    if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][windowYear]) {
+                        html += 'This facility did not report any air releases during this year, so comparisons are unavailable.';
+                    } else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count === 1) {
+                        html += 'There is only 1 facility of this type in the country.';
+                    } else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count > 1) {
+                        html += 'There is only 1 facility of this type in ' + stateLookup[facility_record.State] + '. There are ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent of facilities of this type in the country.  The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent of facilities of this type in the country.';
+                    } else {
+                        html += 'There are ' + facility_record['NAICS' + i][windowYear].state_count + ' facilities of this type in ' + stateLookup[facility_record.State] + ' and ' +  facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].state_pounds_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent in the country. The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk score than  ' + facility_record['NAICS' + i][windowYear].state_score_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent in the country.';
+                    }
+    
+                    div.innerHTML = html;
+                    industryList.appendChild(div);
+                }
+            }
+        }
+
+        function initChemListListener() {
+            //Event Listener for chemical list click
+            $("#chemical-list").on('click.chemdetails', function(e) {
+                var target = $(e.target);
+    
+                // Check that they clicked on a chemical row and not the container
+                if (target.hasClass("chemical_row")) {
+                    var casNum = (e.target.id).substring(3, e.target.id.length);
+                    var chem_details = target.children('.chemical_details');
+    
+                    //Check to see if data was downloaded during a previous click
+                    //If not, download data
+                    if (!target.hasClass("data_loaded")) {
+                        //Position from top of chemical list to scroll list to
+                        var scrollto = $("#chemical-list").scrollTop() + chem_details.position().top - 120;
+    
+                        //Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
+                        getChem(casNum);
+                        target.addClass("data_loaded");
+                        chem_details.show();
+    
+                        //Scroll chemical list window so chemical of interest is at top
+                        $("#chemical-list").animate({
+                            scrollTop : (scrollto + 'px')
+                        }, 'slow');
+    
+                    } else {
+                        //If data already loaded, hide or show the chemical details depending on the current view state
+                        if (chem_details.is(":visible")) {
+                            chem_details.hide();
+                        } else {
+                            chem_details.show();
+                        }
+                    }
+                }
+            });
+        }
+    
+        function getChem(casNum) {
+            var url = '//toxictrends.org/api/chemical/' + casNum + '.json';
+            var startTime = new Date().getTime();
+            $.ajax({
+                dataType : "json",
+                url : url,
+                success : function(data) {
+                    
+                    parseChem(casNum, data);
+                    ga('send', 'event', 'chemical', 'click', data.ChemName);
+                },
+                error: function(request){
+                    ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
+                }
+                
+            }).done(function(){
+                        var totalTime = new Date().getTime()-startTime;
+                        ga('send', 'timing', 'api', 'chemical', totalTime);
+                    });
+        }
+    
+        function parseChem(casNum, data) {
+            var html = '';
+    
+            // Metal
+            html += "<br /><strong>Metalic: </strong>";
+            if (data.Metal === "TRUE") {
+                html += 'This chemical is a metal';
+            } else {
+                html += 'This chemical is not a metal';
+            }
+    
+            // Carcinogen
+            html += "<br /><br /><strong>Cancer: </strong>";
+            if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "cancer") {
+                html += "This chemical is carcinogenic through both the oral and inhalation pathways";
+            } else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "non-cancer") {
+                html += "This chemical is not known to be carcinogenic";
+            } else if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "non-cancer") {
+                html += "This chemical is carcinogenic through the inhalation pathway but not the oral pathway";
+            } else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "cancer") {
+                html += "This chemical is carcinogenic through the oral pathway but not the inhalation pathway";
+            } else {
+                html += "Information on cancer causing effects are not available for this chemical";
+            }
+    
+            // Health Effects
+            html += "<br /><br /><strong>Other Health Effects: </strong>";
+            if (data['Health Effects'] === undefined || data['Health Effects'] === null || data['Health Effects'].length === 0) {
+                html += "Human health effects have not been identfied for this chemical";
+            } else {
+                html += 'Identified human health effects include: ';
+                if (data['Health Effects'].length === 1) {
+                    html += data['Health Effects'][0];
+                } else if (data['Health Effects'].length === 2) {
+                    html += data['Health Effects'][0] + ' and ' + data['Health Effects'][1];
+                } else if (data['Health Effects'].length > 2) {
+                    var text = data['Health Effects'][data['Health Effects'].length - 1];
+                    data['Health Effects'][data['Health Effects'].length - 1] = 'and ' + text;
+                    html += data['Health Effects'].join(', ');
+                }
+            }
+    
+            //Federal Register
+            html += "<br /><br /><strong>Federal Register: </strong>";
+            if (data['Federal Register'] === "") {
+                html += "There is no official definition of this chemical in the federal register";
+            } else {
+                html += data['Federal Register'];
+            }
+    
+            // Aditional Information
+            html += "<br /><br /><strong>Additional information: </strong>";
+    
+            if (data.IRIS !== "") {
+                html += '<br /><a href="' + data.IRIS + '" target="_blank">Integrated Risk Information System (IRIS)</a>';
+            }
+            if (data.ATSDR !== "") {
+                html += '<br /><a href="' + data.ATSDR + '" target="_blank">Agency for Toxic Substances and Disease Registry (ATSDR)</a>';
+            }
+            if (data.OPP !== "") {
+                html += '<br /><a href="' + data.OPP + '" target="_blank">Office of Pesticide Programs (OPP)</a>';
+            }
+            if (data.OPP === "" && data.IRIS === "" && data.ATSDR === "") {
+                html += "<br />None available";
+            }
+    
+            //Add html to chemical div
+            document.getElementById('inf' + casNum).innerHTML = html;
+        }
+    
+        function initYearChangers(facility_record) {
+            //remove previous listner
+            $("#facility-tabs").off('click.yearchanger');
+            //Set the windowYear to the mapYear on first load
+            $("div.popup-year-label").html(mapYear);
+            //app.windowYear = app.mapYear;
+    
+            //Add click listner with yearchanger namespace for later reference
+            $("#facility-tabs").on('click.yearchanger', function(e) {
+                var oldyear = windowYear;
+                if ($(e.target).hasClass("popup-year-left")) {
+                    if (windowYear > minYear) {
+                        windowYear -= 1;
+                    }
+                } else if ($(e.target).hasClass("popup-year-right")) {
+                    if (windowYear < maxYear) {
+                        windowYear += 1;
+                    }
+                } else {
+                    return;
+                }
+    
+                if (oldyear !== windowYear) {
+                    $("div.popup-year-label").html(windowYear);
+                    parseChemicals(facility_record);
+                    parseIndustry(facility_record);
+                    $("#chemical-list").animate({
+                        scrollTop : ('0px')
+                    }, 'fast');
+                    $("#industry-list").animate({
+                        scrollTop : ('0px')
+                    }, 'fast');
+                }
+            });
+        }
+
+        function loadChart(facility_record) {
+    
+            // create chart data
+
+                var data;
+                var chart_data = [['Year', 'Total Pounds Released', 'Risk Score']];
+                var chart = new google.visualization.LineChart($('#info-graph')[0]);
+                var options = {
+                    title : 'Facility Performance',
+                    hAxis : {
+                        gridlines : {
+                            color : '#333',
+                            count : 10
+                        }
+                    },
+                    series : {
+                        0 : {
+                            argetAxisIndex : 0
+                        },
+                        1 : {
+                            targetAxisIndex : 1
+                        }
+                    },
+                    vAxes : {
+                        0 : {
+                            textStyle : {
+                                color : 'blue'
+                            },
+                            label : 'Total Pounds Released'
+                        },
+                        1 : {
+                            textStyle : {
+                                color : 'red'
+                            },
+                            label : 'Risk Score'
+                        }
+                    },
+                    chartArea : {
+                        width : '97%'
+                    },
+                    vAxis : {
+                        textPosition : 'in'
+                    }
+    
+                };
+                var formatter = new google.visualization.NumberFormat({
+                    fractionDigits: '0'
+                });
+                
+                $.each(facility_record.Emissions, function(k, v) {
+                    chart_data.push([k, v.TotalPounds, v.TotalScore]);
+                });
+    
+                //set the chart properties
+                data = google.visualization.arrayToDataTable(chart_data);
+                formatter.format(data, 2); // Apply formatter to risk
+                formatter.format(data, 1); // Apply formatter to pounds
+                chart.draw(data, options);
+
+        }
+
+
+
+</script>
+
+</body>
+</html>

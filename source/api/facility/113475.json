@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ANSONIA",
+    "County": "CT,NEW HAVEN",
+    "DUNS": "080843774",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 73247.303071,
+    "DistanceToReach": 84.348199,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396100358593",
+                    "MaxOnsite": "05",
+                    "Pounds": 274.0,
+                    "Score": 0.716312,
+                    "SubmissionNumber": 1778613,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 274.0,
+            "TotalScore": 0.716312,
+            "state_score_percentile": 22,
+            "us_score_percentile": 18
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1397110458205",
+                    "MaxOnsite": "05",
+                    "Pounds": 186.0,
+                    "Score": 0.487283,
+                    "SubmissionNumber": 1863843,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 186.0,
+            "TotalScore": 0.487283,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1398120216751",
+                    "MaxOnsite": "05",
+                    "Pounds": 739.0,
+                    "Score": 1.94011,
+                    "SubmissionNumber": 1917542,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 739.0,
+            "TotalScore": 1.94011,
+            "state_score_percentile": 32,
+            "us_score_percentile": 24
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1399130306754",
+                    "MaxOnsite": "05",
+                    "Pounds": 270.0,
+                    "Score": 0.710328,
+                    "SubmissionNumber": 2016232,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 270.0,
+            "TotalScore": 0.710328,
+            "state_score_percentile": 25,
+            "us_score_percentile": 19
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1300140610458",
+                    "MaxOnsite": "05",
+                    "Pounds": 372.0,
+                    "Score": 0.980728,
+                    "SubmissionNumber": 48051,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 372.0,
+            "TotalScore": 0.980728,
+            "state_score_percentile": 29,
+            "us_score_percentile": 23
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1301150664492",
+                    "MaxOnsite": "05",
+                    "Pounds": 155.0,
+                    "Score": 0.409249,
+                    "SubmissionNumber": 153555,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 155.0,
+            "TotalScore": 0.409249,
+            "state_score_percentile": 31,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "09009",
+    "FRSID": "110000316042",
+    "FacilityID": "06401LTXFM20WES",
+    "FacilityNumber": 113475,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.344279,
+    "Longitude": -73.079751,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 60,
+            "us_count": 169,
+            "us_pounds_pct": 23,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 161,
+            "us_pounds_pct": 16,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 149,
+            "us_pounds_pct": 36,
+            "us_score_pct": 35
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 33,
+            "us_count": 152,
+            "us_pounds_pct": 23,
+            "us_score_pct": 26
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 154,
+            "us_pounds_pct": 29,
+            "us_score_pct": 31
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 160,
+            "us_pounds_pct": 26,
+            "us_score_pct": 21
+        },
+        "naicscode": "326299",
+        "name": "All Other Rubber Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3262",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": 1,
+    "NPDESPermit": "CT0030112",
+    "Name": "LATEX FOAM PRODUCTS",
+    "NearComID": 7718376,
+    "NearReach": "01100005001573",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.33997,
+    "PreferredLong": 73.07909,
+    "PublicContactName": "JAMES MORRELL",
+    "PublicContactPhone": "2039240700",
+    "RCRANumber": "CT0030112",
+    "RadialDistance": 2947404,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 57,
+            "us_count": 215,
+            "us_pounds_pct": 20,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 204,
+            "us_pounds_pct": 13,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 37,
+            "us_count": 196,
+            "us_pounds_pct": 32,
+            "us_score_pct": 35
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 193,
+            "us_pounds_pct": 21,
+            "us_score_pct": 27
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 192,
+            "us_pounds_pct": 25,
+            "us_score_pct": 30
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 200,
+            "us_pounds_pct": 22,
+            "us_score_pct": 20
+        },
+        "name": "Fabricated rubber products, n.e.c.",
+        "siccode": "3069"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "306",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 18.288,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 1.6408,
+    "StackVelocitySource": "Fac Spec",
+    "State": "CT",
+    "Street": "20 W. MAIN ST.",
+    "SubmitLat": 41.18333,
+    "SubmitLong": 73.5,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2327,
+    "Y": 2797,
+    "ZIP9": "06401",
+    "ZIPCode": "06401"
+}

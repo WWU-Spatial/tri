@@ -1,0 +1,172 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BERLIN",
+    "County": "PA,SOMERSET",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 120911.844604,
+    "DistanceToReach": 663.048781,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309207640475",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.3,
+                    "Score": 0.108775,
+                    "SubmissionNumber": 876367,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1309207640487",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.043,
+                    "Score": 0.002399,
+                    "SubmissionNumber": 876368,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.343,
+            "TotalScore": 0.111174,
+            "state_score_percentile": 11,
+            "us_score_percentile": 10
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208753590",
+                    "MaxOnsite": "03",
+                    "Pounds": 1.3,
+                    "Score": 0.108239,
+                    "SubmissionNumber": 976210,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1310208753602",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.044,
+                    "Score": 0.002442,
+                    "SubmissionNumber": 976211,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1.344,
+            "TotalScore": 0.110681,
+            "state_score_percentile": 9,
+            "us_score_percentile": 9
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110042000134",
+    "FacilityID": "1553WCMBRP26CAL",
+    "FacilityNumber": 117972,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.998,
+    "Longitude": -78.95211,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 33,
+            "us_pounds_pct": 60,
+            "us_score_pct": 63
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 31,
+            "us_pounds_pct": 54,
+            "us_score_pct": 54
+        },
+        "naicscode": "212111",
+        "name": "Bituminous Coal and Lignite Surface Mining"
+    },
+    "NAICSCode3Digit": "212",
+    "NAICSCode4Digit": "2121",
+    "NAICSCodeSame3Digit": "212",
+    "NHDRegion": 5,
+    "NPDESPermit": "",
+    "Name": "PBS COALS - CAMBRIA PLANT",
+    "NearComID": 4753616,
+    "NearReach": "05010007001050",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "016089138",
+    "ParentName": "SEVERSTAL NA INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KIM BETCHER",
+    "PublicContactPhone": "8144434668",
+    "RCRANumber": "",
+    "RadialDistance": 2474382,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 35,
+            "us_pounds_pct": 57,
+            "us_score_pct": 60
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 33,
+            "us_pounds_pct": 51,
+            "us_score_pct": 51
+        },
+        "name": "Bituminous coal and lignite surface mining",
+        "siccode": "1221"
+    },
+    "SICCode2Digit": "12",
+    "SICCode3Digit": "122",
+    "SICCodeSame2Digit": "12",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.9456,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 5.3833,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "206 COAL RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1772,
+    "Y": 2489,
+    "ZIP9": "15530",
+    "ZIPCode": "15530"
+}

@@ -1,0 +1,241 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BRITAIN",
+    "County": "CT,HARTFORD",
+    "DUNS": "784738270",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30975.636523,
+    "DistanceToReach": 2821.006058,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1396105348181",
+                    "MaxOnsite": "05",
+                    "Pounds": 9.0,
+                    "Score": 48.7214,
+                    "SubmissionNumber": 1813532,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9.0,
+            "TotalScore": 48.7214,
+            "state_score_percentile": 4,
+            "us_score_percentile": 4
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1397110417324",
+                    "MaxOnsite": "05",
+                    "Pounds": 9.0,
+                    "Score": 48.724599999999995,
+                    "SubmissionNumber": 1860337,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9.0,
+            "TotalScore": 48.724599999999995,
+            "state_score_percentile": 3,
+            "us_score_percentile": 4
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1398120391279",
+                    "MaxOnsite": "05",
+                    "Pounds": 6.0,
+                    "Score": 40.000550000000004,
+                    "SubmissionNumber": 1930580,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6.0,
+            "TotalScore": 40.000550000000004,
+            "state_score_percentile": 3,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315338",
+    "FacilityID": "06053NFRMP1303C",
+    "FacilityNumber": 113247,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.667705,
+    "Longitude": -72.797807,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 197,
+            "us_pounds_pct": 7,
+            "us_score_pct": 35
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 185,
+            "us_pounds_pct": 7,
+            "us_score_pct": 35
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 192,
+            "us_pounds_pct": 4,
+            "us_score_pct": 36
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 1,
+    "NPDESPermit": "GSI000528",
+    "Name": "ACME PACKAGING CORP. NEW BRITAIN",
+    "NearComID": 7700290,
+    "NearReach": "01080205000905",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "791200652",
+    "ParentName": "ACME METALS INC",
+    "PreferredLat": 41.66833,
+    "PreferredLong": 72.80389,
+    "PublicContactName": "J. HAWTHORNE",
+    "PublicContactPhone": "7088492500",
+    "RCRANumber": "CTD982200933",
+    "RadialDistance": 2987710,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 9,
+            "state_score_pct": 45,
+            "us_count": 350,
+            "us_pounds_pct": 6,
+            "us_score_pct": 41
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 325,
+            "us_pounds_pct": 5,
+            "us_score_pct": 38
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 37,
+            "us_count": 332,
+            "us_pounds_pct": 5,
+            "us_score_pct": 37
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 11,
+            "state_score_pct": 44,
+            "us_count": 402,
+            "us_pounds_pct": 1,
+            "us_score_pct": 49
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 388,
+            "us_pounds_pct": 1,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 391,
+            "us_pounds_pct": 0,
+            "us_score_pct": 48
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 16,
+            "us_score_pct": 43
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 25,
+            "us_score_pct": 35
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 25,
+            "us_pounds_pct": 24,
+            "us_score_pct": 40
+        },
+        "name": "Machine tools, metal cutting types",
+        "siccode": "3541"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "100 BURRITT ST.",
+    "SubmitLat": 41.66833,
+    "SubmitLong": 72.80389,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2344,
+    "Y": 2848,
+    "ZIP9": "060506500",
+    "ZIPCode": "06050"
+}

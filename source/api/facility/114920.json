@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WALL",
+    "County": "NJ,MONMOUTH",
+    "DUNS": "150553592",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57545.731814,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397115318141",
+                    "MaxOnsite": "03",
+                    "Pounds": 11313.0,
+                    "Score": 0.334245,
+                    "SubmissionNumber": 1893427,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 11313.0,
+            "TotalScore": 0.334245,
+            "state_score_percentile": 68,
+            "us_score_percentile": 54
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125322368",
+                    "MaxOnsite": "03",
+                    "Pounds": 9828.0,
+                    "Score": 0.293873,
+                    "SubmissionNumber": 1982466,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9828.0,
+            "TotalScore": 0.293873,
+            "state_score_percentile": 65,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "34025",
+    "FRSID": "110009833109",
+    "FacilityID": "07719RCRSRSTATE",
+    "FacilityNumber": 114920,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.183667,
+    "Longitude": -74.114611,
+    "Method": "GPS CARRIER PHASE STATIC RELATIVE POSITION",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 48,
+            "us_score_pct": 5
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 51,
+            "us_score_pct": 3
+        },
+        "naicscode": "336360",
+        "name": "Motor Vehicle Seating and Interior Trim Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3363",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0129232",
+    "Name": "AIR CRUISERS CO.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "277636981",
+    "ParentName": "ZODIAC SA",
+    "PreferredLat": 40.1859,
+    "PreferredLong": 74.1149,
+    "PublicContactName": "STEPHEN MELNICK",
+    "PublicContactPhone": "7326813527",
+    "RCRANumber": "NJD981487499",
+    "RadialDistance": 2800714,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 28,
+            "us_count": 204,
+            "us_pounds_pct": 52,
+            "us_score_pct": 18
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 28,
+            "us_count": 196,
+            "us_pounds_pct": 54,
+            "us_score_pct": 18
+        },
+        "name": "Fabricated rubber products, n.e.c.",
+        "siccode": "3069"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "306",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "RTE. 34 & AIRPORT RD.",
+    "SubmitLat": 40.1825,
+    "SubmitLong": 74.11472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2260,
+    "Y": 2616,
+    "ZIP9": "07719",
+    "ZIPCode": "07719"
+}

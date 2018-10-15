@@ -1,0 +1,243 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NORTH BILLERICA",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "011995081",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 30977.831708,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1309208087712",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.047,
+                    "Score": 74.9966,
+                    "SubmissionNumber": 909999,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440484",
+                    "Chemical": "Cobalt and cobalt compounds",
+                    "ChemicalNumber": 154,
+                    "DCN": "1309208087724",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.0217,
+                    "Score": 21.0606,
+                    "SubmissionNumber": 910000,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309208087736",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.22,
+                    "Score": 0.017963,
+                    "SubmissionNumber": 910001,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309208087748",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.0923,
+                    "Score": 4.90057,
+                    "SubmissionNumber": 910002,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.381,
+            "TotalScore": 100.97573299999999,
+            "state_score_percentile": 9,
+            "us_score_percentile": 6
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208148116",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.09,
+                    "Score": 4.77292,
+                    "SubmissionNumber": 919626,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.09,
+            "TotalScore": 4.77292,
+            "state_score_percentile": 4,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000310039",
+    "FacilityID": "01862SPNCRIRONH",
+    "FacilityNumber": 111293,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.58434,
+    "Longitude": -71.269708,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 8,
+            "us_score_pct": 52
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 6,
+            "us_score_pct": 35
+        },
+        "naicscode": "333999",
+        "name": "All Other Miscellaneous General Purpose Machinery Manufacturing"
+    },
+    "NAICS2": {
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 2,
+            "us_score_pct": 73
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 96,
+            "us_pounds_pct": 2,
+            "us_score_pct": 45
+        },
+        "naicscode": "332811",
+        "name": "Metal Heat Treating"
+    },
+    "NAICS3": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 33,
+            "us_pounds_pct": 9,
+            "us_score_pct": 36
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 5,
+            "us_score_pct": 32
+        },
+        "naicscode": "333611",
+        "name": "Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "NAICS4": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 18,
+            "us_score_pct": 54
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 10,
+            "us_score_pct": 20
+        },
+        "naicscode": "336415",
+        "name": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3339",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "STANDEX INTERNATIONAL SPINCRAFT DIV",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001032002",
+    "ParentName": "STANDEX INTERNATIONAL CORP",
+    "PreferredLat": 42.58333,
+    "PreferredLong": 71.27028,
+    "PublicContactName": "JOSEPH JULIANO",
+    "PublicContactPhone": "9786672771",
+    "RCRANumber": "MAD088527247",
+    "RadialDistance": 3149513,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 10,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 18,
+            "us_pounds_pct": 5,
+            "us_score_pct": 16
+        },
+        "name": "Miscellaneous structural metal work",
+        "siccode": "3449"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "344",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1592,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "500 IRON HORSE PARK",
+    "SubmitLat": 42.58333,
+    "SubmitLong": 71.27028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2463,
+    "Y": 3009,
+    "ZIP9": "01862",
+    "ZIPCode": "01862"
+}

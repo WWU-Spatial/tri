@@ -1,0 +1,396 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEWARK",
+    "County": "NJ,ESSEX",
+    "DUNS": "002449262",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 4728.438878,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396105064238",
+                    "MaxOnsite": "03",
+                    "Pounds": 255.0,
+                    "Score": 172.65615,
+                    "SubmissionNumber": 1794973,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1396105397499",
+                    "MaxOnsite": "05",
+                    "Pounds": 4.0,
+                    "Score": 0.357868,
+                    "SubmissionNumber": 1817459,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 259.0,
+            "TotalScore": 173.014018,
+            "state_score_percentile": 19,
+            "us_score_percentile": 18
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1398125367250",
+                    "MaxOnsite": "05",
+                    "Pounds": 3.6100000000000003,
+                    "Score": 0.333125,
+                    "SubmissionNumber": 1985430,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.6100000000000003,
+            "TotalScore": 0.333125,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306208023580",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.6,
+                    "Score": 4.271621,
+                    "SubmissionNumber": 657019,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.6,
+            "TotalScore": 4.271621,
+            "state_score_percentile": 4,
+            "us_score_percentile": 6
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307208023566",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.5,
+                    "Score": 3.5917589999999997,
+                    "SubmissionNumber": 745054,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 3.5917589999999997,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308208023541",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.6,
+                    "Score": 4.2704070000000005,
+                    "SubmissionNumber": 830663,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.6,
+            "TotalScore": 4.2704070000000005,
+            "state_score_percentile": 7,
+            "us_score_percentile": 7
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309208023527",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.6,
+                    "Score": 4.269805,
+                    "SubmissionNumber": 908316,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.6,
+            "TotalScore": 4.269805,
+            "state_score_percentile": 5,
+            "us_score_percentile": 7
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208902926",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.5,
+                    "Score": 3.589453,
+                    "SubmissionNumber": 989572,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.5,
+            "TotalScore": 3.589453,
+            "state_score_percentile": 5,
+            "us_score_percentile": 6
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000763237",
+    "FacilityID": "07105HRCSP65EUC",
+    "FacilityNumber": 114523,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.735236,
+    "Longitude": -74.135524,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 97,
+            "us_pounds_pct": 22,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 91,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 95,
+            "us_pounds_pct": 6,
+            "us_score_pct": 23
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 94,
+            "us_pounds_pct": 5,
+            "us_score_pct": 22
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 93,
+            "us_pounds_pct": 7,
+            "us_score_pct": 22
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 94,
+            "us_pounds_pct": 6,
+            "us_score_pct": 26
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 91,
+            "us_pounds_pct": 2,
+            "us_score_pct": 19
+        },
+        "naicscode": "331492",
+        "name": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 1,
+            "us_pounds_pct": 100,
+            "us_score_pct": 100
+        },
+        "naicscode": "423940",
+        "name": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HERAEUS PRECIOUS METALS MANAGEMENT LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001264563",
+    "ParentName": "HERAEUS",
+    "PreferredLat": 40.73515,
+    "PreferredLong": 74.13615,
+    "PublicContactName": "ARTIN JANIAN",
+    "PublicContactPhone": "9738177878",
+    "RCRANumber": "NJD002449262",
+    "RadialDistance": 2836055,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 198,
+            "us_pounds_pct": 25,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 195,
+            "us_pounds_pct": 2,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 188,
+            "us_pounds_pct": 3,
+            "us_score_pct": 18
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 33,
+            "us_count": 187,
+            "us_pounds_pct": 2,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 180,
+            "us_pounds_pct": 5,
+            "us_score_pct": 18
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 166,
+            "us_pounds_pct": 4,
+            "us_score_pct": 21
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 157,
+            "us_pounds_pct": 3,
+            "us_score_pct": 17
+        },
+        "name": "Secondary smelting and refining of nonferrous metals",
+        "siccode": "3341"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "334",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.1745,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "65 EUCLID AVE",
+    "SubmitLat": 40.73528,
+    "SubmitLong": 74.13639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2241,
+    "Y": 2690,
+    "ZIP9": "071054527",
+    "ZIPCode": "07105"
+}

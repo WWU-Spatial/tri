@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BURLINGTON",
+    "County": "VT,CHITTENDEN",
+    "DUNS": "196675706",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5610.554314,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1396105023903",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 7844.25,
+                    "SubmissionNumber": 1792229,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396105023915",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 52590.2,
+                    "SubmissionNumber": 1792230,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105392979",
+                    "MaxOnsite": "03",
+                    "Pounds": 11862.0,
+                    "Score": 0.27875,
+                    "SubmissionNumber": 1817135,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12362.0,
+            "TotalScore": 60434.728749999995,
+            "state_score_percentile": 70,
+            "us_score_percentile": 55
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115034579",
+                    "MaxOnsite": "03",
+                    "Pounds": 12768.0,
+                    "Score": 0.300487,
+                    "SubmissionNumber": 1877669,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12768.0,
+            "TotalScore": 0.300487,
+            "state_score_percentile": 71,
+            "us_score_percentile": 56
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398120085636",
+                    "MaxOnsite": "03",
+                    "Pounds": 5782.0,
+                    "Score": 0.136278,
+                    "SubmissionNumber": 1906674,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5782.0,
+            "TotalScore": 0.136278,
+            "state_score_percentile": 52,
+            "us_score_percentile": 45
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1399130030238",
+                    "MaxOnsite": "03",
+                    "Pounds": 1103.0,
+                    "Score": 0.026036,
+                    "SubmissionNumber": 1992880,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1103.0,
+            "TotalScore": 0.026036,
+            "state_score_percentile": 42,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "50007",
+    "FRSID": "110000314794",
+    "FacilityID": "05402GSBLD50LAK",
+    "FacilityNumber": 113069,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.46109,
+    "Longitude": -73.22026,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 64,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 68,
+            "us_score_pct": 6
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 66,
+            "us_score_pct": 6
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 52,
+            "us_score_pct": 2
+        },
+        "naicscode": "333319",
+        "name": "Other Commercial and Service Industry Machinery Manufacturing"
+    },
+    "NAICSCode3Digit": "333",
+    "NAICSCode4Digit": "3333",
+    "NAICSCodeSame3Digit": "333",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BLODGETT OVEN CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "107636953",
+    "ParentName": "THE MIDDELBY CORP",
+    "PreferredLat": 44.46094,
+    "PreferredLong": 73.22069,
+    "PublicContactName": "DAN COOLBETH",
+    "PublicContactPhone": "8028603895",
+    "RCRANumber": "VTD002067254",
+    "RadialDistance": 3158230,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 63,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 19,
+            "us_pounds_pct": 68,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 66,
+            "us_score_pct": 9
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 50,
+            "us_score_pct": 4
+        },
+        "name": "Service industry machinery, n.e.c.",
+        "siccode": "3589"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "358",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "50",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.3119,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "VT",
+    "Street": "50 LAKESIDE AVE",
+    "SubmitLat": 44.46083,
+    "SubmitLong": 73.22056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2211,
+    "Y": 3212,
+    "ZIP9": "05401",
+    "ZIPCode": "05401"
+}

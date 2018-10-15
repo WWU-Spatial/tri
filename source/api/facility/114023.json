@@ -1,0 +1,387 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "STAMFORD",
+    "County": "CT,FAIRFIELD",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 64530.86683,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1306204551624",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.37,
+                    "Score": 71.3567,
+                    "SubmissionNumber": 602983,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.37,
+            "TotalScore": 71.3567,
+            "state_score_percentile": 11,
+            "us_score_percentile": 5
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307205590375",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.126,
+                    "Score": 0.0,
+                    "SubmissionNumber": 695224,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205590399",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.52,
+                    "Score": 100.39,
+                    "SubmissionNumber": 695226,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.646,
+            "TotalScore": 100.39,
+            "state_score_percentile": 14,
+            "us_score_percentile": 6
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206657153",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.1,
+                    "Score": 0.0,
+                    "SubmissionNumber": 788609,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206657177",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.43,
+                    "Score": 83.1023,
+                    "SubmissionNumber": 788611,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.53,
+            "TotalScore": 83.1023,
+            "state_score_percentile": 13,
+            "us_score_percentile": 7
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207761343",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.09,
+                    "Score": 0.0,
+                    "SubmissionNumber": 887591,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207761444",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.38,
+                    "Score": 73.5163,
+                    "SubmissionNumber": 887601,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.47,
+            "TotalScore": 73.5163,
+            "state_score_percentile": 15,
+            "us_score_percentile": 6
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208473076",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.04,
+                    "Score": 0.0,
+                    "SubmissionNumber": 949625,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208473090",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.17,
+                    "Score": 32.9233,
+                    "SubmissionNumber": 949627,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.21000000000000002,
+            "TotalScore": 32.9233,
+            "state_score_percentile": 13,
+            "us_score_percentile": 5
+        }
+    },
+    "FIPS": "09001",
+    "FRSID": "110001731154",
+    "FacilityID": "06902GNDST72DAV",
+    "FacilityNumber": 114023,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.042565,
+    "Longitude": -73.546863,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 278,
+            "us_pounds_pct": 79,
+            "us_score_pct": 96
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 259,
+            "us_pounds_pct": 80,
+            "us_score_pct": 94
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 296,
+            "us_pounds_pct": 72,
+            "us_score_pct": 94
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 292,
+            "us_pounds_pct": 74,
+            "us_score_pct": 92
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 100,
+            "us_count": 287,
+            "us_pounds_pct": 64,
+            "us_score_pct": 91
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICS2": {
+        "2006": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 192,
+            "us_pounds_pct": 31,
+            "us_score_pct": 61
+        },
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 221,
+            "us_pounds_pct": 35,
+            "us_score_pct": 56
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 219,
+            "us_pounds_pct": 33,
+            "us_score_pct": 52
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 100,
+            "us_count": 220,
+            "us_pounds_pct": 28,
+            "us_score_pct": 47
+        },
+        "2010": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 100,
+            "us_count": 219,
+            "us_pounds_pct": 19,
+            "us_score_pct": 36
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "O&G INDUSTRIES INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "018838136",
+    "ParentName": "O&G INDUSTRIES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "VIRGINIA RYAN",
+    "PublicContactPhone": "8604964832",
+    "RCRANumber": "NA",
+    "RadialDistance": 2896063,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2006": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 286,
+            "us_pounds_pct": 76,
+            "us_score_pct": 96
+        },
+        "2007": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 266,
+            "us_pounds_pct": 78,
+            "us_score_pct": 96
+        },
+        "2008": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 297,
+            "us_pounds_pct": 71,
+            "us_score_pct": 95
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 291,
+            "us_pounds_pct": 73,
+            "us_score_pct": 94
+        },
+        "2010": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 100,
+            "us_count": 279,
+            "us_pounds_pct": 64,
+            "us_score_pct": 92
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SIC2": {
+        "2006": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 198,
+            "us_pounds_pct": 30,
+            "us_score_pct": 62
+        },
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 218,
+            "us_pounds_pct": 36,
+            "us_score_pct": 55
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 213,
+            "us_pounds_pct": 33,
+            "us_score_pct": 52
+        },
+        "2009": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 100,
+            "us_count": 210,
+            "us_pounds_pct": 29,
+            "us_score_pct": 48
+        },
+        "2010": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 100,
+            "us_count": 211,
+            "us_pounds_pct": 18,
+            "us_score_pct": 37
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "72 DAVENPORT ST",
+    "SubmitLat": 41.04056,
+    "SubmitLong": 73.54694,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2290,
+    "Y": 2746,
+    "ZIP9": "06902",
+    "ZIPCode": "06902"
+}

@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW HARTFORD",
+    "County": "NY,ONEIDA",
+    "DUNS": "013713871",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 63304.71995,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1308206990564",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 46.3009,
+                    "SubmissionNumber": 819289,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1308206990727",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.02015,
+                    "SubmissionNumber": 819304,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1308206990968",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.261232,
+                    "SubmissionNumber": 819318,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 46.582282,
+            "state_score_percentile": 24,
+            "us_score_percentile": 17
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1309207957150",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 46.1607,
+                    "SubmissionNumber": 904471,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1309207957248",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.020089,
+                    "SubmissionNumber": 904479,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1309207957390",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.260443,
+                    "SubmissionNumber": 904491,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 8.0,
+            "TotalScore": 46.441232,
+            "state_score_percentile": 26,
+            "us_score_percentile": 18
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440020",
+                    "Chemical": "Nickel and nickel compounds",
+                    "ChemicalNumber": 405,
+                    "DCN": "1310208400945",
+                    "MaxOnsite": "05",
+                    "Pounds": 250.0,
+                    "Score": 5752.57,
+                    "SubmissionNumber": 942737,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1310208400958",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 5.060946,
+                    "SubmissionNumber": 942738,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1310208400960",
+                    "MaxOnsite": "03",
+                    "Pounds": 755.0,
+                    "Score": 65.612643,
+                    "SubmissionNumber": 942739,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 1760.0,
+            "TotalScore": 5823.243589,
+            "state_score_percentile": 63,
+            "us_score_percentile": 54
+        }
+    },
+    "FIPS": "36065",
+    "FRSID": "110033162654",
+    "FacilityID": "13413SSSMR4355M",
+    "FacilityNumber": 116762,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.078031,
+    "Longitude": -75.338623,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 60,
+            "us_pounds_pct": 20,
+            "us_score_pct": 53
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 61,
+            "us_pounds_pct": 26,
+            "us_score_pct": 54
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 58,
+            "us_pounds_pct": 77,
+            "us_score_pct": 82
+        },
+        "naicscode": "331491",
+        "name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+    },
+    "NAICS2": {
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 93,
+            "us_pounds_pct": 15,
+            "us_score_pct": 38
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 12,
+            "state_score_pct": 50,
+            "us_count": 94,
+            "us_pounds_pct": 20,
+            "us_score_pct": 41
+        },
+        "2010": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 87,
+            "us_count": 91,
+            "us_pounds_pct": 68,
+            "us_score_pct": 80
+        },
+        "naicscode": "331492",
+        "name": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3314",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "SAES SMART MATERIALS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SAES GETTERS SPA ITALY",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "SAME",
+    "PublicContactPhone": "3152662026",
+    "RCRANumber": "NYR000153627",
+    "RadialDistance": 2928760,
+    "ReachSource": "",
+    "Region": "2",
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "335",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.144,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "4355 MIDDLE SETTLEMENT RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2050,
+    "Y": 2979,
+    "ZIP9": "13413",
+    "ZIPCode": "13413"
+}

@@ -1,0 +1,342 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCKWOOD",
+    "County": "PA,SOMERSET",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 110661.197063,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1305206595290",
+                    "MaxOnsite": "05",
+                    "Pounds": 30.0,
+                    "Score": 0.482382,
+                    "SubmissionNumber": 565624,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 0.482382,
+            "state_score_percentile": 22,
+            "us_score_percentile": 23
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1306206595338",
+                    "MaxOnsite": "05",
+                    "Pounds": 30.0,
+                    "Score": 0.48189800000000005,
+                    "SubmissionNumber": 655477,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 0.48189800000000005,
+            "state_score_percentile": 22,
+            "us_score_percentile": 23
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1307206595377",
+                    "MaxOnsite": "05",
+                    "Pounds": 33.0,
+                    "Score": 0.529556,
+                    "SubmissionNumber": 742111,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 0.529556,
+            "state_score_percentile": 23,
+            "us_score_percentile": 24
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1308206595415",
+                    "MaxOnsite": "05",
+                    "Pounds": 33.0,
+                    "Score": 0.5290239999999999,
+                    "SubmissionNumber": 782851,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 33.0,
+            "TotalScore": 0.5290239999999999,
+            "state_score_percentile": 26,
+            "us_score_percentile": 25
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1309207679162",
+                    "MaxOnsite": "05",
+                    "Pounds": 25.0,
+                    "Score": 0.403169,
+                    "SubmissionNumber": 879986,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 25.0,
+            "TotalScore": 0.403169,
+            "state_score_percentile": 26,
+            "us_score_percentile": 25
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1310208331708",
+                    "MaxOnsite": "05",
+                    "Pounds": 19.0,
+                    "Score": 0.306774,
+                    "SubmissionNumber": 937162,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 19.0,
+            "TotalScore": 0.306774,
+            "state_score_percentile": 22,
+            "us_score_percentile": 23
+        }
+    },
+    "FIPS": "42111",
+    "FRSID": "110001134987",
+    "FacilityID": "15557RCKWD300MA",
+    "FacilityNumber": 117979,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.913476,
+    "Longitude": -79.163153,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 35,
+            "us_pounds_pct": 38,
+            "us_score_pct": 20
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 33,
+            "us_pounds_pct": 40,
+            "us_score_pct": 21
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 31,
+            "us_pounds_pct": 41,
+            "us_score_pct": 22
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 60,
+            "us_score_pct": 26
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 51,
+            "us_score_pct": 31
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 55,
+            "us_score_pct": 27
+        },
+        "naicscode": "332510",
+        "name": "Hardware Manufacturing"
+    },
+    "NAICS2": {
+        "2005": {
+            "state_count": 24,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 479,
+            "us_pounds_pct": 30,
+            "us_score_pct": 10
+        },
+        "2006": {
+            "state_count": 24,
+            "state_pounds_pct": 33,
+            "state_score_pct": 20,
+            "us_count": 469,
+            "us_pounds_pct": 29,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 26,
+            "state_pounds_pct": 34,
+            "state_score_pct": 15,
+            "us_count": 461,
+            "us_pounds_pct": 34,
+            "us_score_pct": 12
+        },
+        "2008": {
+            "state_count": 26,
+            "state_pounds_pct": 30,
+            "state_score_pct": 19,
+            "us_count": 438,
+            "us_pounds_pct": 33,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 24,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 413,
+            "us_pounds_pct": 32,
+            "us_score_pct": 11
+        },
+        "2010": {
+            "state_count": 23,
+            "state_pounds_pct": 21,
+            "state_score_pct": 8,
+            "us_count": 422,
+            "us_pounds_pct": 26,
+            "us_score_pct": 9
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3325",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ROCKWOOD MANUFACTURING CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "609161294",
+    "ParentName": "ASSA ABLOY INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "WILLIAM GURZENDA",
+    "PublicContactPhone": "8149262026",
+    "RCRANumber": "PAD004337804",
+    "RadialDistance": 2454989,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2005": {
+            "state_count": 25,
+            "state_pounds_pct": 32,
+            "state_score_pct": 12,
+            "us_count": 494,
+            "us_pounds_pct": 28,
+            "us_score_pct": 9
+        },
+        "2006": {
+            "state_count": 24,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 470,
+            "us_pounds_pct": 28,
+            "us_score_pct": 10
+        },
+        "2007": {
+            "state_count": 26,
+            "state_pounds_pct": 38,
+            "state_score_pct": 15,
+            "us_count": 449,
+            "us_pounds_pct": 32,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 25,
+            "state_pounds_pct": 32,
+            "state_score_pct": 16,
+            "us_count": 423,
+            "us_pounds_pct": 31,
+            "us_score_pct": 11
+        },
+        "2009": {
+            "state_count": 23,
+            "state_pounds_pct": 26,
+            "state_score_pct": 8,
+            "us_count": 399,
+            "us_pounds_pct": 29,
+            "us_score_pct": 10
+        },
+        "2010": {
+            "state_count": 21,
+            "state_pounds_pct": 23,
+            "state_score_pct": 4,
+            "us_count": 401,
+            "us_pounds_pct": 24,
+            "us_score_pct": 8
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.2296,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0007,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "300 MAIN ST",
+    "SubmitLat": 39.91306,
+    "SubmitLong": 79.16361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1752,
+    "Y": 2473,
+    "ZIP9": "15557",
+    "ZIPCode": "15557"
+}

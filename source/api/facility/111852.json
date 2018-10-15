@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ATTLEBORO",
+    "County": "MA,BRISTOL",
+    "DUNS": "001190909",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27289.49698,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202748808",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 0.045254,
+                    "SubmissionNumber": 439957,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12.0,
+            "TotalScore": 0.045254,
+            "state_score_percentile": 31,
+            "us_score_percentile": 17
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203890482",
+                    "MaxOnsite": "03",
+                    "Pounds": 12.0,
+                    "Score": 0.045272,
+                    "SubmissionNumber": 543707,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12.0,
+            "TotalScore": 0.045272,
+            "state_score_percentile": 35,
+            "us_score_percentile": 18
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110000311555",
+    "FacilityID": "02703KLMRT79WAL",
+    "FacilityNumber": 111852,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.957718,
+    "Longitude": -71.300015,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 91,
+            "us_pounds_pct": 21,
+            "us_score_pct": 10
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 88,
+            "us_pounds_pct": 26,
+            "us_score_pct": 9
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "KILMARTIN INDUSTRIES INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 41.95833,
+    "PreferredLong": 71.30083,
+    "PublicContactName": "GREGORY JILLSON",
+    "PublicContactPhone": "5083422035",
+    "RCRANumber": "MAD001190909",
+    "RadialDistance": 3107002,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 95,
+            "us_pounds_pct": 18,
+            "us_score_pct": 5
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 95,
+            "us_pounds_pct": 22,
+            "us_score_pct": 4
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3658,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 6.096,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.9078,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "79 WALTON ST",
+    "SubmitLat": 41.95833,
+    "SubmitLong": 71.25083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2482,
+    "Y": 2925,
+    "ZIP9": "02703",
+    "ZIPCode": "02703"
+}

@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 6250016,
+    "AssignedReach": "02030103000433",
+    "City": "CARLSTADT",
+    "County": "NJ,BERGEN",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 16888.49205,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396105381634",
+                    "MaxOnsite": "03",
+                    "Pounds": 1896.0,
+                    "Score": 0.44688700000000003,
+                    "SubmissionNumber": 1816283,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1896.0,
+            "TotalScore": 0.44688700000000003,
+            "state_score_percentile": 43,
+            "us_score_percentile": 34
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110136759",
+                    "MaxOnsite": "03",
+                    "Pounds": 1440.0,
+                    "Score": 0.34419600000000006,
+                    "SubmissionNumber": 1836020,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1440.0,
+            "TotalScore": 0.34419600000000006,
+            "state_score_percentile": 37,
+            "us_score_percentile": 31
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125149359",
+                    "MaxOnsite": "03",
+                    "Pounds": 1317.0,
+                    "Score": 0.318154,
+                    "SubmissionNumber": 1974477,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1317.0,
+            "TotalScore": 0.318154,
+            "state_score_percentile": 35,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000318861",
+    "FacilityID": "07072GNRLF109KE",
+    "FacilityNumber": 114367,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.828488,
+    "Longitude": -74.059819,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 28,
+            "state_pounds_pct": 32,
+            "state_score_pct": 7,
+            "us_count": 504,
+            "us_pounds_pct": 15,
+            "us_score_pct": 9
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 32,
+            "state_score_pct": 7,
+            "us_count": 490,
+            "us_pounds_pct": 13,
+            "us_score_pct": 9
+        },
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 28,
+            "state_score_pct": 7,
+            "us_count": 493,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NJGO11105",
+    "Name": "GENERAL VY COAT LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.83,
+    "PreferredLong": 74.06167,
+    "PublicContactName": "RAY RICAFORT",
+    "PublicContactPhone": "2019394471",
+    "RCRANumber": "NJD044132116",
+    "RadialDistance": 2847404,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 29,
+            "state_pounds_pct": 34,
+            "state_score_pct": 6,
+            "us_count": 530,
+            "us_pounds_pct": 15,
+            "us_score_pct": 9
+        },
+        "1997": {
+            "state_count": 28,
+            "state_pounds_pct": 32,
+            "state_score_pct": 7,
+            "us_count": 524,
+            "us_pounds_pct": 12,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 28,
+            "state_pounds_pct": 28,
+            "state_score_pct": 7,
+            "us_count": 526,
+            "us_pounds_pct": 11,
+            "us_score_pct": 8
+        },
+        "name": "Plastics materials, synthetic resins, and non-vulcanizable elastomers",
+        "siccode": "2821"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "282",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 10.9728,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5801,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "109 KERO RD",
+    "SubmitLat": 40.83,
+    "SubmitLong": 74.06139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2246,
+    "Y": 2705,
+    "ZIP9": "07072",
+    "ZIPCode": "07072"
+}

@@ -1,244 +1,2027 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  	<meta charset='utf-8'> 
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	
-	<!-- Social Media Cards -->
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Toxic Trends Mapper">
-	<meta name="twitter:description" content="Check out the Toxic Trends Mapper where you can view the emissions of facilities in your neighborhood.">
-	<meta name="twitter:image" content="http://toxictrends.org/assets/images/app_screen.png">
-	
-	<link rel="canonical" href="http://toxictrends.org" />
-	
-    <title>Toxic Trends Mapper</title>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js'></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' />
     
-    <link href='//fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'/>
-	
-	<!-- All CSS will get compiled into one file at production time -->
-	<link rel="stylesheet" href="assets/css/leaflet-0.5.1.css" />
-	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.core.css" />
-	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.widgets.css" />
-	<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.tabs.css" />
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-	
-	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/leaflet-ie-0.5.1.css" /><![endif]-->
-	
-	<!--[if IE]>
-		<style>			
-			#loadingText{color:#000};
-		</style>
-	<![endif]-->
-	
+    <style>
 
-	
-	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-	<!-- All JS will get compiled into one file at production time -->
-	<script src="assets/js/jquery-1.10.1.min.js"></script>
-	<script src="assets/js/jquery-ui-1.10.3.core.js"></script>
-	<script src="assets/js/jquery-ui-1.10.3.widget.js"></script>
-	<script src="assets/js/jquery-ui-1.10.3.tabs.js"></script>
-	<script src="assets/js/leaflet-0.5.1.js"></script>
-	<script src="assets/js/leaflet.utfgrid.js"></script>
-	<script src="assets/js/tile.stamen.v1.2.1.js"></script>
-	<script src="assets/js/map.js"></script>
-	
-	<!--[if lt IE 9]>
-		<script type="text/javascript" src="assets/js/es5-shim.min.js"></script>
-		<script type="text/javascript" src="assets/js/respond.min.js"></script>
-	<![endif]-->
-	
-	<!--[if lt IE 10]>
-		<script type="text/javascript" src="assets/js/xdr.js"></script>
-	<![endif]-->
-	
+    body {
+    	margin: 0;
+    	padding: 0;
+    	font-family: Trebuchet, Arial, sans-serif;
+    }
+
+    body.embed .button-share 
+    body.embed .button-filters,
+    body.embed .button-help,
+    body.embed .search, 
+    body.embed .search input {
+		display:  none;
+	}
+
+	body.full footer {
+		display:  none;
+	}
+
+	header {
+		height: 28px;
+	    background-color: rgb(2, 2, 2);
+	    padding: 0;
+	    margin: 0;
+	    display:block;
+	    width:100%;
+	}
+
+	body.full header {
+		line-height: 50px;
+	}
+
+	body.full header > div {
+		display:  block;
+		padding: 0;
+	    margin:  0;
+	    width: 33.33333%;
+	    float: left;
+	    height: 45px;
+	}
+
+	body.embed header > div {
+		display:  block;
+		padding: 0;
+	    margin:  0;
+	    float: left;
+	    height:  28px;
+	}
+
+	body.embed header .toggle-year {
+		float:  right;
+		margin-right: 15px;
+    	width: 75px;
+	}
+
+	body.embed header .toggle-year .down {
+		margin-left: -36px;
+		border-top: 9px solid transparent;
+    	border-bottom: 9px solid transparent;
+    	border-right: 9px solid #fff;
+    	margin-top: -9px;
+	}
+
+	body.embed header .toggle-year .up {
+		margin-left: 24px;
+		border-top: 9px solid transparent;
+    	border-bottom: 9px solid transparent;
+    	border-left: 9px solid #fff;
+    	margin-top: -9px;
+	}
+
+	body.full header {
+		height: 45px;
+	}
+
+	h1 {
+		display: inline-block;
+		color: #F58C5B;
+	    font-size: 16px;
+	    margin: 0 12px;
+	    line-height: 28px;
+	    font-variant: small-caps;
+	}
+
+	body.full h1 {
+    	font-size: 24px;
+	}
+
+	.toggle-year {
+		position: relative;
+	    color: #fff;
+	    line-height: 28px;
+	    text-align: center;
+	}
+
+	body.full .toggle-year {
+	    font-size: 24px;
+	    line-height: 45px;
+	}
+
+	#map {
+		position: absolute;
+		top: 28px;
+		bottom: 15px;
+		left: 0;
+		right: 0;
+		background-color: rgb(185, 213, 215);
+	}
+
+	body.full #map {
+		top: 45px;
+		bottom: 0;
+	}
+
+	.search {
+		position: relative;
+		text-align: right;
+		line-height: 46px;
+	}
+
+	.search input {
+		position: absolute;
+	    right: 42px;
+	    top: 3px;
+		height: 24px;
+    	width: 190px;
+	    padding: 1px 5px;
+	    border: 1px solid #888;
+	    border-right: 1px solid #fff;
+	    text-align: left;
+	    font-size: 10px;
+	    line-height: 30px;
+	    -webkit-border-radius: 0;
+	    border-radius: 0;
+	}
+
+	.search .search-go {
+		background: #fff url(../images/magnifyingGlass_Small.png) no-repeat 2px 3px;
+	    height: 26px;
+	    width: 26px;
+	    display: block;
+	    position: absolute;
+	    top: 3px;
+	    right: 14px;
+	    border: 1px solid #888;
+	    cursor: pointer;
+	}
+
+	.search .button-advanced-search {
+		color: #fff;
+	    position: absolute;
+	    top: 29px;
+	    height: 20px;
+	    line-height: 20px;
+	    right: 140px;
+	    font-size: 13px;
+	    cursor: pointer;
+	}
+
+	.map-controls-2 {
+		top: 45px;
+    	right: 12px;
+		position: absolute;
+	    height: 100px;
+	    z-index: 100;
+	}
+
+	body.embed .map-controls-2 {
+		top:  28px;
+	}
+
+	.toggle-basemap {
+		float: right;
+		margin-top: 8px;
+	}
+
+	footer {
+		position: absolute;
+	    bottom: 0;
+	    width:  100%;
+	    font-size: 13px;
+	}
+
+	footer a {
+		float: right;
+		margin:  0 10px;
+	}
+
+	.pill {
+		position: absolute;
+	    width: 85px;
+	    height: 30px;
+	    display: block;
+	    -webkit-user-select: none;
+	    -moz-user-select: none;
+	    -ms-user-select: none;
+	    border: 2px solid #999999;
+	    border-radius: 20px;
+	    line-height: 30px;
+	    padding-left: 10px;
+	    font-weight: bold;
+	    font-variant: small-caps;
+	    background: #F1F1F1;
+	    cursor: pointer;
+	    color: #1B3B54;
+	}
+
+	.button-about {
+		top: 47px;
+	}
+
+	.button-filters {
+		top: 86px;
+	}
+
+	.button-share {
+		top: 125px;
+	}
+
+	.button-help {
+		top: 164px;
+	}
+
+	.button-app {
+		top: 47px;
+    	display: none;
+	}
+
+	body.embed .pill {
+		display: none;
+	}
+
+	body.embed .button-app {
+		display:  block;
+	}
+
+/* Toggle switch
+ * https://proto.io/freebies/onoff/
+ */
+	.toggle-basemap {
+	    position: relative; width: 99px;
+	    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+	}
+	.toggle-basemap-checkbox {
+	    display: none;
+	}
+	.toggle-basemap-label {
+	    display: block; overflow: hidden; cursor: pointer;
+	    border: 2px solid #999999; border-radius: 20px;
+	}
+	.toggle-basemap-inner {
+	    display: block; width: 200%; margin-left: -100%;
+	    transition: margin 0.3s ease-in 0s;
+	}
+	.toggle-basemap-inner:before, .toggle-basemap-inner:after {
+	    display: block; float: left; width: 50%; height: 30px; padding: 0; line-height: 30px;
+	    font-size: 15px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+	    box-sizing: border-box;
+	}
+	.toggle-basemap-inner:before {
+	    content: "Map";
+	    padding-left: 10px;
+	    background-color: #F1F1F1; color: #1B3B54;
+	}
+	.toggle-basemap-inner:after {
+	    content: "Satellite";
+	    padding-right: 10px;
+	    background-color: #1B3B54; color: #F1F1F1;
+	    text-align: right;
+	}
+	.toggle-basemap-switch {
+	    display: block; width: 18px; margin: 6px;
+	    background: #FFFFFF;
+	    position: absolute; top: 0; bottom: 0;
+	    right: 65px;
+	    border: 2px solid #999999; border-radius: 20px;
+	    transition: all 0.3s ease-in 0s; 
+	}
+	.toggle-basemap-checkbox:checked + .toggle-basemap-label .toggle-basemap-inner {
+	    margin-left: 0;
+	}
+	.toggle-basemap-checkbox:checked + .toggle-basemap-label .toggle-basemap-switch {
+	    right: 0px; 
+	}
+
+	.modal {
+		display: none;
+		position: absolute;
+	    left: 50%;
+	    top: 50%;
+	    background: #fff;
+	    padding: 10px;
+	    -webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
+    	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.10);
+	}
+
+	.filter.modal {
+	    margin-top: -65px;
+	    margin-left: -155px;
+	    width: 300px;
+	    height: 120px;
+	}
+
+	.share.modal {
+	    margin-top: -65px;
+	    margin-left: -155px;
+	    width: 500px;
+	    height: 220px;
+	}
+
+	.share.modal .embed-code {
+		display: block;
+	    padding: 8px;
+	    border-style: inset;
+	    border: 1px solid #999999;
+	    word-wrap: break-word;
+	}
+
+	.about.modal {
+	    position: absolute;
+	    top:  60px;
+	    bottom: 5%;
+	    left:  5%;
+	    right: 5%;
+	    z-index: 100;
+	}
+
+	.modal h2 {
+		text-align: center;
+    	font-size: 20px;
+	}
+
+	.toggle-year .up, .toggle-year .down {
+		position: absolute;
+		width: 0;
+		height: 0;
+		top: 50%;
+		left: 50%;
+		margin-top:-11px;
+		cursor: pointer;
+		border-top: 11px solid transparent;
+		border-bottom: 11px solid transparent;
+	}
+
+	.toggle-year .up {
+    	margin-left: 33px;
+		border-left: 11px solid #fff;
+	}
+
+	.toggle-year .down {
+		border-right: 11px solid #fff;
+    	margin-left: -45px;
+	}
+
+	/* End toggle switch */
+
+	@media only screen and (max-width: 755px) {
+		body.full header {
+			height: 90px;
+		}
+		body.full .toggle-year,
+		body.full .search {
+			width: 50%;
+		}
+		body.full #map {
+			top: 90px;
+		}
+		body.full .app-name {
+			width: 100%;
+			text-align: center;
+		}
+		body.full .map-controls-2 {
+			top: 90px;
+		}
+
+	}
+
+	@media only screen and (max-width: 430px) {
+		body.full header {
+			height: 135px;
+		}
+		body.full #map {
+			top:  135px;
+		}
+		body.full .map-controls-2 {
+			top:  135px;
+		}
+		body.full .app-name {
+			width:  100%;
+			text-align: center;
+		}
+		body.full .toggle-year,
+		body.full .search {
+			width:  100%;
+		}
+
+	}
+
+	/*************************** FACILITY MOUSE OVER ***************************/
+
+		#hover {
+			display: none;
+			position: absolute;
+			border: solid #000 1px;
+			padding: 5px;
+			background-color: rgb(255,255,255); /* Fallback for unsupported browsers*/
+			background-color: rgba(255,255,255,0.9);
+			width: 150px;
+			max-height: 400px;
+			font-size: 15px;
+		}
+
+	/*************************** FACILITY POPUP ***************************/
+
+	#popup-close {
+		position: absolute;
+		top: 2px;
+		right: 2px;
+		cursor: pointer;
+	}
+
+	.zoom-to:hover, .zoom-to:active {
+		background-color: rgb(210, 210, 210);
+		color: #000;
+	}
+
+	#facility-tabs {
+		position: absolute;
+		background-color: #fff;
+		top: 62px;
+		left: 50px;
+		width: 325px;
+		height: 400px;
+		font-size: 13px;
+		z-index: 10;
+	}
+
+	.zoom-to {
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		bottom: 0px;
+		margin: 0 auto;
+		font-weight: bold;
+		text-align: center;
+		padding: 5px 0;
+		cursor: pointer;
+	}
+
+	@media only screen and (max-width: 925px) {
+
+		#facility-tabs {
+			top: 90px;
+		}
+
+	}
+
+	@media only screen and (max-width: 430px) {
+
+		#facility-tabs {
+			top: 0px;
+			left: 0px;
+		}
+	}
+
+	/*************************** GENERAL TAB ***************************/
+
+	.tabs {
+		position: absolute;
+		height: 15px;
+		font-size: 8px;
+		padding-left: 5px;
+		border: 1px solid #888;
+		border-bottom: none;
+		background: #fff;
+		cursor: pointer;
+	}
+
+	#info-graph {
+		width: 300px;
+		height: 150px;
+		margin: 7px auto;
+	}
+
+	.noChart {
+		width: 100%;
+		text-align: center;
+		height: 100%;
+		line-height: 140px;
+		font-size: 20px;
+		margin: 0 auto;
+	}
+
+	/*************************** CHEMICAL & INDUSTRY TAB ***************************/
+
+	#chemical-tab, #industry-tab {
+		padding: 0;
+		margin-top: 6px;
+	}
+
+	.popup-year-toggle {
+		position: relative;
+		height: 30px;
+		width: 327px;
+		padding: 0;
+		text-align: center;
+		color: #fff;
+		background-color: rgb(26, 26, 26);
+	}
+
+	.popup-year-label {
+		width: 50%;
+		margin: 0 auto;
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+	.popup-year-right {
+		position: absolute;
+		right: 114px;
+		top: 4px;
+		width: 0;
+		height: 0;
+		border-top: 11px solid transparent;
+		border-bottom: 11px solid transparent;
+		border-left: 11px solid #fff;
+		cursor: pointer;
+	}
+
+	.popup-year-left {
+		position: absolute;
+		left: 114px;
+		top: 4px;
+		width: 0;
+		height: 0;
+		border-top: 11px solid transparent;
+		border-bottom: 11px solid transparent;
+		border-right: 11px solid #fff;
+		cursor: pointer;
+	}
+
+	.popup-list {
+		height: 324px;
+		overflow-y: auto;
+	}
+
+	.chemical_row, .industry_row {
+		line-height: 14px;
+		margin: 5px 2px;
+		padding: 3px;
+		border: 1px solid #eee;
+	}
+
+	/*************************** CHEMICAL TAB ***************************/
+
+	.chemical_row:hover {
+		background-color: #F8F8F8;
+		cursor: pointer;
+	}
+
+	.chemical_details:hover {
+		background-color: #F8F8F8;
+		cursor: auto;
+	}
+
+	/*! jQuery UI - v1.12.1 - 2016-10-10
+* http://jqueryui.com
+* Includes: core.css, tabs.css
+* Copyright jQuery Foundation and other contributors; Licensed MIT */
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-hidden {
+    display: none;
+}
+.ui-helper-hidden-accessible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.ui-helper-reset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    line-height: 1.3;
+    text-decoration: none;
+    font-size: 100%;
+    list-style: none;
+}
+.ui-helper-clearfix:before,
+.ui-helper-clearfix:after {
+    content: "";
+    display: table;
+    border-collapse: collapse;
+}
+.ui-helper-clearfix:after {
+    clear: both;
+}
+.ui-helper-zfix {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    filter:Alpha(Opacity=0); /* support: IE8 */
+}
+
+.ui-front {
+    z-index: 100;
+}
+
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-disabled {
+    cursor: default !important;
+    pointer-events: none;
+}
+
+
+/* Icons
+----------------------------------*/
+.ui-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -.25em;
+    position: relative;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+.ui-widget-icon-block {
+    left: 50%;
+    margin-left: -8px;
+    display: block;
+}
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.ui-tabs {
+    position: relative;/* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+    padding: .2em;
+}
+.ui-tabs .ui-tabs-nav {
+    margin: 0;
+    padding: .2em .2em 0;
+}
+.ui-tabs .ui-tabs-nav li {
+    list-style: none;
+    float: left;
+    position: relative;
+    top: 0;
+    margin: 1px .2em 0 0;
+    border-bottom-width: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+    float: left;
+    padding: .5em 1em;
+    text-decoration: none;
+    color: rgb(0, 0, 238);
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor:visited {
+	color: rgb(0, 0, 238);
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: -1px;
+    padding-bottom: 1px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
+.ui-tabs .ui-tabs-nav li.ui-state-disabled .ui-tabs-anchor,
+.ui-tabs .ui-tabs-nav li.ui-tabs-loading .ui-tabs-anchor {
+    cursor: pointer;
+    outline: none !important;
+}
+.ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor {
+    cursor: default !important;
+    color: #000 !important;
+}
+.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor {
+    cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    border-width: 0;
+    padding: 10px 14px;
+    background: none;
+}
+
+/* Styled Select
+-------------------------------------------- */
+.styled-check {
+  display: inline-block;
+  margin-right: 6px;
+}
+.styled-check label {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #A9ABAA;
+  border-radius: 1px;
+  cursor: pointer;
+  background: #ffffff;
+  transition: border-color 0.3s;
+}
+.styled-check label:hover {
+  border-color: #34ab9b;
+}
+.styled-check input[type="checkbox"] {
+  position: absolute;
+  visibility: hidden;
+}
+.styled-check input[type="checkbox"] + span {
+  display: inline-block;
+  vertical-align: top;
+  visibility: hidden;
+  overflow: hidden;
+  width: 0px;
+  transition: width 0.3s ease-in-out;
+}
+.styled-check input[type="checkbox"]:checked + span {
+  visibility: visible;
+  width: 19px;
+  margin-left: -2px;
+  margin-top: -5px;
+  font-size: 20px;
+  color: #34ab9b;
+}
+.styled-check label.text {
+	width:  auto;
+	border: 0;
+}
+
+.modal .close {
+	position: absolute;
+    top: 2px;
+    right: 2px;
+    cursor: pointer;
+}
+
+.socialmedia-container {
+	text-align: center;
+}
+
+.socialmedia {
+	display: inline-block;
+	cursor: pointer;
+}
+
+/*************************** ABOUT PAGE ***************************/
+
+#about-container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.about {
+	padding: 0 36px;
+}
+
+.about-content {
+	position: absolute;
+    display: block;
+    top: 46px;
+    left:  18px;
+    right: 18px;
+    bottom: 5px;
+    background-color: #fff;
+    z-index: 30;
+    border-radius: 3px;
+    overflow-y: scroll;
+}
+
+.about > p {
+	line-height: 22px;
+	font-size: 16px;
+}
+
+#about-figures {
+	margin: 6px;
+	margin-left: 0;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.figure {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 18px;
+	height: 136px;
+}
+
+#logos_attrb {
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#logos_attrb a {
+	text-decoration: none;
+}
+
+#abt_ecos_logo, #abt_wwu_logo, #abt_hux_logo, #abt_dscej_logo{
+	margin-right: 10%;
+	line-height: 60px;
+}
+
+#abt_dscej_logo img {
+	height: 69px;
+}
+
+#about-close {
+	position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 12px;
+    height: 12px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 400px) {
+
+	.about-content {
+		top: 65px;
+	}
+
+}
+
+/*************************** SEARCH RESULTS ***************************/
+
+#search-results-container {
+	position: absolute;
+	top: 60px;
+	right: 5px;
+	height: 60%;
+	width: 350px;
+	display: none;
+	border: 1px solid #888;
+	background: white;
+	z-index: 20;
+}
+
+#search-results {
+	position: absolute;
+	top: 25px;
+	bottom: 0;
+	overflow: auto;
+	width: inherit;
+	font-family: "times new roman";
+	font-size: 16px;
+}
+
+.searchresult {
+	margin: 5px;
+	border: 1px solid #eee;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.searchresult:hover {
+	background: #F8F8F8;
+}
+
+#search-close {
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	padding-right: 25px;
+	padding-top: 5px;
+	background: url("../images/closeBtnUp_Small.png") no-repeat top right;
+	text-align: right;
+	font-size: 16px;
+	color: #4292CD;
+	cursor: pointer;
+}
+
+#moreresults {
+	text-align: center;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 925px) {
+
+	#search-results-container {
+		top: 90px;
+	}
+
+}
+    
+   	</style>
+
 </head>
+<body class="full"> <!-- full | embed -->
 
-<body>
-	
-	<!-- Map -->
-	<div id="map"></div>
-	
-	<!-- top toolbar -->
-	<div id="topbar" class="transition-slow noselect">
-		
-	 	<a href="http://www.ecos.org/" target="_blank">
-	 		<img id="ecos-logo-small" alt="Environmental Council of the States (ECOS)" src="assets/images/logos/ecos_sm.png">
-	 		<img id="ecos-logo-large" alt="Environmental Council of the States (ECOS)" src="assets/images/logos/ecos_lg.png">
-	 	</a>
-	 	
- 		<h1 id="title" class="yesselect transition-slow ">Toxic Trends Mapper</h1>
-		<h2 id="sub-title" class="yesselect transition-slow ">In partnership with the Huxley Spatial Institute</h2>
-		
-		<div id="map-year-toggle-container" class="noselect transition-slow">
-			<div id="map-year-down"></div>
-			<div id="map-year" class="master-year-label">2010</div>
-			<div id="map-year-up"></div>
-		</div>	
-			
-		<div id="searchbox-container" class="transition-slow ">
-			<input type="text" id="searchbox" value="Search for a facility" class="yesselect">
-			<input id="search-button" type="button" value=">" >
-		</div>
-		
-	 </div>
-	
-	<!-- about page-->
-	<div id="mask" style="display: none;"></div>
-	<div id="about-container" style="display:none;">
-		<div id="about" >
-			<div id="about-inner">
-				<h3>About Toxic Trends</h3>		 
-			    <p>This web map was designed at the <a href="http://www.wwu.edu/huxley/spatial/" target="_blank">
-			    	Huxley Spatial Institute</a> at <a href="http://www.wwu.edu/" target="_blank">
-			    	Western Washington University</a> (WWU) in Bellingham, Washington and funded through a grant from the <a href="http://www.ecos.org/" target="_blank">
-			    	Environmental Council of States</a> (ECOS). The concept for this web map application was introduced in 2011 in the book, <a href="http://mitpress.mit.edu/books/coming-clean/" target="_blank">
-			    	Coming Clean</a>, by Michael E. Kraft, Mark Stephan, and Troy D. Abel. That book puts forth the idea that information disclosure can be a policy strategy for environmental protection, and this web map is designed to use visual representation of environmental information to provide access to a larger audience of citizens so that they may be able to influence the environmental policy directly affecting  their health and the health of their communities.</p>
-		       	<div id="about-figures">
-			       	<div>Figure 1</div><br/>
-					<img src="assets/images/pounds_legend.png" alt="Figure 1 shows circles of different sizes.  Each circle represents a facility.  The size of the circle represents the total pounds of air emissions (fugitive + stack) for that facility during the current map year.  Each increase in size represents an order of magnitude increase in total pounds." />
-			 		<div>Figure 2</div><br/>
-			        <img src="assets/images/risk_legend.png" class="img90" alt="Figure 2 shows circles of different colors.  Each circle represents a facility.  The color of the circle represents the total RSEI risk-related score for air emissions (fugitive + stack) reported for that facility during the current map year.  The darker the color, the greater the risk.  Each increase in hue represents an order of magnitude increase in risk" />           
-				</div>
-				<p>This web map visually represents industrial air pollution information to citizens across the United States by mapping the relative risk from air pollution that industrial facilities pose to the human health of their communities and how those risks might change over time. Facility pollution information comes from the <a href="http://www.epa.gov/tri/triprogram/whatis.htm" target="_blank">				
-					Toxic Release Inventory</a> (TRI) , an inventory by the United States Environmental Protection Agency (EPA) and the States to collect data annually on releases and transfers of certain toxic chemicals from industrial facilities. TRI facilities are depicted as circles with colors that correlate to a risk screening value that is based on modeled output data from the EPA's <a href="http://www.epa.gov/oppt/rsei/pubs/basic_information.html" target="_blank">
-					Risk Screening Environmental Indicators</a> (RSEI) model for assessing TRI data.  RSEI is a screening model, not a risk assessment that allows one to make a direct link a facility’s chemical release to harm being caused to a specific population or location. As with any model, a number of <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#assump" target="blank"> simplifying assumptions</a> are made.</p>
-				<p>Circles representing TRI facilities have been classified into 7 sizes and 7 colors, to reflect changes in pollution performance and amount so the map user will be able to see if a certain facility has been getting better or worse over time, or, if their neighboring industrial plants are getting safer and cleaner. Smaller circles indicate fewer pounds released; larger circles indicate more pounds released. Each increase in size represents an order of magnitude increase of pounds of pollutants released (Figure 1). Lighter circles represent polluters who are posing less risk to human health based on the RSEI model risk screening value; darker circles represent polluters who are posing more risk.  Each shift in color represents an order of magnitude change in risk (Figure 2). Gray circles represent facilities that did not report any air releases for that map year. Users are also able to click facilities to get information about the facility, including emission trends over time, specific chemicals released and related health information, as well as comparisons of the facility to other similar facilities in its state and in the United States. There  are currently 17,000 facilities reporting to TRI and viewable in the web map for the years 1996 to 2010.</p>		
-			    
-			    <p>Read more about <a href="http://www.epa.gov/opptintr/rsei/" target="_blank">RSEI</a>.</p>
-			    
-			    <div id="logos_attrb">
-			    	
-			    	<a id="abt_ecos_logo" href="http://www.ecos.org/" target="_blank">
-			 			<img alt="Environmental Council of the States (ECOS)" src="assets/images/logos/ecos_lg.png" />
-			 		</a>
-		
-			    	<a id="abt_wwu_logo" href="http://www.wwu.edu/" target="_blank">
-						<img alt="Western Washington University" src="assets/images/logos/wwu_lg.png" />
-					</a>
-					
-					<a id="abt_hux_logo" href="http://www.wwu.edu/huxley/" target="_blank">
-						<img alt="Huxley Spatial Institute" src="assets/images/logos/huxley.png" />
-					</a>
-					
-					<a id="abt_hsi_logo" href="http://www.wwu.edu/huxley/spatial/" target="_blank">
-						<img alt="Huxley Spatial Institute" src="assets/images/logos/HSI.png" />
-					</a>
-			    	
-			    </div>
-		    </div>
-		    <div id="about-close"></div>
-		</div>
+<header>
+	<div class="app-name"><h1>Toxic Trends Mapper</h1></div>
+	<div class="toggle-year">
+		<span class="down"></span>
+        <span class="map-year">2015</span>
+        <span class="up"></span>
 	</div>
-	
-	<!-- controls -->
-	<a id="about-button" class="transition-slow"><span id="about-label">ABOUT</span><span id="about-question">?</span></a>
-	
-	<!-- Basemap Menu -->
-	<div id="basemap-icon"></div>
-	<div id="basemap-menu">
-		<div id="toner-thumb" class="base-thumb dropshadow colorshift transition-slow">simple</div>
-		<div id="streets-thumb" class="base-thumb dropshadow colorshift transition-slow">streets</div>
-		<div id="satellite-thumb" class="base-thumb dropshadow colorshift transition-slow">satellite</div>
-	</div>	
-	
-	<!-- facility info -->
-	<div id="hover" class="dropshadow"></div>
-	<div id="facility-tabs" class="noselect dropshadow transition-slow " style="display: none;">
-		<div id="popup-close" class="transition-slow">X</div>
-		<ul class="yesselect">
-			<li id="general-tab-btn">
-				<a href="#general-tab">General</a>
-			</li>
-			<li>
-				<a href="#chemical-tab">Chemical</a>
-			</li>
-			<li>
-				<a href="#industry-tab">Industry</a>
-			</li>
-		</ul>
-		<div id="general-tab" class="tab yesselect">
-			<div id="info-title"></div>
-			<div id='info-graph'></div>
-			<div id='info-industry'></div>
-			<div id='info-address'></div>
-			<div id='info-contact'></div>
-			<div class="zoom-to transition-slow">
-				Zoom to Facility
-			</div>
-		</div>
-		<div id="chemical-tab" class="tab">
-			<div class="popup-year-toggle">
-				<div class="popup-year-left"></div>
-				<div id="chemical-tab-year" class="popup-year-label"></div>
-				<div class="popup-year-right"></div>
-			</div>
-			<div id="chemical-list" class="popup-list yesselect"></div>
-		</div>
-		<div id="industry-tab" class="tab">
-			<div class="popup-year-toggle">
-				<div class="popup-year-left"></div>
-				<div id="industry-tab-year" class="popup-year-label"></div>
-				<div class="popup-year-right"></div>
-			</div>
-			<div id="industry-list" class="popup-list yesselect"></div>
-		</div>
+	<div class="search">
+		<input placeholder="Search for Facility"><span class="search-go"></span>
+		<div class="button-advanced-search">Advanced Search</div>
 	</div>
+</header>
+
+<div id="map"></div>
+
+<div class="map-controls-1">
+	<div class="zoom-controls"></div>
+</div>
+
+<div class="map-controls-2">
 	
-	<!-- WWU Logo -->
-	<a href="http://www.wwu.edu/" target="_blank">
-		<div id="wwu_logo"></div>
-	</a>
-	
-     <!-- loading -->
-	<div id="loading">
-		<div>	
-			<div id="loadingText">loading...</div>
-			<div id="blockG_1" class="loading"></div>
-			<div id="blockG_2" class="loading"></div>
-			<div id="blockG_3" class="loading"></div>
-			<div id="blockG_4" class="loading"></div>
-		</div>	
+	<div class="toggle-basemap">
+	    <input type="checkbox" name="toggle-basemap" class="toggle-basemap-checkbox" id="toggle-basemap" checked>
+	    <label class="toggle-basemap-label" for="toggle-basemap">
+	        <span class="toggle-basemap-inner"></span>
+	        <span class="toggle-basemap-switch"></span>
+	    </label>
 	</div>
-		
-	<!-- SEARCH RESULTS -->
-	<div id="search-results-container" class="dropshadow">
-		<div id="search-close">close</div>
-		<div id="search-results"></div>
+	<div class="button-about pill">About</div>
+	<div class="button-filters pill">Filter</div>
+	<!--<div class="button-help pill">Help</div>-->
+	<div class="button-share pill">Share</div>
+	<div class="button-app pill">Full App</div>
+</div>
+
+<div class="filter modal">
+	<h2>Filter Facilities</h2>
+	<span class="close fa fa-close"></span>
+	<div class="non-reporting">
+		<div class="styled-check">
+            <label>
+                <input type="checkbox" id="filter-non-reporting">
+                <span class="fa fa-check" aria-hidden="true"></span>
+            </label>
+            <label class="text" for="filter-non-reporting">Non-Reporting Facilities</label> 
+        </div>
+		<br><br>
+		Additional filters coming soon...
 	</div>
-	
-	<!-- START SOCIAL MENU -->
-	<div>
+
+</div>
+
+<div class="share modal">
+	<h2>Share Toxic Trends Mapper</h2>
+	<span class="close fa fa-close"></span>
+	<div class="socialmedia-container">
 		<!-- Twitter -->
-		<div class="socialmedia twitter colorshift transition-slow">
-			<img src="assets/images/media/twitter.png" alt="Share on Twitter"/>
+		<div class="socialmedia twitter">
+			<img src="images/media/twitter.png" alt="Share on Twitter"/>
 		</div>
 		<!-- Google+ -->
-		<div class="socialmedia googleplus colorshift transition-slow">
-			<img src="assets/images/media/gplus.png" alt="Share on Google+"/>
+		<div class="socialmedia googleplus">
+			<img src="images/media/gplus.png" alt="Share on Google+"/>
 		</div>
 		<!-- Facebook -->
-		<div class="socialmedia facebook colorshift transition-slow">
-			<img src="assets/images/media/fb.png" alt="Share on Facebook"/>
+		<div class="socialmedia facebook">
+			<img src="images/media/fb.png" alt="Share on Facebook"/>
 		</div>
 	</div>
+	Embed in your website:
+	<code class="embed-code"></code>
+</div>
 
-	<!-- google analytics-->
-	<script>
-	  /*(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<div id="search-results-container" class="dropshadow">
+	<div id="search-close">close</div>
+	<div id="search-results"></div>
+</div>
+
+<div class="about modal">
+	<span id="about-close" class="close fa fa-close"></span>
+	<div class="about-header">
+		<h2>About Toxic Trends Mapper</h2>
+	</div>
+	<div class="about-content">
+	    <p>This web map was designed at the <a href="https://www.wwu.edu/huxley/spatial/" target="_blank">
+	    	Huxley Spatial Institute</a> at <a href="https://www.wwu.edu/" target="_blank">
+	    	Western Washington University</a> and funded through a grant from the <a href="https://www.ecos.org/" target="_blank">
+	    	Environmental Council of States</a>. The concept for this web map application was introduced in 2011 in the book, <a href="https://mitpress.mit.edu/books/coming-clean/" target="_blank">
+	    	Coming Clean</a>, by Michael E. Kraft, Mark Stephan, and Troy D. Abel. Coming Clean puts forth the idea that information disclosure can be a policy strategy for environmental protection. This web map is designed to use a visual representation of environmental information to provide access to a larger audience of citizens so that they may be able to influence the environmental policy directly affecting their health and the health of their communities.</p>
+	   	<div id="about-figures">
+	   		<div class="figure">
+	       		<div>Figure 1</div><br/>
+				<img src="images/figure0.png" width="192" alt="" />
+			</div>
+			<div class="figure">
+		       	<div>Figure 2</div><br/>
+				<img src="images/pounds_legend.png" width="192" alt="Figure 2 shows circles of different sizes.  Each circle represents a facility.  The size of the circle represents the total pounds of air emissions (fugitive + stack) for that facility during the current map year.  Each increase in size represents an order of magnitude increase in total pounds." />
+			</div>
+			<div class="figure">
+		 		<div>Figure 3</div><br/>
+		        <img src="images/risk_legend.png" width="192" alt="Figure 3 shows circles of different colors.  Each circle represents a facility.  The color of the circle represents the total RSEI risk-related score for air emissions (fugitive + stack) reported for that facility during the current map year.  The darker the color, the greater the risk.  Each increase in hue represents an order of magnitude increase in risk" />
+		       </div>
+		</div>
+		<p>This web map visually represents the chronic health relative risk to communities from toxic chemical industrial air releases and how those potential risks might change over time (figure 1). Facility pollution information comes from the <a href="https://www.epa.gov/toxics-release-inventory-tri-program" target="_blank">				
+			Toxic Release Inventory</a> (TRI) dataset collected by the United States Environmental Protection Agency (EPA).  The EPA collects and processes data annually on releases and transfers of certain toxic chemicals from industrial facilities. TRI facilities are depicted as circles with colors that correlate to a risk screening value that is based on modeled output data from the EPA's <a href="https://www.epa.gov/rsei" target="_blank">
+			Risk Screening Environmental Indicators</a> (RSEI) model for assessing TRI data.  RSEI is a screening model, not a risk assessment that allows one to make a direct link to a facility’s chemical releases to potential harm being caused to a specific population in a location. As with any model, a number of <a href="https://www.epa.gov/rsei/learn-about-rsei#assumptions" target="blank"> simplifying assumptions</a> are made.</p>
+		<p>Circles representing TRI facilities have been classified into 7 sizes and 7 colors to reflect changes in pollution performance and amount so the map user will be able to see if a certain facility has been getting better or worse over time, or, if their neighboring industrial plants are getting safer and cleaner. Smaller circles indicate fewer pounds released; larger circles indicate more pounds released. Each increase in size represents an order of magnitude increase of pounds of pollutants released (Figure 2). Lighter circles represent facility releases that are posing less risk to human health based on the RSEI model risk screening value; darker circles represent polluters who are posing more potential risk.  Each shift in color represents an order of magnitude change in potential risk (Figure 3). Gray circles represent facilities that did not report any diffuse or point source air emissions for that year. Users are also able to click facilities to get information about the facility, including emission trends over time, specific chemicals released and related health information, as well as comparisons of the facility to other similar facilities in its state and in the United States. There are currently more than 17,000 facilities reporting to TRI and viewable in the web map for the years 1988 to 2015.</p>		
+	    
+	    <div id="logos_attrb">
+	    	
+	    	<a id="abt_ecos_logo" href="http://www.ecos.org/" target="_blank">
+	 			<img alt="Environmental Council of the States (ECOS)" src="images/logos/ecos_lg.png" />
+	 		</a>
+
+	    	<a id="abt_wwu_logo" href="https://www.wwu.edu/" target="_blank">
+				<img alt="Western Washington University" src="images/logos/wwu_lg.png" />
+			</a>
+			
+			<a id="abt_hux_logo" href="https://huxley.wwu.edu/" target="_blank">
+				<img alt="Huxley Spatial Institute" src="images/logos/huxley.png" />
+			</a>
+
+			<a id="abt_dscej_logo" href="http://www.dscej.org/" target="_blank">
+				<img alt="Deep South Center for Environmental Justice" src="images/logos/DSCEJ.jpg" />
+			</a>
+	    	
+	    </div>
+	</div>
+</div>
+
+<div id="facility-tabs" class="noselect dropshadow transition-slow " style="display: none;">
+    <span id="popup-close" class="transition-slow fa fa-close"></span>
+    <ul class="yesselect">
+        <li id="general-tab-btn">
+            <a href="#general-tab">General</a>
+        </li>
+        <li>
+            <a href="#chemical-tab">Chemical</a>
+        </li>
+        <li>
+            <a href="#industry-tab">Industry</a>
+        </li>
+    </ul>
+    <div id="general-tab" class="tab yesselect">
+        <div id="info-title"></div>
+        <div id='info-graph'></div>
+        <div id='info-industry'></div>
+        <div id='info-envirofact'></div>
+        <div id='info-address'></div>
+        <div id='info-contact'></div>
+        <div class="zoom-to transition-slow">
+            Zoom to Facility
+        </div>
+    </div>
+    <div id="chemical-tab" class="tab">
+        <div class="popup-year-toggle">
+            <div class="popup-year-left"></div>
+            <div id="chemical-tab-year" class="popup-year-label"></div>
+            <div class="popup-year-right"></div>
+        </div>
+        <div id="chemical-list" class="popup-list yesselect"></div>
+    </div>
+    <div id="industry-tab" class="tab">
+        <div class="popup-year-toggle">
+            <div class="popup-year-left"></div>
+            <div id="industry-tab-year" class="popup-year-label"></div>
+            <div class="popup-year-right"></div>
+        </div>
+        <div id="industry-list" class="popup-list yesselect"></div>
+    </div>
+</div>
+
+<div id="hover" class="dropshadow"></div>
+
+
+<footer>
+	<a href="http://toxictrends.org">http://toxictrends.org</a>
+</footer>
+
+
+<script>
+	$(".button-filters").on("click", function() {
+		$(".modal").hide();
+		$(".modal.filter").show();
+	});
+
+	$(".button-share").on("click", function() {
+		$(".modal").hide();
+		$(".modal.share").show();
+		$(".modal.share .embed-code").text(createEmbedLink());
+	});
+
+	$(".button-about").on("click", function() {
+		$(".modal").hide();
+		$(".modal.about").show();
+	});
+
+</script>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibGVzc2VyaiIsImEiOiJ3QVJGcnRrIn0.IareeNjDWE5pwv7ykwLNsw';
+
+//Modify number prototype with format function to add commas and truncate long decimals
+Number.prototype.format = function() {
+    try {
+        var number = this;
+        var numArray = number.toString().split('.');
+        // If no decimal place, return no decimal
+        if (numArray.length === 1) {
+            return number.toFixed(0).replace(/(\d)(?=(\d{3})+$)/g, "$1,");
+        } else {
+            // If one decimal place, return one decimal
+            if (numArray[1].length === 1) {
+                return number.toFixed(1).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+            } else {
+                //If two or more decimals, return two decimal
+                return number.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+            }
+        }
+    } catch (e) {
+        return this;
+    }
+}; 
+
+google.load('visualization', '1', {
+    'callback' : 'var nothing',
+    'packages' : ['corechart']
+});
+
+/* test iframe */
+window.getUrlParameter = function(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
+
+var frame = getUrlParameter("embed");
+if (frame) {
+    $("body").addClass("embed").removeClass("full");
+}
+
+var frameYear = getUrlParameter("year");
+/* end iframe test */
+
+var style;
+var map;
+var windowYear = 2015;
+var mapYear = 2015;
+var lastSearch = '';
+var currentFacility;
+var facilityID = "";
+/*if (frameYear) {
+    windowYear = mapYear = frameYear
+}*/
+//$("#map-year").html(windowYear);
+var maxYear = 2015;
+var minYear = 1988;
+
+var stateLookup = {
+    "AK":"Alaska",
+    "AL":"Alabama",
+    "AR":"Arkansas",
+    "AS":"American Samoa",
+    "AZ":"Arizona",
+    "CA":"California",
+    "CO":"Colorado",
+    "CT":"Connecticut",
+    "DC":"District of Columbia",
+    "DE":"Delaware",
+    "FL":"Florida",
+    "GA":"Georgia",
+    "GU":"Guam",
+    "HI":"Hawaii",
+    "IA":"Iowa",
+    "ID":"Idaho",
+    "IL":"Illinois",
+    "IN":"Indiana",
+    "KS":"Kansas",
+    "KY":"Kentucky",
+    "LA":"Louisiana",
+    "MA":"Massachusetts",
+    "MD":"Maryland",
+    "ME":"Maine",
+    "MI":"Michigan",
+    "MN":"Minnesota",
+    "MO":"Missouri",
+    "MP":"Northern Mariana Islands",
+    "MS":"Mississippi",
+    "MT":"Montana",
+    "NC":"North Carolina",
+    "ND":"North Dakota",
+    "NE":"Nebraska",
+    "NH":"New Hampshire",
+    "NJ":"New Jersey",
+    "NM":"New Mexico",
+    "NV":"Nevada",
+    "NY":"New York",
+    "OH":"Ohio",
+    "OK":"Oklahoma",
+    "OR":"Oregon",
+    "PA":"Pennsylvania",
+    "PR":"Puerto Rico",
+    "RI":"Rhode Island",
+    "SC":"South Carolina",
+    "SD":"South Dakota",
+    "TN":"Tennessee",
+    "TX":"Texas",
+    "UT":"Utah",
+    "VA":"Virginia",
+    "VI":"Virgin Islands",
+    "VT":"Vermont",
+    "WA":"Washington",
+    "WI":"Wisconsin",
+    "WV":"West Virginia",
+    "WY":"Wyoming"
+};
+
+$.ajax({
+    dataType: 'json',
+    url: 'style.json',
+    success: function(data) {
+        style = data;
+
+        style.layers.push({
+            "id": "facility-hover",
+            "type": "circle",
+            "source": "tri",
+            "layout": {},
+            "paint": {
+            	"circle-radius": {
+                    "base": 1.1,
+                    "property": mapYear + "TotScr",
+                    "stops": [
+                        [{zoom: 1, value: 0}, 2.5],
+                        [{zoom: 1, value: 1000000}, 3.5],
+                        [{zoom: 4, value: 0}, 4],
+                        [{zoom: 4, value: 1000000}, 8.5],
+                        [{zoom: 16, value: 0}, 16],
+                        [{zoom: 16, value: 1000000}, 48]
+                    ]
+                },
+                "circle-color": "rgb(255,0,0)"
+            },
+            "filter": ["==", "id", ""],
+            "source-layer": "facilities"
+        }, {
+            "layout": {
+                "visibility": "visible"
+            },
+            "filter": ["all", [">", mapYear + "TotLbs", 0]],
+            "type": "circle",
+            "source": "tri",
+            "id": "facilities",
+            "paint": {
+                "circle-radius": {
+                    "base": 1.1,
+                    "property": mapYear + "TotScr",
+                    "stops": [
+                            [{zoom: 1, value: 0}, 0.5],
+                            [{zoom: 1, value: 1000000}, 1.5],
+                            [{zoom: 4, value: 0}, 2],
+                            [{zoom: 4, value: 1000000}, 6.5],
+                            [{zoom: 16, value: 0}, 14],
+                            [{zoom: 16, value: 1000000}, 46]
+                        ]
+                },
+                "circle-color": {
+                    "property": mapYear + "TotLbs",
+                    "stops": [
+                        [0,'rgb(254,227,145)'],
+                        [10,'rgb(254,196,79)'],
+                        [100,'rgb(254,153,41)'],
+                        [1000,'rgb(236,112,20)'],
+                        [10000,'rgb(204,76,2)'],
+                        [100000,'rgb(153,52,4)'],
+                        [1000000,'rgb(102,37,6)']
+                    ]
+                }
+            },
+            "source-layer": "facilities",
+            "interactive": true
+        });
+        
+        prepmap();
+    }
+});
+
+$('.search input').keydown(function(e) {
+	if (e.keyCode === 13) {
+		prepSearch();
+	}
+});
+
+function prepSearch() {
+	var keyword = $('.search input').val();
+	if (keyword === lastSearch) {
+		//Don't perform the search again, just reopen the search box if the same results are used.
+		if ($("#search-results-container").css('display') === 'none') {
+			$("#search-results-container").toggle();
+		}
+	} else if (keyword === '') {
+		return;
+	} else {
+		lastSearch = $('.search input').val();
+		//Remove old results
+		$("#search-results").empty();
+		doSearch($('.search input').val(), 0);
+		
+		ga('send', 'event', 'Search', 'Query', $('.search input').val());
+	}
+}
+			
+function doSearch(term, start) {
+	var url = '//search.toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
+	var startTime = new Date().getTime();
+	$('#loading').fadeIn(500);
+	$.ajax({
+		url : url,
+		success : function(r) {
+			
+			if (r.hits.hits[0]) {
+				$("#search-results-container").height('60%');
+				$.each(r.hits.hits, function(index, result) {
+					processSearchResult(result);
+				});
+				
+				//If more hits than returned, add button to get more
+				if ((r.hits.total - 10 - start) > 0) {
+					start += 10;
+					var item = $('<p id="moreresults" class="searchresult">Show More Results</p>').on('click', function() {
+						doSearch(term, start);
+						item.remove();
+					});
+					$("#search-results").append($(item)[0]);		
+				}
+			} else {
+				$("#search-results-container").height(140);
+				$("#search-results").html("<p>No results found for " + term + "<br/>You may search for a specific facility by name, city, zip, DUNS, chemical name, or parent company name.</p>");
+			}
+			if ($("#search-results-container").css('display') === 'none') {
+				$("#search-results-container").toggle();
+			}
+		},
+		error : function(request) {
+			ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
+		}
+	})
+	.done(function(){
+			$('#loading').fadeOut(500);
+			var totalTime = new Date().getTime()-startTime;
+			ga('send', 'timing', 'search', 'query', totalTime);
+		});
+}
+
+function processSearchResult(result) {
+	var f = result._source;
+	var item = $('<p class="searchresult">' + f.Name + " - " + f.City + ", " + f.State + '</p>').on('mouseover', function() {
+		//showFacility(f.Latitude, f.Longitude);
+	}).on('mouseout', function(){
+		//map.removeLayer(marker);
+	})
+	.on('click', function() {
+		closeSearch();
+		zoomToFacility(f.Latitude, f.Longitude, f.FacilityNumber);
+		loadPopup(f.FacilityNumber);
+		//Log search selection
+		ga('send', 'event', 'Search', 'Selected', f.Name);
+	});
+	$("#search-results").append($(item)[0]);
+}
+
+function closeSearch() {
+	$("#search-results-container").hide();
+}
+
+function prepmap() {
+
+    var center = getUrlParameter("center");
+    if (center) {
+        var coords = center.split(",");
+        center = [parseFloat(coords[1]), parseFloat(coords[0])];
+    } else {
+        center = [-99,40];
+    }
+
+    var zoom = getUrlParameter("zoom");
+    if (!zoom) {
+        zoom = 3;
+    }
+
+    map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: style, //stylesheet location
+        center: center, // starting position
+        zoom: zoom, // starting zoom,
+    });
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl({position: 'top-left'}));
+
+    map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {layers: ["facilities", "Facilities Inactive"]});
+        if (features.length) {
+            map.getCanvas().style.cursor = "pointer";
+            $('#hover').html(features[features.length-1].properties.Name);
+            $('#hover').css({
+                'top' : e.originalEvent.pageY + 5,
+                'left' : e.originalEvent.pageX + 10
+            }).show();
+            //https://www.mapbox.com/mapbox-gl-js/example/hover-styles/
+            //map.setFilter("facility-hover", ["==", "ID", features[features.length-1].properties.ID]);
+        } else {
+            $('#hover').hide();
+            //map.setFilter("facility-hover", ["==", "ID", ""]);
+            map.getCanvas().style.cursor = "";
+        }
+    });
+
+    map.on('mouseout', function() {
+        $('#hover').hide();
+        //map.setFilter("facility-hover", ["==", "ID", ""]);
+        map.getCanvas().style.cursor = "";
+    });
+
+    map.on('click', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {layers: ["facilities", "Facilities Inactive"]});
+        // if the features have no info, return nothing
+        if (!features.length) {
+            return;
+        }
+
+        var feature = features[features.length-1];
+        facilityID = features[features.length-1].properties.ID;
+        loadPopup(features[features.length-1].properties.ID);
+        map.setFilter("facility-hover", ["==", "ID", facilityID]);
+    });
+
+	$('.button-advanced-search').on('click', prepSearch);
+
+
+    $("#toggle-basemap").on('change', function(e) {
+    	if($(this).is(":checked")) {
+    		map.setLayoutProperty("mapbox-mapbox-satellite", 'visibility', 'none');
+    	} else {
+    		map.setLayoutProperty("mapbox-mapbox-satellite", 'visibility', 'visible');
+    	}
+    });
+
+    $(".non-reporting").on("change", function() {
+        if ($(".non-reporting input").is(":checked")) {
+            map.setLayoutProperty("Facilities Inactive", 'visibility', 'visible');
+        } else {
+            map.setLayoutProperty("Facilities Inactive", 'visibility', 'none');
+        }
+    });
+
+    $(".modal .close").on("click", function() {
+    	$(".modal").hide();
+    });
+
+    $("#facility-tabs").tabs();
+
+    $('#popup-close').on('click', function() {
+        $('#facility-tabs').hide();
+        facilityID = "";
+        map.setFilter("facility-hover", ["==", "ID", facilityID]);
+
+    });
+
+    $(".button-app").on("click", function() {
+    	window.open(createFullAppLink());
+    });
+
+    $(".twitter").on("click", function(){
+		window.open("http://www.twitter.com/share?url=http%3A%2F%2Ftoxictrends.org&text=Check%20out%20the%20Toxic%20Trends%20Mapper%20where%20you%20can%20view%20the%20emissions%20of%20facilities%20in%20your%20neighborhood",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=250,width=585');
+		ga('send', 'social', 'twitter', 'share', 'socialTarget', {'page': '/' });
+	});
 	
-	  ga('create', 'UA-41900883-1', 'toxictrends.org', {'siteSpeedSampleRate': 100});
-	  ga('send', 'pageview');*/
+	$(".facebook").on("click", function(){
+		window.open("http://facebook.com/sharer.php?t=Toxic%20Trends%20Mapper%26amp%3Bu%3Dhttp%3A%2F%2Ftoxictrends.org",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=585');
+		ga('send', 'social', 'facebook', 'share', 'socialTarget', {'page': '/'});
+	});
 	
-	</script>
+	$(".googleplus").on("click", function(){
+		window.open("https://plus.google.com/share?url=http%3A%2F%2Ftoxictrends.org",'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=475,width=420');
+		ga('send', 'social', 'google+', 'share', 'socialTarget', {'page': '/'});
+	});
+
+}
+
+function changeYear(year) {
+    map.setFilter("facilities", ["all", [">", year + "TotLbs", 0]]);
+    map.setFilter("Facilities Inactive", ["all", ["==", "$type", "Point"],
+        ["any", ["!has", year + "TotLbs"],
+            ["<=", year + "TotLbs", 0]
+        ]
+    ]);
+    map.setPaintProperty("facilities", "circle-color", {
+        "property": year + "TotLbs",
+        "stops": [
+            [0,'rgb(254,227,145)'],
+            [10,'rgb(254,196,79)'],
+            [100,'rgb(254,153,41)'],
+            [1000,'rgb(236,112,20)'],
+            [10000,'rgb(204,76,2)'],
+            [100000,'rgb(153,52,4)'],
+            [1000000,'rgb(102,37,6)']
+        ]
+    });
+    map.setPaintProperty("facilities", "circle-radius", {
+        "base": 1.1,
+        "property": year + "TotScr",
+        "stops": [
+            [{zoom: 1, value: 0}, 0.5],
+            [{zoom: 1, value: 1000000}, 1.5],
+            [{zoom: 4, value: 0}, 2],
+            [{zoom: 4, value: 1000000}, 6.5],
+            [{zoom: 16, value: 0}, 14],
+            [{zoom: 16, value: 1000000}, 46]
+        ]
+    });
+    map.setFilter("facility-hover", ["all",
+         ["has", year + "TotLbs"],
+        ["==", "ID", facilityID]
+    ]);
+    map.setPaintProperty('facility-hover', 'circle-radius', {
+            "base": 1.1,
+            "property": year + "TotScr",
+            "stops": [
+                [{zoom: 1, value: 0}, 2.5],
+                [{zoom: 1, value: 1000000}, 3.5],
+                [{zoom: 4, value: 0}, 4],
+                [{zoom: 4, value: 1000000}, 8.5],
+                [{zoom: 16, value: 0}, 16],
+                [{zoom: 16, value: 1000000}, 48]
+            ]
+        });
+}
+
+$('.toggle-year .up').bind('click', function() {
+    toggleUp();
+});
+$('.toggle-year .down').bind('click', function() {
+    toggleDown();
+});
+var toggleUp = function() {
+    if (mapYear < maxYear) {
+        mapYear += 1;
+        changeYear(mapYear);
+        $('.toggle-year .map-year').html(mapYear);
+        //ga('send', 'event', 'Map', 'Year', mapYear);
+    }
+};
+
+var toggleDown = function() {
+    if (mapYear > minYear) {
+        mapYear -= 1;
+        changeYear(mapYear);
+        $('.toggle-year .map-year').html(mapYear);
+        //ga('send', 'event', 'Map', 'Year', mapYear);
+    }
+};
+
+function loadPopup(facility_number){
+    var url = '//toxictrends.org/api/v5/facility/' + facility_number + '.json';
+    var startTime = new Date().getTime();
+    
+    //Set info window year to current year
+    document.getElementById('chemical-tab-year').innerHTML = windowYear;
+    document.getElementById('industry-tab-year').innerHTML = windowYear;
+
+    $.ajax({
+        dataType : "json",
+        url : url,
+        success : function(facility_record) {
+            windowYear = mapYear;
+            cleanPopup();
+            parseFacility(facility_record);
+            parseChemicals(facility_record);
+            parseIndustry(facility_record);
+
+            // FIXME
+            if ($("#general-tab-btn").attr('aria-expanded') === 'true') {
+                loadChart(facility_record);
+            } else {
+                $("#general-tab-btn").on('click.draw_chart', function() {
+                    loadChart(facility_record);
+                    $("#general-tab-btn").off('click.draw_chart');
+                });
+            }
+
+            // END FIXME
+
+            initChemListListener();
+            initYearChangers(facility_record);
+        },
+        error : function(request){
+            ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
+        }
+    }).done(function(){
+        var totalTime = new Date().getTime()-startTime;
+        ga('send', 'timing', 'api', 'facility', totalTime);
+    });
+}
+
+function cleanPopup() {
+    //Remove event listeners to prevent multiple copies
+    $("#chemical-list").off('click.chemdetails');
+
+    document.getElementById('info-graph').innerHTML = '';
+    document.getElementById('info-title').innerHTML = '';
+    document.getElementById('info-industry').innerHTML = '';
+    document.getElementById('info-envirofact').innerHTML = '';
+    document.getElementById('info-address').innerHTML = '';
+    document.getElementById('info-contact').innerHTML = '';
+    document.getElementById('chemical-list').innerHTML = '';
+    document.getElementById('industry-list').innerHTML = '';
+
+}
+
+function parseFacility(facility_record) {
+    $("#facility-tabs").show();
+    document.getElementById('info-title').innerHTML = '<STRONG>' + facility_record.FacilityName + '</STRONG>';
+    if(facility_record.NAICS1 !== undefined && facility_record.NAICS1.name !== undefined){
+        document.getElementById('info-industry').innerHTML = 'Industry: ' + facility_record.NAICS1.name;
+    }
+    document.getElementById('info-address').innerHTML = '<p>' + facility_record.Street + '<br />' + facility_record.City + ' ' + facility_record.State + ', ' + facility_record.ZIPCODE + '<br />' + facility_record.Latitude + ' ' + facility_record.Longitude + '</p>';
+    document.getElementById('info-contact').innerHTML = '<p>' + facility_record.PublicContactName + '<br />' + facility_record.PublicContactPhone.replace(/(\d\d\d)(\d\d\d)(\d\d\d\d)/, '($1) $2-$3') + '</p>';
+    $('#info-envirofact').html('<a href="' + 'https://www3.epa.gov/enviro/facts/tri/ef-facilities/#/Facility/' + facility_record.FacilityID + '" target="_blank">EnviroFacts</a>');
+
+    //remove previous zoomto listner
+    $(".zoom-to").off('click.zoom');
+
+    //Add zoom to listner
+    $(".zoom-to").on('click.zoom', function() {
+        zoomToFacility(facility_record.Latitude, facility_record.Longitude, facility_record.FacilityID);
+    });
+
+}
+    
+function parseChemicals(facility_record) {
+    var chemList = document.getElementById('chemical-list');
+    var emissions;
+    //Remove stale content
+    chemList.innerHTML = '';
+    //Parse record
+    if (facility_record.Emissions !== undefined && facility_record.Emissions[windowYear] !== undefined && facility_record.Emissions[windowYear].Submissions !== undefined) {
+        emissions = facility_record.Emissions[windowYear].Submissions;
+    } else {
+        emissions = 'NoData';
+    }
+    if (emissions !== 'NoData') {
+        emissions.sort(function(a, b) {
+            //http://stackoverflow.com/questions/5435228/sort-an-array-with-arrays-in-it-by-string
+            //Returns results high-to-low.  Change return 1 to -1 and return -1 to 1 to reverse
+            if (a.Score < b.Score) {
+                return 1;
+            }
+            if (a.Score > b.Score) {
+                return -1;
+            }
+            return 0;
+        });
+        for (var emission in emissions) {
+            if(emissions.hasOwnProperty(emission)){
+                var div = document.createElement('div');
+                div.className = 'chemical_row';
+                div.id = 'cas' + emissions[emission].CASNumber;
+                div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + (emissions[emission].Pounds).format() + ' Risk Screening Score: ' + (emissions[emission].Score).format() + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+                chemList.appendChild(div);
+            }
+        }
+    } else {
+        chemList.innerHTML = 'No Chemical Air Releases in ' + windowYear;
+    }
+}
+
+function parseIndustry(facility_record) {
+    var industryList = document.getElementById('industry-list');
+
+    //Remove stale content
+    industryList.innerHTML = '';
+
+    //parse record
+    for (var i = 1; i < 10; i++) {
+        if (facility_record['NAICS' + i]) {
+            if (facility_record['NAICS' + i] === 'NULL') return;
+            var div = document.createElement('div');
+            var html = "";
+            div.setAttribute('class', 'industry_row');
+            html += '<strong>' + facility_record['NAICS' + i].name + '</strong><br />';
+            if (!facility_record['NAICS' + i] || !facility_record['NAICS' + i][windowYear]) {
+                html += 'This facility did not report any air releases during this year, so comparisons are unavailable.';
+            } else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count === 1) {
+                html += 'There is only 1 facility of this type in the country.';
+            } else if (facility_record['NAICS' + i][windowYear].state_count === 1 && facility_record['NAICS' + i][windowYear].us_count > 1) {
+                html += 'There is only 1 facility of this type in ' + stateLookup[facility_record.State] + '. There are ' + facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent of facilities of this type in the country.  The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk screening score than ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent of facilities of this type in the country.';
+            } else {
+                html += 'There are ' + facility_record['NAICS' + i][windowYear].state_count + ' facilities of this type in ' + stateLookup[facility_record.State] + ' and ' +  facility_record['NAICS' + i][windowYear].us_count + ' in the country. It emits more pounds of chemicals than ' + facility_record['NAICS' + i][windowYear].state_pounds_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_pounds_pct + ' percent in the country. The facility has a higher <a href="http://www.epa.gov/oppt/rsei/pubs/using_rsei.html#high_score" target="_blank">RSEI</a> risk screening score than  ' + facility_record['NAICS' + i][windowYear].state_score_pct + ' percent of facilities of this type in ' + stateLookup[facility_record.State] + ' and ' + facility_record['NAICS' + i][windowYear].us_score_pct + ' percent in the country.';
+            }
+
+            div.innerHTML = html;
+            industryList.appendChild(div);
+        }
+    }
+}
+
+function initChemListListener() {
+    //Event Listener for chemical list click
+    $("#chemical-list").on('click.chemdetails', function(e) {
+        var target = $(e.target);
+
+        // Check that they clicked on a chemical row and not the container
+        if (target.hasClass("chemical_row")) {
+            var casNum = (e.target.id).substring(3, e.target.id.length);
+            var chem_details = target.children('.chemical_details');
+
+            //Check to see if data was downloaded during a previous click
+            //If not, download data
+            if (!target.hasClass("data_loaded")) {
+                //Position from top of chemical list to scroll list to
+                var scrollto = $("#chemical-list").scrollTop() + chem_details.position().top - 120;
+
+                //Get the clicked chemical from the api and add "data_loaded" class to prevent loading again on future clicks
+                getChem(casNum);
+                target.addClass("data_loaded");
+                chem_details.show();
+
+                //Scroll chemical list window so chemical of interest is at top
+                $("#chemical-list").animate({
+                    scrollTop : (scrollto + 'px')
+                }, 'slow');
+
+            } else {
+                //If data already loaded, hide or show the chemical details depending on the current view state
+                if (chem_details.is(":visible")) {
+                    chem_details.hide();
+                } else {
+                    chem_details.show();
+                }
+            }
+        }
+    });
+}
+
+function getChem(casNum) {
+    var url = '//toxictrends.org/api/chemical/' + casNum + '.json';
+    var startTime = new Date().getTime();
+    $.ajax({
+        dataType : "json",
+        url : url,
+        success : function(data) {
+            
+            parseChem(casNum, data);
+            ga('send', 'event', 'chemical', 'click', data.ChemName);
+        },
+        error: function(request){
+            ga('send', 'event', 'Error', 'ajax', 'url: ' + url + ' response: ' + request.responseText);
+        }
+        
+    }).done(function(){
+        var totalTime = new Date().getTime()-startTime;
+        ga('send', 'timing', 'api', 'chemical', totalTime);
+    });
+}
+
+function parseChem(casNum, data) {
+    var html = '';
+
+    // Metal
+    html += "<br /><strong>Metalic: </strong>";
+    if (data.Metal === "TRUE") {
+        html += 'This chemical is a metal';
+    } else {
+        html += 'This chemical is not a metal';
+    }
+
+    // Carcinogen
+    html += "<br /><br /><strong>Cancer: </strong>";
+    if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "cancer") {
+        html += "This chemical is carcinogenic through both the oral and inhalation pathways";
+    } else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "non-cancer") {
+        html += "This chemical is not known to be carcinogenic";
+    } else if (data.ToxicityClassInhale === "cancer" && data.ToxicityClassOral === "non-cancer") {
+        html += "This chemical is carcinogenic through the inhalation pathway but not the oral pathway";
+    } else if (data.ToxicityClassInhale === "non-cancer" && data.ToxicityClassOral === "cancer") {
+        html += "This chemical is carcinogenic through the oral pathway but not the inhalation pathway";
+    } else {
+        html += "Information on cancer causing effects are not available for this chemical";
+    }
+
+    // Health Effects
+    html += "<br /><br /><strong>Other Health Effects: </strong>";
+    if (data['Health Effects'] === undefined || data['Health Effects'] === null || data['Health Effects'].length === 0) {
+        html += "Human health effects have not been identfied for this chemical";
+    } else {
+        html += 'Identified human health effects include: ';
+        if (data['Health Effects'].length === 1) {
+            html += data['Health Effects'][0];
+        } else if (data['Health Effects'].length === 2) {
+            html += data['Health Effects'][0] + ' and ' + data['Health Effects'][1];
+        } else if (data['Health Effects'].length > 2) {
+            var text = data['Health Effects'][data['Health Effects'].length - 1];
+            data['Health Effects'][data['Health Effects'].length - 1] = 'and ' + text;
+            html += data['Health Effects'].join(', ');
+        }
+    }
+
+    //Federal Register
+    html += "<br /><br /><strong>Federal Register: </strong>";
+    if (data['Federal Register'] === "") {
+        html += "There is no official definition of this chemical in the federal register";
+    } else {
+        html += data['Federal Register'];
+    }
+
+    // Aditional Information
+    html += "<br /><br /><strong>Additional information: </strong>";
+
+    if (data.IRIS !== "") {
+        html += '<br /><a href="' + data.IRIS + '" target="_blank">Integrated Risk Information System (IRIS)</a>';
+    }
+    if (data.ATSDR !== "") {
+        html += '<br /><a href="' + data.ATSDR + '" target="_blank">Agency for Toxic Substances and Disease Registry (ATSDR)</a>';
+    }
+    if (data.OPP !== "") {
+        html += '<br /><a href="' + data.OPP + '" target="_blank">Office of Pesticide Programs (OPP)</a>';
+    }
+    if (data.OPP === "" && data.IRIS === "" && data.ATSDR === "") {
+        html += "<br />None available";
+    }
+
+    //Add html to chemical div
+    document.getElementById('inf' + casNum).innerHTML = html;
+}
+
+function initYearChangers(facility_record) {
+    //remove previous listner
+    $("#facility-tabs").off('click.yearchanger');
+    //Set the windowYear to the mapYear on first load
+    $("div.popup-year-label").html(mapYear);
+    //app.windowYear = app.mapYear;
+
+    //Add click listner with yearchanger namespace for later reference
+    $("#facility-tabs").on('click.yearchanger', function(e) {
+        var oldyear = windowYear;
+        if ($(e.target).hasClass("popup-year-left")) {
+            if (windowYear > minYear) {
+                windowYear -= 1;
+            }
+        } else if ($(e.target).hasClass("popup-year-right")) {
+            if (windowYear < maxYear) {
+                windowYear += 1;
+            }
+        } else {
+            return;
+        }
+
+        if (oldyear !== windowYear) {
+            $("div.popup-year-label").html(windowYear);
+            parseChemicals(facility_record);
+            parseIndustry(facility_record);
+            $("#chemical-list").animate({
+                scrollTop : ('0px')
+            }, 'fast');
+            $("#industry-list").animate({
+                scrollTop : ('0px')
+            }, 'fast');
+        }
+    });
+}
+
+function loadChart(facility_record) {
+    // create chart data
+
+    var data;
+    var chart_data = [['Year', 'Total Pounds Released', 'Risk Screening Score']];
+    var chart = new google.visualization.LineChart($('#info-graph')[0]);
+    var options = {
+        title : 'Facility Performance',
+        hAxis : {
+            gridlines : {
+                color : '#333',
+                count : 10
+            }
+        },
+        series : {
+            0 : {
+                argetAxisIndex : 0
+            },
+            1 : {
+                targetAxisIndex : 1
+            }
+        },
+        vAxes : {
+            0 : {
+                textStyle : {
+                    color : 'blue'
+                },
+                label : 'Total Pounds Released'
+            },
+            1 : {
+                textStyle : {
+                    color : 'red'
+                },
+                label : 'Risk Screening Score'
+            }
+        },
+        chartArea : {
+            width : '97%'
+        },
+        vAxis : {
+            textPosition : 'in'
+        }
+
+    };
+    var formatter = new google.visualization.NumberFormat({
+        fractionDigits: '0'
+    });
+    
+    $.each(facility_record.Emissions, function(k, v) {
+        chart_data.push([k, v.TotalPounds, v.TotalScore]);
+    });
+
+    // set the chart properties
+    // First data point is the axis labels, so always exist
+    // that's why we check for greater than 1
+    if (chart_data.length > 1) {
+        data = google.visualization.arrayToDataTable(chart_data);
+        formatter.format(data, 2); // Apply formatter to risk
+        formatter.format(data, 1); // Apply formatter to pounds
+        chart.draw(data, options);
+    } else {
+        $("#info-graph").html('<p class="noChart">No reported air emissions</p>');
+    }
+}
+
+function zoomToFacility(lat, lng, facID) {
+	map.flyTo({
+        center: [lng, lat],
+        zoom: 14
+    });
+
+    if (facID) {
+    	facilityID = facID;
+    	map.setFilter("facility-hover", ["==", "ID", facilityID]);
+    }
+}
+
+function createFullAppLink() {
+	var link = "http://toxictrends.org/index.html?center=";
+	var center = map.getCenter();
+	link += center.lat.toFixed(4) + "," + center.lng.toFixed(4);
+	link += "&zoom=" + parseInt(map.getZoom());
+	link += "&year=" + windowYear;
+
+	return link;
+}
+
+function createEmbedLink() {
+	var embedcode = "";
+	var link = "http://toxictrends.org/index.html?center=";
+	var center = map.getCenter();
+	link += center.lat.toFixed(4) + "," + center.lng.toFixed(4);
+	link += "&zoom=" + parseInt(map.getZoom());
+	link += "&year=" + windowYear;
+	link += "&embed=true";
+
+	embedcode = '<iframe width="500" frameBorder="0" height="300" src="' + link + '" border="none"></iframe>';
+
+	return embedcode;
+}
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41900883-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 	
-  </body>
-  
-</html>
+</body>

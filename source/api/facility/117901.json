@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WASHINGTON",
+    "County": "PA,WASHINGTON",
+    "DUNS": "004318374",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38156.662308,
+    "DistanceToReach": 33.832307,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1308206690051",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.027065,
+                    "SubmissionNumber": 791729,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.027065,
+            "state_score_percentile": 14,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1309208075794",
+                    "MaxOnsite": "04",
+                    "Pounds": 4.0,
+                    "Score": 0.021453,
+                    "SubmissionNumber": 909691,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4.0,
+            "TotalScore": 0.021453,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "1163195",
+                    "Chemical": "Decabromodiphenyl ether",
+                    "ChemicalNumber": 180,
+                    "DCN": "1310208482303",
+                    "MaxOnsite": "04",
+                    "Pounds": 7.0,
+                    "Score": 0.037196,
+                    "SubmissionNumber": 950480,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 7.0,
+            "TotalScore": 0.037196,
+            "state_score_percentile": 16,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "42125",
+    "FRSID": "110001122669",
+    "FacilityID": "15301VBTPLPOBOX",
+    "FacilityNumber": 117901,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.1615,
+    "Longitude": -80.29269,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2008": {
+            "state_count": 8,
+            "state_pounds_pct": 31,
+            "state_score_pct": 12,
+            "us_count": 148,
+            "us_pounds_pct": 17,
+            "us_score_pct": 8
+        },
+        "2009": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 137,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 126,
+            "us_pounds_pct": 18,
+            "us_score_pct": 5
+        },
+        "naicscode": "325991",
+        "name": "Custom Compounding of Purchased Resins"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "WASHINGTON PENN PLASTIC V-BAT DIV",
+    "NearComID": 3823841,
+    "NearReach": "05030101001399",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004318374",
+    "ParentName": "WASHINGTON PENN PLASTIC CO INC",
+    "PreferredLat": 40.15556,
+    "PreferredLong": 80.29167,
+    "PublicContactName": "BRANDON SCHAFFER",
+    "PublicContactPhone": "7242064282",
+    "RCRANumber": "PAD004516373",
+    "RadialDistance": 2408475,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 35,
+            "state_score_pct": 14,
+            "us_count": 161,
+            "us_pounds_pct": 16,
+            "us_score_pct": 7
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 148,
+            "us_pounds_pct": 12,
+            "us_score_pct": 6
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 138,
+            "us_pounds_pct": 19,
+            "us_score_pct": 5
+        },
+        "name": "Custom compounding of purchased plastics resins",
+        "siccode": "3087"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "1500 WEIRICH AVE",
+    "SubmitLat": 40.15556,
+    "SubmitLong": 80.29167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1630,
+    "Y": 2487,
+    "ZIP9": "15301",
+    "ZIPCode": "15301"
+}

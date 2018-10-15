@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FAIRFIELD",
+    "County": "NJ,ESSEX",
+    "DUNS": "122279094",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22572.822521,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105123172",
+                    "MaxOnsite": "04",
+                    "Pounds": 7998.0,
+                    "Score": 0.814858,
+                    "SubmissionNumber": 1798917,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 7998.0,
+            "TotalScore": 0.814858,
+            "state_score_percentile": 62,
+            "us_score_percentile": 47
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115210027",
+                    "MaxOnsite": "04",
+                    "Pounds": 11649.0,
+                    "Score": 1.19517,
+                    "SubmissionNumber": 1886961,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 11649.0,
+            "TotalScore": 1.19517,
+            "state_score_percentile": 69,
+            "us_score_percentile": 54
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1398125003867",
+                    "MaxOnsite": "03",
+                    "Pounds": 2940.0,
+                    "Score": 0.303745,
+                    "SubmissionNumber": 1967643,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2940.0,
+            "TotalScore": 0.303745,
+            "state_score_percentile": 49,
+            "us_score_percentile": 38
+        }
+    },
+    "FIPS": "34013",
+    "FRSID": "110000317988",
+    "FacilityID": "07006CRTSS300FA",
+    "FacilityNumber": 114083,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.88177,
+    "Longitude": -74.28679,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 31,
+            "us_score_pct": 19
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 90,
+            "us_pounds_pct": 47,
+            "us_score_pct": 27
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 87,
+            "us_pounds_pct": 27,
+            "us_score_pct": 18
+        },
+        "naicscode": "336413",
+        "name": "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3364",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "CURTISS-WRIGHT FLIGHT SYSTEMS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002013522",
+    "ParentName": "CURTISS-WRIGHT CORP",
+    "PreferredLat": 40.88277,
+    "PreferredLong": 74.28546,
+    "PublicContactName": "MIKE HELD",
+    "PublicContactPhone": "9735752304",
+    "RCRANumber": "NJD002442549",
+    "RadialDistance": 2835924,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 105,
+            "us_pounds_pct": 31,
+            "us_score_pct": 19
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 102,
+            "us_pounds_pct": 50,
+            "us_score_pct": 28
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 95,
+            "us_pounds_pct": 31,
+            "us_score_pct": 22
+        },
+        "name": "Aircraft parts and auxiliary equipment, n.e.c.",
+        "siccode": "3728"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "372",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.7102,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.205,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "300 FAIRFIELD RD.",
+    "SubmitLat": 40.87917,
+    "SubmitLong": 71.28611,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2221,
+    "Y": 2706,
+    "ZIP9": "070041962",
+    "ZIPCode": "07004"
+}

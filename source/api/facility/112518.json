@@ -1,0 +1,196 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SALEM",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "046312559",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 49049.028798,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396100043227",
+                    "MaxOnsite": "03",
+                    "Pounds": 13267.0,
+                    "Score": 15.272547999999999,
+                    "SubmissionNumber": 1751839,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13267.0,
+            "TotalScore": 15.272547999999999,
+            "state_score_percentile": 60,
+            "us_score_percentile": 56
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397110247867",
+                    "MaxOnsite": "03",
+                    "Pounds": 13306.0,
+                    "Score": 15.426385,
+                    "SubmissionNumber": 1845566,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13306.0,
+            "TotalScore": 15.426385,
+            "state_score_percentile": 61,
+            "us_score_percentile": 57
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1398120330410",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.241747,
+                    "SubmissionNumber": 1926037,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120330422",
+                    "MaxOnsite": "03",
+                    "Pounds": 9050.0,
+                    "Score": 10.577822,
+                    "SubmissionNumber": 1926038,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9055.0,
+            "TotalScore": 10.819569,
+            "state_score_percentile": 56,
+            "us_score_percentile": 51
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110009420714",
+    "FacilityID": "03079HDCCR7MANO",
+    "FacilityNumber": 112518,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.778484,
+    "Longitude": -71.24993,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 55,
+            "us_count": 156,
+            "us_pounds_pct": 83,
+            "us_score_pct": 43
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 57,
+            "us_count": 172,
+            "us_pounds_pct": 87,
+            "us_score_pct": 45
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 158,
+            "us_pounds_pct": 81,
+            "us_score_pct": 37
+        },
+        "naicscode": "334412",
+        "name": "Bare Printed Circuit Board Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HADCO CORP. TECHNOLOGY CENTER ONE DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "046312559",
+    "ParentName": "HADCO CORP",
+    "PreferredLat": 42.77583,
+    "PreferredLong": 71.25333,
+    "PublicContactName": "DAVID UNGER",
+    "PublicContactPhone": "9785566283",
+    "RCRANumber": "NHD980668156",
+    "RadialDistance": 3163552,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 55,
+            "us_count": 168,
+            "us_pounds_pct": 83,
+            "us_score_pct": 43
+        },
+        "1997": {
+            "state_count": 7,
+            "state_pounds_pct": 85,
+            "state_score_pct": 57,
+            "us_count": 181,
+            "us_pounds_pct": 86,
+            "us_score_pct": 43
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 50,
+            "us_count": 165,
+            "us_pounds_pct": 81,
+            "us_score_pct": 36
+        },
+        "name": "Printed circuit boards",
+        "siccode": "3672"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NH",
+    "Street": "7 MANOR PKY.",
+    "SubmitLat": 42.77583,
+    "SubmitLong": 71.25333,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2458,
+    "Y": 3035,
+    "ZIP9": "03079",
+    "ZIPCode": "03079"
+}

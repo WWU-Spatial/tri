@@ -1,0 +1,1379 @@
+{
+    "AssignedComID": 6245210,
+    "AssignedReach": "02030103000098",
+    "City": "HARRIMAN",
+    "County": "NY,ORANGE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67771.119361,
+    "DistanceToReach": 19.731776,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1396105403632",
+                    "MaxOnsite": "06",
+                    "Pounds": 12765.0,
+                    "Score": 533.6382000000001,
+                    "SubmissionNumber": 1817953,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1396105403644",
+                    "MaxOnsite": "05",
+                    "Pounds": 1402.0,
+                    "Score": 2579.9035,
+                    "SubmissionNumber": 1817954,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1396105403669",
+                    "MaxOnsite": "05",
+                    "Pounds": 4810.0,
+                    "Score": 5775.4513,
+                    "SubmissionNumber": 1817955,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1396105403671",
+                    "MaxOnsite": "05",
+                    "Pounds": 3240.0,
+                    "Score": 1031.59161,
+                    "SubmissionNumber": 1817956,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1396105403683",
+                    "MaxOnsite": "05",
+                    "Pounds": 411.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1817957,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1396105403695",
+                    "MaxOnsite": "04",
+                    "Pounds": 611.0,
+                    "Score": 10.7088,
+                    "SubmissionNumber": 1817958,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1396105403719",
+                    "MaxOnsite": "06",
+                    "Pounds": 65309.0,
+                    "Score": 51.108,
+                    "SubmissionNumber": 1817960,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 88548.0,
+            "TotalScore": 9982.401409999999,
+            "state_score_percentile": 90,
+            "us_score_percentile": 84
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1397115275760",
+                    "MaxOnsite": "05",
+                    "Pounds": 3199.0,
+                    "Score": 1039.2211,
+                    "SubmissionNumber": 1890534,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115275772",
+                    "MaxOnsite": "06",
+                    "Pounds": 45217.0,
+                    "Score": 38.004400000000004,
+                    "SubmissionNumber": 1890535,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1397115275784",
+                    "MaxOnsite": "05",
+                    "Pounds": 4537.0,
+                    "Score": 5552.5308,
+                    "SubmissionNumber": 1890536,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1397115275796",
+                    "MaxOnsite": "05",
+                    "Pounds": 1365.0,
+                    "Score": 2554.7167,
+                    "SubmissionNumber": 1890537,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1397115275808",
+                    "MaxOnsite": "05",
+                    "Pounds": 378.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1890538,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1397115275810",
+                    "MaxOnsite": "04",
+                    "Pounds": 557.0,
+                    "Score": 9.96288,
+                    "SubmissionNumber": 1890539,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1397115275822",
+                    "MaxOnsite": "06",
+                    "Pounds": 12087.0,
+                    "Score": 514.8616,
+                    "SubmissionNumber": 1890540,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 67340.0,
+            "TotalScore": 9709.297480000001,
+            "state_score_percentile": 88,
+            "us_score_percentile": 82
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1398120257860",
+                    "MaxOnsite": "05",
+                    "Pounds": 6257.0,
+                    "Score": 7831.750800000001,
+                    "SubmissionNumber": 1920675,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1398120257872",
+                    "MaxOnsite": "05",
+                    "Pounds": 647.0,
+                    "Score": 1207.7089,
+                    "SubmissionNumber": 1920676,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1398120257884",
+                    "MaxOnsite": "06",
+                    "Pounds": 56723.0,
+                    "Score": 46.028999999999996,
+                    "SubmissionNumber": 1920677,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1398120257908",
+                    "MaxOnsite": "05",
+                    "Pounds": 2362.0,
+                    "Score": 781.7332,
+                    "SubmissionNumber": 1920678,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120257910",
+                    "MaxOnsite": "03",
+                    "Pounds": 15.0,
+                    "Score": 0.000593,
+                    "SubmissionNumber": 1920679,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1398120257922",
+                    "MaxOnsite": "06",
+                    "Pounds": 12242.0,
+                    "Score": 533.9621,
+                    "SubmissionNumber": 1920680,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1398125361307",
+                    "MaxOnsite": "04",
+                    "Pounds": 348.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1985037,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 78594.0,
+            "TotalScore": 10401.184593000004,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1399130245739",
+                    "MaxOnsite": "05",
+                    "Pounds": 2369.0,
+                    "Score": 799.58071,
+                    "SubmissionNumber": 2011121,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130245741",
+                    "MaxOnsite": "05",
+                    "Pounds": 55869.0,
+                    "Score": 46.0285,
+                    "SubmissionNumber": 2011122,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1399130245754",
+                    "MaxOnsite": "05",
+                    "Pounds": 6763.0,
+                    "Score": 8608.4748,
+                    "SubmissionNumber": 2011123,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1399130245778",
+                    "MaxOnsite": "05",
+                    "Pounds": 626.0,
+                    "Score": 1207.5053,
+                    "SubmissionNumber": 2011124,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130245780",
+                    "MaxOnsite": "03",
+                    "Pounds": 15.0,
+                    "Score": 0.000604,
+                    "SubmissionNumber": 2011125,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1399130245792",
+                    "MaxOnsite": "06",
+                    "Pounds": 10928.0,
+                    "Score": 489.25848,
+                    "SubmissionNumber": 2011126,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1399135224576",
+                    "MaxOnsite": "04",
+                    "Pounds": 575.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2071309,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 77145.0,
+            "TotalScore": 11150.848394000002,
+            "state_score_percentile": 89,
+            "us_score_percentile": 83
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1300140327711",
+                    "MaxOnsite": "06",
+                    "Pounds": 2368.0,
+                    "Score": 814.37159,
+                    "SubmissionNumber": 29058,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140327723",
+                    "MaxOnsite": "06",
+                    "Pounds": 47732.0,
+                    "Score": 41.047799999999995,
+                    "SubmissionNumber": 29059,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1300140327735",
+                    "MaxOnsite": "06",
+                    "Pounds": 6586.0,
+                    "Score": 8535.3671,
+                    "SubmissionNumber": 29060,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1300140327747",
+                    "MaxOnsite": "05",
+                    "Pounds": 1031.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 29061,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1300140327750",
+                    "MaxOnsite": "06",
+                    "Pounds": 667.0,
+                    "Score": 1290.1284,
+                    "SubmissionNumber": 29062,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140327762",
+                    "MaxOnsite": "05",
+                    "Pounds": 15.0,
+                    "Score": 0.000616,
+                    "SubmissionNumber": 29063,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1300140327774",
+                    "MaxOnsite": "06",
+                    "Pounds": 12688.0,
+                    "Score": 579.7603,
+                    "SubmissionNumber": 29064,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 71087.0,
+            "TotalScore": 11260.675805999997,
+            "state_score_percentile": 90,
+            "us_score_percentile": 83
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1301150062394",
+                    "MaxOnsite": "06",
+                    "Pounds": 10657.0,
+                    "Score": 490.49879999999996,
+                    "SubmissionNumber": 99859,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1301150062406",
+                    "MaxOnsite": "05",
+                    "Pounds": 963.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 99860,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1301150062418",
+                    "MaxOnsite": "06",
+                    "Pounds": 2333.0,
+                    "Score": 811.5275,
+                    "SubmissionNumber": 99861,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150062420",
+                    "MaxOnsite": "06",
+                    "Pounds": 47966.0,
+                    "Score": 41.363,
+                    "SubmissionNumber": 99862,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1301150062432",
+                    "MaxOnsite": "06",
+                    "Pounds": 6731.0,
+                    "Score": 8829.5774,
+                    "SubmissionNumber": 99863,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1301150062457",
+                    "MaxOnsite": "06",
+                    "Pounds": 626.0,
+                    "Score": 1231.8027,
+                    "SubmissionNumber": 99865,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1301150062469",
+                    "MaxOnsite": "05",
+                    "Pounds": 25.0,
+                    "Score": 0.001037,
+                    "SubmissionNumber": 99866,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 69301.0,
+            "TotalScore": 11404.770437000001,
+            "state_score_percentile": 90,
+            "us_score_percentile": 85
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1302200305377",
+                    "MaxOnsite": "05",
+                    "Pounds": 2329.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 219935,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1302200305389",
+                    "MaxOnsite": "06",
+                    "Pounds": 4284.0,
+                    "Score": 1102.779,
+                    "SubmissionNumber": 219936,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200305391",
+                    "MaxOnsite": "05",
+                    "Pounds": 1616.0,
+                    "Score": 1.5602070000000001,
+                    "SubmissionNumber": 219937,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1302200305403",
+                    "MaxOnsite": "06",
+                    "Pounds": 13296.0,
+                    "Score": 12386.279999999999,
+                    "SubmissionNumber": 219938,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200305415",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0002,
+                    "Score": 0.0,
+                    "SubmissionNumber": 219939,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1302200305427",
+                    "MaxOnsite": "06",
+                    "Pounds": 1514.0,
+                    "Score": 1967.377,
+                    "SubmissionNumber": 219940,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200305441",
+                    "MaxOnsite": "04",
+                    "Pounds": 0.135,
+                    "Score": 2.5328,
+                    "SubmissionNumber": 219942,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1302200305454",
+                    "MaxOnsite": "06",
+                    "Pounds": 19694.0,
+                    "Score": 655.735,
+                    "SubmissionNumber": 219943,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1302200305466",
+                    "MaxOnsite": "04",
+                    "Pounds": 405.0,
+                    "Score": 5.64011,
+                    "SubmissionNumber": 219944,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 43138.1352,
+            "TotalScore": 16121.904117000002,
+            "state_score_percentile": 87,
+            "us_score_percentile": 82
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1303201464524",
+                    "MaxOnsite": "05",
+                    "Pounds": 1669.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 324560,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1303201464536",
+                    "MaxOnsite": "06",
+                    "Pounds": 2954.66,
+                    "Score": 1046.98119,
+                    "SubmissionNumber": 324561,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201464548",
+                    "MaxOnsite": "05",
+                    "Pounds": 23362.0,
+                    "Score": 23.639699999999998,
+                    "SubmissionNumber": 324562,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1303201464551",
+                    "MaxOnsite": "05",
+                    "Pounds": 7761.13,
+                    "Score": 9834.935,
+                    "SubmissionNumber": 324563,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1303201464563",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.047,
+                    "Score": 0.0,
+                    "SubmissionNumber": 324564,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1303201464575",
+                    "MaxOnsite": "05",
+                    "Pounds": 2031.0,
+                    "Score": 3532.3450000000003,
+                    "SubmissionNumber": 324565,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1303201464587",
+                    "MaxOnsite": "05",
+                    "Pounds": 214.0,
+                    "Score": 0.005012,
+                    "SubmissionNumber": 324566,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1303201464599",
+                    "MaxOnsite": "01",
+                    "Pounds": 10.08,
+                    "Score": 190.937,
+                    "SubmissionNumber": 324567,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1303201464601",
+                    "MaxOnsite": "05",
+                    "Pounds": 497.0,
+                    "Score": 9.659008,
+                    "SubmissionNumber": 324568,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1303201464613",
+                    "MaxOnsite": "06",
+                    "Pounds": 19957.0,
+                    "Score": 707.393,
+                    "SubmissionNumber": 324569,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 58455.917,
+            "TotalScore": 15345.89491,
+            "state_score_percentile": 89,
+            "us_score_percentile": 85
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1304202590295",
+                    "MaxOnsite": "05",
+                    "Pounds": 1900.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 425462,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1304202590307",
+                    "MaxOnsite": "06",
+                    "Pounds": 3396.0,
+                    "Score": 1216.52799,
+                    "SubmissionNumber": 425463,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304202590319",
+                    "MaxOnsite": "05",
+                    "Pounds": 26300.0,
+                    "Score": 26.3139,
+                    "SubmissionNumber": 425464,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1304202590321",
+                    "MaxOnsite": "05",
+                    "Pounds": 8800.0,
+                    "Score": 11276.326000000001,
+                    "SubmissionNumber": 425465,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1304202590333",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 425466,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1304202590345",
+                    "MaxOnsite": "05",
+                    "Pounds": 2350.0,
+                    "Score": 4141.891,
+                    "SubmissionNumber": 425467,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1304202590358",
+                    "MaxOnsite": "04",
+                    "Pounds": 250.0,
+                    "Score": 0.005787,
+                    "SubmissionNumber": 425468,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1304202590360",
+                    "MaxOnsite": "01",
+                    "Pounds": 11.0,
+                    "Score": 210.351,
+                    "SubmissionNumber": 425469,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1304202590372",
+                    "MaxOnsite": "05",
+                    "Pounds": 32.0,
+                    "Score": 0.38552,
+                    "SubmissionNumber": 425470,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1304202590384",
+                    "MaxOnsite": "06",
+                    "Pounds": 22300.0,
+                    "Score": 799.6010000000001,
+                    "SubmissionNumber": 425471,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 65339.05,
+            "TotalScore": 17671.402196999996,
+            "state_score_percentile": 90,
+            "us_score_percentile": 86
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "109068",
+                    "Chemical": "2-Methylpyridine",
+                    "ChemicalNumber": 387,
+                    "DCN": "1305203651625",
+                    "MaxOnsite": "05",
+                    "Pounds": 1900.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 521874,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75070",
+                    "Chemical": "Acetaldehyde",
+                    "ChemicalNumber": 3,
+                    "DCN": "1305203651637",
+                    "MaxOnsite": "05",
+                    "Pounds": 2325.0,
+                    "Score": 796.7732,
+                    "SubmissionNumber": 521875,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1305203651649",
+                    "MaxOnsite": "05",
+                    "Pounds": 23600.0,
+                    "Score": 21.88254,
+                    "SubmissionNumber": 521876,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "71432",
+                    "Chemical": "Benzene",
+                    "ChemicalNumber": 51,
+                    "DCN": "1305203651652",
+                    "MaxOnsite": "05",
+                    "Pounds": 5800.0,
+                    "Score": 7266.143,
+                    "SubmissionNumber": 521877,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1305203651664",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.03,
+                    "Score": 0.0,
+                    "SubmissionNumber": 521878,
+                    "Use": "M"
+                },
+                {
+                    "CASNumber": "50000",
+                    "Chemical": "Formaldehyde",
+                    "ChemicalNumber": 315,
+                    "DCN": "1305203651676",
+                    "MaxOnsite": "05",
+                    "Pounds": 1750.0,
+                    "Score": 2876.681,
+                    "SubmissionNumber": 521879,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1305203651688",
+                    "MaxOnsite": "04",
+                    "Pounds": 200.0,
+                    "Score": 0.004919,
+                    "SubmissionNumber": 521880,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1305203651690",
+                    "MaxOnsite": "01",
+                    "Pounds": 7.0,
+                    "Score": 135.124,
+                    "SubmissionNumber": 521881,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "123386",
+                    "Chemical": "Propionaldehyde",
+                    "ChemicalNumber": 489,
+                    "DCN": "1305203651702",
+                    "MaxOnsite": "04",
+                    "Pounds": 75.0,
+                    "Score": 0.930094,
+                    "SubmissionNumber": 521882,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "110861",
+                    "Chemical": "Pyridine",
+                    "ChemicalNumber": 495,
+                    "DCN": "1305203651714",
+                    "MaxOnsite": "06",
+                    "Pounds": 17800.0,
+                    "Score": 585.403,
+                    "SubmissionNumber": 521883,
+                    "Use": "M"
+                }
+            ],
+            "TotalPounds": 53457.03,
+            "TotalScore": 11682.941753000001,
+            "state_score_percentile": 89,
+            "us_score_percentile": 85
+        }
+    },
+    "FIPS": "36071",
+    "FRSID": "110000603222",
+    "FacilityID": "10926NPRNCROUTE",
+    "FacilityNumber": 115814,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.309528,
+    "Longitude": -74.139111,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 45,
+            "us_pounds_pct": 57,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 56,
+            "us_score_pct": 52
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 54,
+            "us_score_pct": 56
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 46,
+            "us_pounds_pct": 58,
+            "us_score_pct": 63
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 45,
+            "us_pounds_pct": 57,
+            "us_score_pct": 60
+        },
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 44,
+            "us_pounds_pct": 59,
+            "us_score_pct": 56
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 57,
+            "us_score_pct": 62
+        },
+        "2003": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 57,
+            "us_score_pct": 59
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 40,
+            "us_pounds_pct": 57,
+            "us_score_pct": 65
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 38,
+            "us_pounds_pct": 55,
+            "us_score_pct": 63
+        },
+        "naicscode": "325192",
+        "name": "Cyclic Crude and Intermediate Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0006670",
+    "Name": "RUTHERFORD CHEMICALS LLC NEPERA DIV",
+    "NearComID": 6245218,
+    "NearReach": "02030103000098",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "029260833",
+    "ParentName": "RUTHERFORD CHEMICALS LLC",
+    "PreferredLat": 41.31028,
+    "PreferredLong": 74.14222,
+    "PublicContactName": "CHARLES DECKER",
+    "PublicContactPhone": "8457821231",
+    "RCRANumber": "NYD002014595",
+    "RadialDistance": 2874999,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 116,
+            "us_pounds_pct": 68,
+            "us_score_pct": 63
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 119,
+            "us_pounds_pct": 67,
+            "us_score_pct": 58
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 119,
+            "us_pounds_pct": 69,
+            "us_score_pct": 59
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 116,
+            "us_pounds_pct": 68,
+            "us_score_pct": 66
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 50,
+            "us_count": 115,
+            "us_pounds_pct": 70,
+            "us_score_pct": 62
+        },
+        "2001": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 111,
+            "us_pounds_pct": 69,
+            "us_score_pct": 63
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 98,
+            "us_pounds_pct": 61,
+            "us_score_pct": 65
+        },
+        "2003": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 97,
+            "us_pounds_pct": 65,
+            "us_score_pct": 63
+        },
+        "2004": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 91,
+            "us_pounds_pct": 64,
+            "us_score_pct": 64
+        },
+        "2005": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 89,
+            "us_pounds_pct": 60,
+            "us_score_pct": 64
+        },
+        "name": "Cyclic organic crudes and intermidiates, and organic dyes and pigments",
+        "siccode": "2865"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 67,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 64,
+            "us_score_pct": 89
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 73,
+            "us_pounds_pct": 67,
+            "us_score_pct": 90
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 69,
+            "us_pounds_pct": 69,
+            "us_score_pct": 89
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 67,
+            "us_pounds_pct": 70,
+            "us_score_pct": 88
+        },
+        "2001": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 77,
+            "us_score_pct": 88
+        },
+        "2002": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 74,
+            "us_pounds_pct": 67,
+            "us_score_pct": 93
+        },
+        "2003": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 65,
+            "us_pounds_pct": 76,
+            "us_score_pct": 92
+        },
+        "2004": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 57,
+            "us_pounds_pct": 78,
+            "us_score_pct": 94
+        },
+        "2005": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 77,
+            "us_score_pct": 94
+        },
+        "name": "Medicinal chemicals and botanical products",
+        "siccode": "2833"
+    },
+    "SIC3": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 620,
+            "us_pounds_pct": 65,
+            "us_score_pct": 65
+        },
+        "1997": {
+            "state_count": 16,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 616,
+            "us_pounds_pct": 63,
+            "us_score_pct": 67
+        },
+        "1998": {
+            "state_count": 17,
+            "state_pounds_pct": 82,
+            "state_score_pct": 64,
+            "us_count": 619,
+            "us_pounds_pct": 66,
+            "us_score_pct": 69
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 72,
+            "state_score_pct": 66,
+            "us_count": 623,
+            "us_pounds_pct": 67,
+            "us_score_pct": 70
+        },
+        "2000": {
+            "state_count": 15,
+            "state_pounds_pct": 66,
+            "state_score_pct": 60,
+            "us_count": 637,
+            "us_pounds_pct": 67,
+            "us_score_pct": 70
+        },
+        "2001": {
+            "state_count": 15,
+            "state_pounds_pct": 80,
+            "state_score_pct": 66,
+            "us_count": 642,
+            "us_pounds_pct": 69,
+            "us_score_pct": 71
+        },
+        "2002": {
+            "state_count": 16,
+            "state_pounds_pct": 68,
+            "state_score_pct": 75,
+            "us_count": 637,
+            "us_pounds_pct": 62,
+            "us_score_pct": 77
+        },
+        "2003": {
+            "state_count": 15,
+            "state_pounds_pct": 73,
+            "state_score_pct": 66,
+            "us_count": 637,
+            "us_pounds_pct": 67,
+            "us_score_pct": 75
+        },
+        "2004": {
+            "state_count": 14,
+            "state_pounds_pct": 78,
+            "state_score_pct": 71,
+            "us_count": 635,
+            "us_pounds_pct": 69,
+            "us_score_pct": 77
+        },
+        "2005": {
+            "state_count": 13,
+            "state_pounds_pct": 61,
+            "state_score_pct": 69,
+            "us_count": 640,
+            "us_pounds_pct": 67,
+            "us_score_pct": 74
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 1.2954,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 19.5397,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 8.9035,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "41 ARDEN HOUSE RD",
+    "SubmitLat": 41.31028,
+    "SubmitLong": 74.14222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2222,
+    "Y": 2767,
+    "ZIP9": "10926",
+    "ZIPCode": "10926"
+}

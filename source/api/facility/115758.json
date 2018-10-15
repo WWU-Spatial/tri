@@ -1,0 +1,834 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MOUNT VERNON",
+    "County": "NY,WESTCHESTER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35426.465981,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1399130099308",
+                    "MaxOnsite": "02",
+                    "Pounds": 161.0,
+                    "Score": 298.034,
+                    "SubmissionNumber": 1998770,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1399130099310",
+                    "MaxOnsite": "04",
+                    "Pounds": 72.0,
+                    "Score": 6.85771,
+                    "SubmissionNumber": 1998771,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130099322",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.285531,
+                    "SubmissionNumber": 1998772,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1399130099334",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 14.8084,
+                    "SubmissionNumber": 1998773,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1399130099346",
+                    "MaxOnsite": "03",
+                    "Pounds": 1688.0,
+                    "Score": 89.3195,
+                    "SubmissionNumber": 1998774,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130099359",
+                    "MaxOnsite": "03",
+                    "Pounds": 3689.0,
+                    "Score": 68.3204,
+                    "SubmissionNumber": 1998775,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 5631.0,
+            "TotalScore": 477.625541,
+            "state_score_percentile": 55,
+            "us_score_percentile": 46
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1300140842446",
+                    "MaxOnsite": "04",
+                    "Pounds": 161.0,
+                    "Score": 300.582,
+                    "SubmissionNumber": 65000,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1300140842459",
+                    "MaxOnsite": "05",
+                    "Pounds": 72.0,
+                    "Score": 6.91633,
+                    "SubmissionNumber": 65001,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140842461",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.287972,
+                    "SubmissionNumber": 65002,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1300140842473",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 14.9351,
+                    "SubmissionNumber": 65003,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1300140842485",
+                    "MaxOnsite": "03",
+                    "Pounds": 1688.0,
+                    "Score": 90.083,
+                    "SubmissionNumber": 65004,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1300140842497",
+                    "MaxOnsite": "04",
+                    "Pounds": 3689.0,
+                    "Score": 68.9045,
+                    "SubmissionNumber": 65005,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1300140842509",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.853868,
+                    "SubmissionNumber": 65006,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1300140842511",
+                    "MaxOnsite": "02",
+                    "Pounds": 223.0,
+                    "Score": 2142.14,
+                    "SubmissionNumber": 65007,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5862.0,
+            "TotalScore": 2624.70277,
+            "state_score_percentile": 59,
+            "us_score_percentile": 50
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1301150334136",
+                    "MaxOnsite": "05",
+                    "Pounds": 72.0,
+                    "Score": 6.91149,
+                    "SubmissionNumber": 124278,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150334148",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.28777,
+                    "SubmissionNumber": 124279,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1301150334151",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 14.9243,
+                    "SubmissionNumber": 124280,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1301150334163",
+                    "MaxOnsite": "03",
+                    "Pounds": 1688.0,
+                    "Score": 90.0201,
+                    "SubmissionNumber": 124281,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1301150334175",
+                    "MaxOnsite": "04",
+                    "Pounds": 3689.0,
+                    "Score": 68.8563,
+                    "SubmissionNumber": 124282,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1301150334187",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.853271,
+                    "SubmissionNumber": 124283,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150334199",
+                    "MaxOnsite": "03",
+                    "Pounds": 223.0,
+                    "Score": 2140.64,
+                    "SubmissionNumber": 124284,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1301150334276",
+                    "MaxOnsite": "03",
+                    "Pounds": 135.0,
+                    "Score": 316.725,
+                    "SubmissionNumber": 124292,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1301150334288",
+                    "MaxOnsite": "04",
+                    "Pounds": 161.0,
+                    "Score": 300.371,
+                    "SubmissionNumber": 124293,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5997.0,
+            "TotalScore": 2939.589231,
+            "state_score_percentile": 63,
+            "us_score_percentile": 56
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1302200484071",
+                    "MaxOnsite": "04",
+                    "Pounds": 3689.0,
+                    "Score": 68.8081,
+                    "SubmissionNumber": 236589,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200484121",
+                    "MaxOnsite": "04",
+                    "Pounds": 19.0,
+                    "Score": 14.9135,
+                    "SubmissionNumber": 236594,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1302200484133",
+                    "MaxOnsite": "03",
+                    "Pounds": 135.0,
+                    "Score": 316.503,
+                    "SubmissionNumber": 236595,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1302200484145",
+                    "MaxOnsite": "05",
+                    "Pounds": 72.0,
+                    "Score": 6.90666,
+                    "SubmissionNumber": 236596,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200484158",
+                    "MaxOnsite": "03",
+                    "Pounds": 223.0,
+                    "Score": 2139.14,
+                    "SubmissionNumber": 236597,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1302200484184",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.287569,
+                    "SubmissionNumber": 236600,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1302200484208",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.852674,
+                    "SubmissionNumber": 236602,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1302200484210",
+                    "MaxOnsite": "04",
+                    "Pounds": 161.0,
+                    "Score": 300.161,
+                    "SubmissionNumber": 236603,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1302200484222",
+                    "MaxOnsite": "03",
+                    "Pounds": 1688.0,
+                    "Score": 89.9571,
+                    "SubmissionNumber": 236604,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 5997.0,
+            "TotalScore": 2937.5296030000004,
+            "state_score_percentile": 64,
+            "us_score_percentile": 56
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1303201641279",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.287367,
+                    "SubmissionNumber": 340497,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1303201641293",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 13.334,
+                    "SubmissionNumber": 340499,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1303201641317",
+                    "MaxOnsite": "03",
+                    "Pounds": 624.0,
+                    "Score": 33.231,
+                    "SubmissionNumber": 340501,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1303201641331",
+                    "MaxOnsite": "04",
+                    "Pounds": 3310.0,
+                    "Score": 61.6957,
+                    "SubmissionNumber": 340503,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1303201641356",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.852076,
+                    "SubmissionNumber": 340505,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201641370",
+                    "MaxOnsite": "03",
+                    "Pounds": 223.0,
+                    "Score": 2137.65,
+                    "SubmissionNumber": 340507,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1303201641545",
+                    "MaxOnsite": "03",
+                    "Pounds": 76.0,
+                    "Score": 178.055,
+                    "SubmissionNumber": 340524,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4260.0,
+            "TotalScore": 2425.1051429999998,
+            "state_score_percentile": 62,
+            "us_score_percentile": 54
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1304203061142",
+                    "MaxOnsite": "04",
+                    "Pounds": 2.0,
+                    "Score": 0.287165,
+                    "SubmissionNumber": 466560,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1304203061155",
+                    "MaxOnsite": "04",
+                    "Pounds": 17.0,
+                    "Score": 13.3244,
+                    "SubmissionNumber": 466561,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1304203061167",
+                    "MaxOnsite": "04",
+                    "Pounds": 3310.0,
+                    "Score": 61.6524,
+                    "SubmissionNumber": 466562,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "7440224",
+                    "Chemical": "Silver and silver compounds",
+                    "ChemicalNumber": 507,
+                    "DCN": "1304203061179",
+                    "MaxOnsite": "04",
+                    "Pounds": 8.0,
+                    "Score": 0.851479,
+                    "SubmissionNumber": 466563,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304203061181",
+                    "MaxOnsite": "03",
+                    "Pounds": 223.0,
+                    "Score": 2136.15,
+                    "SubmissionNumber": 466564,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1304203061268",
+                    "MaxOnsite": "03",
+                    "Pounds": 76.0,
+                    "Score": 177.93,
+                    "SubmissionNumber": 466572,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1304203061282",
+                    "MaxOnsite": "03",
+                    "Pounds": 624.0,
+                    "Score": 33.2077,
+                    "SubmissionNumber": 466574,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 4260.0,
+            "TotalScore": 2423.403144,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        }
+    },
+    "FIPS": "36119",
+    "FRSID": "110002321336",
+    "FacilityID": "10550MCHLN115SM",
+    "FacilityNumber": 115758,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.910521,
+    "Longitude": -73.850696,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 11,
+            "us_pounds_pct": 72,
+            "us_score_pct": 90
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 80,
+            "us_score_pct": 80
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 100,
+            "us_score_pct": 80
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 100,
+            "us_score_pct": 80
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 90,
+            "us_score_pct": 80
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 87,
+            "us_score_pct": 75
+        },
+        "naicscode": "339911",
+        "name": "Jewelry (except Costume) Manufacturing"
+    },
+    "NAICSCode3Digit": "339",
+    "NAICSCode4Digit": "3399",
+    "NAICSCodeSame3Digit": "339",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MICHAEL ANTHONY JEWELERS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "RITA MARTIN-CROWLEY",
+    "PublicContactPhone": "9146990000",
+    "RCRANumber": "NYD131804924",
+    "RadialDistance": 2866896,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 50,
+            "us_count": 306,
+            "us_pounds_pct": 49,
+            "us_score_pct": 53
+        },
+        "2000": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 57,
+            "us_count": 301,
+            "us_pounds_pct": 55,
+            "us_score_pct": 65
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 66,
+            "us_count": 287,
+            "us_pounds_pct": 60,
+            "us_score_pct": 68
+        },
+        "2002": {
+            "state_count": 9,
+            "state_pounds_pct": 100,
+            "state_score_pct": 66,
+            "us_count": 266,
+            "us_pounds_pct": 62,
+            "us_score_pct": 68
+        },
+        "2003": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 70,
+            "us_count": 250,
+            "us_pounds_pct": 63,
+            "us_score_pct": 66
+        },
+        "2004": {
+            "state_count": 11,
+            "state_pounds_pct": 100,
+            "state_score_pct": 81,
+            "us_count": 249,
+            "us_pounds_pct": 66,
+            "us_score_pct": 67
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SIC2": {
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 83,
+            "state_score_pct": 66,
+            "us_count": 534,
+            "us_pounds_pct": 74,
+            "us_score_pct": 47
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 86,
+            "state_score_pct": 63,
+            "us_count": 537,
+            "us_pounds_pct": 76,
+            "us_score_pct": 59
+        },
+        "2001": {
+            "state_count": 21,
+            "state_pounds_pct": 80,
+            "state_score_pct": 57,
+            "us_count": 553,
+            "us_pounds_pct": 80,
+            "us_score_pct": 62
+        },
+        "2002": {
+            "state_count": 17,
+            "state_pounds_pct": 94,
+            "state_score_pct": 58,
+            "us_count": 533,
+            "us_pounds_pct": 81,
+            "us_score_pct": 65
+        },
+        "2003": {
+            "state_count": 18,
+            "state_pounds_pct": 88,
+            "state_score_pct": 61,
+            "us_count": 516,
+            "us_pounds_pct": 79,
+            "us_score_pct": 63
+        },
+        "2004": {
+            "state_count": 15,
+            "state_pounds_pct": 86,
+            "state_score_pct": 66,
+            "us_count": 506,
+            "us_pounds_pct": 81,
+            "us_score_pct": 62
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SIC3": {
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 75,
+            "us_count": 399,
+            "us_pounds_pct": 46,
+            "us_score_pct": 71
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 88,
+            "us_count": 399,
+            "us_pounds_pct": 48,
+            "us_score_pct": 83
+        },
+        "2001": {
+            "state_count": 9,
+            "state_pounds_pct": 66,
+            "state_score_pct": 77,
+            "us_count": 398,
+            "us_pounds_pct": 54,
+            "us_score_pct": 85
+        },
+        "2002": {
+            "state_count": 10,
+            "state_pounds_pct": 80,
+            "state_score_pct": 90,
+            "us_count": 387,
+            "us_pounds_pct": 54,
+            "us_score_pct": 86
+        },
+        "2003": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 77,
+            "us_count": 364,
+            "us_pounds_pct": 52,
+            "us_score_pct": 84
+        },
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 77,
+            "state_score_pct": 88,
+            "us_count": 342,
+            "us_pounds_pct": 54,
+            "us_score_pct": 86
+        },
+        "name": "Coating, engraving and allied services, n.e.c.",
+        "siccode": "3479"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6033,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.2445,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.4172,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "115 S MACQUESTEN PKWY",
+    "SubmitLat": 40.91,
+    "SubmitLong": 73.85083,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2264,
+    "Y": 2721,
+    "ZIP9": "105501724",
+    "ZIPCode": "10550"
+}

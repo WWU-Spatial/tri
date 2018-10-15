@@ -1,0 +1,253 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TORRINGTON",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "174849034",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 33866.520961,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1307206160982",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 7938.08,
+                    "SubmissionNumber": 740222,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 7938.08,
+            "state_score_percentile": 49,
+            "us_score_percentile": 39
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "26471625",
+                    "Chemical": "Toluenediisocyanate",
+                    "ChemicalNumber": 552,
+                    "DCN": "1308207122146",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 1249.745,
+                    "SubmissionNumber": 827872,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1308207953276",
+                    "MaxOnsite": "04",
+                    "Pounds": 128.0,
+                    "Score": 1944.654,
+                    "SubmissionNumber": 830068,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 628.0,
+            "TotalScore": 3194.399,
+            "state_score_percentile": 56,
+            "us_score_percentile": 43
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1309207953340",
+                    "MaxOnsite": "04",
+                    "Pounds": 128.0,
+                    "Score": 1953.8780000000002,
+                    "SubmissionNumber": 904192,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "26471625",
+                    "Chemical": "Toluenediisocyanate",
+                    "ChemicalNumber": 552,
+                    "DCN": "1309207953365",
+                    "MaxOnsite": "03",
+                    "Pounds": 33.0,
+                    "Score": 78.5258,
+                    "SubmissionNumber": 904194,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 161.0,
+            "TotalScore": 2032.4038,
+            "state_score_percentile": 49,
+            "us_score_percentile": 34
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N120",
+                    "Chemical": "Diisocyanates",
+                    "ChemicalNumber": 608,
+                    "DCN": "1310208876779",
+                    "MaxOnsite": "04",
+                    "Pounds": 270.0,
+                    "Score": 4140.33,
+                    "SubmissionNumber": 987306,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "26471625",
+                    "Chemical": "Toluenediisocyanate",
+                    "ChemicalNumber": 552,
+                    "DCN": "1310208876831",
+                    "MaxOnsite": "03",
+                    "Pounds": 61.0,
+                    "Score": 145.488,
+                    "SubmissionNumber": 987310,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 331.0,
+            "TotalScore": 4285.818,
+            "state_score_percentile": 53,
+            "us_score_percentile": 39
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110002089695",
+    "FacilityID": "06790DYMXC51GRE",
+    "FacilityNumber": 113924,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.866949,
+    "Longitude": -73.08274,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 83,
+            "us_count": 442,
+            "us_pounds_pct": 10,
+            "us_score_pct": 78
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 436,
+            "us_pounds_pct": 13,
+            "us_score_pct": 70
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 66,
+            "us_count": 419,
+            "us_pounds_pct": 9,
+            "us_score_pct": 69
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 414,
+            "us_pounds_pct": 10,
+            "us_score_pct": 75
+        },
+        "naicscode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3252",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BOMAR SPECIALTIES CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "098114598",
+    "ParentName": "DYMAX CORP",
+    "PreferredLat": 41.86778,
+    "PreferredLong": 73.08278,
+    "PublicContactName": "DAN HANSCOM",
+    "PublicContactPhone": "8606266341",
+    "RCRANumber": "CTD098114598",
+    "RadialDistance": 2982312,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 151,
+            "us_pounds_pct": 25,
+            "us_score_pct": 94
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 160,
+            "us_pounds_pct": 30,
+            "us_score_pct": 93
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 156,
+            "us_pounds_pct": 19,
+            "us_score_pct": 91
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 147,
+            "us_pounds_pct": 21,
+            "us_score_pct": 93
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "51 GREENWOODS RD",
+    "SubmitLat": 41.86778,
+    "SubmitLong": 73.08278,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2309,
+    "Y": 2868,
+    "ZIP9": "06790",
+    "ZIPCode": "06790"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WYOMING",
+    "County": "NY,WYOMING",
+    "DUNS": "002104792",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 54742.219957,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105061511",
+                    "MaxOnsite": "03",
+                    "Pounds": 17112.0,
+                    "Score": 0.963106,
+                    "SubmissionNumber": 1794797,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 17112.0,
+            "TotalScore": 0.963106,
+            "state_score_percentile": 71,
+            "us_score_percentile": 61
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110280714",
+                    "MaxOnsite": "03",
+                    "Pounds": 3200.0,
+                    "Score": 0.171793,
+                    "SubmissionNumber": 1848431,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3200.0,
+            "TotalScore": 0.171793,
+            "state_score_percentile": 48,
+            "us_score_percentile": 38
+        }
+    },
+    "FIPS": "36121",
+    "FRSID": "110000763843",
+    "FacilityID": "14591TMPTC6110L",
+    "FacilityNumber": 117376,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.818464,
+    "Longitude": -78.079176,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 20
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 20,
+            "us_score_pct": 20
+        },
+        "naicscode": "326000",
+        "name": ""
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3260",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "TMP TECHNOLOGIES INC ADVANCED FOAM PRODUCTION DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT W. FLOWERS",
+    "PublicContactPhone": "7164956231",
+    "RCRANumber": "NYD074040973",
+    "RadialDistance": 2751477,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 100,
+            "state_score_pct": 20,
+            "us_count": 264,
+            "us_pounds_pct": 34,
+            "us_score_pct": 6
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 232,
+            "us_pounds_pct": 23,
+            "us_score_pct": 2
+        },
+        "name": "Plastics foam products",
+        "siccode": "3086"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "6110 LAMB RD.",
+    "SubmitLat": 42.82778,
+    "SubmitLong": 78.10583,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1788,
+    "Y": 2888,
+    "ZIP9": "14591",
+    "ZIPCode": "14591"
+}

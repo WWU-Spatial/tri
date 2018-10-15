@@ -1,0 +1,277 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "PLATTSBURGH",
+    "County": "NY,CLINTON",
+    "DUNS": "013410444",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 32627.24177,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "1634044",
+                    "Chemical": "Methyl tert-butyl ether",
+                    "ChemicalNumber": 381,
+                    "DCN": "1303201890884",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 1.261639,
+                    "SubmissionNumber": 362695,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1.261639,
+            "state_score_percentile": 42,
+            "us_score_percentile": 34
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1305203198864",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.069321,
+                    "SubmissionNumber": 479636,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 0.069321,
+            "state_score_percentile": 42,
+            "us_score_percentile": 37
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206424739",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.09,
+                    "Score": 2.79709,
+                    "SubmissionNumber": 766687,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206424741",
+                    "MaxOnsite": "04",
+                    "Pounds": 36.0,
+                    "Score": 0.00069,
+                    "SubmissionNumber": 766688,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1308206424754",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.009522000000000001,
+                    "SubmissionNumber": 766689,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 46.09,
+            "TotalScore": 2.807302,
+            "state_score_percentile": 34,
+            "us_score_percentile": 27
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207245248",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.052000000000000005,
+                    "Score": 1.649605,
+                    "SubmissionNumber": 839726,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.052000000000000005,
+            "TotalScore": 1.649605,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208313458",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.051000000000000004,
+                    "Score": 1.6391710000000002,
+                    "SubmissionNumber": 935389,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.051000000000000004,
+            "TotalScore": 1.6391710000000002,
+            "state_score_percentile": 3,
+            "us_score_percentile": 2
+        }
+    },
+    "FIPS": "36019",
+    "FRSID": "110020515405",
+    "FacilityID": "12901GRFFT4736R",
+    "FacilityNumber": 116540,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.67138,
+    "Longitude": -73.44592,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2003": {
+            "state_count": 44,
+            "state_pounds_pct": 12,
+            "state_score_pct": 9,
+            "us_count": 459,
+            "us_pounds_pct": 13,
+            "us_score_pct": 5
+        },
+        "2005": {
+            "state_count": 36,
+            "state_pounds_pct": 13,
+            "state_score_pct": 5,
+            "us_count": 450,
+            "us_pounds_pct": 15,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 14,
+            "us_count": 479,
+            "us_pounds_pct": 10,
+            "us_score_pct": 13
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 2,
+            "state_score_pct": 14,
+            "us_count": 433,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 14,
+            "us_count": 443,
+            "us_pounds_pct": 0,
+            "us_score_pct": 12
+        },
+        "naicscode": "424710",
+        "name": "Petroleum Bulk Stations and Terminals"
+    },
+    "NAICSCode3Digit": "424",
+    "NAICSCode4Digit": "4247",
+    "NAICSCodeSame3Digit": "424",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GRIFFITH ENERGY PLATTSBURGH",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PLUS ENERGY SERVICES INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JOHN ZAFFINO",
+    "PublicContactPhone": "5857832669",
+    "RCRANumber": "NA",
+    "RadialDistance": 3160642,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2003": {
+            "state_count": 44,
+            "state_pounds_pct": 12,
+            "state_score_pct": 9,
+            "us_count": 474,
+            "us_pounds_pct": 15,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 36,
+            "state_pounds_pct": 13,
+            "state_score_pct": 5,
+            "us_count": 465,
+            "us_pounds_pct": 17,
+            "us_score_pct": 1
+        },
+        "2008": {
+            "state_count": 42,
+            "state_pounds_pct": 19,
+            "state_score_pct": 14,
+            "us_count": 488,
+            "us_pounds_pct": 10,
+            "us_score_pct": 12
+        },
+        "2009": {
+            "state_count": 42,
+            "state_pounds_pct": 2,
+            "state_score_pct": 14,
+            "us_count": 445,
+            "us_pounds_pct": 0,
+            "us_score_pct": 10
+        },
+        "2010": {
+            "state_count": 42,
+            "state_pounds_pct": 4,
+            "state_score_pct": 14,
+            "us_count": 456,
+            "us_pounds_pct": 1,
+            "us_score_pct": 11
+        },
+        "name": "Petroleum bulk stations and terminals",
+        "siccode": "5171"
+    },
+    "SICCode2Digit": "51",
+    "SICCode3Digit": "517",
+    "SICCodeSame2Digit": "51",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.2896,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.3353,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "4736 RT 9",
+    "SubmitLat": 44.67056,
+    "SubmitLong": 73.44639,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2183,
+    "Y": 3234,
+    "ZIP9": "12901",
+    "ZIPCode": "12901"
+}

@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CORTLAND",
+    "County": "NY,CORTLAND",
+    "DUNS": "150623122",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 58524.821419,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440382",
+                    "Chemical": "Arsenic and arsenic compounds",
+                    "ChemicalNumber": 39,
+                    "DCN": "1396100120738",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 5309.18,
+                    "SubmissionNumber": 1758581,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1396100120740",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 4261.5,
+                    "SubmissionNumber": 1758582,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1396100120753",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.522782,
+                    "SubmissionNumber": 1758583,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 9571.202782,
+            "state_score_percentile": 10,
+            "us_score_percentile": 9
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440382",
+                    "Chemical": "Arsenic and arsenic compounds",
+                    "ChemicalNumber": 39,
+                    "DCN": "1397110346653",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 5285.0,
+                    "SubmissionNumber": 1854287,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1397110346665",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 4242.09,
+                    "SubmissionNumber": 1854288,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1397110346677",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.520369,
+                    "SubmissionNumber": 1854289,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 30.0,
+            "TotalScore": 9527.610369,
+            "state_score_percentile": 10,
+            "us_score_percentile": 9
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440382",
+                    "Chemical": "Arsenic and arsenic compounds",
+                    "ChemicalNumber": 39,
+                    "DCN": "1302200038646",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 2826.1,
+                    "SubmissionNumber": 195698,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440473",
+                    "Chemical": "Chromium and chromium compounds",
+                    "ChemicalNumber": 152,
+                    "DCN": "1302200038659",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 2268.42,
+                    "SubmissionNumber": 195699,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1302200038661",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.277814,
+                    "SubmissionNumber": 195700,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 15.0,
+            "TotalScore": 5094.7978140000005,
+            "state_score_percentile": 19,
+            "us_score_percentile": 16
+        }
+    },
+    "FIPS": "36023",
+    "FRSID": "110000325201",
+    "FacilityID": "13045BSTWY3877L",
+    "FacilityNumber": 116585,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.594545,
+    "Longitude": -76.207835,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 141,
+            "us_pounds_pct": 31,
+            "us_score_pct": 85
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 134,
+            "us_pounds_pct": 29,
+            "us_score_pct": 90
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 21,
+            "us_score_pct": 88
+        },
+        "naicscode": "321114",
+        "name": "Wood Preservation"
+    },
+    "NAICSCode3Digit": "321",
+    "NAICSCode4Digit": "3211",
+    "NAICSCodeSame3Digit": "321",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "BESTWAY OF NEW YORK",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "BESTWAY OF NEW YORK INC",
+    "PreferredLat": 42.59806,
+    "PreferredLong": 76.20472,
+    "PublicContactName": "CHRISTOPHER BIEBER",
+    "PublicContactPhone": "6077538261",
+    "RCRANumber": "NYD002256519",
+    "RadialDistance": 2840301,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 145,
+            "us_pounds_pct": 31,
+            "us_score_pct": 85
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 136,
+            "us_pounds_pct": 29,
+            "us_score_pct": 90
+        },
+        "2002": {
+            "state_count": 2,
+            "state_pounds_pct": 75,
+            "state_score_pct": 100,
+            "us_count": 111,
+            "us_pounds_pct": 19,
+            "us_score_pct": 88
+        },
+        "name": "Wood preserving",
+        "siccode": "2491"
+    },
+    "SICCode2Digit": "24",
+    "SICCode3Digit": "249",
+    "SICCodeSame2Digit": "24",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9144,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.7348,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4851,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "3877 LUKER RD",
+    "SubmitLat": 42.59806,
+    "SubmitLong": 76.20472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1979,
+    "Y": 2895,
+    "ZIP9": "13045",
+    "ZIPCode": "13045"
+}

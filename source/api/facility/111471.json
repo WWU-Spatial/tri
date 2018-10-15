@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "EAST WALPOLE",
+    "County": "MA,NORFOLK",
+    "DUNS": "103231817",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 27825.612971,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100420429",
+                    "MaxOnsite": "03",
+                    "Pounds": 906.0,
+                    "Score": 0.037842,
+                    "SubmissionNumber": 1783221,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 906.0,
+            "TotalScore": 0.037842,
+            "state_score_percentile": 30,
+            "us_score_percentile": 27
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1306204922797",
+                    "MaxOnsite": "03",
+                    "Pounds": 2227.2,
+                    "Score": 0.11806,
+                    "SubmissionNumber": 636930,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2227.2,
+            "TotalScore": 0.11806,
+            "state_score_percentile": 68,
+            "us_score_percentile": 51
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1307206000554",
+                    "MaxOnsite": "03",
+                    "Pounds": 2063.83,
+                    "Score": 0.110659,
+                    "SubmissionNumber": 729227,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2063.83,
+            "TotalScore": 0.110659,
+            "state_score_percentile": 68,
+            "us_score_percentile": 51
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1308206951461",
+                    "MaxOnsite": "03",
+                    "Pounds": 1246.58,
+                    "Score": 0.0676,
+                    "SubmissionNumber": 815814,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1246.58,
+            "TotalScore": 0.0676,
+            "state_score_percentile": 64,
+            "us_score_percentile": 49
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1309207849353",
+                    "MaxOnsite": "03",
+                    "Pounds": 646.47,
+                    "Score": 0.035452,
+                    "SubmissionNumber": 895824,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 646.47,
+            "TotalScore": 0.035452,
+            "state_score_percentile": 56,
+            "us_score_percentile": 46
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1310208434187",
+                    "MaxOnsite": "03",
+                    "Pounds": 888.55,
+                    "Score": 0.049269,
+                    "SubmissionNumber": 945932,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 888.55,
+            "TotalScore": 0.049269,
+            "state_score_percentile": 60,
+            "us_score_percentile": 47
+        }
+    },
+    "FIPS": "25021",
+    "FRSID": "110010707912",
+    "FacilityID": "02032BYRCR333CO",
+    "FacilityNumber": 111471,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.149796,
+    "Longitude": -71.201366,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 150,
+            "us_pounds_pct": 25,
+            "us_score_pct": 10
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 28,
+            "us_count": 138,
+            "us_pounds_pct": 50,
+            "us_score_pct": 13
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 133,
+            "us_pounds_pct": 50,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 14,
+            "us_count": 130,
+            "us_pounds_pct": 45,
+            "us_score_pct": 15
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 14,
+            "us_count": 123,
+            "us_pounds_pct": 42,
+            "us_score_pct": 13
+        },
+        "2010": {
+            "state_count": 7,
+            "state_pounds_pct": 71,
+            "state_score_pct": 14,
+            "us_count": 119,
+            "us_pounds_pct": 40,
+            "us_score_pct": 10
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SIEMENS HEALTHCARE DIAGNOSTICS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SIEMENS AG",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "GARY WALSH",
+    "PublicContactPhone": "5086604193",
+    "RCRANumber": "MAD000844126",
+    "RadialDistance": 3125941,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 50,
+            "us_score_pct": 20
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 62,
+            "us_score_pct": 37
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 22,
+            "us_pounds_pct": 54,
+            "us_score_pct": 27
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 23,
+            "us_pounds_pct": 39,
+            "us_score_pct": 21
+        },
+        "2009": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 21,
+            "us_pounds_pct": 33,
+            "us_score_pct": 9
+        },
+        "2010": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 30,
+            "us_score_pct": 15
+        },
+        "name": "In vitro and in vivo diagnostic substances",
+        "siccode": "2835"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 12.192,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.0584,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "333 CONEY ST",
+    "SubmitLat": 42.15083,
+    "SubmitLong": 72.20361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2485,
+    "Y": 2953,
+    "ZIP9": "02032",
+    "ZIPCode": "02032"
+}

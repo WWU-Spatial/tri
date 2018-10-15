@@ -1,0 +1,170 @@
+{
+    "AssignedComID": 19464254,
+    "AssignedReach": "05030104000003",
+    "City": "NEW BRIGHTON",
+    "County": "PA,BEAVER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 26459.053247,
+    "DistanceToReach": 74.671512,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1396100282108",
+                    "MaxOnsite": "02",
+                    "Pounds": 1260.0,
+                    "Score": 0.028126,
+                    "SubmissionNumber": 1772427,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1260.0,
+            "TotalScore": 0.028126,
+            "state_score_percentile": 38,
+            "us_score_percentile": 30
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "115071",
+                    "Chemical": "Propylene (Propene)",
+                    "ChemicalNumber": 491,
+                    "DCN": "1397110240672",
+                    "MaxOnsite": "02",
+                    "Pounds": 1170.0,
+                    "Score": 0.026084,
+                    "SubmissionNumber": 1844923,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1170.0,
+            "TotalScore": 0.026084,
+            "state_score_percentile": 36,
+            "us_score_percentile": 29
+        }
+    },
+    "FIPS": "42007",
+    "FRSID": "110000583011",
+    "FacilityID": "15066CLFNSFRONT",
+    "FacilityNumber": 117706,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.727188,
+    "Longitude": -80.31092,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 69,
+            "us_pounds_pct": 52,
+            "us_score_pct": 8
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 64,
+            "us_pounds_pct": 48,
+            "us_score_pct": 4
+        },
+        "naicscode": "331222",
+        "name": "Steel Wire Drawing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 13,
+            "state_pounds_pct": 30,
+            "state_score_pct": 7,
+            "us_count": 83,
+            "us_pounds_pct": 34,
+            "us_score_pct": 2
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 13,
+            "state_score_pct": 6,
+            "us_count": 91,
+            "us_pounds_pct": 32,
+            "us_score_pct": 1
+        },
+        "naicscode": "331221",
+        "name": "Rolled Steel Shape Manufacturing"
+    },
+    "NAICSCode3Digit": "331",
+    "NAICSCode4Digit": "3312",
+    "NAICSCodeSame3Digit": "331",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "COL-FIN SPECIALTY STEEL CORP",
+    "NearComID": 19464270,
+    "NearReach": "05030104000003",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.7508,
+    "PreferredLong": 80.2664,
+    "PublicContactName": "DAVID M. PASQUALE",
+    "PublicContactPhone": "7248437315",
+    "RCRANumber": "PAD000737031",
+    "RadialDistance": 2454399,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 54,
+            "state_score_pct": 9,
+            "us_count": 81,
+            "us_pounds_pct": 43,
+            "us_score_pct": 7
+        },
+        "1997": {
+            "state_count": 12,
+            "state_pounds_pct": 50,
+            "state_score_pct": 8,
+            "us_count": 77,
+            "us_pounds_pct": 37,
+            "us_score_pct": 3
+        },
+        "name": "Steel wiredrawing and steel nails and spikes",
+        "siccode": "3315"
+    },
+    "SICCode2Digit": "33",
+    "SICCode3Digit": "331",
+    "SICCodeSame2Digit": "33",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 1.7678,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 21.336,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1321,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "100 FRONT ST PO BOX 562",
+    "SubmitLat": 40.67556,
+    "SubmitLong": 80.31,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1615,
+    "Y": 2564,
+    "ZIP9": "15066",
+    "ZIPCode": "15066"
+}

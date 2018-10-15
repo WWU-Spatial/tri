@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "MARLBORO",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "001360494",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 42159.075597,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1309207490386",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 1.46347,
+                    "SubmissionNumber": 862215,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 1.46347,
+            "state_score_percentile": 23,
+            "us_score_percentile": 15
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1310208295636",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 1.46809,
+                    "SubmissionNumber": 933693,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 1.46809,
+            "state_score_percentile": 24,
+            "us_score_percentile": 14
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110000309531",
+    "FacilityID": "01752SPRRP61BRI",
+    "FacilityNumber": 111106,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.329458,
+    "Longitude": -71.543835,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 9,
+            "us_score_pct": 42
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 12,
+            "us_score_pct": 39
+        },
+        "naicscode": "325910",
+        "name": "Printing Ink Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SUPERIOR PRINTING INK CO INC - CMF2",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "SUPERIOR PRINTING INK CO INC",
+    "PreferredLat": 42.33139,
+    "PreferredLong": 71.54333,
+    "PublicContactName": "MARK FINLEY",
+    "PublicContactPhone": "5084815015",
+    "RCRANumber": "MAD981208515",
+    "RadialDistance": 3114676,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 11,
+            "us_score_pct": 44
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 14,
+            "us_score_pct": 39
+        },
+        "name": "Printing ink",
+        "siccode": "2893"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "61 BRIGHAM ST",
+    "SubmitLat": 42.33306,
+    "SubmitLong": 71.56306,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2445,
+    "Y": 2968,
+    "ZIP9": "01752",
+    "ZIPCode": "01752"
+}

@@ -1,0 +1,262 @@
+{
+    "AssignedComID": 22288397,
+    "AssignedReach": "02020003000187",
+    "City": "CORINTH",
+    "County": "NY,SARATOGA",
+    "DUNS": "002067825",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 55588.775229,
+    "DistanceToReach": 84.863094,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1300140735895",
+                    "MaxOnsite": "01",
+                    "Pounds": 2.3e-05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 56079,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1300140735907",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0294,
+                    "Score": 0.001334,
+                    "SubmissionNumber": 56080,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300140735919",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.04,
+                    "Score": 0.148952,
+                    "SubmissionNumber": 56081,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 0.069423,
+            "TotalScore": 0.150286,
+            "state_score_percentile": 2,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150037099",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.05,
+                    "Score": 0.187394,
+                    "SubmissionNumber": 97552,
+                    "Use": "M/P/OU"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1301150037101",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.2e-05,
+                    "Score": 0.0,
+                    "SubmissionNumber": 97553,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150037113",
+                    "MaxOnsite": "02",
+                    "Pounds": 18.8,
+                    "Score": 1.28706,
+                    "SubmissionNumber": 97554,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 18.850052,
+            "TotalScore": 1.4744540000000002,
+            "state_score_percentile": 18,
+            "us_score_percentile": 16
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "10049044",
+                    "Chemical": "Chlorine dioxide",
+                    "ChemicalNumber": 125,
+                    "DCN": "1302200095901",
+                    "MaxOnsite": "01",
+                    "Pounds": 30.0,
+                    "Score": 2.81008,
+                    "SubmissionNumber": 200575,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200095913",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.3,
+                    "Score": 1.13159,
+                    "SubmissionNumber": 200576,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N150",
+                    "Chemical": "Dioxin and dioxin-like compounds",
+                    "ChemicalNumber": 614,
+                    "DCN": "1302200095925",
+                    "MaxOnsite": "01",
+                    "Pounds": 8e-06,
+                    "Score": 0.0,
+                    "SubmissionNumber": 200577,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200095937",
+                    "MaxOnsite": "02",
+                    "Pounds": 4.8,
+                    "Score": 0.330615,
+                    "SubmissionNumber": 200578,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 35.100008,
+            "TotalScore": 4.272285,
+            "state_score_percentile": 23,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "36091",
+    "FRSID": "110007991030",
+    "FacilityID": "12822NTRNTPINES",
+    "FacilityNumber": 116511,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.250083,
+    "Longitude": -73.818139,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 11,
+            "state_pounds_pct": 27,
+            "state_score_pct": 27,
+            "us_count": 163,
+            "us_pounds_pct": 4,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 155,
+            "us_pounds_pct": 7,
+            "us_score_pct": 12
+        },
+        "2002": {
+            "state_count": 8,
+            "state_pounds_pct": 62,
+            "state_score_pct": 62,
+            "us_count": 154,
+            "us_pounds_pct": 13,
+            "us_score_pct": 20
+        },
+        "naicscode": "322121",
+        "name": "Paper (except Newsprint) Mills"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3221",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": 2,
+    "NPDESPermit": "NY0004405",
+    "Name": "INTERNATIONAL PAPER CO. HUDSON RIVER MILL",
+    "NearComID": 22288397,
+    "NearReach": "02020003000187",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001316561",
+    "ParentName": "INTERNATIONAL PAPER CO",
+    "PreferredLat": 43.25083,
+    "PreferredLong": 73.81444,
+    "PublicContactName": "NEHL ALDRIDGE",
+    "PublicContactPhone": "9014197141",
+    "RCRANumber": "NYD000517151",
+    "RadialDistance": 3033154,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 20,
+            "us_count": 194,
+            "us_pounds_pct": 5,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 42,
+            "us_count": 184,
+            "us_pounds_pct": 9,
+            "us_score_pct": 13
+        },
+        "2002": {
+            "state_count": 7,
+            "state_pounds_pct": 57,
+            "state_score_pct": 57,
+            "us_count": 175,
+            "us_pounds_pct": 13,
+            "us_score_pct": 18
+        },
+        "name": "Paper mills",
+        "siccode": "2621"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "262",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 2.3701,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 19.5072,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.2374,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "15 PINE ST.",
+    "SubmitLat": 43.25083,
+    "SubmitLong": 73.81444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2193,
+    "Y": 3036,
+    "ZIP9": "128221398",
+    "ZIPCode": "12822"
+}

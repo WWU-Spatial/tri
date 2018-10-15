@@ -1,0 +1,207 @@
+{
+    "AssignedComID": 7710156,
+    "AssignedReach": "01100005000103",
+    "City": "PITTSFIELD",
+    "County": "MA,BERKSHIRE",
+    "DUNS": "001367960",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57580.088866,
+    "DistanceToReach": 308.757568,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1396100370271",
+                    "MaxOnsite": "05",
+                    "Pounds": 3780.0,
+                    "Score": 15.568570000000001,
+                    "SubmissionNumber": 1779474,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1396100370283",
+                    "MaxOnsite": "04",
+                    "Pounds": 270.0,
+                    "Score": 200.1678,
+                    "SubmissionNumber": 1779475,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4050.0,
+            "TotalScore": 215.73637,
+            "state_score_percentile": 47,
+            "us_score_percentile": 40
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1397110115843",
+                    "MaxOnsite": "05",
+                    "Pounds": 3800.0,
+                    "Score": 15.47675,
+                    "SubmissionNumber": 1834198,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "7440360",
+                    "Chemical": "Antimony and antimony compounds",
+                    "ChemicalNumber": 37,
+                    "DCN": "1397110115856",
+                    "MaxOnsite": "04",
+                    "Pounds": 272.0,
+                    "Score": 199.4067,
+                    "SubmissionNumber": 1834199,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4072.0,
+            "TotalScore": 214.88345,
+            "state_score_percentile": 46,
+            "us_score_percentile": 41
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440666",
+                    "Chemical": "Zinc and zinc compounds",
+                    "ChemicalNumber": 594,
+                    "DCN": "1398120282951",
+                    "MaxOnsite": "05",
+                    "Pounds": 2050.0,
+                    "Score": 8.254824,
+                    "SubmissionNumber": 1922607,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2050.0,
+            "TotalScore": 8.254824,
+            "state_score_percentile": 42,
+            "us_score_percentile": 34
+        }
+    },
+    "FIPS": "25003",
+    "FRSID": "110000308462",
+    "FacilityID": "01201GNRLL100WO",
+    "FacilityNumber": 110700,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.456196,
+    "Longitude": -73.220104,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 34,
+            "us_pounds_pct": 58,
+            "us_score_pct": 55
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 51,
+            "us_score_pct": 55
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 60,
+            "us_score_pct": 46
+        },
+        "naicscode": "335999",
+        "name": "All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "NAICSCode3Digit": "335",
+    "NAICSCode4Digit": "3359",
+    "NAICSCodeSame3Digit": "335",
+    "NHDRegion": 1,
+    "NPDESPermit": "MA0003891",
+    "Name": "GE ELECTRICAL DISTRIBUTION & CONTROL",
+    "NearComID": 7710156,
+    "NearReach": "01100005000103",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001367960",
+    "ParentName": "GE CO",
+    "PreferredLat": 42.45,
+    "PreferredLong": 73.21944,
+    "PublicContactName": "STEPHEN C. MOORE",
+    "PublicContactPhone": "4134947226",
+    "RCRANumber": "MAD002084093",
+    "RadialDistance": 3013941,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 47,
+            "us_score_pct": 58
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 50,
+            "us_score_pct": 57
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 60,
+            "us_score_pct": 53
+        },
+        "name": "Electrical industrial appliances, n.e.c.",
+        "siccode": "3629"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "362",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 1.524,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 0.48,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "100 WOODLAWN AVE.",
+    "SubmitLat": 42.45,
+    "SubmitLong": 73.21944,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2277,
+    "Y": 2943,
+    "ZIP9": "01201",
+    "ZIPCode": "01201"
+}

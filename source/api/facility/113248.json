@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW HARTFORD",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "031844249",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 24886.090828,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1307205870393",
+                    "MaxOnsite": "03",
+                    "Pounds": 294.0,
+                    "Score": 0.08588599999999999,
+                    "SubmissionNumber": 718428,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205870405",
+                    "MaxOnsite": "04",
+                    "Pounds": 2828.0,
+                    "Score": 0.121631,
+                    "SubmissionNumber": 718429,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3122.0,
+            "TotalScore": 0.207517,
+            "state_score_percentile": 67,
+            "us_score_percentile": 55
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308206301614",
+                    "MaxOnsite": "04",
+                    "Pounds": 2482.0,
+                    "Score": 0.11068900000000001,
+                    "SubmissionNumber": 755127,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1308206301626",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.156413,
+                    "SubmissionNumber": 755128,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2982.0,
+            "TotalScore": 0.267102,
+            "state_score_percentile": 70,
+            "us_score_percentile": 57
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1309207916127",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.157396,
+                    "SubmissionNumber": 901647,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207916139",
+                    "MaxOnsite": "04",
+                    "Pounds": 2110.0,
+                    "Score": 0.093035,
+                    "SubmissionNumber": 901648,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2610.0,
+            "TotalScore": 0.250431,
+            "state_score_percentile": 72,
+            "us_score_percentile": 58
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "110543",
+                    "Chemical": "n-Hexane",
+                    "ChemicalNumber": 599,
+                    "DCN": "1310208656645",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 0.158381,
+                    "SubmissionNumber": 966946,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1310208656660",
+                    "MaxOnsite": "04",
+                    "Pounds": 2980.0,
+                    "Score": 0.130387,
+                    "SubmissionNumber": 966948,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3480.0,
+            "TotalScore": 0.288768,
+            "state_score_percentile": 76,
+            "us_score_percentile": 60
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110030340628",
+    "FacilityID": "06057SYNTC29IND",
+    "FacilityNumber": 113248,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.88159,
+    "Longitude": -72.97589,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 24,
+            "us_score_pct": 17
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 30,
+            "us_pounds_pct": 30,
+            "us_score_pct": 23
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 32,
+            "us_score_pct": 25
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 35,
+            "us_score_pct": 25
+        },
+        "naicscode": "322221",
+        "name": "Coated and Laminated Packaging Paper and Plastics Film Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SYNTAC COATED PRODUCTS LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "PHILIP J. INCORVIA",
+    "PublicContactPhone": "8607382600",
+    "RCRANumber": "CTR000506808",
+    "RadialDistance": 2990312,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 38,
+            "us_pounds_pct": 42,
+            "us_score_pct": 36
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 39,
+            "us_pounds_pct": 48,
+            "us_score_pct": 41
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 51,
+            "us_score_pct": 43
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 54,
+            "us_score_pct": 45
+        },
+        "name": "Packaging paper and plastics film, coated and laminated",
+        "siccode": "2671"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6309,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4394,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "29 INDUSTRIAL PARK RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2320,
+    "Y": 2872,
+    "ZIP9": "06057",
+    "ZIPCode": "06057"
+}

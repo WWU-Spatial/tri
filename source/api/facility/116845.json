@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 15488934,
+    "AssignedReach": "04150302000235",
+    "City": "CANTON",
+    "County": "NY,ST LAWRENCE",
+    "DUNS": "001307735",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 171894.491386,
+    "DistanceToReach": 54.372237,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396100118126",
+                    "MaxOnsite": "02",
+                    "Pounds": 1201550.0,
+                    "Score": 394.99301499999996,
+                    "SubmissionNumber": 1758346,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1201550.0,
+            "TotalScore": 394.99301499999996,
+            "state_score_percentile": 99,
+            "us_score_percentile": 98
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1397110169594",
+                    "MaxOnsite": "02",
+                    "Pounds": 1200250.0,
+                    "Score": 394.419915,
+                    "SubmissionNumber": 1838766,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1200250.0,
+            "TotalScore": 394.419915,
+            "state_score_percentile": 99,
+            "us_score_percentile": 98
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1398120163896",
+                    "MaxOnsite": "02",
+                    "Pounds": 440005.0,
+                    "Score": 144.531096,
+                    "SubmissionNumber": 1913196,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 440005.0,
+            "TotalScore": 144.531096,
+            "state_score_percentile": 96,
+            "us_score_percentile": 94
+        }
+    },
+    "FIPS": "36089",
+    "FRSID": "110000326022",
+    "FacilityID": "13617CRNNGROUTE",
+    "FacilityNumber": 116845,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14742,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 44.558889,
+    "Longitude": -75.315556,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 57,
+            "us_pounds_pct": 100,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 54,
+            "us_pounds_pct": 100,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 54,
+            "us_pounds_pct": 94,
+            "us_score_pct": 33
+        },
+        "naicscode": "327212",
+        "name": "Other Pressed and Blown Glass and Glassware Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3272",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": 4,
+    "NPDESPermit": "NY0085006",
+    "Name": "CORNING INC",
+    "NearComID": 15488934,
+    "NearReach": "04150302000235",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001307735",
+    "ParentName": "CORNING INC",
+    "PreferredLat": 44.55833,
+    "PreferredLong": 75.31667,
+    "PublicContactName": "SARAH HORVATH",
+    "PublicContactPhone": "6079744902",
+    "RCRANumber": "NYD001307735",
+    "RadialDistance": 3045120,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 52,
+            "us_pounds_pct": 100,
+            "us_score_pct": 38
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 48,
+            "us_pounds_pct": 100,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 100,
+            "state_score_pct": 75,
+            "us_count": 49,
+            "us_pounds_pct": 95,
+            "us_score_pct": 28
+        },
+        "name": "Pressed and blown glass and glassware, n.e.c.",
+        "siccode": "3229"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "322",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.1006,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.3632,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8395,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "334 COUNTY RT 16",
+    "SubmitLat": 44.55833,
+    "SubmitLong": 75.31667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2008,
+    "Y": 3178,
+    "ZIP9": "13617",
+    "ZIPCode": "13617"
+}

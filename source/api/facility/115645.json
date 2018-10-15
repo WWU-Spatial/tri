@@ -1,0 +1,242 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRANCHBURG",
+    "County": "NJ,SOMERSET",
+    "DUNS": "173293994",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 47150.346744,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1307206069902",
+                    "MaxOnsite": "04",
+                    "Pounds": 3.0,
+                    "Score": 0.024105,
+                    "SubmissionNumber": 735138,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.0,
+            "TotalScore": 0.024105,
+            "state_score_percentile": 10,
+            "us_score_percentile": 11
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1308206973808",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.512146,
+                    "SubmissionNumber": 817728,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1308206973810",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.025085,
+                    "SubmissionNumber": 817729,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.537231,
+            "state_score_percentile": 15,
+            "us_score_percentile": 14
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1309207233711",
+                    "MaxOnsite": "03",
+                    "Pounds": 2.0,
+                    "Score": 0.016165,
+                    "SubmissionNumber": 838679,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 0.016165,
+            "state_score_percentile": 9,
+            "us_score_percentile": 11
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7637072",
+                    "Chemical": "Boron trifluoride",
+                    "ChemicalNumber": 67,
+                    "DCN": "1310208037768",
+                    "MaxOnsite": "03",
+                    "Pounds": 10.0,
+                    "Score": 2.57691,
+                    "SubmissionNumber": 911714,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1310208037770",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.0,
+                    "Score": 0.025242,
+                    "SubmissionNumber": 911715,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 13.0,
+            "TotalScore": 2.602152,
+            "state_score_percentile": 22,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110002092707",
+    "FacilityID": "08876RMTCT197ME",
+    "FacilityNumber": 115645,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.604304,
+    "Longitude": -74.711879,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 75,
+            "us_pounds_pct": 1,
+            "us_score_pct": 9
+        },
+        "2008": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 75,
+            "us_pounds_pct": 2,
+            "us_score_pct": 20
+        },
+        "2009": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 69,
+            "us_pounds_pct": 1,
+            "us_score_pct": 10
+        },
+        "2010": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 72,
+            "us_pounds_pct": 6,
+            "us_score_pct": 30
+        },
+        "naicscode": "325120",
+        "name": "Industrial Gas Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "VOLTAIX LLC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.5244,
+    "PreferredLong": 74.6609,
+    "PublicContactName": "MIKE PIKULIN",
+    "PublicContactPhone": "9082319060",
+    "RCRANumber": "NJR000000828",
+    "RadialDistance": 2788756,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 27,
+            "us_pounds_pct": 7,
+            "us_score_pct": 7
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 50,
+            "us_count": 27,
+            "us_pounds_pct": 18,
+            "us_score_pct": 37
+        },
+        "2009": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 27,
+            "us_pounds_pct": 11,
+            "us_score_pct": 11
+        },
+        "2010": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 83,
+            "us_count": 28,
+            "us_pounds_pct": 25,
+            "us_score_pct": 60
+        },
+        "name": "Perfumes, cosmetics, and other toilet preparations",
+        "siccode": "2844"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "284",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.1686,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "197 MEISTER AVE",
+    "SubmitLat": 40.60444,
+    "SubmitLong": 74.715,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2187,
+    "Y": 2659,
+    "ZIP9": "08876",
+    "ZIPCode": "08876"
+}

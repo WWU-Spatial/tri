@@ -1,0 +1,185 @@
+{
+    "AssignedComID": 6261192,
+    "AssignedReach": "02030104000289",
+    "City": "UNION",
+    "County": "NJ,UNION",
+    "DUNS": "002155943",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9605.738276,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396105090726",
+                    "MaxOnsite": "03",
+                    "Pounds": 40525.0,
+                    "Score": 12.1236,
+                    "SubmissionNumber": 1796642,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40525.0,
+            "TotalScore": 12.1236,
+            "state_score_percentile": 87,
+            "us_score_percentile": 75
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397115139002",
+                    "MaxOnsite": "03",
+                    "Pounds": 40935.0,
+                    "Score": 12.3585,
+                    "SubmissionNumber": 1883536,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 40935.0,
+            "TotalScore": 12.3585,
+            "state_score_percentile": 86,
+            "us_score_percentile": 75
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1398125238232",
+                    "MaxOnsite": "03",
+                    "Pounds": 19520.0,
+                    "Score": 5.94667,
+                    "SubmissionNumber": 1978326,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19520.0,
+            "TotalScore": 5.94667,
+            "state_score_percentile": 78,
+            "us_score_percentile": 64
+        }
+    },
+    "FIPS": "34039",
+    "FRSID": "110000319138",
+    "FacilityID": "07083DRXNC5STAH",
+    "FacilityNumber": 114449,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.708126,
+    "Longitude": -74.280525,
+    "Method": "GPS CODE (PSEUDO RANGE) DIFFERENTIAL",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 119,
+            "us_pounds_pct": 81,
+            "us_score_pct": 30
+        },
+        "1997": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 16,
+            "us_count": 115,
+            "us_pounds_pct": 84,
+            "us_score_pct": 31
+        },
+        "1998": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 33,
+            "us_count": 116,
+            "us_pounds_pct": 80,
+            "us_score_pct": 28
+        },
+        "naicscode": "332116",
+        "name": "Metal Stamping"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3321",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NJ0088315",
+    "Name": "DUREX INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.71556,
+    "PreferredLong": 74.28111,
+    "PublicContactName": "BARRY COHEN",
+    "PublicContactPhone": "9086880800",
+    "RCRANumber": "NJD002155943",
+    "RadialDistance": 2824536,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 10,
+            "state_pounds_pct": 90,
+            "state_score_pct": 40,
+            "us_count": 163,
+            "us_pounds_pct": 81,
+            "us_score_pct": 25
+        },
+        "1997": {
+            "state_count": 9,
+            "state_pounds_pct": 88,
+            "state_score_pct": 33,
+            "us_count": 153,
+            "us_pounds_pct": 84,
+            "us_score_pct": 24
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 87,
+            "state_score_pct": 25,
+            "us_count": 141,
+            "us_pounds_pct": 74,
+            "us_score_pct": 18
+        },
+        "name": "Metal stampings, n.e.c.",
+        "siccode": "3469"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "346",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.9078,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "5 STAHUBER AVE",
+    "SubmitLat": 40.71556,
+    "SubmitLong": 74.28111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2227,
+    "Y": 2683,
+    "ZIP9": "07083",
+    "ZIPCode": "07083"
+}

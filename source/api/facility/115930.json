@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BROOKLYN",
+    "County": "NY,KINGS",
+    "DUNS": "001270867",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 17080.571941,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100409820",
+                    "MaxOnsite": "03",
+                    "Pounds": 376.0,
+                    "Score": 0.31574,
+                    "SubmissionNumber": 1782443,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396100409832",
+                    "MaxOnsite": "03",
+                    "Pounds": 36.0,
+                    "Score": 1.49287,
+                    "SubmissionNumber": 1782444,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 412.0,
+            "TotalScore": 1.8086099999999998,
+            "state_score_percentile": 25,
+            "us_score_percentile": 20
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1398125343970",
+                    "MaxOnsite": "03",
+                    "Pounds": 51.0,
+                    "Score": 0.043971,
+                    "SubmissionNumber": 1983789,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125343982",
+                    "MaxOnsite": "04",
+                    "Pounds": 328.0,
+                    "Score": 0.279637,
+                    "SubmissionNumber": 1983790,
+                    "Use": "P/OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1398125343994",
+                    "MaxOnsite": "03",
+                    "Pounds": 87.0,
+                    "Score": 3.66866,
+                    "SubmissionNumber": 1983791,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 466.0,
+            "TotalScore": 3.992268,
+            "state_score_percentile": 25,
+            "us_score_percentile": 20
+        }
+    },
+    "FIPS": "36047",
+    "FRSID": "110004333203",
+    "FacilityID": "11211FYNPN229KE",
+    "FacilityNumber": 115930,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.716837,
+    "Longitude": -73.965443,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 23,
+            "state_score_pct": 23,
+            "us_count": 634,
+            "us_pounds_pct": 11,
+            "us_score_pct": 20
+        },
+        "1998": {
+            "state_count": 23,
+            "state_pounds_pct": 30,
+            "state_score_pct": 30,
+            "us_count": 608,
+            "us_pounds_pct": 13,
+            "us_score_pct": 29
+        },
+        "naicscode": "325510",
+        "name": "Paint and Coating Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FYN PAINT & LACQUER CO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 40.71667,
+    "PreferredLong": 73.965,
+    "PublicContactName": "WILLIAM FEINSTEIN",
+    "PublicContactPhone": "7183884130",
+    "RCRANumber": "NYD001270867",
+    "RadialDistance": 2846216,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 26,
+            "state_pounds_pct": 23,
+            "state_score_pct": 23,
+            "us_count": 613,
+            "us_pounds_pct": 12,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 24,
+            "state_pounds_pct": 29,
+            "state_score_pct": 33,
+            "us_count": 580,
+            "us_pounds_pct": 12,
+            "us_score_pct": 29
+        },
+        "name": "Paints, varnishes, lacquers, enamels, and allied products",
+        "siccode": "2851"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "285",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.506,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.4313,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "229 KENT AVE",
+    "SubmitLat": 40.71667,
+    "SubmitLong": 73.965,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2259,
+    "Y": 2692,
+    "ZIP9": "112116334",
+    "ZIPCode": "11211"
+}

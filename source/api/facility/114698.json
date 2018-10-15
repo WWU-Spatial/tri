@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FRANKLIN",
+    "County": "NJ,SUSSEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57852.647533,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105045518",
+                    "MaxOnsite": "04",
+                    "Pounds": 19471.0,
+                    "Score": 9819.75,
+                    "SubmissionNumber": 1793648,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 19471.0,
+            "TotalScore": 9819.75,
+            "state_score_percentile": 77,
+            "us_score_percentile": 63
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115030304",
+                    "MaxOnsite": "04",
+                    "Pounds": 9551.0,
+                    "Score": 3630.52,
+                    "SubmissionNumber": 1877304,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9551.0,
+            "TotalScore": 3630.52,
+            "state_score_percentile": 64,
+            "us_score_percentile": 50
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1398120016959",
+                    "MaxOnsite": "04",
+                    "Pounds": 9191.0,
+                    "Score": 3520.44,
+                    "SubmissionNumber": 1900932,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9191.0,
+            "TotalScore": 3520.44,
+            "state_score_percentile": 64,
+            "us_score_percentile": 51
+        }
+    },
+    "FIPS": "34037",
+    "FRSID": "110000319931",
+    "FacilityID": "07416MTLTCCORKH",
+    "FacilityNumber": 114698,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.11078,
+    "Longitude": -74.59023,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 100,
+            "us_count": 59,
+            "us_pounds_pct": 62,
+            "us_score_pct": 83
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 61,
+            "us_pounds_pct": 54,
+            "us_score_pct": 72
+        },
+        "1998": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 61,
+            "us_pounds_pct": 55,
+            "us_score_pct": 70
+        },
+        "naicscode": "332322",
+        "name": "Sheet Metal Work Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3323",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "PRECISION METALFORM DIV. OF TECH. GENERAL CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "101240497",
+    "ParentName": "TECHNOLOGY GENERAL CORP",
+    "PreferredLat": 41.1088,
+    "PreferredLong": 74.5883,
+    "PublicContactName": "RYAN BARBULESCU",
+    "PublicContactPhone": "9738279111",
+    "RCRANumber": "NJD980417240",
+    "RadialDistance": 2831749,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 350,
+            "us_pounds_pct": 65,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 325,
+            "us_pounds_pct": 49,
+            "us_score_pct": 67
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 80,
+            "state_score_pct": 80,
+            "us_count": 332,
+            "us_pounds_pct": 53,
+            "us_score_pct": 69
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "12 CORK HILL RD.",
+    "SubmitLat": 41.10889,
+    "SubmitLong": 74.58833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2184,
+    "Y": 2730,
+    "ZIP9": "07416",
+    "ZIPCode": "07416"
+}

@@ -1,0 +1,170 @@
+{
+    "AssignedComID": 3787495,
+    "AssignedReach": "05020005000781",
+    "City": "UNIONTOWN",
+    "County": "PA,FAYETTE",
+    "DUNS": "015051832",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 79209.049279,
+    "DistanceToReach": 557.228882,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1397115287043",
+                    "MaxOnsite": "04",
+                    "Pounds": 9062.0,
+                    "Score": 34.6526,
+                    "SubmissionNumber": 1891353,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9062.0,
+            "TotalScore": 34.6526,
+            "state_score_percentile": 57,
+            "us_score_percentile": 50
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1399130664319",
+                    "MaxOnsite": "04",
+                    "Pounds": 1986.0,
+                    "Score": 7.68983,
+                    "SubmissionNumber": 2045838,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1986.0,
+            "TotalScore": 7.68983,
+            "state_score_percentile": 42,
+            "us_score_percentile": 35
+        }
+    },
+    "FIPS": "42051",
+    "FRSID": "110000763807",
+    "FacilityID": "15401RBRCF47WCR",
+    "FacilityNumber": 117932,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 94823,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.891701,
+    "Longitude": -79.730497,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 29,
+            "us_pounds_pct": 55,
+            "us_score_pct": 65
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 29,
+            "us_pounds_pct": 24,
+            "us_score_pct": 24
+        },
+        "naicscode": "311520",
+        "name": "Ice Cream and Frozen Dessert Manufacturing"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3115",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": 5,
+    "NPDESPermit": "NA",
+    "Name": "FIKE'S DAIRY INC.",
+    "NearComID": 3787495,
+    "NearReach": "05020005000781",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "PROTIEN GROUP INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "JACK SHERMAN PRESIDENT & ",
+    "PublicContactPhone": "7244388581",
+    "RCRANumber": "NA",
+    "RadialDistance": 2419318,
+    "ReachSource": "",
+    "Region": "3",
+    "SIC1": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 62,
+            "us_score_pct": 68
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 32,
+            "us_score_pct": 35
+        },
+        "name": "Fluid milk",
+        "siccode": "2026"
+    },
+    "SIC2": {
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 34,
+            "us_pounds_pct": 58,
+            "us_score_pct": 64
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 32,
+            "us_pounds_pct": 25,
+            "us_score_pct": 21
+        },
+        "name": "Ice cream and frozen desserts",
+        "siccode": "2024"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "202",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "42",
+    "StackDiameter": 0.823,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 14.6304,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.7676,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PA",
+    "Street": "47 W. CRAIG ST.",
+    "SubmitLat": 39.9875,
+    "SubmitLong": 79.88472,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1694,
+    "Y": 2460,
+    "ZIP9": "15401",
+    "ZIPCode": "15401"
+}

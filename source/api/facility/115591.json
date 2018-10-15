@@ -1,0 +1,299 @@
+{
+    "AssignedComID": 9513868,
+    "AssignedReach": "02030105000996",
+    "City": "FORDS",
+    "County": "NJ,MIDDLESEX",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 22788.578178,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "85449",
+                    "Chemical": "Phthalic anhydride",
+                    "ChemicalNumber": 467,
+                    "DCN": "1396100321672",
+                    "MaxOnsite": "05",
+                    "Pounds": 100.0,
+                    "Score": 3.33328,
+                    "SubmissionNumber": 1775592,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396100321684",
+                    "MaxOnsite": "05",
+                    "Pounds": 10170.0,
+                    "Score": 1.7821909999999999,
+                    "SubmissionNumber": 1775593,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "108316",
+                    "Chemical": "Maleic anhydride",
+                    "ChemicalNumber": 352,
+                    "DCN": "1396100321696",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 1.84621,
+                    "SubmissionNumber": 1775594,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 10272.0,
+            "TotalScore": 6.961681,
+            "state_score_percentile": 65,
+            "us_score_percentile": 51
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "85449",
+                    "Chemical": "Phthalic anhydride",
+                    "ChemicalNumber": 467,
+                    "DCN": "1397110222888",
+                    "MaxOnsite": "05",
+                    "Pounds": 100.0,
+                    "Score": 3.36081,
+                    "SubmissionNumber": 1843323,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397110222890",
+                    "MaxOnsite": "05",
+                    "Pounds": 9739.0,
+                    "Score": 1.725738,
+                    "SubmissionNumber": 1843324,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 9839.0,
+            "TotalScore": 5.086548,
+            "state_score_percentile": 65,
+            "us_score_percentile": 51
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1398120560192",
+                    "MaxOnsite": "05",
+                    "Pounds": 8940.0,
+                    "Score": 1.593302,
+                    "SubmissionNumber": 1943416,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "108316",
+                    "Chemical": "Maleic anhydride",
+                    "ChemicalNumber": 352,
+                    "DCN": "1398120560204",
+                    "MaxOnsite": "05",
+                    "Pounds": 2.0,
+                    "Score": 1.8767,
+                    "SubmissionNumber": 1943417,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 8942.0,
+            "TotalScore": 3.470002,
+            "state_score_percentile": 63,
+            "us_score_percentile": 50
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399130259993",
+                    "MaxOnsite": "05",
+                    "Pounds": 11058.0,
+                    "Score": 1.9729619999999999,
+                    "SubmissionNumber": 2012304,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 11058.0,
+            "TotalScore": 1.9729619999999999,
+            "state_score_percentile": 67,
+            "us_score_percentile": 55
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140608264",
+                    "MaxOnsite": "05",
+                    "Pounds": 1066.0,
+                    "Score": 0.186721,
+                    "SubmissionNumber": 47907,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 1066.0,
+            "TotalScore": 0.186721,
+            "state_score_percentile": 37,
+            "us_score_percentile": 33
+        }
+    },
+    "FIPS": "34023",
+    "FRSID": "110005986139",
+    "FacilityID": "08863HTCCRKINGG",
+    "FacilityNumber": 115591,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.52896,
+    "Longitude": -74.31606,
+    "Method": "ADDRESS MATCHING-OTHER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 22,
+            "state_pounds_pct": 59,
+            "state_score_pct": 18,
+            "us_count": 442,
+            "us_pounds_pct": 39,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 22,
+            "state_pounds_pct": 59,
+            "state_score_pct": 27,
+            "us_count": 444,
+            "us_pounds_pct": 39,
+            "us_score_pct": 16
+        },
+        "1998": {
+            "state_count": 21,
+            "state_pounds_pct": 52,
+            "state_score_pct": 19,
+            "us_count": 454,
+            "us_pounds_pct": 39,
+            "us_score_pct": 15
+        },
+        "1999": {
+            "state_count": 23,
+            "state_pounds_pct": 60,
+            "state_score_pct": 26,
+            "us_count": 455,
+            "us_pounds_pct": 43,
+            "us_score_pct": 13
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 22,
+            "state_score_pct": 13,
+            "us_count": 470,
+            "us_pounds_pct": 15,
+            "us_score_pct": 7
+        },
+        "naicscode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHEMTURA CORP D/B/A HATCO CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "088400325",
+    "ParentName": "CHEMTURA CORP",
+    "PreferredLat": 40.52083,
+    "PreferredLong": 74.33472,
+    "PublicContactName": "SUSAN CASTLES",
+    "PublicContactPhone": "7327383653",
+    "RCRANumber": "NJD091399329",
+    "RadialDistance": 2810059,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 40,
+            "state_pounds_pct": 65,
+            "state_score_pct": 17,
+            "us_count": 620,
+            "us_pounds_pct": 37,
+            "us_score_pct": 17
+        },
+        "1997": {
+            "state_count": 37,
+            "state_pounds_pct": 62,
+            "state_score_pct": 21,
+            "us_count": 616,
+            "us_pounds_pct": 36,
+            "us_score_pct": 17
+        },
+        "1998": {
+            "state_count": 37,
+            "state_pounds_pct": 67,
+            "state_score_pct": 18,
+            "us_count": 619,
+            "us_pounds_pct": 35,
+            "us_score_pct": 15
+        },
+        "1999": {
+            "state_count": 38,
+            "state_pounds_pct": 71,
+            "state_score_pct": 21,
+            "us_count": 623,
+            "us_pounds_pct": 41,
+            "us_score_pct": 13
+        },
+        "2000": {
+            "state_count": 36,
+            "state_pounds_pct": 27,
+            "state_score_pct": 8,
+            "us_count": 637,
+            "us_pounds_pct": 14,
+            "us_score_pct": 6
+        },
+        "name": "Industrial organic chemicals, n.e.c.",
+        "siccode": "2869"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "286",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 1.0363,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 13.655,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 5.3645,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NJ",
+    "Street": "1020 KING GEORGES POST RD",
+    "SubmitLat": 40.52222,
+    "SubmitLong": 74.31806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2229,
+    "Y": 2658,
+    "ZIP9": "08863",
+    "ZIPCode": "08863"
+}

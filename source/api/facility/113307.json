@@ -1,0 +1,290 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WINDSOR",
+    "County": "CT,HARTFORD",
+    "DUNS": "001288885",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 7267.990832,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396105400840",
+                    "MaxOnsite": "03",
+                    "Pounds": 351.0,
+                    "Score": 8.981539,
+                    "SubmissionNumber": 1817735,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 351.0,
+            "TotalScore": 8.981539,
+            "state_score_percentile": 23,
+            "us_score_percentile": 19
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397115260655",
+                    "MaxOnsite": "03",
+                    "Pounds": 261.0,
+                    "Score": 6.680314,
+                    "SubmissionNumber": 1889685,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 261.0,
+            "TotalScore": 6.680314,
+            "state_score_percentile": 22,
+            "us_score_percentile": 17
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120469921",
+                    "MaxOnsite": "03",
+                    "Pounds": 331.0,
+                    "Score": 8.467038,
+                    "SubmissionNumber": 1936500,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 331.0,
+            "TotalScore": 8.467038,
+            "state_score_percentile": 23,
+            "us_score_percentile": 18
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130150687",
+                    "MaxOnsite": "03",
+                    "Pounds": 211.0,
+                    "Score": 5.400683,
+                    "SubmissionNumber": 2003126,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 211.0,
+            "TotalScore": 5.400683,
+            "state_score_percentile": 20,
+            "us_score_percentile": 14
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140114657",
+                    "MaxOnsite": "03",
+                    "Pounds": 245.0,
+                    "Score": 6.315708,
+                    "SubmissionNumber": 10272,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 245.0,
+            "TotalScore": 6.315708,
+            "state_score_percentile": 21,
+            "us_score_percentile": 17
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150175747",
+                    "MaxOnsite": "03",
+                    "Pounds": 241.0,
+                    "Score": 6.1780729999999995,
+                    "SubmissionNumber": 110137,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 241.0,
+            "TotalScore": 6.1780729999999995,
+            "state_score_percentile": 32,
+            "us_score_percentile": 25
+        }
+    },
+    "FIPS": "09003",
+    "FRSID": "110000315533",
+    "FacilityID": "06095CMBST102AD",
+    "FacilityNumber": 113307,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.867808,
+    "Longitude": -72.675886,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 197,
+            "us_pounds_pct": 25,
+            "us_score_pct": 24
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 185,
+            "us_pounds_pct": 25,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 192,
+            "us_pounds_pct": 31,
+            "us_score_pct": 26
+        },
+        "1999": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 180,
+            "us_pounds_pct": 25,
+            "us_score_pct": 23
+        },
+        "2000": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 182,
+            "us_pounds_pct": 28,
+            "us_score_pct": 21
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 181,
+            "us_pounds_pct": 32,
+            "us_score_pct": 20
+        },
+        "naicscode": "332999",
+        "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "SP0002171",
+    "Name": "WESTINGHOUSE ELECTRIC CO. L.L.C.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "062661272",
+    "ParentName": "WESTINGHOUSE ELECTRIC CO LLC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "KEVIN R. HAYES",
+    "PublicContactPhone": "6369374691",
+    "RCRANumber": "CTD983872417",
+    "RadialDistance": 3009144,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 11,
+            "state_pounds_pct": 18,
+            "state_score_pct": 27,
+            "us_count": 350,
+            "us_pounds_pct": 25,
+            "us_score_pct": 26
+        },
+        "1997": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 325,
+            "us_pounds_pct": 20,
+            "us_score_pct": 22
+        },
+        "1998": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 12,
+            "us_count": 332,
+            "us_pounds_pct": 26,
+            "us_score_pct": 25
+        },
+        "1999": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 306,
+            "us_pounds_pct": 20,
+            "us_score_pct": 21
+        },
+        "2000": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 301,
+            "us_pounds_pct": 22,
+            "us_score_pct": 22
+        },
+        "2001": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 28,
+            "us_count": 287,
+            "us_pounds_pct": 31,
+            "us_score_pct": 26
+        },
+        "name": "Fabricated metal products, n.e.c.",
+        "siccode": "3499"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "102 ADDISON RD.",
+    "SubmitLat": 41.86667,
+    "SubmitLong": 72.875,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2350,
+    "Y": 2878,
+    "ZIP9": "06095",
+    "ZIPCode": "06095"
+}

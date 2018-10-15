@@ -1,0 +1,220 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TORRINGTON",
+    "County": "CT,LITCHFIELD",
+    "DUNS": "062207444",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 38455.282387,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155066057",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.91,
+                    "Score": 1.35178,
+                    "SubmissionNumber": 176448,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.91,
+            "TotalScore": 1.35178,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308208928073",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.402,
+                    "Score": 0.608838,
+                    "SubmissionNumber": 831569,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.402,
+            "TotalScore": 0.608838,
+            "state_score_percentile": 12,
+            "us_score_percentile": 6
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1309208928085",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.402,
+                    "Score": 0.610127,
+                    "SubmissionNumber": 911430,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.402,
+            "TotalScore": 0.610127,
+            "state_score_percentile": 15,
+            "us_score_percentile": 6
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1310208928097",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1202,
+                    "Score": 0.18254900000000002,
+                    "SubmissionNumber": 990778,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.1202,
+            "TotalScore": 0.18254900000000002,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "09005",
+    "FRSID": "110003017100",
+    "FacilityID": "06790LTKC 245EE",
+    "FacilityNumber": 113928,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.80849,
+    "Longitude": -73.11662,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 115,
+            "us_pounds_pct": 40,
+            "us_score_pct": 50
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 127,
+            "us_pounds_pct": 37,
+            "us_score_pct": 48
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 119,
+            "us_pounds_pct": 38,
+            "us_score_pct": 50
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 120,
+            "us_pounds_pct": 19,
+            "us_score_pct": 24
+        },
+        "naicscode": "334418",
+        "name": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ALTEK ELECTRONICS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "DAVID ALTSCHULER",
+    "PublicContactPhone": "8604827626",
+    "RCRANumber": "CTD062207444",
+    "RadialDistance": 2976126,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 154,
+            "us_pounds_pct": 23,
+            "us_score_pct": 36
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 134,
+            "us_pounds_pct": 28,
+            "us_score_pct": 37
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 118,
+            "us_pounds_pct": 30,
+            "us_score_pct": 43
+        },
+        "2010": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 116,
+            "us_pounds_pct": 12,
+            "us_score_pct": 22
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "09",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "CT",
+    "Street": "245 E ELM ST",
+    "SubmitLat": 41.80944,
+    "SubmitLong": 73.11806,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2308,
+    "Y": 2859,
+    "ZIP9": "06790",
+    "ZIPCode": "06790"
+}

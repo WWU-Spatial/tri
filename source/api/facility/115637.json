@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SOMERVILLE",
+    "County": "NJ,SOMERSET",
+    "DUNS": "108706425",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 46010.026687,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1396105012076",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1791373,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1396105039008",
+                    "MaxOnsite": "04",
+                    "Pounds": 10.0,
+                    "Score": 0.083762,
+                    "SubmissionNumber": 1793210,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 510.0,
+            "TotalScore": 0.083762,
+            "state_score_percentile": 26,
+            "us_score_percentile": 23
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "872504",
+                    "Chemical": "N-methyl-2-pyrrolidone",
+                    "ChemicalNumber": 398,
+                    "DCN": "1397115286181",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1891286,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 24,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "34035",
+    "FRSID": "110033144354",
+    "FacilityID": "08876HCHSTRTE20",
+    "FacilityNumber": 115637,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 40.60146,
+    "Longitude": -74.69707,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 22,
+            "state_pounds_pct": 13,
+            "state_score_pct": 9,
+            "us_count": 442,
+            "us_pounds_pct": 9,
+            "us_score_pct": 4
+        },
+        "1997": {
+            "state_count": 22,
+            "state_pounds_pct": 13,
+            "state_score_pct": 4,
+            "us_count": 444,
+            "us_pounds_pct": 7,
+            "us_score_pct": 0
+        },
+        "naicscode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3251",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CLARIANT CORP  AZ ELECTRONIC MATERIALS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "108706425",
+    "ParentName": "CLARIANT CORP",
+    "PreferredLat": 40.625,
+    "PreferredLong": 74.63333,
+    "PublicContactName": "ASHOR BALAR",
+    "PublicContactPhone": "9084295965",
+    "RCRANumber": "NJR000020230",
+    "RadialDistance": 2789544,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 50,
+            "state_score_pct": 11,
+            "us_count": 338,
+            "us_pounds_pct": 34,
+            "us_score_pct": 10
+        },
+        "1997": {
+            "state_count": 13,
+            "state_pounds_pct": 42,
+            "state_score_pct": 7,
+            "us_count": 315,
+            "us_pounds_pct": 30,
+            "us_score_pct": 0
+        },
+        "name": "Chemicals and chemical preparations, n.e.c.",
+        "siccode": "2899"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "50 MEISTER AVE",
+    "SubmitLat": 40.60056,
+    "SubmitLong": 74.69972,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2188,
+    "Y": 2659,
+    "ZIP9": "088761258",
+    "ZIPCode": "08876"
+}

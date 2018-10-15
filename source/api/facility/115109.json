@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GIBBSTOWN",
+    "County": "NJ,GLOUCESTER",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 6969.006601,
+    "DistanceToReach": 480.797275,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300140503285",
+                    "MaxOnsite": "04",
+                    "Pounds": 45.0,
+                    "Score": 1.04216,
+                    "SubmissionNumber": 41275,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 45.0,
+            "TotalScore": 1.04216,
+            "state_score_percentile": 15,
+            "us_score_percentile": 13
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1301150636571",
+                    "MaxOnsite": "04",
+                    "Pounds": 41.0,
+                    "Score": 0.950062,
+                    "SubmissionNumber": 151058,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 41.0,
+            "TotalScore": 0.950062,
+            "state_score_percentile": 21,
+            "us_score_percentile": 19
+        }
+    },
+    "FIPS": "34015",
+    "FRSID": "110004264233",
+    "FacilityID": "08027MYPDM200NR",
+    "FacilityNumber": 115109,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 39.829561,
+    "Longitude": -75.292762,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 15,
+            "us_score_pct": 34
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 21,
+            "us_score_pct": 32
+        },
+        "naicscode": "327910",
+        "name": "Abrasive Product Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3279",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": 2,
+    "NPDESPermit": "NA",
+    "Name": "MYPODIAMOND INC",
+    "NearComID": 4496524,
+    "NearReach": "02040202001797",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MICHAEL LINDSEY",
+    "PublicContactPhone": "8562247090",
+    "RCRANumber": "NJR000028886",
+    "RadialDistance": 2697036,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 12,
+            "us_score_pct": 34
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 14,
+            "us_score_pct": 32
+        },
+        "name": "Abrasive products",
+        "siccode": "3291"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "329",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 2.9083,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "200 N REPAUNO AVE",
+    "SubmitLat": 39.84,
+    "SubmitLong": 75.30667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2151,
+    "Y": 2541,
+    "ZIP9": "080271096",
+    "ZIPCode": "08027"
+}

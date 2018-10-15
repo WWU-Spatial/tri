@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WALDWICK",
+    "County": "NJ,BERGEN",
+    "DUNS": "001627975",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 35790.065243,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105139190",
+                    "MaxOnsite": "04",
+                    "Pounds": 5.0,
+                    "Score": 0.128996,
+                    "SubmissionNumber": 1799928,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105139214",
+                    "MaxOnsite": "05",
+                    "Pounds": 485749.0,
+                    "Score": 417.82439999999997,
+                    "SubmissionNumber": 1799930,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 485754.0,
+            "TotalScore": 417.95339599999994,
+            "state_score_percentile": 99,
+            "us_score_percentile": 96
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397110078704",
+                    "MaxOnsite": "05",
+                    "Pounds": 364800.0,
+                    "Score": 316.30208,
+                    "SubmissionNumber": 1830807,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 364800.0,
+            "TotalScore": 316.30208,
+            "state_score_percentile": 99,
+            "us_score_percentile": 95
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110000763273",
+    "FacilityID": "07463BCRFT12IND",
+    "FacilityNumber": 114728,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.02063,
+    "Longitude": -74.126569,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 19,
+            "state_pounds_pct": 94,
+            "state_score_pct": 63,
+            "us_count": 150,
+            "us_pounds_pct": 92,
+            "us_score_pct": 72
+        },
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 94,
+            "state_score_pct": 66,
+            "us_count": 139,
+            "us_pounds_pct": 91,
+            "us_score_pct": 71
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "TEVA PHARMACEUTICALS USA INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "TEVA PHARMACEUTICALS INDUSTRY LTD",
+    "PreferredLat": 41.0,
+    "PreferredLong": 74.125,
+    "PublicContactName": "WANE ROBERTS",
+    "PublicContactPhone": "5735818080",
+    "RCRANumber": "NJD056356066",
+    "RadialDistance": 2856005,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 17,
+            "state_pounds_pct": 100,
+            "state_score_pct": 76,
+            "us_count": 146,
+            "us_pounds_pct": 93,
+            "us_score_pct": 76
+        },
+        "1997": {
+            "state_count": 18,
+            "state_pounds_pct": 100,
+            "state_score_pct": 77,
+            "us_count": 136,
+            "us_pounds_pct": 92,
+            "us_score_pct": 74
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.3962,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.8872,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.0317,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "12 INDUSTRIAL PARK",
+    "SubmitLat": 41.0,
+    "SubmitLong": 74.125,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2233,
+    "Y": 2729,
+    "ZIP9": "07463",
+    "ZIPCode": "07463"
+}

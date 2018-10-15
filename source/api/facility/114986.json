@@ -1,0 +1,342 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HACKETTSTOWN",
+    "County": "NJ,WARREN",
+    "DUNS": "118880343",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 57047.380326,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1304202819823",
+                    "MaxOnsite": "04",
+                    "Pounds": 570.0,
+                    "Score": 0.024518,
+                    "SubmissionNumber": 446336,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 570.0,
+            "TotalScore": 0.024518,
+            "state_score_percentile": 44,
+            "us_score_percentile": 38
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1305203539414",
+                    "MaxOnsite": "04",
+                    "Pounds": 1295.0,
+                    "Score": 0.056108,
+                    "SubmissionNumber": 511445,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1295.0,
+            "TotalScore": 0.056108,
+            "state_score_percentile": 53,
+            "us_score_percentile": 46
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1306204333379",
+                    "MaxOnsite": "04",
+                    "Pounds": 1078.0,
+                    "Score": 0.047041,
+                    "SubmissionNumber": 582728,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1078.0,
+            "TotalScore": 0.047041,
+            "state_score_percentile": 49,
+            "us_score_percentile": 45
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1307205263167",
+                    "MaxOnsite": "04",
+                    "Pounds": 1337.0,
+                    "Score": 0.05876,
+                    "SubmissionNumber": 664870,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1337.0,
+            "TotalScore": 0.05876,
+            "state_score_percentile": 56,
+            "us_score_percentile": 48
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1308207113895",
+                    "MaxOnsite": "04",
+                    "Pounds": 1037.0,
+                    "Score": 0.045898,
+                    "SubmissionNumber": 827542,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1037.0,
+            "TotalScore": 0.045898,
+            "state_score_percentile": 55,
+            "us_score_percentile": 47
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1309207695141",
+                    "MaxOnsite": "04",
+                    "Pounds": 187.0,
+                    "Score": 0.008335,
+                    "SubmissionNumber": 881379,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 187.0,
+            "TotalScore": 0.008335,
+            "state_score_percentile": 41,
+            "us_score_percentile": 35
+        }
+    },
+    "FIPS": "34041",
+    "FRSID": "110016740561",
+    "FacilityID": "07840CMPCC13BIL",
+    "FacilityNumber": 114986,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14737,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.871035,
+    "Longitude": -74.821249,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2004": {
+            "state_count": 10,
+            "state_pounds_pct": 50,
+            "state_score_pct": 10,
+            "us_count": 98,
+            "us_pounds_pct": 10,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 94,
+            "us_pounds_pct": 12,
+            "us_score_pct": 9
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 93,
+            "us_pounds_pct": 16,
+            "us_score_pct": 11
+        },
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 88,
+            "us_pounds_pct": 18,
+            "us_score_pct": 11
+        },
+        "2008": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 14,
+            "us_count": 88,
+            "us_pounds_pct": 15,
+            "us_score_pct": 10
+        },
+        "2009": {
+            "state_count": 6,
+            "state_pounds_pct": 33,
+            "state_score_pct": 16,
+            "us_count": 85,
+            "us_pounds_pct": 4,
+            "us_score_pct": 1
+        },
+        "naicscode": "322222",
+        "name": "Coated and Laminated Paper Manufacturing"
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "COMPAC CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "175591072",
+    "ParentName": "TRIMAS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ALBERT H. BOSTAIN",
+    "PublicContactPhone": "2609253700",
+    "RCRANumber": "NJR000047795",
+    "RadialDistance": 2799962,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2004": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 25,
+            "us_count": 36,
+            "us_pounds_pct": 50,
+            "us_score_pct": 11
+        },
+        "2005": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 29,
+            "us_pounds_pct": 51,
+            "us_score_pct": 20
+        },
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 21,
+            "us_pounds_pct": 38,
+            "us_score_pct": 4
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 22,
+            "us_pounds_pct": 40,
+            "us_score_pct": 13
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 21,
+            "us_pounds_pct": 38,
+            "us_score_pct": 9
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 20,
+            "us_pounds_pct": 25,
+            "us_score_pct": 5
+        },
+        "name": "Converted paper and paperboard products, n.e.c.",
+        "siccode": "2679"
+    },
+    "SIC2": {
+        "2004": {
+            "state_count": 9,
+            "state_pounds_pct": 55,
+            "state_score_pct": 11,
+            "us_count": 98,
+            "us_pounds_pct": 14,
+            "us_score_pct": 6
+        },
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 91,
+            "us_pounds_pct": 15,
+            "us_score_pct": 6
+        },
+        "2006": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 90,
+            "us_pounds_pct": 16,
+            "us_score_pct": 7
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 86,
+            "us_pounds_pct": 16,
+            "us_score_pct": 8
+        },
+        "2008": {
+            "state_count": 6,
+            "state_pounds_pct": 50,
+            "state_score_pct": 16,
+            "us_count": 85,
+            "us_pounds_pct": 14,
+            "us_score_pct": 7
+        },
+        "2009": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 80,
+            "us_pounds_pct": 6,
+            "us_score_pct": 2
+        },
+        "name": "Coated and laminated paper, n.e.c.",
+        "siccode": "2672"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.6309,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.7536,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.4394,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "103 BILBY RD",
+    "SubmitLat": 40.87167,
+    "SubmitLong": 74.8175,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2168,
+    "Y": 2693,
+    "ZIP9": "07840",
+    "ZIPCode": "07840"
+}

@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WEST SPRINGFIELD",
+    "County": "MA,HAMPDEN",
+    "DUNS": "001117605",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 19640.154233,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105377915",
+                    "MaxOnsite": "04",
+                    "Pounds": 2193.0,
+                    "Score": 0.314637,
+                    "SubmissionNumber": 1816040,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2193.0,
+            "TotalScore": 0.314637,
+            "state_score_percentile": 40,
+            "us_score_percentile": 35
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397110279837",
+                    "MaxOnsite": "04",
+                    "Pounds": 1390.0,
+                    "Score": 0.19967000000000001,
+                    "SubmissionNumber": 1848355,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1390.0,
+            "TotalScore": 0.19967000000000001,
+            "state_score_percentile": 34,
+            "us_score_percentile": 30
+        }
+    },
+    "FIPS": "25013",
+    "FRSID": "110024414757",
+    "FacilityID": "01090SLLVN4261P",
+    "FacilityNumber": 110653,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14740,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.103391,
+    "Longitude": -72.619773,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 33
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 40,
+            "us_score_pct": 40
+        },
+        "naicscode": "322200",
+        "name": ""
+    },
+    "NAICSCode3Digit": "322",
+    "NAICSCode4Digit": "3222",
+    "NAICSCodeSame3Digit": "322",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "SULLIVAN PAPER CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.10345,
+    "PreferredLong": 72.62052,
+    "PublicContactName": "EDWARD C. SULLIVAN",
+    "PublicContactPhone": "4137343107",
+    "RCRANumber": "MAD001117605",
+    "RadialDistance": 3028648,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 33,
+            "us_pounds_pct": 27,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 30,
+            "us_pounds_pct": 20,
+            "us_score_pct": 23
+        },
+        "name": "Converted paper and paperboard products, n.e.c.",
+        "siccode": "2679"
+    },
+    "SICCode2Digit": "26",
+    "SICCode3Digit": "267",
+    "SICCodeSame2Digit": "26",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.668,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.4488,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "61 PROGRESS AVE",
+    "SubmitLat": 42.12,
+    "SubmitLong": 72.60444,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2347,
+    "Y": 2911,
+    "ZIP9": "01089",
+    "ZIPCode": "01089"
+}

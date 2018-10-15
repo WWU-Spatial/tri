@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SALEM",
+    "County": "NH,ROCKINGHAM",
+    "DUNS": "051802627",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 49072.661262,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200317016",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.91,
+                    "Score": 2.773779,
+                    "SubmissionNumber": 221020,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.91,
+            "TotalScore": 2.773779,
+            "state_score_percentile": 23,
+            "us_score_percentile": 8
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303201522784",
+                    "MaxOnsite": "03",
+                    "Pounds": 3.9000000000000004,
+                    "Score": 2.771004,
+                    "SubmissionNumber": 329739,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 3.9000000000000004,
+            "TotalScore": 2.771004,
+            "state_score_percentile": 27,
+            "us_score_percentile": 9
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304203046697",
+                    "MaxOnsite": "03",
+                    "Pounds": 4.68,
+                    "Score": 3.3305260000000003,
+                    "SubmissionNumber": 465602,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.68,
+            "TotalScore": 3.3305260000000003,
+            "state_score_percentile": 32,
+            "us_score_percentile": 11
+        }
+    },
+    "FIPS": "33015",
+    "FRSID": "110012195285",
+    "FacilityID": "03079CLSTC9NORT",
+    "FacilityNumber": 112514,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.780621,
+    "Longitude": -71.243131,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 52,
+            "us_score_pct": 70
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 42,
+            "us_score_pct": 71
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 35,
+            "us_score_pct": 71
+        },
+        "naicscode": "334111",
+        "name": "Electronic Computer Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3341",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CELESTICA CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "TOM DOYLE",
+    "PublicContactPhone": "6038908103",
+    "RCRANumber": "NHD510172174",
+    "RadialDistance": 3164139,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 12,
+            "us_pounds_pct": 58,
+            "us_score_pct": 58
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 44,
+            "us_score_pct": 55
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 44,
+            "us_score_pct": 55
+        },
+        "name": "Electronic computers",
+        "siccode": "3571"
+    },
+    "SICCode2Digit": "35",
+    "SICCode3Digit": "357",
+    "SICCodeSame2Digit": "35",
+    "SK": "",
+    "STFIPS": "33",
+    "StackDiameter": 0.6432,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 9.1059,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 10.1737,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NH",
+    "Street": "9 NORTHEASTERN BLVD",
+    "SubmitLat": 42.78417,
+    "SubmitLong": 71.24833,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2458,
+    "Y": 3036,
+    "ZIP9": "03079",
+    "ZIPCode": "03079"
+}

@@ -1,0 +1,251 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SABANA GRANDE",
+    "County": "PR,SABANA GRANDE",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 109045.152168,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1396105058491",
+                    "MaxOnsite": "04",
+                    "Pounds": 21122.0,
+                    "Score": 1.018805,
+                    "SubmissionNumber": 1794572,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1396105058503",
+                    "MaxOnsite": "04",
+                    "Pounds": 696.0,
+                    "Score": 0.043756,
+                    "SubmissionNumber": 1794573,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1396105058515",
+                    "MaxOnsite": "04",
+                    "Pounds": 34029.0,
+                    "Score": 19.0309,
+                    "SubmissionNumber": 1794574,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1396105058527",
+                    "MaxOnsite": "05",
+                    "Pounds": 2999.0,
+                    "Score": 1.01869,
+                    "SubmissionNumber": 1794575,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 58846.0,
+            "TotalScore": 21.112150999999997,
+            "state_score_percentile": 85,
+            "us_score_percentile": 80
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1397115015012",
+                    "MaxOnsite": "04",
+                    "Pounds": 30072.0,
+                    "Score": 17.0059,
+                    "SubmissionNumber": 1876297,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "80626",
+                    "Chemical": "Methyl methacrylate",
+                    "ChemicalNumber": 379,
+                    "DCN": "1397115015024",
+                    "MaxOnsite": "05",
+                    "Pounds": 2914.0,
+                    "Score": 1.000635,
+                    "SubmissionNumber": 1876298,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1397115015036",
+                    "MaxOnsite": "04",
+                    "Pounds": 675.0,
+                    "Score": 0.042904,
+                    "SubmissionNumber": 1876299,
+                    "Use": "M/P"
+                },
+                {
+                    "CASNumber": "110827",
+                    "Chemical": "Cyclohexane",
+                    "ChemicalNumber": 171,
+                    "DCN": "1397115015048",
+                    "MaxOnsite": "04",
+                    "Pounds": 16941.0,
+                    "Score": 0.857822,
+                    "SubmissionNumber": 1876300,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 50602.0,
+            "TotalScore": 18.907261,
+            "state_score_percentile": 83,
+            "us_score_percentile": 78
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "75092",
+                    "Chemical": "Dichloromethane",
+                    "ChemicalNumber": 225,
+                    "DCN": "1398125274302",
+                    "MaxOnsite": "04",
+                    "Pounds": 5855.0,
+                    "Score": 3.34765,
+                    "SubmissionNumber": 1979990,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5855.0,
+            "TotalScore": 3.34765,
+            "state_score_percentile": 53,
+            "us_score_percentile": 45
+        }
+    },
+    "FIPS": "72121",
+    "FRSID": "110000307793",
+    "FacilityID": "00747LCTTPNO9VQ",
+    "FacilityNumber": 110376,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.073017,
+    "Longitude": -66.961289,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 202,
+            "us_pounds_pct": 91,
+            "us_score_pct": 58
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 188,
+            "us_pounds_pct": 89,
+            "us_score_pct": 59
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 185,
+            "us_pounds_pct": 55,
+            "us_score_pct": 40
+        },
+        "naicscode": "325520",
+        "name": "Adhesive Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3255",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HENKEL PUERTO RICO INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "051441731",
+    "ParentName": "HENKEL CORP",
+    "PreferredLat": 18.075,
+    "PreferredLong": 66.96167,
+    "PublicContactName": "JAMES R. POLIFKA",
+    "PublicContactPhone": "7878736500",
+    "RCRANumber": "PRD982274383",
+    "RadialDistance": 75745,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 218,
+            "us_pounds_pct": 90,
+            "us_score_pct": 60
+        },
+        "1997": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 201,
+            "us_pounds_pct": 88,
+            "us_score_pct": 59
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 200,
+            "us_pounds_pct": 55,
+            "us_score_pct": 41
+        },
+        "name": "Adhesives and sealants",
+        "siccode": "2891"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "289",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.4602,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 7.62,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.5634,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "QUILINCHINI AVE # 9",
+    "SubmitLat": 18.075,
+    "SubmitLong": 66.96167,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -93,
+    "Y": 10,
+    "ZIP9": "00637",
+    "ZIPCode": "00637"
+}

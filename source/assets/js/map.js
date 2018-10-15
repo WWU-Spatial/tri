@@ -131,9 +131,7 @@
 			layers.toner = new L.StamenTileLayer("toner-lite", {
 				attribution : '<p>Map tiles by <a href="http://stamen.com">Stamen Design</a>,<br/>under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.<br/>Data by <a href="http://openstreetmap.org">OpenStreetMap</a>,<br/>under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.</p>'
 			});
-			layers.satellite = new L.TileLayer("//otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png", {
-				attribution : 'Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png"> Portions Courtesy NASA/JPL-Caltech and U.S. Depart. of Agriculture, Farm Service Agency"'
-			});
+			layers.satellite = new L.TileLayer("https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGVzc2VyaiIsImEiOiJ3QVJGcnRrIn0.IareeNjDWE5pwv7ykwLNsw");
 			layers.streets = new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 				attribution : '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 			});
@@ -142,13 +140,14 @@
 			//Add TRI facility tile layers
 			for (var layerDate = maxYear; layerDate >= minYear; layerDate -= 1){
 				//Add tiles for all years between minDate and maxDate
-				layers['y' + layerDate] = L.tileLayer('http://tile{s}.toxictrends.org/tiles/' + layerDate + '/{z}/{x}/{y}.png', {
+				layers['y' + layerDate] = L.tileLayer('http://toxictrends.org/tiles/' + layerDate + '/{z}/{x}/{y}.png', {
 					subdomains: '1234'
 				});
 				
 				//Add utftiles for all years between minDate and maxDate
-				layers['U' + layerDate] = new L.UtfGrid('http://tile{s}.toxictrends.org/utfgrid/' + layerDate + '/{z}/{x}/{y}.grid.json?callback={cb}', {
-					subdomains: '1234'
+				layers['U' + layerDate] = new L.UtfGrid('http://toxictrends.org/utfgrid/' + layerDate + '/{z}/{x}/{y}.grid.json', {
+					subdomains: '1234',
+					useJsonP: false
 				});
 			}
 	
@@ -171,13 +170,14 @@
 	
 			utfClick = function(e) {
 				if (e.data) {
+					console.log(e.data)
 					loadPopup(e.data.facilitynu);
 					ga('send', 'event', 'facility', 'click', e.data.name);
 				}
 			};
 			
 			function loadPopup(facility_number){
-				var url = '//toxictrends.org/api/v3/facility/' + facility_number + '.json';
+				var url = '//toxictrends.org/api/facility/' + facility_number + '.json';
 				var startTime = new Date().getTime();
 				
 				//Set info window year to current year
@@ -455,13 +455,14 @@
 			}
 			
 			function doSearch(term, start) {
-				var url = '//toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
+				var url = '//search.toxictrends.org/search/tri/facilities/?q=' + term.replace(/\//g,'\\/') + '&from=' + start;
 				var startTime = new Date().getTime();
 				$('#loading').fadeIn(500);
 				$.ajax({
 					url : url,
+					jsonp: false,
 					success : function(r) {
-						
+						console.log(r)
 						if (r.hits.hits[0]) {
 							$("#search-results-container").height('60%');
 							$.each(r.hits.hits, function(index, result) {
@@ -547,7 +548,7 @@
 				$('#info-graph').html('<p class="noChart">Not enough data for a chart</p>');
 			} else {
 				var data;
-				var chart_data = [['Year', 'Total Pounds Released', 'Risk']];
+				var chart_data = [['Year', 'Total Pounds Released', 'Risk Score']];
 				var chart = new google.visualization.LineChart($('#info-graph')[0]);
 				var options = {
 					title : 'Facility Performance',
@@ -576,7 +577,7 @@
 							textStyle : {
 								color : 'red'
 							},
-							label : 'Risk'
+							label : 'Risk Score'
 						}
 					},
 					chartArea : {
@@ -650,7 +651,7 @@
 						var div = document.createElement('div');
 						div.className = 'chemical_row';
 						div.id = 'cas' + emissions[emission].CASNumber;
-						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + (emissions[emission].Pounds).format() + ' Risk: ' + (emissions[emission].Score).format() + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
+						div.innerHTML = emissions[emission].Chemical + '<br />' + 'Pounds: ' + (emissions[emission].Pounds).format() + ' Risk Score: ' + (emissions[emission].Score).format() + '<div id="inf' + emissions[emission].CASNumber + '" class="chemical_details"></div>';
 						chemList.appendChild(div);
 					}
 				}
@@ -727,7 +728,7 @@
 		}
 	
 		function getChem(casNum) {
-			var url = '//toxictrends.org/api/v3/chemical/' + casNum + '.json';
+			var url = '//toxictrends.org/api/chemical/' + casNum + '.json';
 			var startTime = new Date().getTime();
 			$.ajax({
 				dataType : "json",

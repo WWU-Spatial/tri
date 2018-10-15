@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TETERBORO",
+    "County": "NJ,BERGEN",
+    "DUNS": "124376539",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 18433.645382,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301155091390",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.3901,
+                    "Score": 2.417403,
+                    "SubmissionNumber": 177936,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.3901,
+            "TotalScore": 2.417403,
+            "state_score_percentile": 3,
+            "us_score_percentile": 3
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302200086864",
+                    "MaxOnsite": "02",
+                    "Pounds": 2.0,
+                    "Score": 13.22011,
+                    "SubmissionNumber": 199734,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2.0,
+            "TotalScore": 13.22011,
+            "state_score_percentile": 6,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "34003",
+    "FRSID": "110013664622",
+    "FacilityID": "07608L3CMM699RT",
+    "FacilityNumber": 114850,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14734,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.849592,
+    "Longitude": -74.072313,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 37,
+            "us_pounds_pct": 24,
+            "us_score_pct": 56
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 35,
+            "us_pounds_pct": 57,
+            "us_score_pct": 80
+        },
+        "naicscode": "334511",
+        "name": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3345",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "L-3 COMMUNICATIONS SPACE & NAVIGATION DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "00898884",
+    "ParentName": "L-3 COMMUNICATIONS CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "ROBERT SHANNON JR.",
+    "PublicContactPhone": "2013937768",
+    "RCRANumber": "NJR000035113",
+    "RadialDistance": 2847996,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2001": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 32,
+            "us_pounds_pct": 25,
+            "us_score_pct": 62
+        },
+        "2002": {
+            "state_count": 3,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 31,
+            "us_pounds_pct": 64,
+            "us_score_pct": 80
+        },
+        "name": "Search, detection, navigation, guidance, aeronautical, and nautical systems and instruments",
+        "siccode": "3812"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "381",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.4877,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.4488,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 6.0015,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NJ",
+    "Street": "699 RTE. 46 E.",
+    "SubmitLat": 40.85972,
+    "SubmitLong": 74.06028,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2244,
+    "Y": 2707,
+    "ZIP9": "076081173",
+    "ZIPCode": "07608"
+}

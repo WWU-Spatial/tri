@@ -1,0 +1,161 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SCHENECTADY",
+    "County": "NY,SCHENECTADY",
+    "DUNS": "096925524",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 15773.105266,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440393",
+                    "Chemical": "Barium and barium compounds",
+                    "ChemicalNumber": 44,
+                    "DCN": "1396105106165",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 3.76876,
+                    "SubmissionNumber": 1797722,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1396105106177",
+                    "MaxOnsite": "03",
+                    "Pounds": 35800.0,
+                    "Score": 3.8137610000000004,
+                    "SubmissionNumber": 1797723,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 35805.0,
+            "TotalScore": 7.582521,
+            "state_score_percentile": 81,
+            "us_score_percentile": 73
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108101",
+                    "Chemical": "Methyl isobutyl ketone",
+                    "ChemicalNumber": 376,
+                    "DCN": "1397115034023",
+                    "MaxOnsite": "03",
+                    "Pounds": 12750.0,
+                    "Score": 1.362186,
+                    "SubmissionNumber": 1877618,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 12750.0,
+            "TotalScore": 1.362186,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        }
+    },
+    "FIPS": "36093",
+    "FRSID": "110000775117",
+    "FacilityID": "12306CMPBL2900C",
+    "FacilityNumber": 116398,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.800136,
+    "Longitude": -73.980917,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 75,
+            "state_score_pct": 58,
+            "us_count": 522,
+            "us_pounds_pct": 70,
+            "us_score_pct": 65
+        },
+        "1997": {
+            "state_count": 10,
+            "state_pounds_pct": 70,
+            "state_score_pct": 40,
+            "us_count": 515,
+            "us_pounds_pct": 44,
+            "us_score_pct": 37
+        },
+        "naicscode": "326199",
+        "name": "All Other Plastics Product Manufacturing"
+    },
+    "NAICSCode3Digit": "326",
+    "NAICSCode4Digit": "3261",
+    "NAICSCodeSame3Digit": "326",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "CAMPBELL PLASTICS",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004183273",
+    "ParentName": "STANDARD PRODS CO",
+    "PreferredLat": 42.8,
+    "PreferredLong": 73.98139,
+    "PublicContactName": "TOM PALMER",
+    "PublicContactPhone": "3137912355",
+    "RCRANumber": "NYD096925524",
+    "RadialDistance": 2990449,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 12,
+            "state_pounds_pct": 83,
+            "state_score_pct": 75,
+            "us_count": 657,
+            "us_pounds_pct": 73,
+            "us_score_pct": 65
+        },
+        "1997": {
+            "state_count": 11,
+            "state_pounds_pct": 63,
+            "state_score_pct": 72,
+            "us_count": 657,
+            "us_pounds_pct": 47,
+            "us_score_pct": 40
+        },
+        "name": "Plastics products, n.e.c.",
+        "siccode": "3089"
+    },
+    "SICCode2Digit": "30",
+    "SICCode3Digit": "308",
+    "SICCodeSame2Digit": "30",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.0005,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "2900 CAMPBELL AVE.",
+    "SubmitLat": 42.8,
+    "SubmitLong": 73.98139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2191,
+    "Y": 2971,
+    "ZIP9": "12306",
+    "ZIPCode": "12306"
+}

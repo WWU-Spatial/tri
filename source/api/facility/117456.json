@@ -1,0 +1,299 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "790643121",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 94363.032205,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1306204601708",
+                    "MaxOnsite": "05",
+                    "Pounds": 100.0,
+                    "Score": 0.273009,
+                    "SubmissionNumber": 607593,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 100.0,
+            "TotalScore": 0.273009,
+            "state_score_percentile": 33,
+            "us_score_percentile": 28
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1307205572163",
+                    "MaxOnsite": "05",
+                    "Pounds": 39.0,
+                    "Score": 0.151897,
+                    "SubmissionNumber": 693508,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1307205572199",
+                    "MaxOnsite": "05",
+                    "Pounds": 2300.0,
+                    "Score": 6.25406,
+                    "SubmissionNumber": 693511,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2339.0,
+            "TotalScore": 6.405957,
+            "state_score_percentile": 61,
+            "us_score_percentile": 53
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1308206611422",
+                    "MaxOnsite": "05",
+                    "Pounds": 40.0,
+                    "Score": 0.155173,
+                    "SubmissionNumber": 784327,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1308206611459",
+                    "MaxOnsite": "05",
+                    "Pounds": 2300.0,
+                    "Score": 6.22891,
+                    "SubmissionNumber": 784330,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 2340.0,
+            "TotalScore": 6.384083,
+            "state_score_percentile": 64,
+            "us_score_percentile": 54
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1309207687740",
+                    "MaxOnsite": "05",
+                    "Pounds": 35.0,
+                    "Score": 0.135236,
+                    "SubmissionNumber": 880734,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1309207687777",
+                    "MaxOnsite": "05",
+                    "Pounds": 1800.0,
+                    "Score": 4.85512,
+                    "SubmissionNumber": 880737,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1835.0,
+            "TotalScore": 4.990356,
+            "state_score_percentile": 65,
+            "us_score_percentile": 55
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664417",
+                    "Chemical": "Ammonia",
+                    "ChemicalNumber": 29,
+                    "DCN": "1310208427245",
+                    "MaxOnsite": "04",
+                    "Pounds": 20.0,
+                    "Score": 0.076969,
+                    "SubmissionNumber": 945254,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "123319",
+                    "Chemical": "Hydroquinone",
+                    "ChemicalNumber": 334,
+                    "DCN": "1310208427310",
+                    "MaxOnsite": "05",
+                    "Pounds": 1415.0,
+                    "Score": 3.80119,
+                    "SubmissionNumber": 945261,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 1435.0,
+            "TotalScore": 3.878159,
+            "state_score_percentile": 62,
+            "us_score_percentile": 52
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110031020375",
+    "FacilityID": "14652CHMPN1669L",
+    "FacilityNumber": 117456,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.196952,
+    "Longitude": -77.6282,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2006": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 75,
+            "us_count": 27,
+            "us_pounds_pct": 25,
+            "us_score_pct": 37
+        },
+        "2007": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 28,
+            "us_pounds_pct": 57,
+            "us_score_pct": 57
+        },
+        "2008": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 50,
+            "us_count": 23,
+            "us_pounds_pct": 47,
+            "us_score_pct": 65
+        },
+        "2009": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 75,
+            "us_count": 21,
+            "us_pounds_pct": 33,
+            "us_score_pct": 76
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 19,
+            "us_pounds_pct": 31,
+            "us_score_pct": 68
+        },
+        "naicscode": "325992",
+        "name": "Photographic Film, Paper, Plate, and Chemical Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3259",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CHAMPION PHOTOCHEMISTRY INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "SHERRY GEARING",
+    "PublicContactPhone": "5857606440",
+    "RCRANumber": "NA",
+    "RadialDistance": 2807347,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2006": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 29,
+            "us_pounds_pct": 17,
+            "us_score_pct": 34
+        },
+        "2007": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 30,
+            "us_pounds_pct": 56,
+            "us_score_pct": 56
+        },
+        "2008": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 33,
+            "us_count": 24,
+            "us_pounds_pct": 50,
+            "us_score_pct": 58
+        },
+        "2009": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 22,
+            "us_pounds_pct": 45,
+            "us_score_pct": 68
+        },
+        "2010": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 22,
+            "us_pounds_pct": 36,
+            "us_score_pct": 68
+        },
+        "name": "Photographic equipment and supplies",
+        "siccode": "3861"
+    },
+    "SICCode2Digit": "38",
+    "SICCode3Digit": "386",
+    "SICCodeSame2Digit": "38",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 9.0861,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1669 LAKE AVE BUILDING 48 MC MC23751",
+    "SubmitLat": 43.2,
+    "SubmitLong": 77.64194,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1823,
+    "Y": 2948,
+    "ZIP9": "14652",
+    "ZIPCode": "14652"
+}

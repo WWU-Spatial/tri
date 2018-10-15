@@ -1,0 +1,183 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "TRENTON",
+    "County": "NJ,MERCER",
+    "DUNS": "084197540",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 56820.131405,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "107211",
+                    "Chemical": "Ethylene glycol",
+                    "ChemicalNumber": 292,
+                    "DCN": "1396105047536",
+                    "MaxOnsite": "04",
+                    "Pounds": 18516.0,
+                    "Score": 18.489,
+                    "SubmissionNumber": 1793795,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1396105379414",
+                    "MaxOnsite": "05",
+                    "Pounds": 4419.0,
+                    "Score": 7658.7,
+                    "SubmissionNumber": 1816122,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1396105379426",
+                    "MaxOnsite": "05",
+                    "Pounds": 15657.0,
+                    "Score": 9.12499,
+                    "SubmissionNumber": 1816123,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 38592.0,
+            "TotalScore": 7686.31399,
+            "state_score_percentile": 86,
+            "us_score_percentile": 74
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "79016",
+                    "Chemical": "Trichloroethylene",
+                    "ChemicalNumber": 567,
+                    "DCN": "1397115241162",
+                    "MaxOnsite": "05",
+                    "Pounds": 19962.0,
+                    "Score": 34416.873999999996,
+                    "SubmissionNumber": 1888571,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "75718",
+                    "Chemical": "CFC-12 (dichlorodifluoromethane)",
+                    "ChemicalNumber": 107,
+                    "DCN": "1397115241174",
+                    "MaxOnsite": "05",
+                    "Pounds": 15350.0,
+                    "Score": 8.98175,
+                    "SubmissionNumber": 1888572,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 35312.0,
+            "TotalScore": 34425.855749999995,
+            "state_score_percentile": 83,
+            "us_score_percentile": 73
+        }
+    },
+    "FIPS": "34021",
+    "FRSID": "110000859036",
+    "FacilityID": "08628NVLRW1440P",
+    "FacilityNumber": 115392,
+    "FederalAgencyName": "DOD",
+    "FederalFacilityFlag": "F",
+    "GridCode": 14,
+    "HEM3ID": 13739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 40.266797,
+    "Longitude": -74.80843,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 58,
+            "us_pounds_pct": 70,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 70,
+            "us_score_pct": 79
+        },
+        "naicscode": "928110",
+        "name": "National Security"
+    },
+    "NAICSCode3Digit": "928",
+    "NAICSCode4Digit": "9281",
+    "NAICSCodeSame3Digit": "928",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "U.S. NAVY NAVAL AIR WARFARE CENTER AIRCRAFT DIV.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "084197540",
+    "ParentName": "US DEPARTMENT OF DEFENSE",
+    "PreferredLat": 40.27028,
+    "PreferredLong": 74.81139,
+    "PublicContactName": "KENNETH SMITH",
+    "PublicContactPhone": "6095386677",
+    "RCRANumber": "NJ9170022694",
+    "RadialDistance": 2759297,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 72,
+            "us_score_pct": 87
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 50,
+            "us_pounds_pct": 70,
+            "us_score_pct": 84
+        },
+        "name": "",
+        "siccode": "9711"
+    },
+    "SICCode2Digit": "97",
+    "SICCode3Digit": "971",
+    "SICCodeSame2Digit": "NR",
+    "SK": "",
+    "STFIPS": "34",
+    "StackDiameter": 0.701,
+    "StackDiameterSource": "Overall",
+    "StackHeight": 10.0584,
+    "StackHeightSource": "Overall",
+    "StackVelocity": 8.4734,
+    "StackVelocitySource": "Overall",
+    "State": "NJ",
+    "Street": "1440 PKY. AVE.",
+    "SubmitLat": 40.27028,
+    "SubmitLong": 74.81139,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2187,
+    "Y": 2611,
+    "ZIP9": "086280176",
+    "ZIPCode": "08628"
+}

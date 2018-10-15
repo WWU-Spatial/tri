@@ -1,0 +1,288 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GRANVILLE",
+    "County": "NY,WASHINGTON",
+    "DUNS": "NA",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 85793.30623,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1396105049821",
+                    "MaxOnsite": "",
+                    "Pounds": 23484.0,
+                    "Score": 5.14575,
+                    "SubmissionNumber": 1793974,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396105049833",
+                    "MaxOnsite": "03",
+                    "Pounds": 45139.0,
+                    "Score": 0.200339,
+                    "SubmissionNumber": 1793975,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 68623.0,
+            "TotalScore": 5.346088999999999,
+            "state_score_percentile": 87,
+            "us_score_percentile": 82
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1397115027789",
+                    "MaxOnsite": "03",
+                    "Pounds": 34325.0,
+                    "Score": 0.152988,
+                    "SubmissionNumber": 1877171,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1397115027791",
+                    "MaxOnsite": "03",
+                    "Pounds": 23015.0,
+                    "Score": 5.06437,
+                    "SubmissionNumber": 1877172,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 57340.0,
+            "TotalScore": 5.217358,
+            "state_score_percentile": 86,
+            "us_score_percentile": 80
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1398125041463",
+                    "MaxOnsite": "03",
+                    "Pounds": 37988.0,
+                    "Score": 0.170028,
+                    "SubmissionNumber": 1969513,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 37988.0,
+            "TotalScore": 0.170028,
+            "state_score_percentile": 81,
+            "us_score_percentile": 74
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1399135041592",
+                    "MaxOnsite": "03",
+                    "Pounds": 11391.0,
+                    "Score": 2.52772,
+                    "SubmissionNumber": 2060877,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 11391.0,
+            "TotalScore": 2.52772,
+            "state_score_percentile": 66,
+            "us_score_percentile": 56
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "1330207",
+                    "Chemical": "Xylene (mixed isomers)",
+                    "ChemicalNumber": 592,
+                    "DCN": "1300145114928",
+                    "MaxOnsite": "03",
+                    "Pounds": 10645.0,
+                    "Score": 2.37208,
+                    "SubmissionNumber": 82577,
+                    "Use": "M/OU"
+                },
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1300145114955",
+                    "MaxOnsite": "03",
+                    "Pounds": 10096.0,
+                    "Score": 0.045567,
+                    "SubmissionNumber": 82580,
+                    "Use": "M/OU"
+                }
+            ],
+            "TotalPounds": 20741.0,
+            "TotalScore": 2.417647,
+            "state_score_percentile": 80,
+            "us_score_percentile": 68
+        }
+    },
+    "FIPS": "36115",
+    "FRSID": "110019337948",
+    "FacilityID": "12832MNCHSPOBOX",
+    "FacilityNumber": 116514,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.418389,
+    "Longitude": -73.270829,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 161,
+            "us_pounds_pct": 30,
+            "us_score_pct": 39
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 143,
+            "us_pounds_pct": 44,
+            "us_score_pct": 44
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 127,
+            "us_pounds_pct": 50,
+            "us_score_pct": 12
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 125,
+            "us_pounds_pct": 12,
+            "us_score_pct": 37
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 110,
+            "us_pounds_pct": 26,
+            "us_score_pct": 30
+        },
+        "naicscode": "337122",
+        "name": "Nonupholstered Wood Household Furniture Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3371",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "MANCHESTER WOOD INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.41833,
+    "PreferredLong": 73.27056,
+    "PublicContactName": "EDWARD ERIKSEN",
+    "PublicContactPhone": "5186429518",
+    "RCRANumber": "NYD986951895",
+    "RadialDistance": 3078945,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 83,
+            "state_score_pct": 83,
+            "us_count": 220,
+            "us_pounds_pct": 41,
+            "us_score_pct": 39
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 184,
+            "us_pounds_pct": 51,
+            "us_score_pct": 42
+        },
+        "1998": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 50,
+            "us_count": 167,
+            "us_pounds_pct": 56,
+            "us_score_pct": 13
+        },
+        "1999": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 66,
+            "us_count": 162,
+            "us_pounds_pct": 12,
+            "us_score_pct": 38
+        },
+        "2000": {
+            "state_count": 2,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 139,
+            "us_pounds_pct": 31,
+            "us_score_pct": 31
+        },
+        "name": "Wood household furniture, except upholstered",
+        "siccode": "2511"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "251",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5319,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 10.5156,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 9.6521,
+    "StackVelocitySource": "Fac Spec",
+    "State": "NY",
+    "Street": "N. ST. 1/2 MILE FROM MAIN ST.",
+    "SubmitLat": 43.41833,
+    "SubmitLong": 73.27056,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2240,
+    "Y": 3071,
+    "ZIP9": "12832",
+    "ZIPCode": "12832"
+}

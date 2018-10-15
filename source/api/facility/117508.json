@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "FALCONER",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "002100352",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 80813.349607,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1396100370206",
+                    "MaxOnsite": "04",
+                    "Pounds": 500.0,
+                    "Score": 1532.173,
+                    "SubmissionNumber": 1779471,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1532.173,
+            "state_score_percentile": 28,
+            "us_score_percentile": 21
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439965",
+                    "Chemical": "Manganese and manganese compounds",
+                    "ChemicalNumber": 355,
+                    "DCN": "1397115083154",
+                    "MaxOnsite": "03",
+                    "Pounds": 500.0,
+                    "Score": 1509.769,
+                    "SubmissionNumber": 1880738,
+                    "Use": "M/P"
+                }
+            ],
+            "TotalPounds": 500.0,
+            "TotalScore": 1509.769,
+            "state_score_percentile": 26,
+            "us_score_percentile": 21
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110000781976",
+    "FacilityID": "14733DWCRF65SOU",
+    "FacilityNumber": 117508,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.112097,
+    "Longitude": -79.203648,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 11,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 100,
+            "us_count": 41,
+            "us_pounds_pct": 9,
+            "us_score_pct": 87
+        },
+        "naicscode": "337215",
+        "name": "Showcase, Partition, Shelving, and Locker Manufacturing"
+    },
+    "NAICSCode3Digit": "337",
+    "NAICSCode4Digit": "3372",
+    "NAICSCodeSame3Digit": "337",
+    "NHDRegion": "",
+    "NPDESPermit": "NY0030210",
+    "Name": "DOWCRAFT CORP.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "002100352",
+    "ParentName": "DOWCRAFT CORP",
+    "PreferredLat": 42.1125,
+    "PreferredLong": 79.2,
+    "PublicContactName": "MARNE SMITH",
+    "PublicContactPhone": "7166656210",
+    "RCRANumber": "NYD002100352",
+    "RadialDistance": 2631288,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 3,
+            "state_pounds_pct": 33,
+            "state_score_pct": 66,
+            "us_count": 46,
+            "us_pounds_pct": 8,
+            "us_score_pct": 86
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 50,
+            "us_count": 44,
+            "us_pounds_pct": 6,
+            "us_score_pct": 84
+        },
+        "name": "Office and store fixtures, partitions, shelving and lockers, except wood",
+        "siccode": "2542"
+    },
+    "SICCode2Digit": "25",
+    "SICCode3Digit": "254",
+    "SICCodeSame2Digit": "25",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.8214,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 8.5344,
+    "StackHeightSource": "New York",
+    "StackVelocity": 0.6,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "65 S. DOW ST.",
+    "SubmitLat": 42.1125,
+    "SubmitLong": 79.2,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1694,
+    "Y": 2772,
+    "ZIP9": "14733",
+    "ZIPCode": "14733"
+}

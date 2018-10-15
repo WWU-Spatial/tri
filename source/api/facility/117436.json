@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ROCHESTER",
+    "County": "NY,MONROE",
+    "DUNS": "002213502",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 91999.186425,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100138433",
+                    "MaxOnsite": "02",
+                    "Pounds": 2800.0,
+                    "Score": 0.227707,
+                    "SubmissionNumber": 1760056,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2800.0,
+            "TotalScore": 0.227707,
+            "state_score_percentile": 44,
+            "us_score_percentile": 37
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1398120625355",
+                    "MaxOnsite": "03",
+                    "Pounds": 9110.0,
+                    "Score": 177.009,
+                    "SubmissionNumber": 1948171,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 9110.0,
+            "TotalScore": 177.009,
+            "state_score_percentile": 61,
+            "us_score_percentile": 51
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "N230",
+                    "Chemical": "Glycol ethers",
+                    "ChemicalNumber": 318,
+                    "DCN": "1399130376585",
+                    "MaxOnsite": "03",
+                    "Pounds": 2711.0,
+                    "Score": 52.6846,
+                    "SubmissionNumber": 2022173,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2711.0,
+            "TotalScore": 52.6846,
+            "state_score_percentile": 46,
+            "us_score_percentile": 38
+        }
+    },
+    "FIPS": "36055",
+    "FRSID": "110000328066",
+    "FacilityID": "14623HMMRL330ME",
+    "FacilityNumber": 117436,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14733,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.095946,
+    "Longitude": -77.622824,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 10,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 77,
+            "us_score_pct": 77
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 10,
+            "us_pounds_pct": 40,
+            "us_score_pct": 80
+        },
+        "naicscode": "323119",
+        "name": "Other Commercial Printing"
+    },
+    "NAICSCode3Digit": "323",
+    "NAICSCode4Digit": "3231",
+    "NAICSCodeSame3Digit": "323",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "HAMMER LITHOGRAPH CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 43.09528,
+    "PreferredLong": 77.62361,
+    "PublicContactName": "HARTMUT L. SWISHER",
+    "PublicContactPhone": "7164243880",
+    "RCRANumber": "NYD002213502",
+    "RadialDistance": 2799378,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 8,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 90,
+            "us_pounds_pct": 13,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 7,
+            "state_pounds_pct": 42,
+            "state_score_pct": 100,
+            "us_count": 88,
+            "us_pounds_pct": 39,
+            "us_score_pct": 75
+        },
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 75,
+            "us_count": 89,
+            "us_pounds_pct": 17,
+            "us_score_pct": 58
+        },
+        "name": "Commercial printing, lithographic",
+        "siccode": "2752"
+    },
+    "SICCode2Digit": "27",
+    "SICCode3Digit": "275",
+    "SICCodeSame2Digit": "27",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1498,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "330 METRO PARK",
+    "SubmitLat": 43.09528,
+    "SubmitLong": 77.62361,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1826,
+    "Y": 2934,
+    "ZIP9": "146232696",
+    "ZIPCode": "14623"
+}

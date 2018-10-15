@@ -1,0 +1,266 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "ELMIRA",
+    "County": "NY,CHEMUNG",
+    "DUNS": "002221430",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 95047.96142,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7664939",
+                    "Chemical": "Sulfuric acid",
+                    "ChemicalNumber": 521,
+                    "DCN": "1396105042358",
+                    "MaxOnsite": "03",
+                    "Pounds": 1000.0,
+                    "Score": 292.076,
+                    "SubmissionNumber": 1793452,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1396105042360",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 15.025459999999999,
+                    "SubmissionNumber": 1793453,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 2000.0,
+            "TotalScore": 307.10146000000003,
+            "state_score_percentile": 41,
+            "us_score_percentile": 34
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1397115022410",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 14.91214,
+                    "SubmissionNumber": 1876914,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 14.91214,
+            "state_score_percentile": 35,
+            "us_score_percentile": 28
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1398125217772",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 14.79881,
+                    "SubmissionNumber": 1977401,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 14.79881,
+            "state_score_percentile": 33,
+            "us_score_percentile": 27
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7647010",
+                    "Chemical": "Hydrochloric acid",
+                    "ChemicalNumber": 331,
+                    "DCN": "1399135052874",
+                    "MaxOnsite": "04",
+                    "Pounds": 1000.0,
+                    "Score": 14.685480000000002,
+                    "SubmissionNumber": 2061485,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1000.0,
+            "TotalScore": 14.685480000000002,
+            "state_score_percentile": 34,
+            "us_score_percentile": 29
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1300145144782",
+                    "MaxOnsite": "02",
+                    "Pounds": 10.0,
+                    "Score": 0.261833,
+                    "SubmissionNumber": 84178,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 10.0,
+            "TotalScore": 0.261833,
+            "state_score_percentile": 11,
+            "us_score_percentile": 7
+        }
+    },
+    "FIPS": "36015",
+    "FRSID": "110000328592",
+    "FacilityID": "14901NDSTR926ST",
+    "FacilityNumber": 117599,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14778,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.10168,
+    "Longitude": -76.810837,
+    "Method": "INTERPOLATION-PHOTO",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 16,
+            "state_pounds_pct": 50,
+            "state_score_pct": 43,
+            "us_count": 561,
+            "us_pounds_pct": 56,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 15,
+            "state_pounds_pct": 40,
+            "state_score_pct": 13,
+            "us_count": 546,
+            "us_pounds_pct": 49,
+            "us_score_pct": 25
+        },
+        "1998": {
+            "state_count": 18,
+            "state_pounds_pct": 55,
+            "state_score_pct": 27,
+            "us_count": 522,
+            "us_pounds_pct": 53,
+            "us_score_pct": 26
+        },
+        "1999": {
+            "state_count": 16,
+            "state_pounds_pct": 50,
+            "state_score_pct": 31,
+            "us_count": 506,
+            "us_pounds_pct": 54,
+            "us_score_pct": 27
+        },
+        "2000": {
+            "state_count": 19,
+            "state_pounds_pct": 28,
+            "state_score_pct": 10,
+            "us_count": 508,
+            "us_pounds_pct": 13,
+            "us_score_pct": 5
+        },
+        "naicscode": "332813",
+        "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3328",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "TRIPLE CITIES METAL FINISHING CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.10167,
+    "PreferredLong": 76.81111,
+    "PublicContactName": "JOSEPH C. MORGAN",
+    "PublicContactPhone": "6077223431",
+    "RCRANumber": "NYD002221430",
+    "RadialDistance": 2766528,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 18,
+            "state_pounds_pct": 50,
+            "state_score_pct": 38,
+            "us_count": 575,
+            "us_pounds_pct": 56,
+            "us_score_pct": 44
+        },
+        "1997": {
+            "state_count": 17,
+            "state_pounds_pct": 41,
+            "state_score_pct": 17,
+            "us_count": 565,
+            "us_pounds_pct": 49,
+            "us_score_pct": 24
+        },
+        "1998": {
+            "state_count": 20,
+            "state_pounds_pct": 55,
+            "state_score_pct": 35,
+            "us_count": 546,
+            "us_pounds_pct": 52,
+            "us_score_pct": 26
+        },
+        "1999": {
+            "state_count": 18,
+            "state_pounds_pct": 44,
+            "state_score_pct": 27,
+            "us_count": 534,
+            "us_pounds_pct": 54,
+            "us_score_pct": 26
+        },
+        "2000": {
+            "state_count": 22,
+            "state_pounds_pct": 22,
+            "state_score_pct": 18,
+            "us_count": 537,
+            "us_pounds_pct": 12,
+            "us_score_pct": 6
+        },
+        "name": "Electroplating, plating, polishing, anodizing and coloring",
+        "siccode": "3471"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "347",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 5.0292,
+    "StackHeightSource": "New York",
+    "StackVelocity": 6.8,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "926 STOWELL ST.",
+    "SubmitLat": 42.10167,
+    "SubmitLong": 76.81111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1933,
+    "Y": 2816,
+    "ZIP9": "14901",
+    "ZIPCode": "14901"
+}

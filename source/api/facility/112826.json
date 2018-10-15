@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "SCARBOROUGH",
+    "County": "ME,CUMBERLAND",
+    "DUNS": "019070812",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 5038.745915,
+    "DistanceToReach": 351.970016,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1302203090651",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.15,
+                    "Score": 0.080117,
+                    "SubmissionNumber": 286627,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.15,
+            "TotalScore": 0.080117,
+            "state_score_percentile": 8,
+            "us_score_percentile": 2
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303203090713",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.15,
+                    "Score": 0.080428,
+                    "SubmissionNumber": 379539,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.15,
+            "TotalScore": 0.080428,
+            "state_score_percentile": 8,
+            "us_score_percentile": 2
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305204869705",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.1,
+                    "Score": 0.054034,
+                    "SubmissionNumber": 563383,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.1,
+            "TotalScore": 0.054034,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "23005",
+    "FRSID": "110001298417",
+    "FacilityID": "04074CMMRC2GIBS",
+    "FacilityNumber": 112826,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.60532,
+    "Longitude": -70.30631,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 120,
+            "us_pounds_pct": 15,
+            "us_score_pct": 2
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 140,
+            "us_pounds_pct": 16,
+            "us_score_pct": 2
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 196,
+            "us_pounds_pct": 16,
+            "us_score_pct": 5
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "COMMERCIAL PAVING & RECYCLING CO LLC",
+    "NearComID": 6721969,
+    "NearReach": "01060001000334",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "REGGIE SAUNDERS",
+    "PublicContactPhone": "2078832306",
+    "RCRANumber": "NA",
+    "RadialDistance": 3279591,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 129,
+            "us_pounds_pct": 14,
+            "us_score_pct": 2
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 149,
+            "us_pounds_pct": 14,
+            "us_score_pct": 2
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 199,
+            "us_pounds_pct": 16,
+            "us_score_pct": 4
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "2 GIBSON RD",
+    "SubmitLat": 43.60694,
+    "SubmitLong": 70.30722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2519,
+    "Y": 3170,
+    "ZIP9": "04074",
+    "ZIPCode": "04074"
+}

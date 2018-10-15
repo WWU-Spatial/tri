@@ -1,0 +1,264 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "JAMESVILLE",
+    "County": "NY,ONONDAGA",
+    "DUNS": "099268468",
+    "DataSource": "",
+    "DerivedSICCode": 1,
+    "DistanceToHEM3": 13578.857205,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1307205982147",
+                    "MaxOnsite": "01",
+                    "Pounds": 4.72,
+                    "Score": 289.1559,
+                    "SubmissionNumber": 727687,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1307206785495",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.029,
+                    "Score": 0.0,
+                    "SubmissionNumber": 742234,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.749,
+            "TotalScore": 289.1559,
+            "state_score_percentile": 16,
+            "us_score_percentile": 12
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1308206602409",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.023,
+                    "Score": 0.0,
+                    "SubmissionNumber": 783484,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1308206602411",
+                    "MaxOnsite": "01",
+                    "Pounds": 3.81,
+                    "Score": 234.2323,
+                    "SubmissionNumber": 783485,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 3.833,
+            "TotalScore": 234.2323,
+            "state_score_percentile": 19,
+            "us_score_percentile": 12
+        },
+        "2009": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1309207379710",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.031,
+                    "Score": 0.0,
+                    "SubmissionNumber": 851862,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1309207379722",
+                    "MaxOnsite": "01",
+                    "Pounds": 5.08,
+                    "Score": 313.2747,
+                    "SubmissionNumber": 851863,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 5.111,
+            "TotalScore": 313.2747,
+            "state_score_percentile": 23,
+            "us_score_percentile": 16
+        },
+        "2010": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1310208735187",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.026650999999999998,
+                    "Score": 0.0,
+                    "SubmissionNumber": 974438,
+                    "Use": "P"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1310208735199",
+                    "MaxOnsite": "01",
+                    "Pounds": 4.241735,
+                    "Score": 262.439,
+                    "SubmissionNumber": 974439,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 4.2683860000000005,
+            "TotalScore": 262.439,
+            "state_score_percentile": 19,
+            "us_score_percentile": 13
+        }
+    },
+    "FIPS": "36067",
+    "FRSID": "110037142874",
+    "FacilityID": "13078JMSVL48SLV",
+    "FacilityNumber": 116623,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14771,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.999382,
+    "Longitude": -76.071632,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": "",
+    "NAICS1": {
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 57,
+            "state_score_pct": 85,
+            "us_count": 221,
+            "us_pounds_pct": 58,
+            "us_score_pct": 67
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 88,
+            "state_score_pct": 94,
+            "us_count": 219,
+            "us_pounds_pct": 61,
+            "us_score_pct": 63
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 87,
+            "state_score_pct": 93,
+            "us_count": 220,
+            "us_pounds_pct": 58,
+            "us_score_pct": 66
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 88,
+            "state_score_pct": 88,
+            "us_count": 219,
+            "us_pounds_pct": 56,
+            "us_score_pct": 62
+        },
+        "naicscode": "324121",
+        "name": "Asphalt Paving Mixture and Block Manufacturing"
+    },
+    "NAICSCode3Digit": "324",
+    "NAICSCode4Digit": "3241",
+    "NAICSCodeSame3Digit": "324",
+    "NHDRegion": "",
+    "NPDESPermit": "",
+    "Name": "JAMESVILLE MIX PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "557581993",
+    "ParentName": "BARRETT INDUSTRIES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "FRED MEYERS",
+    "PublicContactPhone": "3156524585",
+    "RCRANumber": "",
+    "RadialDistance": 2879662,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 14,
+            "state_pounds_pct": 57,
+            "state_score_pct": 85,
+            "us_count": 218,
+            "us_pounds_pct": 58,
+            "us_score_pct": 66
+        },
+        "2008": {
+            "state_count": 18,
+            "state_pounds_pct": 88,
+            "state_score_pct": 94,
+            "us_count": 213,
+            "us_pounds_pct": 61,
+            "us_score_pct": 62
+        },
+        "2009": {
+            "state_count": 16,
+            "state_pounds_pct": 87,
+            "state_score_pct": 93,
+            "us_count": 210,
+            "us_pounds_pct": 59,
+            "us_score_pct": 68
+        },
+        "2010": {
+            "state_count": 17,
+            "state_pounds_pct": 88,
+            "state_score_pct": 88,
+            "us_count": 211,
+            "us_pounds_pct": 57,
+            "us_score_pct": 63
+        },
+        "name": "Asphalt paving mixtures and blocks",
+        "siccode": "2951"
+    },
+    "SICCode2Digit": "29",
+    "SICCode3Digit": "295",
+    "SICCodeSame2Digit": "29",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.9754,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 3.8684,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "4800 SOLVAY RD",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 1980,
+    "Y": 2952,
+    "ZIP9": "13078",
+    "ZIPCode": "13078"
+}

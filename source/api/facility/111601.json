@@ -1,0 +1,312 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "BRIGHTON",
+    "County": "MA,SUFFOLK",
+    "DUNS": "00-655704",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 9347.148453,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1396100243144",
+                    "MaxOnsite": "03",
+                    "Pounds": 4290.0,
+                    "Score": 0.908303,
+                    "SubmissionNumber": 1769185,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1396100243157",
+                    "MaxOnsite": "03",
+                    "Pounds": 1270.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1769186,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5560.0,
+            "TotalScore": 0.908303,
+            "state_score_percentile": 51,
+            "us_score_percentile": 44
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "78933",
+                    "Chemical": "Methyl ethyl ketone",
+                    "ChemicalNumber": 373,
+                    "DCN": "1397110122114",
+                    "MaxOnsite": "03",
+                    "Pounds": 791.0,
+                    "Score": 0.16820600000000002,
+                    "SubmissionNumber": 1834780,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1397110122126",
+                    "MaxOnsite": "04",
+                    "Pounds": 712.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1834781,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1503.0,
+            "TotalScore": 0.16820600000000002,
+            "state_score_percentile": 36,
+            "us_score_percentile": 31
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1398120536863",
+                    "MaxOnsite": "03",
+                    "Pounds": 1159.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 1941611,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1159.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 35,
+            "us_score_percentile": 29
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1399130448931",
+                    "MaxOnsite": "03",
+                    "Pounds": 1093.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 2028278,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1093.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 37,
+            "us_score_percentile": 30
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1300140413701",
+                    "MaxOnsite": "03",
+                    "Pounds": 1512.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 34985,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1512.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 47,
+            "us_score_percentile": 36
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "108952",
+                    "Chemical": "Phenol",
+                    "ChemicalNumber": 454,
+                    "DCN": "1301150470870",
+                    "MaxOnsite": "03",
+                    "Pounds": 1455.0,
+                    "Score": 0.0,
+                    "SubmissionNumber": 136389,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 1455.0,
+            "TotalScore": 0.0,
+            "state_score_percentile": 54,
+            "us_score_percentile": 41
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110000310921",
+    "FacilityID": "02135WGNRL145NO",
+    "FacilityNumber": 111601,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.355299,
+    "Longitude": -71.145733,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 27,
+            "us_pounds_pct": 55,
+            "us_score_pct": 14
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 51,
+            "us_score_pct": 10
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 42,
+            "us_score_pct": 3
+        },
+        "1999": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 37,
+            "us_score_pct": 5
+        },
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 43,
+            "us_score_pct": 6
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 50,
+            "us_score_pct": 6
+        },
+        "naicscode": "336340",
+        "name": "Motor Vehicle Brake System Manufacturing"
+    },
+    "NAICSCode3Digit": "336",
+    "NAICSCode4Digit": "3363",
+    "NAICSCodeSame3Digit": "336",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "FEDERAL-MOGUL CORP",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "NA",
+    "PreferredLat": 42.3551,
+    "PreferredLong": 71.1463,
+    "PublicContactName": "ROGER STRELOW",
+    "PublicContactPhone": "2483548110",
+    "RCRANumber": "MAD001054972",
+    "RadialDistance": 3142886,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 4,
+            "state_pounds_pct": 75,
+            "state_score_pct": 50,
+            "us_count": 543,
+            "us_pounds_pct": 44,
+            "us_score_pct": 18
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 515,
+            "us_pounds_pct": 37,
+            "us_score_pct": 8
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 520,
+            "us_pounds_pct": 37,
+            "us_score_pct": 0
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 512,
+            "us_pounds_pct": 40,
+            "us_score_pct": 0
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 20,
+            "us_count": 498,
+            "us_pounds_pct": 42,
+            "us_score_pct": 1
+        },
+        "2001": {
+            "state_count": 3,
+            "state_pounds_pct": 66,
+            "state_score_pct": 33,
+            "us_count": 532,
+            "us_pounds_pct": 52,
+            "us_score_pct": 0
+        },
+        "name": "Motor vehicle parts and accessories",
+        "siccode": "3714"
+    },
+    "SICCode2Digit": "37",
+    "SICCode3Digit": "371",
+    "SICCodeSame2Digit": "37",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.7376,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.192,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.7594,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "145 NORTH BEACON ST",
+    "SubmitLat": 42.39194,
+    "SubmitLong": 71.14667,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2483,
+    "Y": 2982,
+    "ZIP9": "02135",
+    "ZIPCode": "02135"
+}

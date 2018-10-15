@@ -1,0 +1,185 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "HUDSON",
+    "County": "MA,MIDDLESEX",
+    "DUNS": "118249114",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 43450.882705,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305204015248",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.02,
+                    "Score": 0.015421,
+                    "SubmissionNumber": 555049,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.02,
+            "TotalScore": 0.015421,
+            "state_score_percentile": 4,
+            "us_score_percentile": 1
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204373575",
+                    "MaxOnsite": "03",
+                    "Pounds": 0.021,
+                    "Score": 0.016249,
+                    "SubmissionNumber": 586502,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.021,
+            "TotalScore": 0.016249,
+            "state_score_percentile": 4,
+            "us_score_percentile": 1
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205869403",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.021,
+                    "Score": 0.016307,
+                    "SubmissionNumber": 718338,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.021,
+            "TotalScore": 0.016307,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        }
+    },
+    "FIPS": "25017",
+    "FRSID": "110001956713",
+    "FacilityID": "01749CTMFG2CABO",
+    "FacilityNumber": 111075,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.37855,
+    "Longitude": -71.56206,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2005": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 146,
+            "us_pounds_pct": 3,
+            "us_score_pct": 4
+        },
+        "2006": {
+            "state_count": 7,
+            "state_pounds_pct": 14,
+            "state_score_pct": 14,
+            "us_count": 143,
+            "us_pounds_pct": 4,
+            "us_score_pct": 4
+        },
+        "2007": {
+            "state_count": 6,
+            "state_pounds_pct": 16,
+            "state_score_pct": 16,
+            "us_count": 135,
+            "us_pounds_pct": 4,
+            "us_score_pct": 5
+        },
+        "naicscode": "334418",
+        "name": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+    },
+    "NAICSCode3Digit": "334",
+    "NAICSCode4Digit": "3344",
+    "NAICSCodeSame3Digit": "334",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "ACT ELECTRONICS INC",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "068750228",
+    "ParentName": "SUN CAPITAL PARTNERS",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "J GRIFFIN",
+    "PublicContactPhone": "5084718375",
+    "RCRANumber": "MAR000015198",
+    "RadialDistance": 3116680,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2005": {
+            "state_count": 14,
+            "state_pounds_pct": 28,
+            "state_score_pct": 14,
+            "us_count": 162,
+            "us_pounds_pct": 6,
+            "us_score_pct": 6
+        },
+        "2006": {
+            "state_count": 10,
+            "state_pounds_pct": 40,
+            "state_score_pct": 20,
+            "us_count": 150,
+            "us_pounds_pct": 6,
+            "us_score_pct": 8
+        },
+        "2007": {
+            "state_count": 8,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 143,
+            "us_pounds_pct": 5,
+            "us_score_pct": 10
+        },
+        "name": "Electronic components, n.e.c.",
+        "siccode": "3679"
+    },
+    "SICCode2Digit": "36",
+    "SICCode3Digit": "367",
+    "SICCodeSame2Digit": "36",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "MA",
+    "Street": "2 CABOT RD",
+    "SubmitLat": 42.375,
+    "SubmitLong": 71.55722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2441,
+    "Y": 2974,
+    "ZIP9": "01749",
+    "ZIPCode": "01749"
+}

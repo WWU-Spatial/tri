@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "GLENS FALLS",
+    "County": "NY,WARREN",
+    "DUNS": "867068504",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 62098.381464,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205328735",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00808,
+                    "Score": 0.006742,
+                    "SubmissionNumber": 670906,
+                    "Use": "M/P/OU"
+                }
+            ],
+            "TotalPounds": 0.00808,
+            "TotalScore": 0.006742,
+            "state_score_percentile": 1,
+            "us_score_percentile": 1
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206904308",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00077,
+                    "Score": 0.00040899999999999997,
+                    "SubmissionNumber": 811592,
+                    "Use": "P"
+                }
+            ],
+            "TotalPounds": 0.00077,
+            "TotalScore": 0.00040899999999999997,
+            "state_score_percentile": 0,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "36113",
+    "FRSID": "110025316762",
+    "FacilityID": "12801CLMNT1ELKL",
+    "FacilityNumber": 116493,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14735,
+    "LatLongSource": "FRS",
+    "LatLongTable": "Provided by TRI Program",
+    "Latitude": 43.29695,
+    "Longitude": -73.64315,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2007": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 33,
+            "us_count": 259,
+            "us_pounds_pct": 15,
+            "us_score_pct": 16
+        },
+        "2008": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 10,
+            "us_count": 296,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "naicscode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3273",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "CLEMENTE LATHAM GLENS FALLS PLANT",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "806709812",
+    "ParentName": "OLDCASTLE MATERIALS INC",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "CHARLES A. STOKES",
+    "PublicContactPhone": "5183742222",
+    "RCRANumber": "NA",
+    "RadialDistance": 3047283,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "2007": {
+            "state_count": 7,
+            "state_pounds_pct": 28,
+            "state_score_pct": 42,
+            "us_count": 266,
+            "us_pounds_pct": 13,
+            "us_score_pct": 15
+        },
+        "2008": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 297,
+            "us_pounds_pct": 1,
+            "us_score_pct": 3
+        },
+        "name": "Ready mixed concrete",
+        "siccode": "3273"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.5182,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 11.5824,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 7.6474,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "NY",
+    "Street": "1 ELK LN",
+    "SubmitLat": "",
+    "SubmitLong": "",
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2208,
+    "Y": 3046,
+    "ZIP9": "12801",
+    "ZIPCode": "12801"
+}

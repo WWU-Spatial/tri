@@ -1,0 +1,150 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "WESTBOROUGH",
+    "County": "MA,WORCESTER",
+    "DUNS": "876516568",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 51850.94968,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1399135046845",
+                    "MaxOnsite": "03",
+                    "Pounds": 250.0,
+                    "Score": 0.007382,
+                    "SubmissionNumber": 2061159,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 250.0,
+            "TotalScore": 0.007382,
+            "state_score_percentile": 19,
+            "us_score_percentile": 16
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "67561",
+                    "Chemical": "Methanol",
+                    "ChemicalNumber": 364,
+                    "DCN": "1300140664842",
+                    "MaxOnsite": "03",
+                    "Pounds": 5.0,
+                    "Score": 0.00015,
+                    "SubmissionNumber": 51150,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5.0,
+            "TotalScore": 0.00015,
+            "state_score_percentile": 10,
+            "us_score_percentile": 4
+        }
+    },
+    "FIPS": "25027",
+    "FRSID": "110000866000",
+    "FacilityID": "01581STRPH50OTI",
+    "FacilityNumber": 110961,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.275094,
+    "Longitude": -71.651734,
+    "Method": "UNKNOWN",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1999": {
+            "state_count": 8,
+            "state_pounds_pct": 37,
+            "state_score_pct": 25,
+            "us_count": 132,
+            "us_pounds_pct": 11,
+            "us_score_pct": 3
+        },
+        "2000": {
+            "state_count": 9,
+            "state_pounds_pct": 22,
+            "state_score_pct": 11,
+            "us_count": 142,
+            "us_pounds_pct": 5,
+            "us_score_pct": 2
+        },
+        "naicscode": "325412",
+        "name": "Pharmaceutical Preparation Manufacturing"
+    },
+    "NAICSCode3Digit": "325",
+    "NAICSCode4Digit": "3254",
+    "NAICSCodeSame3Digit": "325",
+    "NHDRegion": "",
+    "NPDESPermit": "MA0027189",
+    "Name": "ASTRAZENECA L.P.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "NA",
+    "ParentName": "ASTRAZENECA PLC",
+    "PreferredLat": 42.275,
+    "PreferredLong": 71.65222,
+    "PublicContactName": "THOMAS BURNS",
+    "PublicContactPhone": "5083661100",
+    "RCRANumber": "MAD980524300",
+    "RadialDistance": 3103952,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1999": {
+            "state_count": 9,
+            "state_pounds_pct": 33,
+            "state_score_pct": 22,
+            "us_count": 128,
+            "us_pounds_pct": 12,
+            "us_score_pct": 4
+        },
+        "2000": {
+            "state_count": 10,
+            "state_pounds_pct": 20,
+            "state_score_pct": 10,
+            "us_count": 134,
+            "us_pounds_pct": 5,
+            "us_score_pct": 2
+        },
+        "name": "Pharmaceutical preparations",
+        "siccode": "2834"
+    },
+    "SICCode2Digit": "28",
+    "SICCode3Digit": "283",
+    "SICCodeSame2Digit": "28",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5373,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.1409,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 6.3069,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "50 OTIS ST.",
+    "SubmitLat": 42.27806,
+    "SubmitLong": 71.65222,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2436,
+    "Y": 2958,
+    "ZIP9": "015814500",
+    "ZIPCode": "01581"
+}

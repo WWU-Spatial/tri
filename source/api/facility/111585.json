@@ -1,0 +1,336 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "CHARLESTOWN",
+    "County": "MA,SUFFOLK",
+    "DUNS": "001066166",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 2591.326164,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1301150143307",
+                    "MaxOnsite": "02",
+                    "Pounds": 0.043,
+                    "Score": 0.136381,
+                    "SubmissionNumber": 107092,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "7439976",
+                    "Chemical": "Mercury and mercury compounds",
+                    "ChemicalNumber": 359,
+                    "DCN": "1301150143319",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.001,
+                    "Score": 0.002114,
+                    "SubmissionNumber": 107093,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.044,
+            "TotalScore": 0.138495,
+            "state_score_percentile": 3,
+            "us_score_percentile": 1
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1303202770362",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.3,
+                    "Score": 0.958793,
+                    "SubmissionNumber": 378780,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.958793,
+            "state_score_percentile": 12,
+            "us_score_percentile": 3
+        },
+        "2004": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1304202770347",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.3,
+                    "Score": 0.962443,
+                    "SubmissionNumber": 441893,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.962443,
+            "state_score_percentile": 11,
+            "us_score_percentile": 4
+        },
+        "2005": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1305203767862",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.3,
+                    "Score": 0.966093,
+                    "SubmissionNumber": 532860,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.966093,
+            "state_score_percentile": 15,
+            "us_score_percentile": 5
+        },
+        "2006": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1306204867980",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.3,
+                    "Score": 0.969744,
+                    "SubmissionNumber": 632127,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.3,
+            "TotalScore": 0.969744,
+            "state_score_percentile": 12,
+            "us_score_percentile": 5
+        },
+        "2007": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1307205245564",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.24,
+                    "Score": 0.778715,
+                    "SubmissionNumber": 663235,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.24,
+            "TotalScore": 0.778715,
+            "state_score_percentile": 9,
+            "us_score_percentile": 4
+        },
+        "2008": {
+            "Submissions": [
+                {
+                    "CASNumber": "7439921",
+                    "Chemical": "Lead and lead compounds",
+                    "ChemicalNumber": 346,
+                    "DCN": "1308206240297",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.09,
+                    "Score": 0.293113,
+                    "SubmissionNumber": 749604,
+                    "Use": "P/OU"
+                }
+            ],
+            "TotalPounds": 0.09,
+            "TotalScore": 0.293113,
+            "state_score_percentile": 6,
+            "us_score_percentile": 3
+        }
+    },
+    "FIPS": "25025",
+    "FRSID": "110001947476",
+    "FacilityID": "02129NTDST200TE",
+    "FacilityNumber": 111585,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14739,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.381985,
+    "Longitude": -71.057187,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 47,
+            "us_pounds_pct": 6,
+            "us_score_pct": 34
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 43,
+            "us_pounds_pct": 12,
+            "us_score_pct": 72
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 16,
+            "us_score_pct": 68
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 16,
+            "us_score_pct": 69
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 57,
+            "us_pounds_pct": 14,
+            "us_score_pct": 61
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 61,
+            "us_pounds_pct": 11,
+            "us_score_pct": 62
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 71,
+            "us_pounds_pct": 8,
+            "us_score_pct": 54
+        },
+        "naicscode": "327420",
+        "name": "Gypsum Product Manufacturing"
+    },
+    "NAICSCode3Digit": "327",
+    "NAICSCode4Digit": "3274",
+    "NAICSCodeSame3Digit": "327",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "UNITED STATES GYPSUM CO",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "005212600",
+    "ParentName": "USG CORP",
+    "PreferredLat": 42.38333,
+    "PreferredLong": 71.05,
+    "PublicContactName": "KARA UDARBE",
+    "PublicContactPhone": "6175572625",
+    "RCRANumber": "MAD001066166",
+    "RadialDistance": 3150527,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 45,
+            "us_pounds_pct": 6,
+            "us_score_pct": 33
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 42,
+            "us_pounds_pct": 13,
+            "us_score_pct": 71
+        },
+        "2004": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 44,
+            "us_pounds_pct": 14,
+            "us_score_pct": 65
+        },
+        "2005": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 54,
+            "us_pounds_pct": 13,
+            "us_score_pct": 66
+        },
+        "2006": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 10,
+            "us_score_pct": 60
+        },
+        "2007": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 55,
+            "us_pounds_pct": 9,
+            "us_score_pct": 60
+        },
+        "2008": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 51,
+            "us_pounds_pct": 5,
+            "us_score_pct": 52
+        },
+        "name": "Gypsum products",
+        "siccode": "3275"
+    },
+    "SICCode2Digit": "32",
+    "SICCode3Digit": "327",
+    "SICCodeSame2Digit": "32",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.3048,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 18.288,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 4.4951,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "200 TERMINAL ST",
+    "SubmitLat": 42.38167,
+    "SubmitLong": 71.06111,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2491,
+    "Y": 2988,
+    "ZIP9": "02129",
+    "ZIPCode": "02129"
+}

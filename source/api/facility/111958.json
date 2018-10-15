@@ -1,0 +1,218 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "NEW BEDFORD",
+    "County": "MA,BRISTOL",
+    "DUNS": "007139058",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 42742.775405,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1300145196174",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00035,
+                    "Score": 0.0,
+                    "SubmissionNumber": 87299,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1300145196186",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0026,
+                    "Score": 0.444391,
+                    "SubmissionNumber": 87300,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.00295,
+            "TotalScore": 0.444391,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2001": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1301150071658",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.003,
+                    "Score": 0.51381,
+                    "SubmissionNumber": 100688,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1301150071660",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00041,
+                    "Score": 0.0,
+                    "SubmissionNumber": 100689,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.00341,
+            "TotalScore": 0.51381,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        },
+        "2002": {
+            "Submissions": [
+                {
+                    "CASNumber": "N590",
+                    "Chemical": "Polycyclic aromatic compounds",
+                    "ChemicalNumber": 609,
+                    "DCN": "1302200112047",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.0025,
+                    "Score": 0.720771,
+                    "SubmissionNumber": 202068,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "191242",
+                    "Chemical": "Benzo(g,h,i)perylene",
+                    "ChemicalNumber": 610,
+                    "DCN": "1302200112050",
+                    "MaxOnsite": "01",
+                    "Pounds": 0.00031,
+                    "Score": 0.0,
+                    "SubmissionNumber": 202069,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 0.00281,
+            "TotalScore": 0.720771,
+            "state_score_percentile": 1,
+            "us_score_percentile": 0
+        }
+    },
+    "FIPS": "25005",
+    "FRSID": "110002012116",
+    "FacilityID": "02746BCMYB229CO",
+    "FacilityNumber": 111958,
+    "FederalAgencyName": "NA",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14765,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 41.662214,
+    "Longitude": -70.926635,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 7,
+            "us_pounds_pct": 28,
+            "us_score_pct": 57
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 33,
+            "us_score_pct": 50
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 25,
+            "us_score_pct": 50
+        },
+        "naicscode": "311812",
+        "name": "Commercial Bakeries"
+    },
+    "NAICSCode3Digit": "311",
+    "NAICSCode4Digit": "3118",
+    "NAICSCodeSame3Digit": "311",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "IBC MY BREAD BAKING CO. NEW BEDFORD",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "186283768",
+    "ParentName": "INTERSTATE BAKERIES CORP",
+    "PreferredLat": "",
+    "PreferredLong": "",
+    "PublicContactName": "MARK DIRKES",
+    "PublicContactPhone": "8165024203",
+    "RCRANumber": "MAD001023092",
+    "RadialDistance": 3113842,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "2000": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 9,
+            "us_pounds_pct": 22,
+            "us_score_pct": 44
+        },
+        "2001": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 8,
+            "us_pounds_pct": 25,
+            "us_score_pct": 37
+        },
+        "2002": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 6,
+            "us_pounds_pct": 16,
+            "us_score_pct": 50
+        },
+        "name": "Bread and other bakery products, except cookies and crackers",
+        "siccode": "2051"
+    },
+    "SICCode2Digit": "20",
+    "SICCode3Digit": "205",
+    "SICCodeSame2Digit": "20",
+    "SK": "",
+    "STFIPS": "25",
+    "StackDiameter": 0.5752,
+    "StackDiameterSource": "Fac Spec",
+    "StackHeight": 11.6757,
+    "StackHeightSource": "Fac Spec",
+    "StackVelocity": 7.8229,
+    "StackVelocitySource": "Fac Spec",
+    "State": "MA",
+    "Street": "229 COFFIN AVE.",
+    "SubmitLat": 41.66222,
+    "SubmitLong": 70.92528,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": 2529,
+    "Y": 2895,
+    "ZIP9": "027462215",
+    "ZIPCode": "02746"
+}

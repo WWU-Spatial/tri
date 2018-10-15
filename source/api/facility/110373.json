@@ -1,0 +1,207 @@
+{
+    "AssignedComID": 26349682,
+    "AssignedReach": "21010002001006",
+    "City": "QUEBRADILLAS",
+    "County": "PR,QUEBRADILLAS",
+    "DUNS": "131435588",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 98966.520784,
+    "DistanceToReach": "",
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "127184",
+                    "Chemical": "Tetrachloroethylene (Perchloroethylene)",
+                    "ChemicalNumber": 531,
+                    "DCN": "1396100188919",
+                    "MaxOnsite": "03",
+                    "Pounds": 21.0,
+                    "Score": 33.40439,
+                    "SubmissionNumber": 1764548,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1396100188921",
+                    "MaxOnsite": "03",
+                    "Pounds": 5889.0,
+                    "Score": 0.327314,
+                    "SubmissionNumber": 1764549,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "123911",
+                    "Chemical": "Dioxane",
+                    "ChemicalNumber": 273,
+                    "DCN": "1396100188933",
+                    "MaxOnsite": "01",
+                    "Pounds": 150.0,
+                    "Score": 329.4647,
+                    "SubmissionNumber": 1764550,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 6060.0,
+            "TotalScore": 363.196404,
+            "state_score_percentile": 58,
+            "us_score_percentile": 45
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1397110289168",
+                    "MaxOnsite": "03",
+                    "Pounds": 5211.0,
+                    "Score": 0.226028,
+                    "SubmissionNumber": 1849208,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 5211.0,
+            "TotalScore": 0.226028,
+            "state_score_percentile": 55,
+            "us_score_percentile": 43
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "71556",
+                    "Chemical": "1,1,1-Trichloroethane",
+                    "ChemicalNumber": 565,
+                    "DCN": "1398120600111",
+                    "MaxOnsite": "03",
+                    "Pounds": 4950.0,
+                    "Score": 0.218058,
+                    "SubmissionNumber": 1946487,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 4950.0,
+            "TotalScore": 0.218058,
+            "state_score_percentile": 51,
+            "us_score_percentile": 43
+        }
+    },
+    "FIPS": "72115",
+    "FRSID": "110000580826",
+    "FacilityID": "00742GLMRTSTATE",
+    "FacilityNumber": 110373,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 44,
+    "HEM3ID": 11641,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 18.473,
+    "Longitude": -66.937956,
+    "Method": "ZIP CODE-CENTROID",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 2,
+            "state_pounds_pct": 50,
+            "state_score_pct": 100,
+            "us_count": 29,
+            "us_pounds_pct": 37,
+            "us_score_pct": 82
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 28,
+            "us_pounds_pct": 32,
+            "us_score_pct": 21
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 26,
+            "us_pounds_pct": 26,
+            "us_score_pct": 26
+        },
+        "naicscode": "313312",
+        "name": "Textile and Fabric Finishing (except Broadwoven Fabric) Mills"
+    },
+    "NAICSCode3Digit": "313",
+    "NAICSCode4Digit": "3133",
+    "NAICSCodeSame3Digit": "313",
+    "NHDRegion": "",
+    "NPDESPermit": "NA",
+    "Name": "GLAMOURETTE FASHION MILLS INC.",
+    "NearComID": "",
+    "NearReach": "",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "085573806",
+    "ParentName": "HAMPSHIRE DESIGNERS INC",
+    "PreferredLat": 18.475,
+    "PreferredLong": 66.93833,
+    "PublicContactName": "AURELIO D'ANGLADA",
+    "PublicContactPhone": "7878952250",
+    "RCRANumber": "PRN008003345",
+    "RadialDistance": 89637,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 5,
+            "us_pounds_pct": 80,
+            "us_score_pct": 100
+        },
+        "1997": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 4,
+            "us_pounds_pct": 75,
+            "us_score_pct": 50
+        },
+        "1998": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 2,
+            "us_pounds_pct": 50,
+            "us_score_pct": 100
+        },
+        "name": "Knit outerwear mills",
+        "siccode": "2253"
+    },
+    "SICCode2Digit": "22",
+    "SICCode3Digit": "225",
+    "SICCodeSame2Digit": "22",
+    "SK": "",
+    "STFIPS": "72",
+    "StackDiameter": 0.762,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 12.0396,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 0.1803,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "PR",
+    "Street": "STATE RD. 113 KM. 10.9",
+    "SubmitLat": 18.46944,
+    "SubmitLong": 67.93722,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": "",
+    "X": -90,
+    "Y": 65,
+    "ZIP9": "006781547",
+    "ZIPCode": "00678"
+}

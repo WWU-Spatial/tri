@@ -1,0 +1,190 @@
+{
+    "AssignedComID": "",
+    "AssignedReach": "",
+    "City": "KITTERY",
+    "County": "ME,YORK",
+    "DUNS": "004175550",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 67228.092365,
+    "DistanceToReach": 669.027477,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "108883",
+                    "Chemical": "Toluene",
+                    "ChemicalNumber": 549,
+                    "DCN": "1396100050677",
+                    "MaxOnsite": "03",
+                    "Pounds": 8312.0,
+                    "Score": 0.092278,
+                    "SubmissionNumber": 1752494,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 8312.0,
+            "TotalScore": 0.092278,
+            "state_score_percentile": 39,
+            "us_score_percentile": 48
+        },
+        "2003": {
+            "Submissions": [
+                {
+                    "CASNumber": "7440508",
+                    "Chemical": "Copper and copper compounds",
+                    "ChemicalNumber": 156,
+                    "DCN": "1303201984123",
+                    "MaxOnsite": "03",
+                    "Pounds": 750.0,
+                    "Score": 31.6559,
+                    "SubmissionNumber": 370164,
+                    "Use": ""
+                }
+            ],
+            "TotalPounds": 750.0,
+            "TotalScore": 31.6559,
+            "state_score_percentile": 44,
+            "us_score_percentile": 38
+        }
+    },
+    "FIPS": "23031",
+    "FRSID": "110000763077",
+    "FacilityID": "03904WTTSFCUTTS",
+    "FacilityNumber": 112780,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14764,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 43.12148,
+    "Longitude": -70.722159,
+    "Method": "ADDRESS MATCHING-HOUSE NUMBER",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 73,
+            "us_score_pct": 13
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 15,
+            "us_pounds_pct": 93,
+            "us_score_pct": 53
+        },
+        "naicscode": "332912",
+        "name": "Fluid Power Valve and Hose Fitting Manufacturing"
+    },
+    "NAICS2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 24,
+            "us_pounds_pct": 50,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 16,
+            "us_pounds_pct": 43,
+            "us_score_pct": 43
+        },
+        "naicscode": "333512",
+        "name": "Machine Tool (Metal Cutting Types) Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3329",
+    "NAICSCodeSame3Digit": "MUL",
+    "NHDRegion": 1,
+    "NPDESPermit": "NA",
+    "Name": "PARKER HANNIFIN CORP PNEUMATIC DIV KITTERY MAINE",
+    "NearComID": 5845108,
+    "NearReach": "01060003001336",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "004175550",
+    "ParentName": "PARKER HANNIFIN CORP",
+    "PreferredLat": 43.12056,
+    "PreferredLong": 70.725,
+    "PublicContactName": "TODD LELAND",
+    "PublicContactPhone": "2074754073",
+    "RCRANumber": "MED093624526",
+    "RadialDistance": 3220721,
+    "ReachSource": "",
+    "Region": "1",
+    "SIC1": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 17,
+            "us_pounds_pct": 64,
+            "us_score_pct": 11
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 14,
+            "us_pounds_pct": 92,
+            "us_score_pct": 64
+        },
+        "name": "Fluid power valves and hose fittings",
+        "siccode": "3492"
+    },
+    "SIC2": {
+        "1996": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 30,
+            "us_pounds_pct": 66,
+            "us_score_pct": 20
+        },
+        "2003": {
+            "state_count": 1,
+            "state_pounds_pct": 100,
+            "state_score_pct": 100,
+            "us_count": 20,
+            "us_pounds_pct": 70,
+            "us_score_pct": 40
+        },
+        "name": "Machine tools, metal cutting types",
+        "siccode": "3541"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "349",
+    "SICCodeSame2Digit": "MO",
+    "SK": "",
+    "STFIPS": "23",
+    "StackDiameter": 0.6096,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.144,
+    "StackHeightSource": "SIC 3dig",
+    "StackVelocity": 8.6258,
+    "StackVelocitySource": "SIC 3dig",
+    "State": "ME",
+    "Street": "9 CUTTS RD",
+    "SubmitLat": 43.12056,
+    "SubmitLong": 70.72306,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 2496,
+    "Y": 3095,
+    "ZIP9": "03904",
+    "ZIPCode": "03904"
+}

@@ -1,0 +1,299 @@
+{
+    "AssignedComID": 15445117,
+    "AssignedReach": "05010002000080",
+    "City": "JAMESTOWN",
+    "County": "NY,CHAUTAUQUA",
+    "DUNS": "006015580",
+    "DataSource": "",
+    "DerivedSICCode": 0,
+    "DistanceToHEM3": 78938.876234,
+    "DistanceToReach": 5.38005,
+    "DistanceToStream": "",
+    "DistanceToWBAN": "",
+    "Emissions": {
+        "1996": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1396100029329",
+                    "MaxOnsite": "03",
+                    "Pounds": 389.0,
+                    "Score": 9.083809,
+                    "SubmissionNumber": 1750664,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1396100029331",
+                    "MaxOnsite": "03",
+                    "Pounds": 281.0,
+                    "Score": 107.13477,
+                    "SubmissionNumber": 1750665,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 670.0,
+            "TotalScore": 116.218579,
+            "state_score_percentile": 31,
+            "us_score_percentile": 25
+        },
+        "1997": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1397110078286",
+                    "MaxOnsite": "03",
+                    "Pounds": 427.0,
+                    "Score": 9.839702,
+                    "SubmissionNumber": 1830767,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1397110078298",
+                    "MaxOnsite": "03",
+                    "Pounds": 272.0,
+                    "Score": 102.42493999999999,
+                    "SubmissionNumber": 1830768,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 699.0,
+            "TotalScore": 112.264642,
+            "state_score_percentile": 31,
+            "us_score_percentile": 24
+        },
+        "1998": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1398120150836",
+                    "MaxOnsite": "03",
+                    "Pounds": 405.0,
+                    "Score": 9.216375999999999,
+                    "SubmissionNumber": 1912039,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1398120150848",
+                    "MaxOnsite": "03",
+                    "Pounds": 316.0,
+                    "Score": 117.3207,
+                    "SubmissionNumber": 1912040,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 721.0,
+            "TotalScore": 126.537076,
+            "state_score_percentile": 29,
+            "us_score_percentile": 24
+        },
+        "1999": {
+            "Submissions": [
+                {
+                    "CASNumber": "7697372",
+                    "Chemical": "Nitric acid",
+                    "ChemicalNumber": 410,
+                    "DCN": "1399130167291",
+                    "MaxOnsite": "03",
+                    "Pounds": 405.0,
+                    "Score": 9.09706,
+                    "SubmissionNumber": 2004531,
+                    "Use": "OU"
+                },
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1399130167303",
+                    "MaxOnsite": "03",
+                    "Pounds": 331.0,
+                    "Score": 121.25517,
+                    "SubmissionNumber": 2004532,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 736.0,
+            "TotalScore": 130.35223000000002,
+            "state_score_percentile": 31,
+            "us_score_percentile": 26
+        },
+        "2000": {
+            "Submissions": [
+                {
+                    "CASNumber": "N106",
+                    "Chemical": "Cyanide compounds",
+                    "ChemicalNumber": 169,
+                    "DCN": "1300140086099",
+                    "MaxOnsite": "03",
+                    "Pounds": 274.0,
+                    "Score": 99.21294,
+                    "SubmissionNumber": 7642,
+                    "Use": "OU"
+                }
+            ],
+            "TotalPounds": 274.0,
+            "TotalScore": 99.21294,
+            "state_score_percentile": 27,
+            "us_score_percentile": 22
+        }
+    },
+    "FIPS": "36013",
+    "FRSID": "110000328244",
+    "FacilityID": "14701WBRKN441CH",
+    "FacilityNumber": 117492,
+    "FederalAgencyName": "",
+    "FederalFacilityFlag": "C",
+    "GridCode": 14,
+    "HEM3ID": 14860,
+    "LatLongSource": "LRT",
+    "LatLongTable": "EPA Geodata",
+    "Latitude": 42.099194,
+    "Longitude": -79.225944,
+    "Method": "INTERPOLATION-MAP",
+    "MultiplePrimaryNAICS": "F",
+    "MultiplePrimarySIC": 0,
+    "NAICS1": {
+        "1996": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 49,
+            "us_pounds_pct": 34,
+            "us_score_pct": 40
+        },
+        "1997": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 45,
+            "us_pounds_pct": 37,
+            "us_score_pct": 37
+        },
+        "1998": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 46,
+            "us_pounds_pct": 36,
+            "us_score_pct": 45
+        },
+        "1999": {
+            "state_count": 4,
+            "state_pounds_pct": 50,
+            "state_score_pct": 25,
+            "us_count": 43,
+            "us_pounds_pct": 37,
+            "us_score_pct": 46
+        },
+        "2000": {
+            "state_count": 4,
+            "state_pounds_pct": 25,
+            "state_score_pct": 25,
+            "us_count": 44,
+            "us_pounds_pct": 31,
+            "us_score_pct": 40
+        },
+        "naicscode": "332510",
+        "name": "Hardware Manufacturing"
+    },
+    "NAICSCode3Digit": "332",
+    "NAICSCode4Digit": "3325",
+    "NAICSCodeSame3Digit": "332",
+    "NHDRegion": 5,
+    "NPDESPermit": "NY0003387",
+    "Name": "WEBER KNAPP CO.",
+    "NearComID": 15445117,
+    "NearReach": "05010002000080",
+    "NearStream": "",
+    "OnTribalLand": "",
+    "ParentDUNS": "001456953",
+    "ParentName": "FKI INDS INC",
+    "PreferredLat": 42.1,
+    "PreferredLong": 79.225,
+    "PublicContactName": "STEIN J. HJEMDAHL-MONSEN",
+    "PublicContactPhone": "7164849135",
+    "RCRANumber": "NYD006015580",
+    "RadialDistance": 2628993,
+    "ReachSource": "",
+    "Region": "2",
+    "SIC1": {
+        "1996": {
+            "state_count": 6,
+            "state_pounds_pct": 66,
+            "state_score_pct": 50,
+            "us_count": 57,
+            "us_pounds_pct": 35,
+            "us_score_pct": 42
+        },
+        "1997": {
+            "state_count": 5,
+            "state_pounds_pct": 60,
+            "state_score_pct": 40,
+            "us_count": 52,
+            "us_pounds_pct": 38,
+            "us_score_pct": 40
+        },
+        "1998": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 51,
+            "us_pounds_pct": 43,
+            "us_score_pct": 41
+        },
+        "1999": {
+            "state_count": 5,
+            "state_pounds_pct": 40,
+            "state_score_pct": 40,
+            "us_count": 50,
+            "us_pounds_pct": 44,
+            "us_score_pct": 44
+        },
+        "2000": {
+            "state_count": 5,
+            "state_pounds_pct": 20,
+            "state_score_pct": 40,
+            "us_count": 52,
+            "us_pounds_pct": 32,
+            "us_score_pct": 38
+        },
+        "name": "Hardware, n.e.c.",
+        "siccode": "3429"
+    },
+    "SICCode2Digit": "34",
+    "SICCode3Digit": "342",
+    "SICCodeSame2Digit": "34",
+    "SK": "",
+    "STFIPS": "36",
+    "StackDiameter": 0.4572,
+    "StackDiameterSource": "SIC 3dig",
+    "StackHeight": 9.906,
+    "StackHeightSource": "New York",
+    "StackVelocity": 2.0,
+    "StackVelocitySource": "New York",
+    "State": "NY",
+    "Street": "441 CHANDLER ST.",
+    "SubmitLat": 42.1,
+    "SubmitLong": 79.225,
+    "TribalLandName": "",
+    "WBANID": "",
+    "WaterReleases": 1,
+    "X": 1692,
+    "Y": 2770,
+    "ZIP9": "147020518",
+    "ZIPCode": "14702"
+}
